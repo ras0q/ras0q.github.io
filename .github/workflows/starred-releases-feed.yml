@@ -16,13 +16,13 @@ jobs:
   feed:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
           ref: gh-pages
           path: pages
 
       - name: Update feed
-        uses: ras0q/starred-releases-feed@fb35be1
+        uses: ras0q/starred-releases-feed@main
         with:
           token: ${{ secrets.GH_PAT }}
           state-path: pages/state.json
