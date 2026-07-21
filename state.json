@@ -2,107 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-11",
-      "2026-07-12",
-      "2026-07-13",
       "2026-07-14",
       "2026-07-15",
       "2026-07-16",
-      "2026-07-17"
+      "2026-07-17",
+      "2026-07-18",
+      "2026-07-19",
+      "2026-07-20"
     ],
     "days": {
-      "2026-07-13": [
-        {
-          "id": "RE_kwDOAEFNgs4VEdjN",
-          "owner": "fish-shell",
-          "repo": "fish-shell",
-          "tag": "4.8.1",
-          "url": "https://github.com/fish-shell/fish-shell/releases/tag/4.8.1",
-          "publishedAt": "2026-07-13T23:48:39Z",
-          "name": "fish 4.8.1"
-        },
-        {
-          "id": "RE_kwDOGNEXps4VEc0j",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "0.25.81",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/0.25.81",
-          "publishedAt": "2026-07-13T23:21:20Z",
-          "name": "0.25.81"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VES_X",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.95",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.95",
-          "publishedAt": "2026-07-13T21:37:37Z",
-          "name": "v8.4.95 - Fix restricted loading of training checkpoints (#25154)"
-        },
-        {
-          "id": "RE_kwDOBLNzts4VEP48",
-          "owner": "heroiclabs",
-          "repo": "nakama",
-          "tag": "v3.40.0",
-          "url": "https://github.com/heroiclabs/nakama/releases/tag/v3.40.0",
-          "publishedAt": "2026-07-13T21:12:38Z",
-          "name": "v3.40.0"
-        },
-        {
-          "id": "RE_kwDOHrOdo84VEKdM",
-          "owner": "runmedev",
-          "repo": "runme",
-          "tag": "v3.17.2",
-          "url": "https://github.com/runmedev/runme/releases/tag/v3.17.2",
-          "publishedAt": "2026-07-13T20:25:40Z",
-          "name": "v3.17.2"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VDj2h",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.94",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.94",
-          "publishedAt": "2026-07-13T15:27:49Z",
-          "name": "v8.4.94 - Remove TorchScript mobile optimization (#25140)"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VDjFf",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.27.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.27.0",
-          "publishedAt": "2026-07-13T15:22:14Z",
-          "name": "v29.27.0"
-        },
-        {
-          "id": "RE_kwDOPBkMZs4VDKpT",
-          "owner": "charmbracelet",
-          "repo": "catwalk",
-          "tag": "v0.49.22",
-          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.49.22",
-          "publishedAt": "2026-07-13T12:51:17Z",
-          "name": "v0.49.22"
-        },
-        {
-          "id": "RE_kwDOPBkMZs4VDJE6",
-          "owner": "charmbracelet",
-          "repo": "catwalk",
-          "tag": "v0.49.21",
-          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.49.21",
-          "publishedAt": "2026-07-13T12:39:31Z",
-          "name": "v0.49.21"
-        },
-        {
-          "id": "RE_kwDOA4rpZM4VCHfm",
-          "owner": "outline",
-          "repo": "outline",
-          "tag": "v1.9.1",
-          "url": "https://github.com/outline/outline/releases/tag/v1.9.1",
-          "publishedAt": "2026-07-13T00:18:15Z",
-          "name": "v1.9.1"
-        }
-      ],
       "2026-07-14": [
         {
           "id": "RE_kwDODH8YWs4VG1V-",
@@ -274,271 +182,6 @@
           "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.2",
           "publishedAt": "2026-07-14T00:52:32Z",
           "name": "v0.15.2"
-        }
-      ],
-      "2026-07-12": [
-        {
-          "id": "RE_kwDOCh0R8c4VCEXp",
-          "owner": "vlang",
-          "repo": "v",
-          "tag": "0.5.2",
-          "url": "https://github.com/vlang/v/releases/tag/0.5.2",
-          "publishedAt": "2026-07-12T22:56:06Z",
-          "name": "0.5.2"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VCDZ6",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.93",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.93",
-          "publishedAt": "2026-07-12T22:32:33Z",
-          "name": "v8.4.93 - Enable dynamic shapes and NMS for Alibaba MNN export (#22348)"
-        },
-        {
-          "id": "RE_kwDODH8YWs4VCA4j",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.07.11",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.07.11",
-          "publishedAt": "2026-07-12T21:33:49Z",
-          "name": "v2026.07.11"
-        },
-        {
-          "id": "RE_kwDORJmIws4VB9-g",
-          "owner": "mitchellh",
-          "repo": "vouch",
-          "tag": "v1.5.0",
-          "url": "https://github.com/mitchellh/vouch/releases/tag/v1.5.0",
-          "publishedAt": "2026-07-12T20:29:27Z",
-          "name": "v1.5.0"
-        },
-        {
-          "id": "RE_kwDOAeC4a84VB8vd",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v5.3.0",
-          "url": "https://github.com/labstack/echo/releases/tag/v5.3.0",
-          "publishedAt": "2026-07-12T19:58:40Z",
-          "name": "v5.3.0"
-        },
-        {
-          "id": "RE_kwDODH8YWs4VB38U",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.07.10",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.07.10",
-          "publishedAt": "2026-07-12T18:22:10Z",
-          "name": "v2026.07.10"
-        },
-        {
-          "id": "RE_kwDOFJ5a6s4VByqv",
-          "owner": "Milkdown",
-          "repo": "milkdown",
-          "tag": "v7.21.3",
-          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.21.3",
-          "publishedAt": "2026-07-12T16:15:09Z",
-          "name": "v7.21.3"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4VBxe3",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.7.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.7.0",
-          "publishedAt": "2026-07-12T15:50:42Z",
-          "name": "v1.7.0"
-        },
-        {
-          "id": "RE_kwDOPyZEpc4VBpqz",
-          "owner": "microsoft",
-          "repo": "apm",
-          "tag": "v0.25.0",
-          "url": "https://github.com/microsoft/apm/releases/tag/v0.25.0",
-          "publishedAt": "2026-07-12T13:07:22Z",
-          "name": "v0.25.0"
-        },
-        {
-          "id": "RE_kwDOSP9SeM4VBo_1",
-          "owner": "abap34",
-          "repo": "ss",
-          "tag": "v0.7.1-patch.1",
-          "url": "https://github.com/abap34/ss/releases/tag/v0.7.1-patch.1",
-          "publishedAt": "2026-07-12T12:54:15Z",
-          "name": "ss v0.7.1-patch.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VBk67",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.291.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.291.0",
-          "publishedAt": "2026-07-12T11:24:56Z",
-          "name": "v0.291.0"
-        },
-        {
-          "id": "RE_kwDOF9Sih84VBSFh",
-          "owner": "aquaproj",
-          "repo": "aqua",
-          "tag": "v2.61.0",
-          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.61.0",
-          "publishedAt": "2026-07-12T02:57:01Z",
-          "name": "v2.61.0"
-        }
-      ],
-      "2026-07-11": [
-        {
-          "id": "RE_kwDOOJyWhM4VBJ7I",
-          "owner": "amatya-aditya",
-          "repo": "obsidian-rss-dashboard",
-          "tag": "2.5.0",
-          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/releases/tag/2.5.0",
-          "publishedAt": "2026-07-11T23:17:35Z",
-          "name": "2.5.0"
-        },
-        {
-          "id": "RE_kwDOHojuL84VBGk_",
-          "owner": "dsherret",
-          "repo": "dax",
-          "tag": "0.49.0",
-          "url": "https://github.com/dsherret/dax/releases/tag/0.49.0",
-          "publishedAt": "2026-07-11T21:25:38Z",
-          "name": "0.49.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VBBcZ",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.26.1",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.26.1",
-          "publishedAt": "2026-07-11T19:23:06Z",
-          "name": "v29.26.1"
-        },
-        {
-          "id": "RE_kwDOKMzyM84VBAsn",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.19.2",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.19.2",
-          "publishedAt": "2026-07-11T19:04:47Z",
-          "name": "0.19.2"
-        },
-        {
-          "id": "RE_kwDOE7TOLM4VA8eo",
-          "owner": "evrone",
-          "repo": "go-clean-template",
-          "tag": "v1.17.0",
-          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.17.0",
-          "publishedAt": "2026-07-11T17:24:34Z",
-          "name": "v1.17.0"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4VAysG",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.84.1",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.84.1",
-          "publishedAt": "2026-07-11T14:13:42Z",
-          "name": "v0.84.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VAvjy",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.26.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.26.0",
-          "publishedAt": "2026-07-11T13:06:05Z",
-          "name": "v29.26.0"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAuxB",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-manifests-v0.19.3",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.3",
-          "publishedAt": "2026-07-11T12:46:24Z",
-          "name": "binstalk-manifests-v0.19.3"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAuwx",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-v0.28.78",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.28.78",
-          "publishedAt": "2026-07-11T12:46:15Z",
-          "name": "binstalk-v0.28.78"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAuuW",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "detect-targets-v0.1.88",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.88",
-          "publishedAt": "2026-07-11T12:45:23Z",
-          "name": "detect-targets-v0.1.88"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAuuF",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-registry-v0.12.5",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.5",
-          "publishedAt": "2026-07-11T12:45:17Z",
-          "name": "binstalk-registry-v0.12.5"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAutv",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "cargo-toml-workspace-v7.0.10",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/cargo-toml-workspace-v7.0.10",
-          "publishedAt": "2026-07-11T12:45:10Z",
-          "name": "cargo-toml-workspace-v7.0.10"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAutL",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-fetchers-v0.10.45",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.45",
-          "publishedAt": "2026-07-11T12:44:58Z",
-          "name": "binstalk-fetchers-v0.10.45"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAus3",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-git-repo-api-v0.5.45",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.45",
-          "publishedAt": "2026-07-11T12:44:50Z",
-          "name": "binstalk-git-repo-api-v0.5.45"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4VAusZ",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-downloader-v0.13.43",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.13.43",
-          "publishedAt": "2026-07-11T12:44:40Z",
-          "name": "binstalk-downloader-v0.13.43"
-        },
-        {
-          "id": "RE_kwDOPDzQl84VAlta",
-          "owner": "yoshiko-pg",
-          "repo": "difit",
-          "tag": "v5.0.8",
-          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.8",
-          "publishedAt": "2026-07-11T09:18:04Z",
-          "name": "v5.0.8"
-        },
-        {
-          "id": "RE_kwDOE7TOLM4VAQpj",
-          "owner": "evrone",
-          "repo": "go-clean-template",
-          "tag": "v1.16.4",
-          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.16.4",
-          "publishedAt": "2026-07-11T00:56:02Z",
-          "name": "v1.16.4"
         }
       ],
       "2026-07-17": [
@@ -1032,828 +675,1194 @@
           "publishedAt": "2026-07-15T04:41:55Z",
           "name": "v29.29.0"
         }
+      ],
+      "2026-07-21": [
+        {
+          "id": "RE_kwDOH-jzvc4VSJw_",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.103",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.103",
+          "publishedAt": "2026-07-21T02:18:15Z",
+          "name": "v8.4.103 - Prevent training from ending during warmup (#25321)"
+        },
+        {
+          "id": "RE_kwDOA4rpZM4VSHEy",
+          "owner": "outline",
+          "repo": "outline",
+          "tag": "v1.9.2",
+          "url": "https://github.com/outline/outline/releases/tag/v1.9.2",
+          "publishedAt": "2026-07-21T01:34:44Z",
+          "name": "v1.9.2"
+        }
+      ],
+      "2026-07-18": [
+        {
+          "id": "RE_kwDOE7TOLM4VO0_A",
+          "owner": "evrone",
+          "repo": "go-clean-template",
+          "tag": "v1.17.1",
+          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.17.1",
+          "publishedAt": "2026-07-18T22:38:23Z",
+          "name": "v1.17.1"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4VOzYi",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.26.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.26.0",
+          "publishedAt": "2026-07-18T21:57:33Z",
+          "name": "v0.26.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4VOwEd",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.1",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.1",
+          "publishedAt": "2026-07-18T20:34:51Z",
+          "name": "cli-v0.1.1"
+        },
+        {
+          "id": "RE_kwDOQzKeuM4VOtUb",
+          "owner": "tfcace",
+          "repo": "hash",
+          "tag": "v0.7.1",
+          "url": "https://github.com/tfcace/hash/releases/tag/v0.7.1",
+          "publishedAt": "2026-07-18T19:27:52Z",
+          "name": "v0.7.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VOscc",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v29.33.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.33.0",
+          "publishedAt": "2026-07-18T19:06:46Z",
+          "name": "v29.33.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4VOmJV",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.101",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.101",
+          "publishedAt": "2026-07-18T16:48:20Z",
+          "name": "v8.4.101 - Add Hailo pose, OBB, and classification export and inference for YOLOv8 and YOLO11 (#25276)"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4VOk3G",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.0.1-rc4",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc4",
+          "publishedAt": "2026-07-18T16:21:57Z",
+          "name": "v0.0.1-rc4"
+        },
+        {
+          "id": "RE_kwDOCk1n-s4VOjHz",
+          "owner": "eure",
+          "repo": "swift-storybook",
+          "tag": "3.1.0",
+          "url": "https://github.com/eure/swift-storybook/releases/tag/3.1.0",
+          "publishedAt": "2026-07-18T15:47:08Z",
+          "name": "3.1.0 - Agentic UI Building"
+        },
+        {
+          "id": "RE_kwDOI2v4zc4VOiqW",
+          "owner": "pionxzh",
+          "repo": "wakaru",
+          "tag": "v1.8.0",
+          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.8.0",
+          "publishedAt": "2026-07-18T15:38:18Z",
+          "name": "v1.8.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4VOLsx",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.2",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.2",
+          "publishedAt": "2026-07-18T06:49:52Z",
+          "name": "v1.2.2"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4VOKI0",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.0.1-rc3",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc3",
+          "publishedAt": "2026-07-18T06:07:54Z",
+          "name": "v0.0.1-rc3"
+        },
+        {
+          "id": "RE_kwDOBlwsqc4VOGDF",
+          "owner": "air-verse",
+          "repo": "air",
+          "tag": "v1.66.0",
+          "url": "https://github.com/air-verse/air/releases/tag/v1.66.0",
+          "publishedAt": "2026-07-18T04:24:08Z",
+          "name": "v1.66.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4VOB3M",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.100",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.100",
+          "publishedAt": "2026-07-18T02:35:28Z",
+          "name": "v8.4.100 - Add Hailo segmentation export and inference for YOLOv8 and YOLO11 (#25259)"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4VN_ea",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.0.1-rc2",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc2",
+          "publishedAt": "2026-07-18T01:43:38Z",
+          "name": "v0.0.1-rc2"
+        }
+      ],
+      "2026-07-20": [
+        {
+          "id": "RE_kwDOIvux3s4VR4r0",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.7.11",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.11",
+          "publishedAt": "2026-07-20T21:49:48Z",
+          "name": "v2026.7.11: Task Source Tracking and Activation Speedups"
+        },
+        {
+          "id": "RE_kwDOII1H084VR2S7",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.4.11",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.4.11",
+          "publishedAt": "2026-07-20T21:21:54Z",
+          "name": "v0.4.11"
+        },
+        {
+          "id": "RE_kwDONvYw484VRzax",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nuxt@0.0.7",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%400.0.7",
+          "publishedAt": "2026-07-20T20:54:07Z",
+          "name": "@arkenv/nuxt@0.0.7"
+        },
+        {
+          "id": "RE_kwDONvYw484VRzag",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/cli@0.5.1",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.5.1",
+          "publishedAt": "2026-07-20T20:54:04Z",
+          "name": "@arkenv/cli@0.5.1"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4VRyyr",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.11.30",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.11.30",
+          "publishedAt": "2026-07-20T20:48:06Z",
+          "name": "0.11.30"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4VRujd",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.86.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.86.0",
+          "publishedAt": "2026-07-20T20:08:59Z",
+          "name": "v0.86.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4VRrV0",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.19.1",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.19.1",
+          "publishedAt": "2026-07-20T19:39:16Z",
+          "name": "Schema v1.19.1"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4VRrVr",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.5.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.5.0",
+          "publishedAt": "2026-07-20T19:39:15Z",
+          "name": "Rust Crate v1.5.0"
+        },
+        {
+          "id": "RE_kwDOPBkMZs4VRcpW",
+          "owner": "charmbracelet",
+          "repo": "catwalk",
+          "tag": "v0.50.1",
+          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.50.1",
+          "publishedAt": "2026-07-20T17:33:03Z",
+          "name": "v0.50.1"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4VRRIH",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.113.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.113.0",
+          "publishedAt": "2026-07-20T16:16:23Z",
+          "name": "v1.113.0"
+        },
+        {
+          "id": "RE_kwDOBlwsqc4VQ7Rr",
+          "owner": "air-verse",
+          "repo": "air",
+          "tag": "v1.67.1",
+          "url": "https://github.com/air-verse/air/releases/tag/v1.67.1",
+          "publishedAt": "2026-07-20T13:56:37Z",
+          "name": "v1.67.1"
+        },
+        {
+          "id": "RE_kwDOLTetx84VQwFw",
+          "owner": "eythaann",
+          "repo": "Seelen-UI",
+          "tag": "v2.8.0",
+          "url": "https://github.com/eythaann/Seelen-UI/releases/tag/v2.8.0",
+          "publishedAt": "2026-07-20T13:39:08Z",
+          "name": "Seelen UI v2.8.0"
+        },
+        {
+          "id": "RE_kwDOHWkejc4VQ2c9",
+          "owner": "samber",
+          "repo": "do",
+          "tag": "v2.1.0",
+          "url": "https://github.com/samber/do/releases/tag/v2.1.0",
+          "publishedAt": "2026-07-20T13:25:06Z",
+          "name": "v2.1.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4VQusu",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.112.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.112.0",
+          "publishedAt": "2026-07-20T12:26:53Z",
+          "name": "v1.112.0"
+        },
+        {
+          "id": "RE_kwDOPBkMZs4VQr71",
+          "owner": "charmbracelet",
+          "repo": "catwalk",
+          "tag": "v0.50.0",
+          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.50.0",
+          "publishedAt": "2026-07-20T12:07:02Z",
+          "name": "v0.50.0"
+        },
+        {
+          "id": "RE_kwDOBlwsqc4VQqec",
+          "owner": "air-verse",
+          "repo": "air",
+          "tag": "v1.67.0",
+          "url": "https://github.com/air-verse/air/releases/tag/v1.67.0",
+          "publishedAt": "2026-07-20T11:54:46Z",
+          "name": "v1.67.0"
+        },
+        {
+          "id": "RE_kwDOBlwsqc4VQjCG",
+          "owner": "air-verse",
+          "repo": "air",
+          "tag": "v1.66.1",
+          "url": "https://github.com/air-verse/air/releases/tag/v1.66.1",
+          "publishedAt": "2026-07-20T11:06:41Z",
+          "name": "v1.66.1"
+        },
+        {
+          "id": "RE_kwDOAZfQX84VQQHz",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.35.1",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.35.1",
+          "publishedAt": "2026-07-20T08:31:38Z",
+          "name": "v0.35.1"
+        },
+        {
+          "id": "RE_kwDOOC1fY84VQPu3",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "4.0.0",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/4.0.0",
+          "publishedAt": "2026-07-20T08:27:41Z",
+          "name": "4.0.0"
+        }
+      ],
+      "2026-07-19": [
+        {
+          "id": "RE_kwDOLFvGAc4VPlsj",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.2",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.2",
+          "publishedAt": "2026-07-19T18:39:33Z",
+          "name": "cli-v0.1.2"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4VPYNi",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.39.8",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.39.8",
+          "publishedAt": "2026-07-19T14:02:01Z",
+          "name": "v0.39.8 Release"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4VPXch",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.22.49",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.49",
+          "publishedAt": "2026-07-19T14:01:25Z",
+          "name": "v0.22.49 Release"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4VPUY-",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.102",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.102",
+          "publishedAt": "2026-07-19T12:40:11Z",
+          "name": "v8.4.102 - 8x faster MuSGD optimizer step with batched Newton-Schulz (#25288)"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4VPQEk",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.4",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.4",
+          "publishedAt": "2026-07-19T11:04:02Z",
+          "name": "v1.2.4"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4VPGnG",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.9.1",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.1",
+          "publishedAt": "2026-07-19T07:22:49Z",
+          "name": "v2.9.1"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4VO8-r",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.0.1-rc5",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc5",
+          "publishedAt": "2026-07-19T02:36:32Z",
+          "name": "v0.0.1-rc5"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4VO4kI",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.3",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.3",
+          "publishedAt": "2026-07-19T00:24:46Z",
+          "name": "v1.2.3"
+        }
       ]
     }
   },
   "scan": {
+    "starredPollCursor": null,
+    "releaseHistoryQueue": [],
+    "releaseHistoryIndex": 0,
     "repos": {
       "karb94/neoscroll.nvim": {},
       "miniflux/v2": {
-        "lastPublishedAt": "2026-06-27T00:39:52Z",
-        "lastReleaseId": "RE_kwDOBqNIoM4UmQVX"
+        "lastReleaseId": "RE_kwDOBqNIoM4UmQVX",
+        "lastPublishedAt": "2026-06-27T00:39:52Z"
       },
       "nvim-lua/kickstart.nvim": {},
       "kjuq/skkelua.nvim": {},
       "toppair/peek.nvim": {},
       "GREsau/schemars": {
-        "lastPublishedAt": "2026-02-01T16:36:46Z",
-        "lastReleaseId": "RE_kwDOC_ORP84Qzgj7"
+        "lastReleaseId": "RE_kwDOC_ORP84Qzgj7",
+        "lastPublishedAt": "2026-02-01T16:36:46Z"
       },
       "mazrean/kanata": {
-        "lastPublishedAt": "2026-06-27T17:59:11Z",
-        "lastReleaseId": "RE_kwDOS3x1EM4Um882"
+        "lastReleaseId": "RE_kwDOS3x1EM4Um882",
+        "lastPublishedAt": "2026-06-27T17:59:11Z"
       },
-      "nikitabobko/AeroSpace": {
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMC0yNVQwMDowMToxN1rOB4puXg==",
-        "releaseCursorComplete": true
-      },
+      "nikitabobko/AeroSpace": {},
       "lingui/js-lingui": {
-        "lastPublishedAt": "2026-07-06T14:46:05Z",
-        "lastReleaseId": "RE_kwDOBLlNSM4U1s-3"
+        "lastReleaseId": "RE_kwDOBLlNSM4U1s-3",
+        "lastPublishedAt": "2026-07-06T14:46:05Z"
       },
       "docmost/docmost": {
-        "lastPublishedAt": "2026-07-03T11:47:42Z",
-        "lastReleaseId": "RE_kwDOKDDt4c4UuNGR"
+        "lastReleaseId": "RE_kwDOKDDt4c4UuNGR",
+        "lastPublishedAt": "2026-07-03T11:47:42Z"
       },
       "outline/outline": {
-        "lastPublishedAt": "2026-07-13T00:18:15Z",
-        "lastReleaseId": "RE_kwDOA4rpZM4VCHfm",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wNy0xMVQyMzowMDozN1rOBqsLxw==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOA4rpZM4VSHEy",
+        "lastPublishedAt": "2026-07-21T01:34:44Z",
+        "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastPublishedAt": "2026-06-10T20:21:08Z",
-        "lastReleaseId": "RE_kwDOQHjZG84UHeNm"
+        "lastReleaseId": "RE_kwDOQHjZG84UHeNm",
+        "lastPublishedAt": "2026-06-10T20:21:08Z"
       },
       "kyoh86/vim-jsonl": {},
       "EmmyLuaLs/emmylua-analyzer-rust": {
-        "lastPublishedAt": "2026-07-10T12:37:03Z",
         "lastReleaseId": "RE_kwDONAbKCM4U_GTH",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wMS0wOVQxMToyNzo1MlrOC45zHw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T12:37:03Z"
       },
       "ascorbic/cirrus": {
-        "lastPublishedAt": "2026-06-01T05:36:56Z",
-        "lastReleaseId": "RE_kwDOQvKulM4TzntO"
+        "lastReleaseId": "RE_kwDOQvKulM4TzntO",
+        "lastPublishedAt": "2026-06-01T05:36:56Z"
       },
       "tfcace/hash": {
-        "lastPublishedAt": "2026-06-20T15:56:01Z",
-        "lastReleaseId": "RE_kwDOQzKeuM4UZ_ie"
+        "lastReleaseId": "RE_kwDOQzKeuM4VOtUb",
+        "lastPublishedAt": "2026-07-18T19:27:52Z",
+        "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastPublishedAt": "2026-07-04T20:24:43Z",
-        "lastReleaseId": "RE_kwDORSib_s4UzctJ"
+        "lastReleaseId": "RE_kwDORSib_s4UzctJ",
+        "lastPublishedAt": "2026-07-04T20:24:43Z"
       },
       "mksglu/context-mode": {
-        "lastPublishedAt": "2026-06-29T18:18:53Z",
-        "lastReleaseId": "RE_kwDORWiFDM4Upi9C"
+        "lastReleaseId": "RE_kwDORWiFDM4Upi9C",
+        "lastPublishedAt": "2026-06-29T18:18:53Z"
       },
       "Wansmer/symbol-usage.nvim": {},
       "preactjs/preset-vite": {
-        "lastPublishedAt": "2026-03-20T21:40:20Z",
-        "lastReleaseId": "RE_kwDOFLFMa84R27as"
+        "lastReleaseId": "RE_kwDOFLFMa84R27as",
+        "lastPublishedAt": "2026-03-20T21:40:20Z"
       },
       "preactjs/vite-prerender-plugin": {
-        "lastPublishedAt": "2026-03-15T02:57:53Z",
-        "lastReleaseId": "RE_kwDOLNM6gs4RtX2K"
+        "lastReleaseId": "RE_kwDOLNM6gs4RtX2K",
+        "lastPublishedAt": "2026-03-15T02:57:53Z"
       },
       "open-telemetry/opentelemetry-go-compile-instrumentation": {
-        "lastPublishedAt": "2026-07-14T12:50:43Z",
         "lastReleaseId": "RE_kwDONpzSS84VFnDQ",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0xMi0yNVQwNzo1MTo0NlrOEEMjyg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T12:50:43Z"
       },
       "pionxzh/wakaru": {
-        "lastPublishedAt": "2026-07-12T15:50:42Z",
-        "lastReleaseId": "RE_kwDOI2v4zc4VBxe3",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMS0xOVQwNjoyNTo0MlrOB8LQ4A==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOI2v4zc4VOiqW",
+        "lastPublishedAt": "2026-07-18T15:38:18Z",
+        "releaseHistoryCursor": null
       },
       "Akifyss/obsidian-border": {},
       "actions/upload-code-coverage": {},
       "addtobasic/ignite-website": {},
       "tadashi-aikawa/slidev-preview.nvim": {},
       "amatya-aditya/obsidian-rss-dashboard": {
-        "lastPublishedAt": "2026-07-11T23:17:35Z",
         "lastReleaseId": "RE_kwDOOJyWhM4VBJ7I",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNi0wMVQwOTozNToxMVrODT-Uiw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-11T23:17:35Z"
       },
       "FxEmbed/FxEmbed": {},
       "artginzburg/sudo-touchid": {
-        "lastPublishedAt": "2025-09-17T14:21:50Z",
-        "lastReleaseId": "RE_kwDOFzF11s4OyB2C"
+        "lastReleaseId": "RE_kwDOFzF11s4OyB2C",
+        "lastPublishedAt": "2025-09-17T14:21:50Z"
       },
-      "denisidoro/navi": {},
+      "denisidoro/navi": {
+        "lastReleaseId": "RE_kwDODIFIPM4LxTOd",
+        "lastPublishedAt": "2025-01-29T23:18:52Z",
+        "releaseHistoryCursor": null
+      },
       "pkgdeps/automerge-gate": {
-        "lastPublishedAt": "2026-05-19T02:56:50Z",
-        "lastReleaseId": "RE_kwDOSU62XM4TWkjE"
+        "lastReleaseId": "RE_kwDOSU62XM4TWkjE",
+        "lastPublishedAt": "2026-05-19T02:56:50Z"
       },
       "ikura-hamu/ooo": {},
       "n-ari/decomd": {},
       "mattn/bsky": {
-        "lastPublishedAt": "2026-06-05T13:49:45Z",
-        "lastReleaseId": "RE_kwDOJFqMhs4T9wCL"
+        "lastReleaseId": "RE_kwDOJFqMhs4T9wCL",
+        "lastPublishedAt": "2026-06-05T13:49:45Z"
       },
       "abap34/ss": {
-        "lastPublishedAt": "2026-07-12T12:54:15Z",
         "lastReleaseId": "RE_kwDOSP9SeM4VBo_1",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNS0yMVQwNzo0Njo0NlrOE3iHaA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-12T12:54:15Z"
       },
       "kavinsood/yaos": {
-        "lastPublishedAt": "2026-04-16T17:49:23Z",
-        "lastReleaseId": "RE_kwDORRnees4SeeSy"
+        "lastReleaseId": "RE_kwDORRnees4SeeSy",
+        "lastPublishedAt": "2026-04-16T17:49:23Z"
       },
       "babarot/gh-infra": {
-        "lastPublishedAt": "2026-04-20T15:59:32Z",
-        "lastReleaseId": "RE_kwDORsUayc4SjaeD"
+        "lastReleaseId": "RE_kwDORsUayc4SjaeD",
+        "lastPublishedAt": "2026-04-20T15:59:32Z"
       },
       "ras0q/noy": {
-        "lastPublishedAt": "2026-05-09T16:20:38Z",
-        "lastReleaseId": "RE_kwDOSYE4Hs4TElIG"
+        "lastReleaseId": "RE_kwDOSYE4Hs4TElIG",
+        "lastPublishedAt": "2026-05-09T16:20:38Z"
       },
       "go-shiori/shiori": {
-        "lastPublishedAt": "2025-09-26T15:52:29Z",
-        "lastReleaseId": "RE_kwDOBxH1184O7AUb"
+        "lastReleaseId": "RE_kwDOBxH1184O7AUb",
+        "lastPublishedAt": "2025-09-26T15:52:29Z"
       },
       "SolaWing/xcode-build-server": {
-        "lastPublishedAt": "2026-01-05T06:57:19Z",
-        "lastReleaseId": "RE_kwDODxSmUM4QVwqs"
+        "lastReleaseId": "RE_kwDODxSmUM4QVwqs",
+        "lastPublishedAt": "2026-01-05T06:57:19Z"
       },
       "taigrr/neocrush": {
-        "lastPublishedAt": "2026-02-09T21:19:19Z",
-        "lastReleaseId": "RE_kwDOQw2m0s4Q9kZ6"
+        "lastReleaseId": "RE_kwDOQw2m0s4Q9kZ6",
+        "lastPublishedAt": "2026-02-09T21:19:19Z"
       },
       "taigrr/neocrush.nvim": {},
       "parsimonhi/animCJK": {},
       "pirosiki197/nvim-config": {},
       "zonuexe/riida": {
-        "lastPublishedAt": "2026-07-02T16:21:01Z",
-        "lastReleaseId": "RE_kwDOR1G_Qs4UwIca"
+        "lastReleaseId": "RE_kwDOR1G_Qs4UwIca",
+        "lastPublishedAt": "2026-07-02T16:21:01Z"
       },
       "microsoft/apm": {
-        "lastPublishedAt": "2026-07-12T13:07:22Z",
-        "lastReleaseId": "RE_kwDOPyZEpc4VBpqz",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0xNVQxMzo0MzozNlrOERRBGw==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOPyZEpc4VOzYi",
+        "lastPublishedAt": "2026-07-18T21:57:33Z",
+        "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
-        "lastPublishedAt": "2026-02-03T12:30:09Z",
-        "lastReleaseId": "RE_kwDOPnPlX84Q1zu2"
+        "lastReleaseId": "RE_kwDOPnPlX84Q1zu2",
+        "lastPublishedAt": "2026-02-03T12:30:09Z"
       },
       "MrKrishnaAgarwal/Swags-for-Developers": {},
       "standardagents/arrow-js": {
-        "lastPublishedAt": "2026-04-01T14:33:36Z",
-        "lastReleaseId": "RE_kwDOIZd2ls4SIjzX"
+        "lastReleaseId": "RE_kwDOIZd2ls4SIjzX",
+        "lastPublishedAt": "2026-04-01T14:33:36Z"
       },
-      "leits/MeetingBar": {},
+      "leits/MeetingBar": {
+        "lastReleaseId": "RE_kwDOD54DEc4NbFt2",
+        "lastPublishedAt": "2025-06-13T15:33:21Z",
+        "releaseHistoryCursor": null
+      },
       "ushironoko/abbrs": {
-        "lastPublishedAt": "2026-03-23T08:25:22Z",
-        "lastReleaseId": "RE_kwDORhR3Rc4R4wJd"
+        "lastReleaseId": "RE_kwDORhR3Rc4R4wJd",
+        "lastPublishedAt": "2026-03-23T08:25:22Z"
       },
       "vimeejs/vimee": {
-        "lastPublishedAt": "2026-03-24T13:25:32Z",
-        "lastReleaseId": "RE_kwDORskFKs4R7B3I"
+        "lastReleaseId": "RE_kwDORskFKs4R7B3I",
+        "lastPublishedAt": "2026-03-24T13:25:32Z"
       },
       "nexxeln/git-hunk": {
-        "lastPublishedAt": "2026-03-22T12:12:26Z",
-        "lastReleaseId": "RE_kwDORs36Q84R3_-d"
+        "lastReleaseId": "RE_kwDORs36Q84R3_-d",
+        "lastPublishedAt": "2026-03-22T12:12:26Z"
       },
       "mickamy/ormgen": {},
       "NeogitOrg/neogit": {
-        "lastPublishedAt": "2024-11-07T13:43:32Z",
-        "lastReleaseId": "RE_kwDOEEiaa84K-emT"
+        "lastReleaseId": "RE_kwDOEEiaa84K-emT",
+        "lastPublishedAt": "2024-11-07T13:43:32Z"
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastPublishedAt": "2026-07-17T01:21:15Z",
         "lastReleaseId": "RE_kwDOOELNJM4VL1-l",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMy0yOFQwNjo0NDowMFrOEgoayA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-17T01:21:15Z"
       },
       "mixigroup/mixi2-api": {
-        "lastPublishedAt": "2026-05-11T09:03:14Z",
-        "lastReleaseId": "RE_kwDOQ2gFTc4TGB-X"
+        "lastReleaseId": "RE_kwDOQ2gFTc4TGB-X",
+        "lastPublishedAt": "2026-05-11T09:03:14Z"
       },
       "Songmu/tagpr": {
-        "lastPublishedAt": "2026-07-14T10:28:03Z",
         "lastReleaseId": "RE_kwDOH0TSTs4VFUsK",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMC0wN1QwNDoxNDo1N1rOBLj2tA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T10:28:03Z"
       },
       "k1LoW/git-wt": {
-        "lastPublishedAt": "2026-06-04T06:45:24Z",
-        "lastReleaseId": "RE_kwDOQu84n84T6t7-"
+        "lastReleaseId": "RE_kwDOQu84n84T6t7-",
+        "lastPublishedAt": "2026-06-04T06:45:24Z"
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastPublishedAt": "2026-07-12T11:24:56Z",
         "lastReleaseId": "RE_kwDOQvjuaM4VBk67",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNi0xNlQwODo0Nzo1NlrOFEQ0zQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-12T11:24:56Z"
       },
       "suin/opx": {
-        "lastPublishedAt": "2026-02-22T10:05:40Z",
-        "lastReleaseId": "RE_kwDORVyvIM4RO5dR"
+        "lastReleaseId": "RE_kwDORVyvIM4RO5dR",
+        "lastPublishedAt": "2026-02-22T10:05:40Z"
       },
       "proullon/ramsql": {
-        "lastPublishedAt": "2024-07-24T20:05:33Z",
-        "lastReleaseId": "RE_kwDOAZiMSs4J9El1"
+        "lastReleaseId": "RE_kwDOAZiMSs4J9El1",
+        "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastPublishedAt": "2026-07-16T19:29:35Z",
         "lastReleaseId": "RE_kwDORQ3jDc4VLa6M",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0xNVQxNzo0OTowMFrOESY5XA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T19:29:35Z"
       },
       "mitchellh/vouch": {
-        "lastPublishedAt": "2026-07-12T20:29:27Z",
         "lastReleaseId": "RE_kwDORJmIws4VB9-g",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0wOFQyMTo0MjowMFrOEPDftw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-12T20:29:27Z"
       },
       "pamburus/hl": {
-        "lastPublishedAt": "2026-06-12T22:01:25Z",
-        "lastReleaseId": "RE_kwDOEPtVfM4UMgYH"
+        "lastReleaseId": "RE_kwDOEPtVfM4UMgYH",
+        "lastPublishedAt": "2026-06-12T22:01:25Z"
       },
       "gitui-org/gitui": {
-        "lastPublishedAt": "2026-03-24T23:26:28Z",
-        "lastReleaseId": "RE_kwDODsP_Fs4R79vI"
+        "lastReleaseId": "RE_kwDODsP_Fs4R79vI",
+        "lastPublishedAt": "2026-03-24T23:26:28Z"
       },
       "es-tooling/eslint-plugin-depend": {
-        "lastPublishedAt": "2026-03-03T10:16:35Z",
-        "lastReleaseId": "RE_kwDOLd8MKs4Rbpyb"
+        "lastReleaseId": "RE_kwDOLd8MKs4Rbpyb",
+        "lastPublishedAt": "2026-03-03T10:16:35Z"
       },
       "e18e/module-replacements": {
-        "lastPublishedAt": "2026-07-03T10:06:09Z",
-        "lastReleaseId": "RE_kwDOLNZwwc4UxkUG"
+        "lastReleaseId": "RE_kwDOLNZwwc4UxkUG",
+        "lastPublishedAt": "2026-07-03T10:06:09Z"
       },
       "fand/ratride": {},
       "docker/github-builder": {
-        "lastPublishedAt": "2026-07-15T09:08:43Z",
         "lastReleaseId": "RE_kwDOPf38cc4VHmCT",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMS0yOVQyMDoyNTozN1rOEMPnbQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-15T09:08:43Z"
       },
       "Fission-AI/OpenSpec": {
-        "lastPublishedAt": "2026-07-10T13:12:48Z",
         "lastReleaseId": "RE_kwDOPYoUTM4U_Kll",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wOS0wNlQxNjozNDoxM1rODp7HEQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T13:12:48Z"
       },
       "alberti42/zsh-appearance-control": {
-        "lastPublishedAt": "2026-03-22T16:56:34Z",
-        "lastReleaseId": "RE_kwDORKDUAs4R4Ib8"
+        "lastReleaseId": "RE_kwDORKDUAs4R4Ib8",
+        "lastPublishedAt": "2026-03-22T16:56:34Z"
       },
       "DaltonSW/prism": {
-        "lastPublishedAt": "2026-07-08T22:35:07Z",
-        "lastReleaseId": "RE_kwDOP1p5Vs4U7w5b"
+        "lastReleaseId": "RE_kwDOP1p5Vs4U7w5b",
+        "lastPublishedAt": "2026-07-08T22:35:07Z"
       },
       "sainnhe/edge": {},
       "carlos-algms/agentic.nvim": {},
       "importantimport/hatsu": {
-        "lastPublishedAt": "2025-12-14T06:08:52Z",
-        "lastReleaseId": "RE_kwDOJ9MC-c4QGmdn"
+        "lastReleaseId": "RE_kwDOJ9MC-c4QGmdn",
+        "lastPublishedAt": "2025-12-14T06:08:52Z"
       },
       "nitrojs/nitro": {
-        "lastPublishedAt": "2026-06-10T22:00:40Z",
-        "lastReleaseId": "RE_kwDOGvUVTs4UHo_q"
+        "lastReleaseId": "RE_kwDOGvUVTs4UHo_q",
+        "lastPublishedAt": "2026-06-10T22:00:40Z"
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastPublishedAt": "2026-05-12T03:32:03Z",
-        "lastReleaseId": "RE_kwDOQ52_2c4TILd7"
+        "lastReleaseId": "RE_kwDOQ52_2c4TILd7",
+        "lastPublishedAt": "2026-05-12T03:32:03Z"
       },
       "github/copilot-sdk": {
-        "lastPublishedAt": "2026-07-16T15:23:19Z",
         "lastReleaseId": "RE_kwDOQ5Wxys4VK6F_",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNS0yOVQwMDoxODozOVrOE73xcw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T15:23:19Z",
+        "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
       "tobi/qmd": {
-        "lastPublishedAt": "2026-05-29T03:24:20Z",
-        "lastReleaseId": "RE_kwDOQk1Y9c4TvqSM"
+        "lastReleaseId": "RE_kwDOQk1Y9c4TvqSM",
+        "lastPublishedAt": "2026-05-29T03:24:20Z"
       },
       "trasta298/keifu": {
-        "lastPublishedAt": "2026-06-19T23:04:05Z",
-        "lastReleaseId": "RE_kwDOQr_i4M4UZRcr"
+        "lastReleaseId": "RE_kwDOQr_i4M4UZRcr",
+        "lastPublishedAt": "2026-06-19T23:04:05Z"
       },
       "xwmx/nb": {
-        "lastPublishedAt": "2026-04-28T22:50:28Z",
-        "lastReleaseId": "RE_kwDOAvORMc4SxPCV"
+        "lastReleaseId": "RE_kwDOAvORMc4SxPCV",
+        "lastPublishedAt": "2026-04-28T22:50:28Z"
       },
       "labstack/echo": {
-        "lastPublishedAt": "2026-07-12T19:58:40Z",
         "lastReleaseId": "RE_kwDOAeC4a84VB8vd",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wMS0yNFQwMjozMjoxN1rOAWCnkw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-12T19:58:40Z"
       },
       "adrian-thurston/ragel": {},
       "remix-run/remix": {
-        "lastPublishedAt": "2026-07-01T19:06:08Z",
-        "lastReleaseId": "RE_kwDOElPqBM4UuOxg"
+        "lastReleaseId": "RE_kwDOElPqBM4UuOxg",
+        "lastPublishedAt": "2026-07-01T19:06:08Z"
       },
       "ktnyt/cclsp": {},
       "SilasMarvin/lsp-ai": {
-        "lastPublishedAt": "2024-09-24T14:49:55Z",
-        "lastReleaseId": "RE_kwDOKxmMus4Kh23Z"
+        "lastReleaseId": "RE_kwDOKxmMus4Kh23Z",
+        "lastPublishedAt": "2024-09-24T14:49:55Z"
       },
       "mislav/gh-license": {},
       "i9wa4/quarto-intro": {},
       "atusy/kakehashi": {
-        "lastPublishedAt": "2026-07-07T01:13:01Z",
-        "lastReleaseId": "RE_kwDOPF72_s4U3BQM"
+        "lastReleaseId": "RE_kwDOPF72_s4U3BQM",
+        "lastPublishedAt": "2026-07-07T01:13:01Z"
       },
       "rcmdnk/vim_ahk": {
-        "lastPublishedAt": "2026-06-11T09:47:18Z",
-        "lastReleaseId": "RE_kwDOALIcz84UIxh1"
+        "lastReleaseId": "RE_kwDOALIcz84UIxh1",
+        "lastPublishedAt": "2026-06-11T09:47:18Z"
       },
       "tonisives/ovim": {
-        "lastPublishedAt": "2026-04-11T08:33:01Z",
-        "lastReleaseId": "RE_kwDOQo4rcs4SWQ-W"
+        "lastReleaseId": "RE_kwDOQo4rcs4SWQ-W",
+        "lastPublishedAt": "2026-04-11T08:33:01Z"
       },
       "akatsuki105/dawngba": {},
       "f-person/auto-dark-mode.nvim": {},
       "Hosshii/op-broker": {
-        "lastPublishedAt": "2026-01-23T11:30:09Z",
-        "lastReleaseId": "RE_kwDOQslsm84QpjIN"
+        "lastReleaseId": "RE_kwDOQslsm84QpjIN",
+        "lastPublishedAt": "2026-01-23T11:30:09Z"
       },
       "reyalka/shell-abbr.nvim": {},
       "svenstaro/genact": {
-        "lastPublishedAt": "2026-01-26T04:48:20Z",
-        "lastReleaseId": "RE_kwDOABSH184QrbRa"
+        "lastReleaseId": "RE_kwDOABSH184QrbRa",
+        "lastPublishedAt": "2026-01-26T04:48:20Z"
       },
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastPublishedAt": "2026-07-16T00:53:53Z",
-        "lastReleaseId": "RE_kwDOOt6mSM4VJfl5",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMy0xM1QyMTowNzoyNlrOEbIG2w==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOOt6mSM4VRujd",
+        "lastPublishedAt": "2026-07-20T20:08:59Z",
+        "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
-        "lastPublishedAt": "2026-04-14T23:31:11Z",
-        "lastReleaseId": "RE_kwDOHB7d2c4SbGqb"
+        "lastReleaseId": "RE_kwDOHB7d2c4SbGqb",
+        "lastPublishedAt": "2026-04-14T23:31:11Z"
       },
       "microsoft/vscode-copilot-chat": {
-        "lastPublishedAt": "2026-04-07T11:32:46Z",
-        "lastReleaseId": "RE_kwDOO5YBL84SPfl5"
+        "lastReleaseId": "RE_kwDOO5YBL84SPfl5",
+        "lastPublishedAt": "2026-04-07T11:32:46Z"
       },
       "mchav/with": {},
       "sparanoid/chinese-copywriting-guidelines": {
-        "lastPublishedAt": "2022-04-27T04:06:28Z",
-        "lastReleaseId": "RE_kwDOAQ_vG84D5lUU"
+        "lastReleaseId": "RE_kwDOAQ_vG84D5lUU",
+        "lastPublishedAt": "2022-04-27T04:06:28Z"
       },
       "TfTHacker/obsidian42-strange-new-worlds": {
-        "lastPublishedAt": "2026-04-04T07:03:04Z",
-        "lastReleaseId": "RE_kwDOHT7nZM4SMZ-9"
+        "lastReleaseId": "RE_kwDOHT7nZM4SMZ-9",
+        "lastPublishedAt": "2026-04-04T07:03:04Z"
       },
       "soimort/translate-shell": {
-        "lastPublishedAt": "2023-02-08T14:58:07Z",
-        "lastReleaseId": "RE_kwDOAHoKKs4FeBZ6"
+        "lastReleaseId": "RE_kwDOAHoKKs4FeBZ6",
+        "lastPublishedAt": "2023-02-08T14:58:07Z"
       },
       "Feel-ix-343/markdown-oxide": {
-        "lastPublishedAt": "2026-06-29T04:43:57Z",
-        "lastReleaseId": "RE_kwDOJcMVgs4UoJQU"
+        "lastReleaseId": "RE_kwDOJcMVgs4UoJQU",
+        "lastPublishedAt": "2026-06-29T04:43:57Z"
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastPublishedAt": "2026-05-28T18:23:21Z",
-        "lastReleaseId": "RE_kwDOO2B60c4Tu1ay"
+        "lastReleaseId": "RE_kwDOO2B60c4Tu1ay",
+        "lastPublishedAt": "2026-05-28T18:23:21Z"
       },
       "mehm8128/rehype-toc": {
-        "lastPublishedAt": "2026-03-01T09:06:11Z",
-        "lastReleaseId": "RE_kwDOPw6uc84RZAOb"
+        "lastReleaseId": "RE_kwDOPw6uc84RZAOb",
+        "lastPublishedAt": "2026-03-01T09:06:11Z"
       },
       "zalando/go-keyring": {
-        "lastPublishedAt": "2026-03-23T12:08:03Z",
-        "lastReleaseId": "RE_kwDOA8qxFM4R5Eep"
+        "lastReleaseId": "RE_kwDOA8qxFM4R5Eep",
+        "lastPublishedAt": "2026-03-23T12:08:03Z"
       },
       "justinas/alice": {},
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastPublishedAt": "2026-07-11T19:04:47Z",
         "lastReleaseId": "RE_kwDOKMzyM84VBAsn",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNC0wNlQxMjoyODoyNFrOCPGf2w==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-11T19:04:47Z"
       },
       "thedonutfactory/go-tfhe": {
-        "lastPublishedAt": "2025-11-05T14:06:28Z",
-        "lastReleaseId": "RE_kwDOFu6vY84PfiC4"
+        "lastReleaseId": "RE_kwDOFu6vY84PfiC4",
+        "lastPublishedAt": "2025-11-05T14:06:28Z"
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastPublishedAt": "2026-03-28T21:21:06Z",
-        "lastReleaseId": "RE_kwDOPrEI7s4SC53N"
+        "lastReleaseId": "RE_kwDOPrEI7s4SC53N",
+        "lastPublishedAt": "2026-03-28T21:21:06Z"
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastPublishedAt": "2026-07-03T20:20:31Z",
-        "lastReleaseId": "RE_kwDOJKcikM4UygD1"
+        "lastReleaseId": "RE_kwDOJKcikM4UygD1",
+        "lastPublishedAt": "2026-07-03T20:20:31Z"
       },
       "boltlessengineer/NativeVim": {},
       "awaescher/StageManager": {
-        "lastPublishedAt": "2024-05-15T05:35:48Z",
-        "lastReleaseId": "RE_kwDOIQJ2Xs4JSXKj"
+        "lastReleaseId": "RE_kwDOIQJ2Xs4JSXKj",
+        "lastPublishedAt": "2024-05-15T05:35:48Z"
       },
       "folke/sidekick.nvim": {
-        "lastPublishedAt": "2026-03-20T10:10:41Z",
-        "lastReleaseId": "RE_kwDOP3UQ9s4R15N2"
+        "lastReleaseId": "RE_kwDOP3UQ9s4R15N2",
+        "lastPublishedAt": "2026-03-20T10:10:41Z"
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastPublishedAt": "2026-06-15T13:50:53Z",
-        "lastReleaseId": "RE_kwDOOfp6ts4UPaXe"
+        "lastReleaseId": "RE_kwDOOfp6ts4UPaXe",
+        "lastPublishedAt": "2026-06-15T13:50:53Z"
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastPublishedAt": "2026-07-17T21:18:05Z",
-        "lastReleaseId": "RE_kwDONvYw484VNwhv",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNi0yNVQyMDozNzoyMlrOFI_R-w==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDONvYw484VRzax",
+        "lastPublishedAt": "2026-07-20T20:54:07Z",
+        "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
-        "lastPublishedAt": "2025-12-07T02:11:35Z",
-        "lastReleaseId": "RE_kwDODqcqc84P-jLa"
+        "lastReleaseId": "RE_kwDODqcqc84P-jLa",
+        "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastPublishedAt": "2026-07-17T07:41:21Z",
-        "lastReleaseId": "RE_kwDOPn2YWs4VMRI-",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNS0wN1QxNDo0NzozOFrOEwOwSA==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOPn2YWs4VRRIH",
+        "lastPublishedAt": "2026-07-20T16:16:23Z",
+        "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
-        "lastPublishedAt": "2026-06-03T13:53:09Z",
-        "lastReleaseId": "RE_kwDOMKikt84T2xKL"
+        "lastReleaseId": "RE_kwDOMKikt84T2xKL",
+        "lastPublishedAt": "2026-06-03T13:53:09Z"
       },
       "k1LoW/gostyle": {
-        "lastPublishedAt": "2026-03-26T00:36:48Z",
-        "lastReleaseId": "RE_kwDOKR29284R-Tak"
+        "lastReleaseId": "RE_kwDOKR29284R-Tak",
+        "lastPublishedAt": "2026-03-26T00:36:48Z"
       },
       "denoland/deno_task_shell": {
-        "lastPublishedAt": "2026-07-14T18:15:49Z",
         "lastReleaseId": "RE_kwDOG8_Nmc4VGXfj",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMC0yMVQwMTozNzowNVrOBMzmRQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T18:15:49Z"
       },
       "wojciech-kulik/xcodebuild.nvim": {
-        "lastPublishedAt": "2026-05-05T12:03:45Z",
-        "lastReleaseId": "RE_kwDOKn_9Y84S8O3f"
+        "lastReleaseId": "RE_kwDOKn_9Y84S8O3f",
+        "lastPublishedAt": "2026-05-05T12:03:45Z"
       },
       "getsentry/XcodeBuildMCP": {
-        "lastPublishedAt": "2026-06-02T20:38:36Z",
-        "lastReleaseId": "RE_kwDOOFv4Ac4T3rt5"
+        "lastReleaseId": "RE_kwDOOFv4Ac4T3rt5",
+        "lastPublishedAt": "2026-06-02T20:38:36Z"
       },
       "keycastr/keycastr": {
-        "lastPublishedAt": "2025-11-24T03:50:37Z",
-        "lastReleaseId": "RE_kwDOAAIHMs4Pxprx"
+        "lastReleaseId": "RE_kwDOAAIHMs4Pxprx",
+        "lastPublishedAt": "2025-11-24T03:50:37Z"
       },
       "webpro-nl/knip": {
-        "lastPublishedAt": "2026-07-15T14:59:05Z",
         "lastReleaseId": "RE_kwDOIIPL1M4VIYME",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMy0xOVQyMDo0MzozOFrOEdSoTg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-15T14:59:05Z"
       },
       "mmulet/term.everything": {},
       "plutov/oq": {
-        "lastPublishedAt": "2026-03-15T20:58:53Z",
-        "lastReleaseId": "RE_kwDOPusvC84Rt19H"
+        "lastReleaseId": "RE_kwDOPusvC84Rt19H",
+        "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastPublishedAt": "2026-06-29T06:48:50Z",
-        "lastReleaseId": "RE_kwDODVAw7c4UoRFs"
+        "lastReleaseId": "RE_kwDODVAw7c4UoRFs",
+        "lastPublishedAt": "2026-06-29T06:48:50Z"
       },
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastPublishedAt": "2026-07-06T12:35:36Z",
-        "lastReleaseId": "RE_kwDOPAlvYM4U1Z7p"
+        "lastReleaseId": "RE_kwDOPAlvYM4VRrV0",
+        "lastPublishedAt": "2026-07-20T19:39:16Z",
+        "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastPublishedAt": "2026-06-26T08:59:18Z",
-        "lastReleaseId": "RE_kwDOOr4uZ84UkJia"
+        "lastReleaseId": "RE_kwDOOr4uZ84UkJia",
+        "lastPublishedAt": "2026-06-26T08:59:18Z"
       },
       "taskgenius/taskgenius-plugin": {},
       "obsidianmd/eslint-plugin": {
-        "lastPublishedAt": "2026-07-02T16:55:14Z",
-        "lastReleaseId": "RE_kwDOLj4zss4UwMW_"
+        "lastReleaseId": "RE_kwDOLj4zss4UwMW_",
+        "lastPublishedAt": "2026-07-02T16:55:14Z"
       },
       "gocica-go/gocica": {
-        "lastPublishedAt": "2025-06-01T04:36:39Z",
-        "lastReleaseId": "RE_kwDOOAZA_M4NP2qR"
+        "lastReleaseId": "RE_kwDOOAZA_M4NP2qR",
+        "lastPublishedAt": "2025-06-01T04:36:39Z"
       },
       "ikura-hamu/go-import-pages": {
-        "lastPublishedAt": "2025-08-31T06:42:34Z",
-        "lastReleaseId": "RE_kwDOPfYdO84OhpaQ"
+        "lastReleaseId": "RE_kwDOPfYdO84OhpaQ",
+        "lastPublishedAt": "2025-08-31T06:42:34Z"
       },
       "rasbt/LLMs-from-scratch": {},
       "open-telemetry/opentelemetry-go-instrumentation": {
-        "lastPublishedAt": "2026-04-27T16:01:31Z",
-        "lastReleaseId": "RE_kwDOHwJrxc4SuXkj"
+        "lastReleaseId": "RE_kwDOHwJrxc4SuXkj",
+        "lastPublishedAt": "2026-04-27T16:01:31Z"
       },
       "izumin5210/any-script-mcp": {
-        "lastPublishedAt": "2025-08-25T16:28:20Z",
-        "lastReleaseId": "RE_kwDOPbv22c4OcYSe"
+        "lastReleaseId": "RE_kwDOPbv22c4OcYSe",
+        "lastPublishedAt": "2025-08-25T16:28:20Z"
       },
       "panphora/overtype": {},
       "sito-sikino/avatar-ui-core": {},
       "denoland/tutorial-with-react": {},
       "catppuccin/nvim": {
-        "lastPublishedAt": "2026-04-02T16:28:05Z",
-        "lastReleaseId": "RE_kwDOF7Bdy84SKjCg"
+        "lastReleaseId": "RE_kwDOF7Bdy84SKjCg",
+        "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastPublishedAt": "2026-07-17T06:52:24Z",
         "lastReleaseId": "RE_kwDOK-QCA84VMMKH",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wOS0wM1QxNjo0NjozNVrODpL6fA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-17T06:52:24Z"
       },
       "agentsmd/agents.md": {},
       "arktypeio/arktype": {
-        "lastPublishedAt": "2026-07-07T20:08:06Z",
-        "lastReleaseId": "RE_kwDOC4NVf84U5P5H"
+        "lastReleaseId": "RE_kwDOC4NVf84U5P5H",
+        "lastPublishedAt": "2026-07-07T20:08:06Z"
       },
       "ericc-ch/copilot-api": {
-        "lastPublishedAt": "2025-10-05T03:49:44Z",
-        "lastReleaseId": "RE_kwDONot0Ic4PCLZ9"
+        "lastReleaseId": "RE_kwDONot0Ic4PCLZ9",
+        "lastPublishedAt": "2025-10-05T03:49:44Z"
       },
       "agent-rules/agent-rules": {},
       "intellectronica/ruler": {
-        "lastPublishedAt": "2026-06-30T12:45:52Z",
-        "lastReleaseId": "RE_kwDOOtJPAM4UrBaj"
+        "lastReleaseId": "RE_kwDOOtJPAM4UrBaj",
+        "lastPublishedAt": "2026-06-30T12:45:52Z"
       },
       "Deep-ai-inc/ch.at": {},
       "ymtdzzz/otel-tui": {
-        "lastPublishedAt": "2026-05-13T12:37:25Z",
-        "lastReleaseId": "RE_kwDOLk0b284TLvYH"
+        "lastReleaseId": "RE_kwDOLk0b284TLvYH",
+        "lastPublishedAt": "2026-05-13T12:37:25Z"
       },
       "kaakaa/slidev-resources-template": {
-        "lastPublishedAt": "2023-12-18T12:59:38Z",
-        "lastReleaseId": "RE_kwDOJkpits4IAX2g"
+        "lastReleaseId": "RE_kwDOJkpits4IAX2g",
+        "lastPublishedAt": "2023-12-18T12:59:38Z"
       },
       "k1LoW/gh-triage": {
-        "lastPublishedAt": "2025-11-26T06:19:43Z",
-        "lastReleaseId": "RE_kwDOPMRmes4P0OHt"
+        "lastReleaseId": "RE_kwDOPMRmes4P0OHt",
+        "lastPublishedAt": "2025-11-26T06:19:43Z"
       },
       "charmbracelet/catwalk": {
-        "lastPublishedAt": "2026-07-17T21:19:33Z",
-        "lastReleaseId": "RE_kwDOPBkMZs4VNwpW",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNi0xN1QwMDoxNTowNVrOFEseNg==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOPBkMZs4VRcpW",
+        "lastPublishedAt": "2026-07-20T17:33:03Z",
+        "releaseHistoryCursor": null
       },
       "frankw2/libfss": {},
       "sivchari/govalid": {
-        "lastPublishedAt": "2026-03-26T08:42:20Z",
-        "lastReleaseId": "RE_kwDOOtVB-M4R--1g"
+        "lastReleaseId": "RE_kwDOOtVB-M4R--1g",
+        "lastPublishedAt": "2026-03-26T08:42:20Z"
       },
       "mazrean/kessoku": {
-        "lastPublishedAt": "2026-06-28T15:33:25Z",
-        "lastReleaseId": "RE_kwDOO_HCWM4Unox_"
+        "lastReleaseId": "RE_kwDOO_HCWM4Unox_",
+        "lastPublishedAt": "2026-06-28T15:33:25Z"
       },
       "ravitemer/mcp-hub": {
-        "lastPublishedAt": "2025-08-22T05:48:39Z",
-        "lastReleaseId": "RE_kwDON8rJ9M4OaFEK"
+        "lastReleaseId": "RE_kwDON8rJ9M4OaFEK",
+        "lastPublishedAt": "2025-08-22T05:48:39Z"
       },
       "nvbn/thefuck": {
-        "lastPublishedAt": "2022-01-02T22:17:40Z",
-        "lastReleaseId": "RE_kwDOAgDp4M4DWs5A"
+        "lastReleaseId": "RE_kwDOAgDp4M4DWs5A",
+        "lastPublishedAt": "2022-01-02T22:17:40Z"
       },
       "Aloxaf/fzf-tab": {
-        "lastPublishedAt": "2026-03-16T02:38:59Z",
-        "lastReleaseId": "RE_kwDODbdMSs4RuCMr"
+        "lastReleaseId": "RE_kwDODbdMSs4RuCMr",
+        "lastPublishedAt": "2026-03-16T02:38:59Z"
       },
       "zsh-users/zsh-autosuggestions": {},
       "olets/zsh-abbr": {
-        "lastPublishedAt": "2026-02-06T23:01:13Z",
-        "lastReleaseId": "RE_kwDOCgEK5c4Q7G2d"
+        "lastReleaseId": "RE_kwDOCgEK5c4Q7G2d",
+        "lastPublishedAt": "2026-02-06T23:01:13Z"
       },
       "zsh-users/zsh-syntax-highlighting": {},
       "windymelt/allyas": {
-        "lastPublishedAt": "2025-07-12T20:23:04Z",
-        "lastReleaseId": "RE_kwDOPLZPSM4N0_zH"
+        "lastReleaseId": "RE_kwDOPLZPSM4N0_zH",
+        "lastPublishedAt": "2025-07-12T20:23:04Z"
       },
       "satorijs/satori": {},
       "Kashiwade-music/vscode-note-taking-extension": {},
       "opencode-ai/opencode": {
-        "lastPublishedAt": "2025-06-27T06:51:34Z",
-        "lastReleaseId": "RE_kwDOOJqz-c4NmtrA"
+        "lastReleaseId": "RE_kwDOOJqz-c4NmtrA",
+        "lastPublishedAt": "2025-06-27T06:51:34Z"
       },
       "folke/neoconf.nvim": {
-        "lastPublishedAt": "2025-01-24T05:45:27Z",
-        "lastReleaseId": "RE_kwDOH9HQhM4Lt3eD"
+        "lastReleaseId": "RE_kwDOH9HQhM4Lt3eD",
+        "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastPublishedAt": "2026-07-09T12:43:30Z",
-        "lastReleaseId": "RE_kwDOII1H084U8873"
+        "lastReleaseId": "RE_kwDOII1H084VR2S7",
+        "lastPublishedAt": "2026-07-20T21:21:54Z",
+        "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
-        "lastPublishedAt": "2026-02-08T14:20:45Z",
-        "lastReleaseId": "RE_kwDOPG9juM4Q8AI1"
+        "lastReleaseId": "RE_kwDOPG9juM4Q8AI1",
+        "lastPublishedAt": "2026-02-08T14:20:45Z"
       },
       "charmbracelet/mods": {
-        "lastPublishedAt": "2025-07-10T17:39:47Z",
-        "lastReleaseId": "RE_kwDOJQOybM4NzS2K"
+        "lastReleaseId": "RE_kwDOJQOybM4NzS2K",
+        "lastPublishedAt": "2025-07-10T17:39:47Z"
       },
       "memento-org/memento-lang": {},
       "yoshiko-pg/difit": {
-        "lastPublishedAt": "2026-07-11T09:18:04Z",
         "lastReleaseId": "RE_kwDOPDzQl84VAlta",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0xMS0yOFQwNzoyMDozM1rOD9luRQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-11T09:18:04Z"
       },
       "yknishidate/CalexCodeJP": {},
       "ovechkin-dm/go-dyno": {
-        "lastPublishedAt": "2025-08-05T14:27:04Z",
-        "lastReleaseId": "RE_kwDOI_GqJs4OKuE0"
+        "lastReleaseId": "RE_kwDOI_GqJs4OKuE0",
+        "lastPublishedAt": "2025-08-05T14:27:04Z"
       },
       "modelcontextprotocol/mcpb": {
-        "lastPublishedAt": "2025-12-04T04:49:44Z",
-        "lastReleaseId": "RE_kwDOPB9dSM4P7sal"
+        "lastReleaseId": "RE_kwDOPB9dSM4P7sal",
+        "lastPublishedAt": "2025-12-04T04:49:44Z"
       },
       "modelcontextprotocol/go-sdk": {
-        "lastPublishedAt": "2026-05-22T11:52:56Z",
         "lastReleaseId": "RE_kwDOOeTgGM4Tiioh",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNy0xMVQxMjowODoxNFrODdCq5w==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-05-22T11:52:56Z"
       },
       "charmbracelet/glow": {
-        "lastPublishedAt": "2026-04-09T20:31:45Z",
-        "lastReleaseId": "RE_kwDODRcWac4SUHHo"
+        "lastReleaseId": "RE_kwDODRcWac4SUHHo",
+        "lastPublishedAt": "2026-04-09T20:31:45Z"
       },
       "google-gemini/gemini-cli": {
-        "lastPublishedAt": "2026-07-16T17:15:26Z",
         "lastReleaseId": "RE_kwDOObWEYM4VLKD0",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNS0yMlQwMDo0NjoxMFrOE4T7jQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T17:15:26Z"
       },
       "denoland/deno-esbuild-plugin": {
-        "lastPublishedAt": "2025-12-03T13:30:25Z",
-        "lastReleaseId": "RE_kwDOO6elLc4P62p0"
+        "lastReleaseId": "RE_kwDOO6elLc4P62p0",
+        "lastPublishedAt": "2025-12-03T13:30:25Z"
       },
       "Eraxyso/Go-Template": {},
       "charmbracelet/fang": {
-        "lastPublishedAt": "2026-03-11T23:37:39Z",
-        "lastReleaseId": "RE_kwDONTbpg84Ro194"
+        "lastReleaseId": "RE_kwDONTbpg84Ro194",
+        "lastPublishedAt": "2026-03-11T23:37:39Z"
       },
       "tak-dcxi/kiso.css": {},
-      "iamgio/quarkdown": {},
+      "iamgio/quarkdown": {
+        "lastReleaseId": "RE_kwDOLLx-gc4VCTqC",
+        "lastPublishedAt": "2026-07-13T04:19:39Z",
+        "releaseHistoryCursor": null
+      },
       "openapi-ts/openapi-typescript": {
-        "lastPublishedAt": "2026-02-11T16:02:36Z",
-        "lastReleaseId": "RE_kwDOCaM2vM4RAZ36"
+        "lastReleaseId": "RE_kwDOCaM2vM4RAZ36",
+        "lastPublishedAt": "2026-02-11T16:02:36Z"
       },
       "k1LoW/runn": {
-        "lastPublishedAt": "2026-06-30T08:31:59Z",
-        "lastReleaseId": "RE_kwDOG9R6-M4UqG1R"
+        "lastReleaseId": "RE_kwDOG9R6-M4UqG1R",
+        "lastPublishedAt": "2026-06-30T08:31:59Z"
       },
       "tohutohu/discord-claude-code": {},
       "apple/container": {
-        "lastPublishedAt": "2026-07-06T19:47:13Z",
-        "lastReleaseId": "RE_kwDOOzc9Ss4U2YKI"
+        "lastReleaseId": "RE_kwDOOzc9Ss4U2YKI",
+        "lastPublishedAt": "2026-07-06T19:47:13Z"
       },
       "anaisbetts/mcp-installer": {},
       "folke/which-key.nvim": {
-        "lastPublishedAt": "2025-02-22T14:09:53Z",
-        "lastReleaseId": "RE_kwDOFZolyM4MB_FA"
+        "lastReleaseId": "RE_kwDOFZolyM4MB_FA",
+        "lastPublishedAt": "2025-02-22T14:09:53Z"
       },
       "comavius/dotfiles": {},
       "o8vm/octox": {},
       "yetone/avante.nvim": {
-        "lastPublishedAt": "2026-06-22T15:53:52Z",
-        "lastReleaseId": "RE_kwDOMjjYJM4UcfRR"
+        "lastReleaseId": "RE_kwDOMjjYJM4UcfRR",
+        "lastPublishedAt": "2026-06-22T15:53:52Z"
       },
       "vitejs/rolldown-vite": {
-        "lastPublishedAt": "2026-01-09T02:38:14Z",
-        "lastReleaseId": "RE_kwDOD42LXM4QabQq"
+        "lastReleaseId": "RE_kwDOD42LXM4QabQq",
+        "lastPublishedAt": "2026-01-09T02:38:14Z"
       },
       "GabsEdits/feed": {
-        "lastPublishedAt": "2026-04-05T19:13:42Z",
-        "lastReleaseId": "RE_kwDONCwSN84SNQK_"
+        "lastReleaseId": "RE_kwDONCwSN84SNQK_",
+        "lastPublishedAt": "2026-04-05T19:13:42Z"
       },
       "denoland/svelte-adapter": {
-        "lastPublishedAt": "2026-05-29T07:22:44Z",
-        "lastReleaseId": "RE_kwDONr2kws4Tv-40"
+        "lastReleaseId": "RE_kwDONr2kws4Tv-40",
+        "lastPublishedAt": "2026-05-29T07:22:44Z"
       },
       "joerick/pyinstrument": {
-        "lastPublishedAt": "2026-01-04T18:28:50Z",
-        "lastReleaseId": "RE_kwDOAQ5kSs4QVhIz"
+        "lastReleaseId": "RE_kwDOAQ5kSs4QVhIz",
+        "lastPublishedAt": "2026-01-04T18:28:50Z"
       },
       "xtool-org/xtool": {
-        "lastPublishedAt": "2026-05-17T01:38:45Z",
-        "lastReleaseId": "RE_kwDONQkKUc4TTNPA"
+        "lastReleaseId": "RE_kwDONQkKUc4TTNPA",
+        "lastPublishedAt": "2026-05-17T01:38:45Z"
       },
       "foliojs/pdfkit": {
-        "lastPublishedAt": "2026-06-10T19:33:13Z",
-        "lastReleaseId": "RE_kwDOAB79bM4UHYe6"
+        "lastReleaseId": "RE_kwDOAB79bM4UHYe6",
+        "lastPublishedAt": "2026-06-10T19:33:13Z"
       },
       "Mekann2904/obsidian-pdf-mistral-plugin": {
-        "lastPublishedAt": "2026-06-26T15:25:29Z",
-        "lastReleaseId": "RE_kwDOOJRtws4Ulk6T"
+        "lastReleaseId": "RE_kwDOOJRtws4Ulk6T",
+        "lastPublishedAt": "2026-06-26T15:25:29Z"
       },
       "traPtitech/rucQ-Admin": {},
       "shigma/slidev-addon-typst": {},
       "traP-jp/pg-basic": {},
       "microsoft/WindowsAdvancedSettings": {
-        "lastPublishedAt": "2025-05-29T19:56:26Z",
-        "lastReleaseId": "RE_kwDONYBZPM4NOeRp"
+        "lastReleaseId": "RE_kwDONYBZPM4NOeRp",
+        "lastPublishedAt": "2025-05-29T19:56:26Z"
       },
       "cel-expr/cel-spec": {
-        "lastPublishedAt": "2026-05-08T18:01:57Z",
-        "lastReleaseId": "RE_kwDOBhpcn84TDbE_"
+        "lastReleaseId": "RE_kwDOBhpcn84TDbE_",
+        "lastPublishedAt": "2026-05-08T18:01:57Z"
       },
       "microsoft/WSL": {
-        "lastPublishedAt": "2026-06-26T01:59:58Z",
         "lastReleaseId": "RE_kwDOA1DMt84UkQ-4",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0xMS0xM1QxODo1NDoyOVrOB-I4dA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-06-26T01:59:58Z"
       },
       "traPtitech/naro-text": {
-        "lastPublishedAt": "2026-06-15T09:57:09Z",
-        "lastReleaseId": "RE_kwDOJi798s4UO6_N"
+        "lastReleaseId": "RE_kwDOJi798s4UO6_N",
+        "lastPublishedAt": "2026-06-15T09:57:09Z"
       },
       "obsidian-helix/obsidian-helix": {
-        "lastPublishedAt": "2026-05-27T16:52:56Z",
-        "lastReleaseId": "RE_kwDOL6-U4M4TsOKJ"
+        "lastReleaseId": "RE_kwDOL6-U4M4TsOKJ",
+        "lastPublishedAt": "2026-05-27T16:52:56Z"
       },
       "git-bug/git-bug": {
-        "lastPublishedAt": "2025-05-19T05:15:11Z",
-        "lastReleaseId": "RE_kwDOCGKeh84NE7cC"
+        "lastReleaseId": "RE_kwDOCGKeh84NE7cC",
+        "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastPublishedAt": "2026-07-17T16:27:35Z",
-        "lastReleaseId": "RE_kwDOM9WtiM4VNQgd",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMy0wOFQwNTozNjozNlrOEYt6ug==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOM9WtiM4VPQEk",
+        "lastPublishedAt": "2026-07-19T11:04:02Z",
+        "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
-        "lastPublishedAt": "2026-02-27T07:32:25Z",
-        "lastReleaseId": "RE_kwDOD81yrs4RXB7k"
+        "lastReleaseId": "RE_kwDOD81yrs4RXB7k",
+        "lastPublishedAt": "2026-02-27T07:32:25Z"
       },
       "akiym/ed25519brute": {},
       "going-doer/Paper2Code": {},
       "gotestyourself/gotest.tools": {
-        "lastPublishedAt": "2025-02-08T21:08:39Z",
-        "lastReleaseId": "RE_kwDOBfHgXM4L37_D"
+        "lastReleaseId": "RE_kwDOBfHgXM4L37_D",
+        "lastPublishedAt": "2025-02-08T21:08:39Z"
       },
       "heroiclabs/nakama": {
-        "lastPublishedAt": "2026-07-13T21:12:38Z",
         "lastReleaseId": "RE_kwDOBLNzts4VEP48",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wNC0xNFQxOToxMjoxMlrOAnhPng==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-13T21:12:38Z"
       },
       "Spotifyd/spotifyd": {
-        "lastPublishedAt": "2025-11-19T02:12:27Z",
-        "lastReleaseId": "RE_kwDOAajMvM4PtE6d"
+        "lastReleaseId": "RE_kwDOAajMvM4PtE6d",
+        "lastPublishedAt": "2025-11-19T02:12:27Z"
       },
       "Project-MONAI/MONAI": {
-        "lastPublishedAt": "2026-06-11T01:51:38Z",
-        "lastReleaseId": "RE_kwDODMjICc4UH7AU"
+        "lastReleaseId": "RE_kwDODMjICc4UH7AU",
+        "lastPublishedAt": "2026-06-11T01:51:38Z"
       },
       "cp-20/traq-bot-ts": {},
       "charmbracelet/sequin": {
-        "lastPublishedAt": "2025-01-27T18:16:50Z",
-        "lastReleaseId": "RE_kwDONHSV7c4Lve85"
+        "lastReleaseId": "RE_kwDONHSV7c4Lve85",
+        "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastPublishedAt": "2026-04-20T17:17:29Z",
-        "lastReleaseId": "RE_kwDON7Gnt84SjkOX"
+        "lastReleaseId": "RE_kwDON7Gnt84SjkOX",
+        "lastPublishedAt": "2026-04-20T17:17:29Z"
       },
       "flowershow/markdowndb": {
-        "lastPublishedAt": "2024-03-07T15:12:05Z",
-        "lastReleaseId": "RE_kwDOJcdu4c4IqOBO"
+        "lastReleaseId": "RE_kwDOJcdu4c4IqOBO",
+        "lastPublishedAt": "2024-03-07T15:12:05Z"
       },
       "marimo-team/marimo": {
-        "lastPublishedAt": "2026-07-10T20:04:08Z",
         "lastReleaseId": "RE_kwDOKHF8zM4U_7-c",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wOS0yMlQxOTozMTo0NlrODtmd8g==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T20:04:08Z"
       },
       "8byt/gox": {},
-      "ije/mono-jsx": {},
+      "ije/mono-jsx": {
+        "lastReleaseId": "RE_kwDOMllxS84R1b_i",
+        "lastPublishedAt": "2026-03-20T01:33:17Z",
+        "releaseHistoryCursor": null
+      },
       "NeverCease/uchu": {},
       "bluwy/create-vite-extra": {},
       "microsoft/winget-dsc": {},
       "traPtitech/portal-oidc": {},
       "traPtitech/piscon-portal-v2": {
-        "lastPublishedAt": "2026-05-16T06:03:07Z",
-        "lastReleaseId": "RE_kwDONcE2Ic4TSdAA"
+        "lastReleaseId": "RE_kwDONcE2Ic4VO8-r",
+        "lastPublishedAt": "2026-07-19T02:36:32Z",
+        "releaseHistoryCursor": null
       },
       "lorenzorovida/LowMemoryFHEResNet20": {},
       "scribeocr/scribe.js": {
-        "lastPublishedAt": "2026-05-27T07:37:36Z",
-        "lastReleaseId": "RE_kwDOMjxjS84TqzcC"
+        "lastReleaseId": "RE_kwDOMjxjS84TqzcC",
+        "lastPublishedAt": "2026-05-27T07:37:36Z"
       },
-      "swiftlang/swift-subprocess": {},
+      "swiftlang/swift-subprocess": {
+        "lastReleaseId": "RE_kwDOOR3Pys4Tx5xu",
+        "lastPublishedAt": "2026-05-30T01:29:21Z",
+        "releaseHistoryCursor": null
+      },
       "Shoryu-Y/At-UIEnvironment": {},
       "yorukot/superfile": {
-        "lastPublishedAt": "2026-06-07T17:54:13Z",
-        "lastReleaseId": "RE_kwDOLil1MM4UAYAK"
+        "lastReleaseId": "RE_kwDOLil1MM4UAYAK",
+        "lastPublishedAt": "2026-06-07T17:54:13Z"
       },
       "science-tokyo/Science-Tokyo-UI": {},
       "actions/ai-inference": {
-        "lastPublishedAt": "2026-05-25T23:24:00Z",
-        "lastReleaseId": "RE_kwDOOTmf284Tnbj7"
+        "lastReleaseId": "RE_kwDOOTmf284Tnbj7",
+        "lastPublishedAt": "2026-05-25T23:24:00Z"
       },
       "sadnessOjisan/oreact": {},
       "krzysztofzablocki/KZFileWatchers": {
-        "lastPublishedAt": "2023-12-21T15:11:11Z",
-        "lastReleaseId": "RE_kwDOA-K1F84ICMXj"
+        "lastReleaseId": "RE_kwDOA-K1F84ICMXj",
+        "lastPublishedAt": "2023-12-21T15:11:11Z"
       },
       "rockname/sword": {
-        "lastPublishedAt": "2025-04-06T07:21:14Z",
-        "lastReleaseId": "RE_kwDOLQ4_is4MjWDm"
+        "lastReleaseId": "RE_kwDOLQ4_is4MjWDm",
+        "lastPublishedAt": "2025-04-06T07:21:14Z"
       },
       "kishikawakatsumi/TryRegex": {},
       "noppefoxwolf/Zenmoji": {},
@@ -1861,852 +1870,816 @@
       "niw/CaptureUI": {},
       "aheze/SwiftGLSL": {},
       "ovechkin-dm/mockio": {
-        "lastPublishedAt": "2025-11-03T14:40:12Z",
-        "lastReleaseId": "RE_kwDOJQ-iCs4PdC1j"
+        "lastReleaseId": "RE_kwDOJQ-iCs4PdC1j",
+        "lastPublishedAt": "2025-11-03T14:40:12Z"
       },
       "DavidHDev/react-bits": {},
       "harshil1712/slidev-cloudflare-workers": {},
       "Mail-0/Zero": {
-        "lastPublishedAt": "2025-07-18T08:09:06Z",
-        "lastReleaseId": "RE_kwDONzV8R84N6dPX"
+        "lastReleaseId": "RE_kwDONzV8R84N6dPX",
+        "lastPublishedAt": "2025-07-18T08:09:06Z"
       },
       "typicode/mistcss": {
-        "lastPublishedAt": "2024-12-05T18:51:33Z",
-        "lastReleaseId": "RE_kwDOLXzdEc4LR8wk"
+        "lastReleaseId": "RE_kwDOLXzdEc4LR8wk",
+        "lastPublishedAt": "2024-12-05T18:51:33Z"
       },
       "files-community/Files": {
-        "lastPublishedAt": "2026-07-06T13:57:26Z",
-        "lastReleaseId": "RE_kwDOCciW1M4U1lyY"
+        "lastReleaseId": "RE_kwDOCciW1M4U1lyY",
+        "lastPublishedAt": "2026-07-06T13:57:26Z"
       },
       "pfrankov/obsidian-ai-providers": {
-        "lastPublishedAt": "2026-04-18T19:48:43Z",
-        "lastReleaseId": "RE_kwDONRQKHs4ShcP-"
+        "lastReleaseId": "RE_kwDONRQKHs4ShcP-",
+        "lastPublishedAt": "2026-04-18T19:48:43Z"
       },
       "k1LoW/deck": {
-        "lastPublishedAt": "2026-07-07T11:40:39Z",
-        "lastReleaseId": "RE_kwDOOIl6Q84U36Br"
+        "lastReleaseId": "RE_kwDOOIl6Q84U36Br",
+        "lastPublishedAt": "2026-07-07T11:40:39Z"
       },
       "typedgrammar/typed-japanese": {},
       "kepano/defuddle": {
-        "lastPublishedAt": "2026-06-24T14:11:51Z",
-        "lastReleaseId": "RE_kwDOOAhtcs4Ug2Yq"
+        "lastReleaseId": "RE_kwDOOAhtcs4Ug2Yq",
+        "lastPublishedAt": "2026-06-24T14:11:51Z"
       },
       "tmc/nlm": {},
       "eure/swift-storybook": {
-        "lastPublishedAt": "2026-07-14T09:23:19Z",
-        "lastReleaseId": "RE_kwDOCk1n-s4VFMzX",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMC0wNS0yMFQyMzoyNDozOVrOAZi5pA==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOCk1n-s4VOjHz",
+        "lastPublishedAt": "2026-07-18T15:47:08Z",
+        "releaseHistoryCursor": null
       },
       "subframe7536/maple-font": {
-        "lastPublishedAt": "2025-12-05T12:40:29Z",
-        "lastReleaseId": "RE_kwDOHJPY_c4P9X8l"
+        "lastReleaseId": "RE_kwDOHJPY_c4P9X8l",
+        "lastPublishedAt": "2025-12-05T12:40:29Z"
       },
       "sheepla/renedit": {},
       "mazrean/deno-mcp-server": {},
       "ndc-stone/stone_engine": {},
       "microsoft/typescript-go": {
-        "lastPublishedAt": "2026-07-08T15:58:56Z",
-        "lastReleaseId": "RE_kwDOM0QWI84U7Ecw"
+        "lastReleaseId": "RE_kwDOM0QWI84U7Ecw",
+        "lastPublishedAt": "2026-07-08T15:58:56Z"
       },
       "wasmerio/wasmer": {
-        "lastPublishedAt": "2026-06-30T20:25:56Z",
-        "lastReleaseId": "RE_kwDOCRgRGs4UrhnZ"
+        "lastReleaseId": "RE_kwDOCRgRGs4UrhnZ",
+        "lastPublishedAt": "2026-06-30T20:25:56Z"
       },
       "yui540/css-animations": {},
       "yukikurage/purescript-jelly": {},
       "mfontanini/presenterm": {
-        "lastPublishedAt": "2026-02-20T01:51:07Z",
-        "lastReleaseId": "RE_kwDOKMKGwM4RMrbJ"
+        "lastReleaseId": "RE_kwDOKMKGwM4RMrbJ",
+        "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastPublishedAt": "2026-07-16T15:36:38Z",
         "lastReleaseId": "RE_kwDODH8YWs4VK7yC",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMy0yMlQyMjoxNDozMVrOEeFCIg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T15:36:38Z"
       },
       "ikura-hamu/c3": {
-        "lastPublishedAt": "2025-03-07T14:03:29Z",
-        "lastReleaseId": "RE_kwDOOEvYxM4MLpUO"
+        "lastReleaseId": "RE_kwDOOEvYxM4MLpUO",
+        "lastPublishedAt": "2025-03-07T14:03:29Z"
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastPublishedAt": "2026-06-25T11:58:12Z",
-        "lastReleaseId": "RE_kwDOOC1fY84Ui3Fx"
+        "lastReleaseId": "RE_kwDOOC1fY84VQPu3",
+        "lastPublishedAt": "2026-07-20T08:27:41Z",
+        "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastPublishedAt": "2026-07-14T11:16:46Z",
         "lastReleaseId": "RE_kwDOEyYzbs4VFbVg",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNC0xMlQxMTozODowOVrOElvDLA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T11:16:46Z"
       },
       "jesseduffield/lazydocker": {
-        "lastPublishedAt": "2026-04-19T02:54:16Z",
-        "lastReleaseId": "RE_kwDOCyqEgs4Shm0E"
+        "lastReleaseId": "RE_kwDOCyqEgs4Shm0E",
+        "lastPublishedAt": "2026-04-19T02:54:16Z"
       },
       "firecrawl/firecrawl": {
-        "lastPublishedAt": "2026-06-19T15:09:30Z",
-        "lastReleaseId": "RE_kwDOLunVBs4UYpIX"
+        "lastReleaseId": "RE_kwDOLunVBs4UYpIX",
+        "lastPublishedAt": "2026-06-19T15:09:30Z"
       },
       "ygkn/test-like-koume-dayu": {},
       "YuHima03/dotnet-traq": {
-        "lastPublishedAt": "2026-06-01T19:43:16Z",
-        "lastReleaseId": "RE_kwDONFJnoM4T1RcB"
+        "lastReleaseId": "RE_kwDONFJnoM4T1RcB",
+        "lastPublishedAt": "2026-06-01T19:43:16Z"
       },
       "open-horizon-labs/obsidian-ics": {
-        "lastPublishedAt": "2025-09-26T19:24:11Z",
-        "lastReleaseId": "RE_kwDOFknhgc4O7L47"
+        "lastReleaseId": "RE_kwDOFknhgc4O7L47",
+        "lastPublishedAt": "2025-09-26T19:24:11Z"
       },
       "alecthomas/kong": {},
       "efugier/smartcat": {
-        "lastPublishedAt": "2024-11-06T15:45:23Z",
-        "lastReleaseId": "RE_kwDOKqDWBs4K9xkb"
+        "lastReleaseId": "RE_kwDOKqDWBs4K9xkb",
+        "lastPublishedAt": "2024-11-06T15:45:23Z"
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastPublishedAt": "2026-05-28T05:05:59Z",
-        "lastReleaseId": "RE_kwDONrCobc4TtYHa"
+        "lastReleaseId": "RE_kwDONrCobc4TtYHa",
+        "lastPublishedAt": "2026-05-28T05:05:59Z"
       },
       "swiftlang/swift-build": {
-        "lastPublishedAt": "2026-04-24T18:07:19Z",
-        "lastReleaseId": "RE_kwDONw8d0M4SrWdI"
+        "lastReleaseId": "RE_kwDONw8d0M4SrWdI",
+        "lastPublishedAt": "2026-04-24T18:07:19Z"
       },
       "yassinebenaid/bunster": {
-        "lastPublishedAt": "2025-08-21T08:15:45Z",
-        "lastReleaseId": "RE_kwDOMY56Es4OY_QX"
+        "lastReleaseId": "RE_kwDOMY56Es4OY_QX",
+        "lastPublishedAt": "2025-08-21T08:15:45Z"
       },
       "kumoridai/obsidian-bookmark-bookmarklet": {},
       "trasta298/bot-itika-v2": {},
       "OpenMined/TenSEAL": {
-        "lastPublishedAt": "2024-09-30T17:32:35Z",
-        "lastReleaseId": "RE_kwDODhPY784KlsGV"
+        "lastReleaseId": "RE_kwDODhPY784KlsGV",
+        "lastPublishedAt": "2024-09-30T17:32:35Z"
       },
       "wavetermdev/waveterm": {
-        "lastPublishedAt": "2026-04-16T16:01:54Z",
-        "lastReleaseId": "RE_kwDOHd1Zkc4SeSYo"
+        "lastReleaseId": "RE_kwDOHd1Zkc4SeSYo",
+        "lastPublishedAt": "2026-04-16T16:01:54Z"
       },
       "lapisla-prover/lapisla-prover": {},
       "traP-jp/h24w_14": {},
       "desko27/react-call": {
-        "lastPublishedAt": "2026-06-21T21:53:03Z",
-        "lastReleaseId": "RE_kwDOMhzfMs4Ua8ps"
+        "lastReleaseId": "RE_kwDOMhzfMs4Ua8ps",
+        "lastPublishedAt": "2026-06-21T21:53:03Z"
       },
       "git-for-windows/git": {
-        "lastPublishedAt": "2026-07-14T18:41:31Z",
         "lastReleaseId": "RE_kwDOAWJAkM4VGaPf",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0xMS0yN1QxMjozODoxNVrOC5ublg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T18:41:31Z"
       },
       "VitalAudio/visage": {},
       "picocss/pico": {
-        "lastPublishedAt": "2025-03-15T06:49:00Z",
-        "lastReleaseId": "RE_kwDODTnQZ84MR2BR"
+        "lastReleaseId": "RE_kwDODTnQZ84MR2BR",
+        "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastPublishedAt": "2026-07-06T00:24:18Z",
-        "lastReleaseId": "RE_kwDOEXrCM84U0Yth"
+        "lastReleaseId": "RE_kwDOEXrCM84U0Yth",
+        "lastPublishedAt": "2026-07-06T00:24:18Z"
       },
       "stackblitz-labs/pkg.pr.new": {},
       "Aleph-Alpha/ts-rs": {
-        "lastPublishedAt": "2026-01-31T18:49:13Z",
-        "lastReleaseId": "RE_kwDOEyyawM4QzFZ3"
+        "lastReleaseId": "RE_kwDOEyyawM4QzFZ3",
+        "lastPublishedAt": "2026-01-31T18:49:13Z"
       },
       "alangrainger/obsidian-lazy-plugins": {
-        "lastPublishedAt": "2026-05-31T10:48:05Z",
-        "lastReleaseId": "RE_kwDOMfO9As4Ty5Qx"
+        "lastReleaseId": "RE_kwDOMfO9As4Ty5Qx",
+        "lastPublishedAt": "2026-05-31T10:48:05Z"
       },
       "khoj-ai/khoj": {
-        "lastPublishedAt": "2026-03-26T03:36:04Z",
-        "lastReleaseId": "RE_kwDOF6Mrws4R-kxF"
+        "lastReleaseId": "RE_kwDOF6Mrws4R-kxF",
+        "lastPublishedAt": "2026-03-26T03:36:04Z"
       },
       "eclipsesource/jsonforms": {
-        "lastPublishedAt": "2026-06-16T08:30:51Z",
-        "lastReleaseId": "RE_kwDOAdU7Z84UQ-QE"
+        "lastReleaseId": "RE_kwDOAdU7Z84UQ-QE",
+        "lastPublishedAt": "2026-06-16T08:30:51Z"
       },
       "zodui/zodui": {},
       "uhyo/please-star-first": {
-        "lastPublishedAt": "2024-12-24T12:10:23Z",
-        "lastReleaseId": "RE_kwDOEuw2Qs4LdSvb"
+        "lastReleaseId": "RE_kwDOEuw2Qs4LdSvb",
+        "lastPublishedAt": "2024-12-24T12:10:23Z"
       },
       "preactjs/preact": {
-        "lastPublishedAt": "2026-07-08T17:33:42Z",
         "lastReleaseId": "RE_kwDOAoUxF84U7SHu",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMy0xOFQxNTo0MDoxNFrOCMQOYQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-08T17:33:42Z"
       },
       "47ng/nuqs": {
-        "lastPublishedAt": "2026-06-30T12:39:40Z",
-        "lastReleaseId": "RE_kwDOD6wJuM4Uq_k-",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wMi0xM1QxNTo1NjoxNVrOC-4m5g==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOD6wJuM4VPGnG",
+        "lastPublishedAt": "2026-07-19T07:22:49Z",
+        "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastPublishedAt": "2026-07-15T18:49:36Z",
-        "lastReleaseId": "RE_kwDOIvux3s4VI2hY",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNC0yNFQxMTowNzo0MlrOEqrLfw==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOIvux3s4VR4r0",
+        "lastPublishedAt": "2026-07-20T21:49:48Z",
+        "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
-        "lastPublishedAt": "2026-05-19T21:34:54Z",
-        "lastReleaseId": "RE_kwDOG7dO584TZRGb"
+        "lastReleaseId": "RE_kwDOG7dO584TZRGb",
+        "lastPublishedAt": "2026-05-19T21:34:54Z"
       },
       "XuehaiPan/nvitop": {
-        "lastPublishedAt": "2026-07-10T11:24:21Z",
         "lastReleaseId": "RE_kwDOE9Uprc4U--hZ",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMC0xN1QwOTo1MDozMFrOBMW0ww==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T11:24:21Z"
       },
       "penpenpng/rx-nostr": {
-        "lastPublishedAt": "2026-06-26T06:05:48Z",
-        "lastReleaseId": "RE_kwDOJOlQSc4Ukn9p"
+        "lastReleaseId": "RE_kwDOJOlQSc4Ukn9p",
+        "lastPublishedAt": "2026-06-26T06:05:48Z"
       },
       "eyemono-moe/streets": {
-        "lastPublishedAt": "2025-03-27T07:30:43Z",
-        "lastReleaseId": "RE_kwDOMtN2Z84MbuJn"
+        "lastReleaseId": "RE_kwDOMtN2Z84MbuJn",
+        "lastPublishedAt": "2025-03-27T07:30:43Z"
       },
       "zama-ai/concrete-ml": {
-        "lastPublishedAt": "2025-04-10T13:56:54Z",
-        "lastReleaseId": "RE_kwDOHDRJGs4MnGTk"
+        "lastReleaseId": "RE_kwDOHDRJGs4MnGTk",
+        "lastPublishedAt": "2025-04-10T13:56:54Z"
       },
       "aidenybai/react-scan": {
-        "lastPublishedAt": "2025-06-29T22:10:45Z",
-        "lastReleaseId": "RE_kwDOMr4gy84NoLDu"
+        "lastReleaseId": "RE_kwDOMr4gy84NoLDu",
+        "lastPublishedAt": "2025-06-29T22:10:45Z"
       },
       "momo-lab/bash-abbrev-alias": {},
       "whtwnd/whitewind-blog": {},
       "tracel-ai/burn": {
-        "lastPublishedAt": "2026-05-07T21:17:26Z",
-        "lastReleaseId": "RE_kwDOHrfku84TBno_"
+        "lastReleaseId": "RE_kwDOHrfku84TBno_",
+        "lastPublishedAt": "2026-05-07T21:17:26Z"
       },
       "mazrean/isucrud": {
-        "lastPublishedAt": "2026-05-09T01:38:29Z",
-        "lastReleaseId": "RE_kwDOKwnOzs4TD9dj"
+        "lastReleaseId": "RE_kwDOKwnOzs4TD9dj",
+        "lastPublishedAt": "2026-05-09T01:38:29Z"
       },
       "zama-ai/tfhe-rs": {
-        "lastPublishedAt": "2026-07-07T14:18:22Z",
-        "lastReleaseId": "RE_kwDOINPdOM4U4bGq"
+        "lastReleaseId": "RE_kwDOINPdOM4U4bGq",
+        "lastPublishedAt": "2026-07-07T14:18:22Z"
       },
       "obsidianmd/obsidian-clipper": {
-        "lastPublishedAt": "2026-06-16T17:06:13Z",
-        "lastReleaseId": "RE_kwDOMqJZbM4USFzh"
+        "lastReleaseId": "RE_kwDOMqJZbM4USFzh",
+        "lastPublishedAt": "2026-06-16T17:06:13Z"
       },
       "drbap/dashboard-navigator-for-obsidian": {
-        "lastPublishedAt": "2026-02-17T15:41:47Z",
-        "lastReleaseId": "RE_kwDOMZTWas4RIAQQ"
+        "lastReleaseId": "RE_kwDOMZTWas4RIAQQ",
+        "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastPublishedAt": "2026-07-05T10:28:11Z",
-        "lastReleaseId": "RE_kwDOLFvGAc4Uz3K4"
+        "lastReleaseId": "RE_kwDOLFvGAc4VPlsj",
+        "lastPublishedAt": "2026-07-19T18:39:33Z",
+        "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
-        "lastPublishedAt": "2026-03-21T12:17:36Z",
-        "lastReleaseId": "RE_kwDOEGy6NM4R3W8t"
+        "lastReleaseId": "RE_kwDOEGy6NM4R3W8t",
+        "lastPublishedAt": "2026-03-21T12:17:36Z"
       },
       "earthly/earthly": {
-        "lastPublishedAt": "2025-07-16T19:04:34Z",
-        "lastReleaseId": "RE_kwDODrdz-84N4pbE"
+        "lastReleaseId": "RE_kwDODrdz-84N4pbE",
+        "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastPublishedAt": "2026-07-14T19:11:11Z",
         "lastReleaseId": "RE_kwDOC3PEAc4VGbZx",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wNS0wNFQwMzowNTowNlrOBhF6bw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T19:11:11Z"
       },
-      "eythaann/Seelen-UI": {},
+      "eythaann/Seelen-UI": {
+        "lastReleaseId": "RE_kwDOLTetx84VQwFw",
+        "lastPublishedAt": "2026-07-20T13:39:08Z",
+        "releaseHistoryCursor": null
+      },
       "WinterTC55/proposal-minimum-common-api": {},
       "amnweb/yasb": {
-        "lastPublishedAt": "2026-06-23T19:51:38Z",
         "lastReleaseId": "RE_kwDOMRmaUs4UfOcQ",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0xMi0xMVQxODowMjo0OVrOC1dGww==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-06-23T19:51:38Z"
       },
       "3b1b/manim": {
-        "lastPublishedAt": "2024-12-13T02:58:56Z",
-        "lastReleaseId": "RE_kwDOAfLOx84LW7Os"
+        "lastReleaseId": "RE_kwDOAfLOx84LW7Os",
+        "lastPublishedAt": "2024-12-13T02:58:56Z"
       },
       "stackblitz/bolt.new": {},
       "Taitava/obsidian-shellcommands": {
-        "lastPublishedAt": "2024-11-09T16:35:32Z",
-        "lastReleaseId": "RE_kwDOF8HICs4K_4iV"
+        "lastReleaseId": "RE_kwDOF8HICs4K_4iV",
+        "lastPublishedAt": "2024-11-09T16:35:32Z"
       },
       "elk-zone/elk": {
-        "lastPublishedAt": "2026-06-05T11:12:23Z",
-        "lastReleaseId": "RE_kwDOIbdQqs4T9fGP"
+        "lastReleaseId": "RE_kwDOIbdQqs4T9fGP",
+        "lastPublishedAt": "2026-06-05T11:12:23Z"
       },
       "antfu/vscode-file-nesting-config": {
-        "lastPublishedAt": "2026-06-24T04:15:57Z",
-        "lastReleaseId": "RE_kwDOG9qWD84UfydM"
+        "lastReleaseId": "RE_kwDOG9qWD84UfydM",
+        "lastPublishedAt": "2026-06-24T04:15:57Z"
       },
       "denoland/deno-vite-plugin": {
-        "lastPublishedAt": "2026-03-30T13:35:05Z",
-        "lastReleaseId": "RE_kwDOM0jxcs4SElEm"
+        "lastReleaseId": "RE_kwDOM0jxcs4SElEm",
+        "lastPublishedAt": "2026-03-30T13:35:05Z"
       },
       "lumeland/cms": {},
       "lumeland/lume": {
-        "lastPublishedAt": "2026-05-25T17:39:42Z",
-        "lastReleaseId": "RE_kwDOEYAvFc4TnBzq"
+        "lastReleaseId": "RE_kwDOEYAvFc4TnBzq",
+        "lastPublishedAt": "2026-05-25T17:39:42Z"
       },
       "asyncapi/spec": {
-        "lastPublishedAt": "2026-01-31T11:24:10Z",
-        "lastReleaseId": "RE_kwDOBGu-184Qy5XO"
+        "lastReleaseId": "RE_kwDOBGu-184Qy5XO",
+        "lastPublishedAt": "2026-01-31T11:24:10Z"
       },
       "denoland/deno": {
-        "lastPublishedAt": "2026-07-15T15:35:06Z",
         "lastReleaseId": "RE_kwDOB_QrUM4VIUio",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNy0wOFQwNToxNTozNVrODcA6Rg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-15T15:35:06Z"
       },
       "go-michi/michi": {},
       "nbd-wtf/nostr-tools": {
-        "lastPublishedAt": "2023-12-19T17:33:31Z",
-        "lastReleaseId": "RE_kwDOE3nkK84IBIQ-"
+        "lastReleaseId": "RE_kwDOE3nkK84IBIQ-",
+        "lastPublishedAt": "2023-12-19T17:33:31Z"
       },
       "nostr-connect/connect": {},
       "catppuccin/palette": {
-        "lastPublishedAt": "2026-03-21T22:18:22Z",
-        "lastReleaseId": "RE_kwDOGhJrL84R3sos"
+        "lastReleaseId": "RE_kwDOGhJrL84R3sos",
+        "lastPublishedAt": "2026-03-21T22:18:22Z"
       },
       "chakra-ui/panda": {
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNi0yM1QxMjo0MDozOVrOFHk9DA==",
-        "releaseCursorComplete": true,
-        "lastPublishedAt": "2026-06-27T20:37:47Z",
-        "lastReleaseId": "RE_kwDOHuVHqM4UnDQv"
+        "lastReleaseId": "RE_kwDOHuVHqM4UnDQv",
+        "lastPublishedAt": "2026-06-27T20:37:47Z"
       },
       "jonaschn/awesome-he": {},
-      "LGUG2Z/komorebi": {},
+      "LGUG2Z/komorebi": {
+        "lastReleaseId": "RE_kwDOF0xADM4S48rn",
+        "lastPublishedAt": "2026-05-03T20:28:17Z",
+        "releaseHistoryCursor": null
+      },
       "asmvik/yabai": {
-        "lastPublishedAt": "2026-05-08T21:10:19Z",
-        "lastReleaseId": "RE_kwDOCwV9a84TDuNr"
+        "lastReleaseId": "RE_kwDOCwV9a84TDuNr",
+        "lastPublishedAt": "2026-05-08T21:10:19Z"
       },
       "yukiny0811/swifty-creatives": {
-        "lastPublishedAt": "2025-10-13T10:11:23Z",
-        "lastReleaseId": "RE_kwDOIlU88s4PJCPb"
+        "lastReleaseId": "RE_kwDOIlU88s4PJCPb",
+        "lastPublishedAt": "2025-10-13T10:11:23Z"
       },
       "nerdsupremacist/memes": {},
       "hummingbird-project/hummingbird": {
-        "lastPublishedAt": "2026-07-14T07:37:21Z",
         "lastReleaseId": "RE_kwDOE4ox_c4VFAGg",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wNC0xOFQxNToyOTowNFrOCQvjdg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T07:37:21Z"
       },
       "darlinghq/darling": {
-        "lastPublishedAt": "2026-06-09T04:41:09Z",
-        "lastReleaseId": "RE_kwDOAGv_Os4UDGJX"
+        "lastReleaseId": "RE_kwDOAGv_Os4UDGJX",
+        "lastPublishedAt": "2026-06-09T04:41:09Z"
       },
       "swiftwasm/swift": {
-        "lastPublishedAt": "2026-03-30T07:37:55Z",
         "lastReleaseId": "RE_kwDOCsT3qM4SEBmD",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMS0wNlQwNjoyMzoxMlrOEGReDA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-03-30T07:37:55Z"
       },
       "pytorch/torchchat": {},
       "vhanla/winxcorners": {
-        "lastPublishedAt": "2024-12-27T08:04:33Z",
-        "lastReleaseId": "RE_kwDOCdv1y84LeJAJ"
+        "lastReleaseId": "RE_kwDOCdv1y84LeJAJ",
+        "lastPublishedAt": "2024-12-27T08:04:33Z"
       },
       "unonao/kaggle-template": {
-        "lastPublishedAt": "2025-05-13T02:32:56Z",
-        "lastReleaseId": "RE_kwDOKFjdBc4NAHmv"
+        "lastReleaseId": "RE_kwDOKFjdBc4NAHmv",
+        "lastPublishedAt": "2025-05-13T02:32:56Z"
       },
       "Ye-D/PPML-Resource": {},
       "Zxilly/go-size-analyzer": {
-        "lastPublishedAt": "2026-05-17T18:08:34Z",
-        "lastReleaseId": "RE_kwDOJE7Z-84TTujE"
+        "lastReleaseId": "RE_kwDOJE7Z-84TTujE",
+        "lastPublishedAt": "2026-05-17T18:08:34Z"
       },
       "compose-spec/compose-spec": {},
       "freshframework/fresh": {
-        "lastPublishedAt": "2026-04-28T11:38:20Z",
-        "lastReleaseId": "RE_kwDOFcV7484Sv6Nj"
+        "lastReleaseId": "RE_kwDOFcV7484Sv6Nj",
+        "lastPublishedAt": "2026-04-28T11:38:20Z"
       },
       "runmedev/runme": {
-        "lastPublishedAt": "2026-07-13T20:25:40Z",
         "lastReleaseId": "RE_kwDOHrOdo84VEKdM",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wOS0xOVQyMDo1MjozMVrODtlAzw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-13T20:25:40Z"
       },
       "joerdav/xc": {
-        "lastPublishedAt": "2026-01-05T15:29:14Z",
-        "lastReleaseId": "RE_kwDOGOGLdc4QWPTR"
+        "lastReleaseId": "RE_kwDOGOGLdc4QWPTR",
+        "lastPublishedAt": "2026-01-05T15:29:14Z"
       },
       "abap34/ml-lecture": {},
       "abap34/contest-analyzer": {},
       "kepano/40-questions": {},
       "zama-ai/awesome-zama": {},
       "Quorafind/Obsidian-Daily-Notes-Editor": {
-        "lastPublishedAt": "2025-04-05T13:50:09Z",
-        "lastReleaseId": "RE_kwDOIZl6B84MjNUY"
+        "lastReleaseId": "RE_kwDOIZl6B84MjNUY",
+        "lastPublishedAt": "2025-04-05T13:50:09Z"
       },
       "dlvhdr/gh-dash": {
-        "lastPublishedAt": "2026-07-10T10:35:26Z",
         "lastReleaseId": "RE_kwDOGN5wJc4U-5nL",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMS0wNVQxNTowMzo0MVrOCBrkOQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T10:35:26Z"
       },
-      "zama-ai/concrete": {},
+      "zama-ai/concrete": {
+        "lastReleaseId": "RE_kwDOEeTG584MgcuM",
+        "lastPublishedAt": "2025-04-10T13:31:59Z",
+        "releaseHistoryCursor": null
+      },
       "Dj0ulo/OptiSearch": {},
       "helix-editor/helix": {
-        "lastPublishedAt": "2025-07-18T15:13:19Z",
-        "lastReleaseId": "RE_kwDOD__WI84N662w"
+        "lastReleaseId": "RE_kwDOD__WI84N662w",
+        "lastPublishedAt": "2025-07-18T15:13:19Z"
       },
       "k1LoW/donegroup": {
-        "lastPublishedAt": "2026-02-12T15:06:27Z",
-        "lastReleaseId": "RE_kwDOLOGqFM4RB-GL"
+        "lastReleaseId": "RE_kwDOLOGqFM4RB-GL",
+        "lastPublishedAt": "2026-02-12T15:06:27Z"
       },
       "lintnet/lintnet": {
-        "lastPublishedAt": "2025-12-06T13:07:48Z",
-        "lastReleaseId": "RE_kwDOK40UVM4P-S8z"
+        "lastReleaseId": "RE_kwDOK40UVM4P-S8z",
+        "lastPublishedAt": "2025-12-06T13:07:48Z"
       },
       "kaelzhang/node-ignore": {
-        "lastPublishedAt": "2025-04-25T02:34:51Z",
-        "lastReleaseId": "RE_kwDOAL8HTc4My7Ui"
+        "lastReleaseId": "RE_kwDOAL8HTc4My7Ui",
+        "lastPublishedAt": "2025-04-25T02:34:51Z"
       },
       "motoki317/mini-k8s-hands-on": {},
       "nucleuscloud/neosync": {
-        "lastPublishedAt": "2025-07-11T19:53:37Z",
-        "lastReleaseId": "RE_kwDOKLIYic4N0iae"
+        "lastReleaseId": "RE_kwDOKLIYic4N0iae",
+        "lastPublishedAt": "2025-07-11T19:53:37Z"
       },
       "awslabs/privacy-preserving-xgboost-inference": {},
       "Seraphli/obsidian-link-embed": {
-        "lastPublishedAt": "2025-12-18T12:31:57Z",
-        "lastReleaseId": "RE_kwDOHMAKBM4QLaOj"
+        "lastReleaseId": "RE_kwDOHMAKBM4QLaOj",
+        "lastPublishedAt": "2025-12-18T12:31:57Z"
       },
       "Xallt/sync-graph-settings": {
-        "lastPublishedAt": "2025-06-13T14:11:11Z",
-        "lastReleaseId": "RE_kwDOIHI8Ts4NbAm8"
+        "lastReleaseId": "RE_kwDOIHI8Ts4NbAm8",
+        "lastPublishedAt": "2025-06-13T14:11:11Z"
       },
       "cel-expr/cel-go": {
-        "lastPublishedAt": "2026-07-08T08:43:09Z",
-        "lastReleaseId": "RE_kwDOB21G7c4U6ME4"
+        "lastReleaseId": "RE_kwDOB21G7c4U6ME4",
+        "lastPublishedAt": "2026-07-08T08:43:09Z"
       },
       "glanceapp/glance": {
-        "lastPublishedAt": "2026-05-30T20:36:29Z",
-        "lastReleaseId": "RE_kwDOL0IZ084Tyfcl"
+        "lastReleaseId": "RE_kwDOL0IZ084Tyfcl",
+        "lastPublishedAt": "2026-05-30T20:36:29Z"
       },
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastPublishedAt": "2026-06-26T02:01:41Z",
-        "lastReleaseId": "RE_kwDOJCIvuc4UkZel"
+        "lastReleaseId": "RE_kwDOJCIvuc4UkZel",
+        "lastPublishedAt": "2026-06-26T02:01:41Z"
       },
       "H4kor/fedi-games": {},
       "microsoft/PowerToys": {
-        "lastPublishedAt": "2026-06-26T10:12:02Z",
-        "lastReleaseId": "RE_kwDOCv6UO84Uk_QB"
+        "lastReleaseId": "RE_kwDOCv6UO84Uk_QB",
+        "lastPublishedAt": "2026-06-26T10:12:02Z"
       },
       "SSlime-s/authjs-traq-sample": {},
       "BasixKOR/awesome-activitypub": {},
       "mercari/grpc-federation": {
-        "lastPublishedAt": "2026-06-23T01:52:37Z",
-        "lastReleaseId": "RE_kwDOKIFVkc4UdW6g"
+        "lastReleaseId": "RE_kwDOKIFVkc4UdW6g",
+        "lastPublishedAt": "2026-06-23T01:52:37Z"
       },
       "Tencent/TFace": {},
       "warpdotdev/warp": {},
       "kyosu-1/passkey-go-example": {},
       "slidevjs/slidev": {
-        "lastPublishedAt": "2026-07-14T03:10:23Z",
         "lastReleaseId": "RE_kwDOFYUYQs4VEryZ",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wMi0xOFQxNjo0Mjo0N1rOC_qRiA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-14T03:10:23Z"
       },
       "Striffly/mailspring-avatars": {
-        "lastPublishedAt": "2026-01-10T23:21:01Z",
-        "lastReleaseId": "RE_kwDOCBTEX84Qb7an"
+        "lastReleaseId": "RE_kwDOCBTEX84Qb7an",
+        "lastPublishedAt": "2026-01-10T23:21:01Z"
       },
       "Foundry376/Mailspring": {
-        "lastPublishedAt": "2026-06-13T20:30:13Z",
-        "lastReleaseId": "RE_kwDOBDf5XM4UNWPo"
+        "lastReleaseId": "RE_kwDOBDf5XM4UNWPo",
+        "lastPublishedAt": "2026-06-13T20:30:13Z"
       },
       "a5chin/python-uv": {
-        "lastPublishedAt": "2025-12-24T09:14:13Z",
-        "lastReleaseId": "RE_kwDOLqRJgs4QQEvk"
+        "lastReleaseId": "RE_kwDOLqRJgs4QQEvk",
+        "lastPublishedAt": "2025-12-24T09:14:13Z"
       },
       "sqlc-dev/sqlc": {
-        "lastPublishedAt": "2026-04-22T14:55:41Z",
-        "lastReleaseId": "RE_kwDOC4Nl584SnQnN"
+        "lastReleaseId": "RE_kwDOC4Nl584SnQnN",
+        "lastPublishedAt": "2026-04-22T14:55:41Z"
       },
       "m-mizutani/goerr": {
-        "lastPublishedAt": "2026-02-01T23:34:22Z",
-        "lastReleaseId": "RE_kwDOFT6bHs4QzuhK"
+        "lastReleaseId": "RE_kwDOFT6bHs4QzuhK",
+        "lastPublishedAt": "2026-02-01T23:34:22Z"
       },
       "windingwind/zotero-pdf-translate": {
-        "lastPublishedAt": "2026-06-10T11:11:37Z",
-        "lastReleaseId": "RE_kwDOG-K8R84UGNwQ"
+        "lastReleaseId": "RE_kwDOG-K8R84UGNwQ",
+        "lastPublishedAt": "2026-06-10T11:11:37Z"
       },
       "charmbracelet/freeze": {
-        "lastPublishedAt": "2025-04-01T23:42:28Z",
-        "lastReleaseId": "RE_kwDOLC5GWM4MgC_K"
+        "lastReleaseId": "RE_kwDOLC5GWM4MgC_K",
+        "lastPublishedAt": "2025-04-01T23:42:28Z"
       },
       "ynqa/jnv": {
-        "lastPublishedAt": "2026-04-01T12:58:13Z",
-        "lastReleaseId": "RE_kwDOLh_AJ84SIX2E"
+        "lastReleaseId": "RE_kwDOLh_AJ84SIX2E",
+        "lastPublishedAt": "2026-04-01T12:58:13Z"
       },
       "joshuawright11/papyrus": {
-        "lastPublishedAt": "2024-05-16T18:25:37Z",
-        "lastReleaseId": "RE_kwDOFDxuyM4JTobS"
+        "lastReleaseId": "RE_kwDOFDxuyM4JTobS",
+        "lastPublishedAt": "2024-05-16T18:25:37Z"
       },
       "cloudflare/wildebeest": {},
       "vim-denops/denops.vim": {
-        "lastPublishedAt": "2026-03-22T10:54:09Z",
-        "lastReleaseId": "RE_kwDOFBggac4R398X"
+        "lastReleaseId": "RE_kwDOFBggac4R398X",
+        "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastPublishedAt": "2026-07-15T18:44:43Z",
-        "lastReleaseId": "RE_kwDOKbIFZc4VI2FV",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMS0wOVQyMjowOToxMVrOEG3Myg==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOKbIFZc4VRyyr",
+        "lastPublishedAt": "2026-07-20T20:48:06Z",
+        "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
       "aria2/aria2": {
-        "lastPublishedAt": "2023-11-15T12:07:32Z",
-        "lastReleaseId": "RE_kwDOABEJfs4HuImN"
+        "lastReleaseId": "RE_kwDOABEJfs4HuImN",
+        "lastPublishedAt": "2023-11-15T12:07:32Z"
       },
       "dginev/ar5iv": {
-        "lastPublishedAt": "2023-01-18T00:06:55Z",
-        "lastReleaseId": "RE_kwDOGHlPbs4FUwIn"
+        "lastReleaseId": "RE_kwDOGHlPbs4FUwIn",
+        "lastPublishedAt": "2023-01-18T00:06:55Z"
       },
       "egonelbre/gophers": {},
       "golang/proposal": {},
       "obsidian-tasks-group/obsidian-tasks": {
-        "lastPublishedAt": "2026-06-22T08:13:44Z",
-        "lastReleaseId": "RE_kwDOFNWFc84UbhIp"
+        "lastReleaseId": "RE_kwDOFNWFc84UbhIp",
+        "lastPublishedAt": "2026-06-22T08:13:44Z"
       },
       "utterance/utterances": {},
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastPublishedAt": "2026-03-23T15:56:19Z",
-        "lastReleaseId": "RE_kwDOD6MHws4RzJob"
+        "lastReleaseId": "RE_kwDOD6MHws4RzJob",
+        "lastPublishedAt": "2026-03-23T15:56:19Z"
       },
       "j0k3r/banditore": {
-        "lastPublishedAt": "2025-09-30T13:52:18Z",
-        "lastReleaseId": "RE_kwDOBOOjGs4O9-vJ"
+        "lastReleaseId": "RE_kwDOBOOjGs4O9-vJ",
+        "lastPublishedAt": "2025-09-30T13:52:18Z"
       },
       "youta-t/its": {},
       "modular/modular": {
-        "lastPublishedAt": "2026-06-18T16:15:54Z",
-        "lastReleaseId": "RE_kwDOJcq7QM4UWx_B"
+        "lastReleaseId": "RE_kwDOJcq7QM4UWx_B",
+        "lastPublishedAt": "2026-06-18T16:15:54Z"
       },
       "bluesky-social/indigo": {},
       "quarto-dev/quarto-cli": {
-        "lastPublishedAt": "2026-05-25T09:58:56Z",
         "lastReleaseId": "RE_kwDOEcv33s4TmMMg",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0xMC0xNlQxNzozNToxMlrODzRtJQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-05-25T09:58:56Z"
       },
       "Vinzent03/obsidian-git": {
-        "lastPublishedAt": "2026-07-05T21:52:08Z",
-        "lastReleaseId": "RE_kwDOElf8_c4U0TQh"
+        "lastReleaseId": "RE_kwDOElf8_c4U0TQh",
+        "lastPublishedAt": "2026-07-05T21:52:08Z"
       },
       "ish-app/ish": {
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMi0yNVQwNjowNjo1OFrOBZVGtg==",
-        "releaseCursorComplete": true,
-        "lastPublishedAt": "2023-05-20T23:52:42Z",
-        "lastReleaseId": "RE_kwDOBWIubs4GLncI"
+        "lastReleaseId": "RE_kwDOBWIubs4GLncI",
+        "lastPublishedAt": "2023-05-20T23:52:42Z"
       },
       "mo-seph/obsidian-copy-as-latex": {
-        "lastPublishedAt": "2022-02-10T17:23:37Z",
-        "lastReleaseId": "RE_kwDOGMspX84DiCnq"
+        "lastReleaseId": "RE_kwDOGMspX84DiCnq",
+        "lastPublishedAt": "2022-02-10T17:23:37Z"
       },
       "mazrean/formstream": {
-        "lastPublishedAt": "2025-11-09T12:37:31Z",
-        "lastReleaseId": "RE_kwDOLB8pp84PjV3R"
+        "lastReleaseId": "RE_kwDOLB8pp84PjV3R",
+        "lastPublishedAt": "2025-11-09T12:37:31Z"
       },
       "mehm8128/mehm8128-portfolio": {
-        "lastPublishedAt": "2025-09-14T05:22:01Z",
-        "lastReleaseId": "RE_kwDOHYbZyM4Oucwt"
+        "lastReleaseId": "RE_kwDOHYbZyM4Oucwt",
+        "lastPublishedAt": "2025-09-14T05:22:01Z"
       },
       "Wilfred/difftastic": {
-        "lastPublishedAt": "2026-04-30T21:47:36Z",
-        "lastReleaseId": "RE_kwDOCawmHs4S14fA"
+        "lastReleaseId": "RE_kwDOCawmHs4S14fA",
+        "lastPublishedAt": "2026-04-30T21:47:36Z"
       },
       "tadashi-aikawa/obsidian-various-complements-plugin": {
-        "lastPublishedAt": "2026-06-24T10:27:09Z",
-        "lastReleaseId": "RE_kwDOFA4JCs4UgY6b"
+        "lastReleaseId": "RE_kwDOFA4JCs4UgY6b",
+        "lastPublishedAt": "2026-06-24T10:27:09Z"
       },
       "eza-community/eza": {
-        "lastPublishedAt": "2026-07-09T10:21:04Z",
-        "lastReleaseId": "RE_kwDOKAtYXM4U8sfO"
+        "lastReleaseId": "RE_kwDOKAtYXM4U8sfO",
+        "lastPublishedAt": "2026-07-09T10:21:04Z"
       },
       "ogham/exa": {
-        "lastPublishedAt": "2021-04-12T21:42:01Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTQxMzA2ODQz"
+        "lastReleaseId": "MDc6UmVsZWFzZTQxMzA2ODQz",
+        "lastPublishedAt": "2021-04-12T21:42:01Z"
       },
       "remotely-save/remotely-save": {
-        "lastPublishedAt": "2024-10-20T09:14:34Z",
-        "lastReleaseId": "RE_kwDOGOyoq84Kx86e"
+        "lastReleaseId": "RE_kwDOGOyoq84Kx86e",
+        "lastPublishedAt": "2024-10-20T09:14:34Z"
       },
       "a-h/templ": {
-        "lastPublishedAt": "2026-05-10T09:04:10Z",
-        "lastReleaseId": "RE_kwDOFUJ2Oc4TFDfh"
+        "lastReleaseId": "RE_kwDOFUJ2Oc4TFDfh",
+        "lastPublishedAt": "2026-05-10T09:04:10Z"
       },
       "L7Cy/obsidian-2hop-links-plus": {
-        "lastPublishedAt": "2023-10-16T02:12:45Z",
-        "lastReleaseId": "RE_kwDOJduN7c4Hdaqz"
+        "lastReleaseId": "RE_kwDOJduN7c4Hdaqz",
+        "lastPublishedAt": "2023-10-16T02:12:45Z"
       },
       "vslinko/obsidian-outliner": {
-        "lastPublishedAt": "2026-06-27T18:50:19Z",
-        "lastReleaseId": "RE_kwDOFOI1Cc4Um_LK"
+        "lastReleaseId": "RE_kwDOFOI1Cc4Um_LK",
+        "lastPublishedAt": "2026-06-27T18:50:19Z"
       },
       "omnivore-app/omnivore": {
-        "lastPublishedAt": "2024-07-04T10:15:38Z",
-        "lastReleaseId": "RE_kwDOG034nM4JxiCA"
+        "lastReleaseId": "RE_kwDOG034nM4JxiCA",
+        "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastPublishedAt": "2026-07-17T17:48:56Z",
-        "lastReleaseId": "RE_kwDOH-jzvc4VNZbV",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wNS0xM1QxMTozNjozMFrOEy6IXQ==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOH-jzvc4VSJw_",
+        "lastPublishedAt": "2026-07-21T02:18:15Z",
+        "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
       "uber-go/mock": {
-        "lastPublishedAt": "2025-08-18T15:01:47Z",
-        "lastReleaseId": "RE_kwDOJehFz84OV9Dr"
+        "lastReleaseId": "RE_kwDOJehFz84OV9Dr",
+        "lastPublishedAt": "2025-08-18T15:01:47Z"
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastPublishedAt": "2026-07-10T17:09:12Z",
         "lastReleaseId": "RE_kwDOE2oqQs4U_pUU",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0xMi0yMFQwOToyODo1MFrOC271yQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T17:09:12Z",
+        "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
       "nvim-mini/mini.nvim": {
-        "lastPublishedAt": "2026-06-21T12:50:22Z",
-        "lastReleaseId": "RE_kwDOFoksYM4Uan-H"
+        "lastReleaseId": "RE_kwDOFoksYM4Uan-H",
+        "lastPublishedAt": "2026-06-21T12:50:22Z"
       },
       "nvim-telescope/telescope.nvim": {
-        "lastPublishedAt": "2025-12-31T12:07:55Z",
-        "lastReleaseId": "RE_kwDOEKzK9c4QTpht"
+        "lastReleaseId": "RE_kwDOEKzK9c4QTpht",
+        "lastPublishedAt": "2025-12-31T12:07:55Z"
       },
       "aquaproj/aqua": {
-        "lastPublishedAt": "2026-07-16T12:42:48Z",
         "lastReleaseId": "RE_kwDOF9Sih84VKhx2",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNy0yMFQwNToxNzo1MlrODe54lw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T12:42:48Z"
       },
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
       "DataDog/orchestrion": {
-        "lastPublishedAt": "2026-06-25T07:40:13Z",
-        "lastReleaseId": "RE_kwDOJEKgss4UaqDJ"
+        "lastReleaseId": "RE_kwDOJEKgss4UaqDJ",
+        "lastPublishedAt": "2026-06-25T07:40:13Z"
       },
       "spotify/voyager": {
-        "lastPublishedAt": "2025-09-23T12:26:10Z",
-        "lastReleaseId": "RE_kwDOJWXenM4O25e5"
+        "lastReleaseId": "RE_kwDOJWXenM4O25e5",
+        "lastPublishedAt": "2025-09-23T12:26:10Z"
       },
       "pointfreeco/swift-dependencies": {
-        "lastPublishedAt": "2026-06-17T22:51:31Z",
-        "lastReleaseId": "RE_kwDOIF_Mq84UVIAu"
+        "lastReleaseId": "RE_kwDOIF_Mq84UVIAu",
+        "lastPublishedAt": "2026-06-17T22:51:31Z"
       },
       "kalupas226/tca-workshop": {},
       "EnixCoda/Gitako": {
-        "lastPublishedAt": "2026-01-18T12:41:28Z",
-        "lastReleaseId": "RE_kwDOBq4KM84QjYQ4"
+        "lastReleaseId": "RE_kwDOBq4KM84QjYQ4",
+        "lastPublishedAt": "2026-01-18T12:41:28Z"
       },
       "python/typeshed": {},
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastPublishedAt": "2026-07-16T15:15:10Z",
         "lastReleaseId": "RE_kwDOHy0Bzc4VK464",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNy0xMVQxMzowNzo1MFrODdCy5w==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T15:15:10Z"
       },
       "astral-sh/rye": {
-        "lastPublishedAt": "2025-02-26T23:56:38Z",
-        "lastReleaseId": "RE_kwDOJaJYQs4MFKG7"
+        "lastReleaseId": "RE_kwDOJaJYQs4MFKG7",
+        "lastPublishedAt": "2025-02-26T23:56:38Z"
       },
       "dsherret/dax": {
-        "lastPublishedAt": "2026-07-11T21:25:38Z",
         "lastReleaseId": "RE_kwDOHojuL84VBGk_",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMi0xMi0yOVQwMzo0NDozMlrOBTbpeg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-11T21:25:38Z"
       },
       "kaityo256/yaml_cv": {},
       "usememos/memos": {
-        "lastPublishedAt": "2026-06-05T00:06:46Z",
         "lastReleaseId": "RE_kwDOGgFgVM4T8qfp",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wNy0yNlQxNDo0MjozOFrOBsa4pg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-06-05T00:06:46Z"
       },
       "antimatter15/splat": {},
       "github/innovationgraph": {
-        "lastPublishedAt": "2026-07-07T15:32:48Z",
-        "lastReleaseId": "RE_kwDOKTvXgc4U4vQg"
+        "lastReleaseId": "RE_kwDOKTvXgc4U4vQg",
+        "lastPublishedAt": "2026-07-07T15:32:48Z"
       },
       "graphdeco-inria/gaussian-splatting": {},
       "SerialLain3170/AwesomeAnimeResearch": {},
       "nvim-treesitter/nvim-treesitter": {},
       "folke/lazy.nvim": {
-        "lastPublishedAt": "2025-11-06T09:27:15Z",
-        "lastReleaseId": "RE_kwDOIeNf4s4Pgj-S"
+        "lastReleaseId": "RE_kwDOIeNf4s4Pgj-S",
+        "lastPublishedAt": "2025-11-06T09:27:15Z"
       },
       "ralish/PSWinGlue": {},
       "pixiv/ios-tutorial": {},
       "adobe-fonts/source-han-code-jp": {
-        "lastPublishedAt": "2020-11-25T05:45:59Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTM0Mzk3Nzcw"
+        "lastReleaseId": "MDc6UmVsZWFzZTM0Mzk3Nzcw",
+        "lastPublishedAt": "2020-11-25T05:45:59Z"
       },
       "giginet/Scipio": {
-        "lastPublishedAt": "2026-03-16T03:08:48Z",
-        "lastReleaseId": "RE_kwDOHxfx2s4RuDRx"
+        "lastReleaseId": "RE_kwDOHxfx2s4RuDRx",
+        "lastPublishedAt": "2026-03-16T03:08:48Z"
       },
       "SortableJS/Sortable": {
-        "lastPublishedAt": "2026-02-11T22:31:13Z",
-        "lastReleaseId": "RE_kwDOAOmW084RA8L8"
+        "lastReleaseId": "RE_kwDOAOmW084RA8L8",
+        "lastPublishedAt": "2026-02-11T22:31:13Z"
       },
       "logica0419/remote-bmi": {},
       "romannurik/SlidesCodeHighlighter": {},
       "iamkun/dayjs": {
-        "lastPublishedAt": "2026-05-26T05:46:13Z",
-        "lastReleaseId": "RE_kwDOB675s84Tnz8N"
+        "lastReleaseId": "RE_kwDOB675s84Tnz8N",
+        "lastPublishedAt": "2026-05-26T05:46:13Z"
       },
       "renemarc/dotfiles": {},
       "wezterm/wezterm": {
-        "lastPublishedAt": "2024-02-03T18:32:26Z",
-        "lastReleaseId": "RE_kwDOBy-5T84IVOfy"
+        "lastReleaseId": "RE_kwDOBy-5T84IVOfy",
+        "lastPublishedAt": "2024-02-03T18:32:26Z"
       },
       "adobe-fonts/source-code-pro": {
-        "lastPublishedAt": "2023-04-12T09:30:08Z",
-        "lastReleaseId": "RE_kwDOAFHTXM4F6Fqe"
+        "lastReleaseId": "RE_kwDOAFHTXM4F6Fqe",
+        "lastPublishedAt": "2023-04-12T09:30:08Z"
       },
       "meta-llama/llama": {},
       "bufbuild/buf-examples": {},
-      "protocolbuffers/protobuf": {},
+      "protocolbuffers/protobuf": {
+        "lastReleaseId": "RE_kwDOAWRolM4UKWXK",
+        "lastPublishedAt": "2026-06-11T21:28:47Z",
+        "releaseHistoryCursor": null
+      },
       "hydescarf/Obsidian-Theme-Mado-Miniflow": {
-        "lastPublishedAt": "2024-03-07T07:09:53Z",
-        "lastReleaseId": "RE_kwDOHv3zj84Ip3eJ"
+        "lastReleaseId": "RE_kwDOHv3zj84Ip3eJ",
+        "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastPublishedAt": "2026-07-16T13:35:39Z",
         "lastReleaseId": "RE_kwDOGNEXps4VKmZ6",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMi0yMFQxNDoyODoyOFrOETXaTg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T13:35:39Z"
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastPublishedAt": "2026-07-10T01:07:35Z",
         "lastReleaseId": "RE_kwDOGkmMps4U-MlA",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0xMC0xMlQxMzo1ODowMVrODyJALQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T01:07:35Z"
       },
       "halostatue/fish-direnv": {},
       "Lightning-Universe/lightning-flash": {
-        "lastPublishedAt": "2023-06-30T13:17:42Z",
-        "lastReleaseId": "RE_kwDOE-ZCdc4GbEIn"
+        "lastReleaseId": "RE_kwDOE-ZCdc4GbEIn",
+        "lastPublishedAt": "2023-06-30T13:17:42Z"
       },
       "m-mizutani/masq": {
-        "lastPublishedAt": "2026-05-09T03:45:44Z",
-        "lastReleaseId": "RE_kwDOIrCKK84TEEY4"
+        "lastReleaseId": "RE_kwDOIrCKK84TEEY4",
+        "lastPublishedAt": "2026-05-09T03:45:44Z"
       },
       "gonzalezreal/swift-markdown-ui": {
-        "lastPublishedAt": "2024-10-13T08:52:05Z",
-        "lastReleaseId": "RE_kwDOEvbyWs4Kta_e"
+        "lastReleaseId": "RE_kwDOEvbyWs4Kta_e",
+        "lastPublishedAt": "2024-10-13T08:52:05Z"
       },
       "qeude/SwiftDown": {
-        "lastPublishedAt": "2024-02-19T08:41:13Z",
-        "lastReleaseId": "RE_kwDOFBlfTM4Ifyg6"
+        "lastReleaseId": "RE_kwDOFBlfTM4Ifyg6",
+        "lastPublishedAt": "2024-02-19T08:41:13Z"
       },
       "SwiftcordApp/Swiftcord": {
-        "lastPublishedAt": "2023-11-09T16:18:41Z",
-        "lastReleaseId": "RE_kwDOG4EAO84HrJtf"
+        "lastReleaseId": "RE_kwDOG4EAO84HrJtf",
+        "lastPublishedAt": "2023-11-09T16:18:41Z"
       },
       "tottie000/GopherIllustrations": {},
       "fannheyward/coc-pyright": {},
       "neoclide/coc.nvim": {
-        "lastPublishedAt": "2022-07-31T17:43:32Z",
-        "lastReleaseId": "RE_kwDOB9qoNs4EXkoA"
+        "lastReleaseId": "RE_kwDOB9qoNs4EXkoA",
+        "lastPublishedAt": "2022-07-31T17:43:32Z"
       },
       "wbthomason/packer.nvim": {},
       "Platane/snk": {
-        "lastPublishedAt": "2026-04-25T00:16:03Z",
-        "lastReleaseId": "RE_kwDOELBi6c4Sr1wQ"
+        "lastReleaseId": "RE_kwDOELBi6c4Sr1wQ",
+        "lastPublishedAt": "2026-04-25T00:16:03Z"
       },
       "lowlighter/metrics": {
-        "lastPublishedAt": "2023-09-13T02:39:37Z",
-        "lastReleaseId": "RE_kwDOEYPzZc4HNKi4"
+        "lastReleaseId": "RE_kwDOEYPzZc4HNKi4",
+        "lastPublishedAt": "2023-09-13T02:39:37Z"
       },
       "carloscuesta/gitmoji": {
-        "lastPublishedAt": "2025-03-12T16:38:48Z",
-        "lastReleaseId": "RE_kwDOBEPKjc4MPXd2"
+        "lastReleaseId": "RE_kwDOBEPKjc4MPXd2",
+        "lastPublishedAt": "2025-03-12T16:38:48Z"
       },
       "pressly/goose": {
-        "lastPublishedAt": "2026-06-30T12:44:02Z",
-        "lastReleaseId": "RE_kwDOAyHt9s4UrBGL"
+        "lastReleaseId": "RE_kwDOAyHt9s4UrBGL",
+        "lastPublishedAt": "2026-06-30T12:44:02Z"
       },
       "mantinedev/ui.mantine.dev": {},
       "container2wasm/container2wasm": {
-        "lastPublishedAt": "2026-03-16T13:05:15Z",
-        "lastReleaseId": "RE_kwDOI-CNzc4RunZY"
+        "lastReleaseId": "RE_kwDOI-CNzc4RunZY",
+        "lastPublishedAt": "2026-03-16T13:05:15Z"
       },
       "bufbuild/protovalidate": {
-        "lastPublishedAt": "2026-07-09T19:13:48Z",
-        "lastReleaseId": "RE_kwDOJnl4i84U9wEU"
+        "lastReleaseId": "RE_kwDOJnl4i84U9wEU",
+        "lastPublishedAt": "2026-07-09T19:13:48Z"
       },
       "bufbuild/protoc-gen-validate": {
-        "lastPublishedAt": "2026-02-18T16:25:44Z",
-        "lastReleaseId": "RE_kwDOBk0IP84RJvl-"
+        "lastReleaseId": "RE_kwDOBk0IP84RJvl-",
+        "lastPublishedAt": "2026-02-18T16:25:44Z"
       },
       "NapoliN/py-master-application-generator": {},
       "di-sukharev/opencommit": {
-        "lastPublishedAt": "2023-05-21T09:13:16Z",
-        "lastReleaseId": "RE_kwDOJF8sTc4GLqU4"
+        "lastReleaseId": "RE_kwDOJF8sTc4GLqU4",
+        "lastPublishedAt": "2023-05-21T09:13:16Z"
       },
       "goldbergyoni/nodebestpractices": {},
       "18alantom/strawberry": {
-        "lastPublishedAt": "2023-07-20T16:11:40Z",
-        "lastReleaseId": "RE_kwDOJUNCQ84GvClv"
+        "lastReleaseId": "RE_kwDOJUNCQ84GvClv",
+        "lastPublishedAt": "2023-07-20T16:11:40Z"
       },
       "kilimchoi/engineering-blogs": {},
       "traPtitech/awesome-trap": {},
       "yoavbls/pretty-ts-errors": {
-        "lastPublishedAt": "2026-03-21T19:45:38Z",
-        "lastReleaseId": "RE_kwDOH6RL-s4R3nyg"
+        "lastReleaseId": "RE_kwDOH6RL-s4R3nyg",
+        "lastPublishedAt": "2026-03-21T19:45:38Z"
       },
       "vpavlenko/study-music": {},
       "lxieyang/chrome-extension-boilerplate-react": {
-        "lastPublishedAt": "2021-10-27T01:17:08Z",
-        "lastReleaseId": "RE_kwDOC8zbJs4DGwDl"
+        "lastReleaseId": "RE_kwDOC8zbJs4DGwDl",
+        "lastPublishedAt": "2021-10-27T01:17:08Z"
       },
       "adobe/react-spectrum": {
-        "lastPublishedAt": "2026-06-18T17:30:37Z",
-        "lastReleaseId": "RE_kwDODGtc284UW6Rs"
+        "lastReleaseId": "RE_kwDODGtc284UW6Rs",
+        "lastPublishedAt": "2026-06-18T17:30:37Z"
       },
       "go-webauthn/webauthn": {
-        "lastPublishedAt": "2026-05-22T12:32:17Z",
-        "lastReleaseId": "RE_kwDOGiIVa84Tin1a"
+        "lastReleaseId": "RE_kwDOGiIVa84Tin1a",
+        "lastPublishedAt": "2026-05-22T12:32:17Z"
       },
       "rasbt/machine-learning-book": {
-        "lastPublishedAt": "2022-02-25T15:32:14Z",
-        "lastReleaseId": "RE_kwDOGjX0T84Dmw-G"
+        "lastReleaseId": "RE_kwDOGjX0T84Dmw-G",
+        "lastPublishedAt": "2022-02-25T15:32:14Z"
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastPublishedAt": "2026-07-16T15:39:53Z",
         "lastReleaseId": "RE_kwDOEd6VoM4VK8aC",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wMy0wNFQxNzo1MDoxMFrODCO4uw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T15:39:53Z"
       },
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastPublishedAt": "2026-06-28T10:51:20Z",
-        "lastReleaseId": "RE_kwDOE4c3is4Undi9"
+        "lastReleaseId": "RE_kwDOE4c3is4Undi9",
+        "lastPublishedAt": "2026-06-28T10:51:20Z"
       },
       "mgechev/revive": {
-        "lastPublishedAt": "2026-03-06T10:03:57Z",
-        "lastReleaseId": "RE_kwDOBbx18s4RhBh2"
+        "lastReleaseId": "RE_kwDOBbx18s4RhBh2",
+        "lastPublishedAt": "2026-03-06T10:03:57Z"
       },
       "wakatime/macos-wakatime": {
-        "lastPublishedAt": "2026-05-22T04:11:50Z",
-        "lastReleaseId": "RE_kwDOJF91uM4ThooS"
+        "lastReleaseId": "RE_kwDOJF91uM4ThooS",
+        "lastPublishedAt": "2026-05-22T04:11:50Z"
       },
       "typst/typst": {
-        "lastPublishedAt": "2026-07-17T11:12:06Z",
         "lastReleaseId": "RE_kwDODI8QW84VMcAq",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMy0wMy0yMVQxNzoyMDoxNVrOBb6r5A==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-17T11:12:06Z"
       },
       "adrianhajdin/project_3D_developer_portfolio": {},
       "yuroyoro/goast-viewer": {},
@@ -2714,349 +2687,353 @@
       "GoogleContainerTools/distroless": {},
       "Ashutosh00710/github-readme-activity-graph": {},
       "satackey/action-docker-layer-caching": {
-        "lastPublishedAt": "2020-12-14T13:39:04Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTM1MjM1ODUy"
+        "lastReleaseId": "MDc6UmVsZWFzZTM1MjM1ODUy",
+        "lastPublishedAt": "2020-12-14T13:39:04Z"
       },
       "pointfreeco/swift-composable-architecture": {
-        "lastPublishedAt": "2026-06-09T16:51:22Z",
-        "lastReleaseId": "RE_kwDOD48kk84UEkkx"
+        "lastReleaseId": "RE_kwDOD48kk84UEkkx",
+        "lastPublishedAt": "2026-06-09T16:51:22Z"
       },
       "jpki/myna": {
-        "lastPublishedAt": "2026-05-09T03:21:53Z",
-        "lastReleaseId": "RE_kwDOA6cUY84TECqR"
+        "lastReleaseId": "RE_kwDOA6cUY84TECqR",
+        "lastPublishedAt": "2026-05-09T03:21:53Z"
       },
       "SvenTiigi/WhatsNewKit": {
-        "lastPublishedAt": "2024-04-30T15:15:55Z",
-        "lastReleaseId": "RE_kwDOCAGCmc4JJqh3"
+        "lastReleaseId": "RE_kwDOCAGCmc4JJqh3",
+        "lastPublishedAt": "2024-04-30T15:15:55Z"
       },
       "aheze/Setting": {
-        "lastPublishedAt": "2023-04-29T05:36:16Z",
-        "lastReleaseId": "RE_kwDOJBK-Bc4GCqX8"
+        "lastReleaseId": "RE_kwDOJBK-Bc4GCqX8",
+        "lastPublishedAt": "2023-04-29T05:36:16Z"
       },
       "google/zx": {
-        "lastPublishedAt": "2025-10-19T13:47:33Z",
-        "lastReleaseId": "RE_kwDOFblv384PPDVk"
+        "lastReleaseId": "RE_kwDOFblv384PPDVk",
+        "lastPublishedAt": "2025-10-19T13:47:33Z"
       },
       "azooKey/azooKey": {
-        "lastPublishedAt": "2025-10-14T15:58:07Z",
-        "lastReleaseId": "RE_kwDOIqKs2s4PKjJp"
+        "lastReleaseId": "RE_kwDOIqKs2s4PKjJp",
+        "lastPublishedAt": "2025-10-14T15:58:07Z"
       },
       "nilbuild/developer-roadmap": {
-        "lastPublishedAt": "2023-01-05T18:38:46Z",
-        "lastReleaseId": "RE_kwDOBRIuNs4FP3D8"
+        "lastReleaseId": "RE_kwDOBRIuNs4FP3D8",
+        "lastPublishedAt": "2023-01-05T18:38:46Z"
       },
       "ben-rogerson/twin.macro": {
-        "lastPublishedAt": "2024-01-19T05:36:48Z",
-        "lastReleaseId": "RE_kwDODmWHRs4INJt3"
+        "lastReleaseId": "RE_kwDODmWHRs4INJt3",
+        "lastPublishedAt": "2024-01-19T05:36:48Z"
       },
       "emilk/egui": {
-        "lastPublishedAt": "2026-06-25T18:44:37Z",
-        "lastReleaseId": "RE_kwDOCd2s284Ujvgs"
+        "lastReleaseId": "RE_kwDOCd2s284Ujvgs",
+        "lastPublishedAt": "2026-06-25T18:44:37Z"
       },
       "pmndrs/react-three-fiber": {
-        "lastPublishedAt": "2026-04-28T20:05:51Z",
-        "lastReleaseId": "RE_kwDOCkh5xs4Sw5nz"
+        "lastReleaseId": "RE_kwDOCkh5xs4Sw5nz",
+        "lastPublishedAt": "2026-04-28T20:05:51Z"
       },
       "jdecked/twemoji": {
-        "lastPublishedAt": "2026-06-01T22:21:37Z",
-        "lastReleaseId": "RE_kwDOD6SBCc4T1jkF"
+        "lastReleaseId": "RE_kwDOD6SBCc4T1jkF",
+        "lastPublishedAt": "2026-06-01T22:21:37Z"
       },
       "YusukeHosonuma/Effective-SwiftUI": {},
       "google/GoogleSignIn-iOS": {
-        "lastPublishedAt": "2026-06-15T18:34:31Z",
-        "lastReleaseId": "RE_kwDOFO5EPM4UMNTM"
+        "lastReleaseId": "RE_kwDOFO5EPM4UMNTM",
+        "lastPublishedAt": "2026-06-15T18:34:31Z"
       },
       "akawashiro/jendeley": {
-        "lastPublishedAt": "2024-12-16T23:07:19Z",
-        "lastReleaseId": "RE_kwDOIfNY4s4LY0WM"
+        "lastReleaseId": "RE_kwDOIfNY4s4LY0WM",
+        "lastPublishedAt": "2024-12-16T23:07:19Z"
       },
       "go-gorm/gen": {
-        "lastPublishedAt": "2026-06-02T02:43:39Z",
-        "lastReleaseId": "RE_kwDOFv84js4T1y-O"
+        "lastReleaseId": "RE_kwDOFv84js4T1y-O",
+        "lastPublishedAt": "2026-06-02T02:43:39Z"
       },
       "google/styleguide": {},
       "tsconfig/bases": {},
       "Hironsan/asari": {
-        "lastPublishedAt": "2022-10-18T22:27:37Z",
-        "lastReleaseId": "RE_kwDOChg0784EyMiD"
+        "lastReleaseId": "RE_kwDOChg0784EyMiD",
+        "lastPublishedAt": "2022-10-18T22:27:37Z"
       },
       "shiroyagicorp/japanese-word2vec-model-builder": {},
       "CodeEditApp/CodeEdit": {
-        "lastPublishedAt": "2025-08-26T20:35:39Z",
-        "lastReleaseId": "RE_kwDOG-z8eM4Odrl4"
+        "lastReleaseId": "RE_kwDOG-z8eM4Odrl4",
+        "lastPublishedAt": "2025-08-26T20:35:39Z"
       },
       "pastak/scrapbox-converter": {
-        "lastPublishedAt": "2023-06-15T13:41:12Z",
-        "lastReleaseId": "RE_kwDOBJUqqM4GeyHZ"
+        "lastReleaseId": "RE_kwDOBJUqqM4GeyHZ",
+        "lastPublishedAt": "2023-06-15T13:41:12Z"
       },
       "ThreeDotsLabs/wild-workouts-go-ddd-example": {
-        "lastPublishedAt": "2021-04-01T12:49:07Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTQwODIzNTEy"
+        "lastReleaseId": "MDc6UmVsZWFzZTQwODIzNTEy",
+        "lastPublishedAt": "2021-04-01T12:49:07Z"
       },
       "josharian/impl": {},
       "microsoft/winget-pkgs": {},
       "missive/emoji-mart": {
-        "lastPublishedAt": "2024-04-25T14:21:36Z",
-        "lastReleaseId": "RE_kwDOA8K0Z84JG9pl"
+        "lastReleaseId": "RE_kwDOA8K0Z84JG9pl",
+        "lastPublishedAt": "2024-04-25T14:21:36Z"
       },
-      "spacedriveapp/spacedrive": {},
-      "jetify-com/devbox": {},
+      "spacedriveapp/spacedrive": {
+        "lastReleaseId": "RE_kwDOGHuIZc4MHWU5",
+        "lastPublishedAt": "2025-03-24T14:16:59Z",
+        "releaseHistoryCursor": null
+      },
+      "jetify-com/devbox": {
+        "lastReleaseId": "RE_kwDOH1-qgs4UfTQw",
+        "lastPublishedAt": "2026-06-23T20:35:44Z",
+        "releaseHistoryCursor": null
+      },
       "fedibird/mastodon": {},
       "shiguredo/websocket": {},
       "crossbario/autobahn-testsuite": {},
       "google/rune": {},
       "adobe-fonts/source-han-sans": {
-        "lastPublishedAt": "2025-06-18T21:21:40Z",
-        "lastReleaseId": "RE_kwDOAUuhVM4NfOU6"
+        "lastReleaseId": "RE_kwDOAUuhVM4NfOU6",
+        "lastPublishedAt": "2025-06-18T21:21:40Z"
       },
       "foambubble/foam": {
-        "lastPublishedAt": "2026-05-14T19:08:40Z",
-        "lastReleaseId": "RE_kwDOEE38qM4TPLzM"
+        "lastReleaseId": "RE_kwDOEE38qM4TPLzM",
+        "lastPublishedAt": "2026-05-14T19:08:40Z"
       },
       "maruel/panicparse": {
-        "lastPublishedAt": "2024-11-29T00:33:13Z",
-        "lastReleaseId": "RE_kwDOAcxRo84LNm_6"
+        "lastReleaseId": "RE_kwDOAcxRo84LNm_6",
+        "lastPublishedAt": "2024-11-29T00:33:13Z"
       },
       "marp-team/marp": {},
       "go-rel/rel": {
-        "lastPublishedAt": "2024-03-04T06:16:21Z",
-        "lastReleaseId": "RE_kwDODLQBlc4Inif6"
+        "lastReleaseId": "RE_kwDODLQBlc4Inif6",
+        "lastPublishedAt": "2024-03-04T06:16:21Z"
       },
       "TokamakUI/Tokamak": {
-        "lastPublishedAt": "2022-11-29T02:00:33Z",
-        "lastReleaseId": "RE_kwDOCOCTVc4FB9HZ"
+        "lastReleaseId": "RE_kwDOCOCTVc4FB9HZ",
+        "lastPublishedAt": "2022-11-29T02:00:33Z"
       },
       "google/slowjam": {
-        "lastPublishedAt": "2025-01-14T18:57:10Z",
-        "lastReleaseId": "RE_kwDOD2XBxc4Lm73v"
+        "lastReleaseId": "RE_kwDOD2XBxc4Lm73v",
+        "lastPublishedAt": "2025-01-14T18:57:10Z"
       },
       "jstarks/npiperelay": {
-        "lastPublishedAt": "2020-07-02T20:40:44Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTI4MTc1ODU4"
+        "lastReleaseId": "MDc6UmVsZWFzZTI4MTc1ODU4",
+        "lastPublishedAt": "2020-07-02T20:40:44Z"
       },
       "manifoldco/promptui": {
-        "lastPublishedAt": "2021-10-30T11:06:18Z",
-        "lastReleaseId": "RE_kwDOBmMM1s4DHwuy"
+        "lastReleaseId": "RE_kwDOBmMM1s4DHwuy",
+        "lastPublishedAt": "2021-10-30T11:06:18Z"
       },
       "ikawaha/kagome": {
-        "lastPublishedAt": "2026-03-03T14:34:57Z",
-        "lastReleaseId": "RE_kwDOAUPqjs4RcE9l"
+        "lastReleaseId": "RE_kwDOAUPqjs4RcE9l",
+        "lastPublishedAt": "2026-03-03T14:34:57Z"
       },
       "fish-shell/fish-shell": {
-        "lastPublishedAt": "2026-07-13T23:48:39Z",
         "lastReleaseId": "RE_kwDOAEFNgs4VEdjN",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAxNy0xMC0zMVQxMjoyNzoxNVrOAH8Kbg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-13T23:48:39Z"
       },
       "ichitaro/carla-trail": {},
       "oliverschwendener/ueli": {
-        "lastPublishedAt": "2026-06-22T06:18:51Z",
-        "lastReleaseId": "RE_kwDOBDSf084UbSb9"
+        "lastReleaseId": "RE_kwDOBDSf084UbSb9",
+        "lastPublishedAt": "2026-06-22T06:18:51Z"
       },
       "ory/dockertest": {
-        "lastPublishedAt": "2026-04-14T13:49:49Z",
-        "lastReleaseId": "RE_kwDOAfCskc4SaL3I"
+        "lastReleaseId": "RE_kwDOAfCskc4SaL3I",
+        "lastPublishedAt": "2026-04-14T13:49:49Z"
       },
       "felixge/fgtrace": {
-        "lastPublishedAt": "2022-09-21T09:56:26Z",
-        "lastReleaseId": "RE_kwDOIBAP9s4EomiB"
+        "lastReleaseId": "RE_kwDOIBAP9s4EomiB",
+        "lastPublishedAt": "2022-09-21T09:56:26Z"
       },
       "crane-hiromu/PadOSDC_Japan_App": {
-        "lastPublishedAt": "2026-02-14T16:34:44Z",
-        "lastReleaseId": "RE_kwDOHxs9rM4RB0iK"
+        "lastReleaseId": "RE_kwDOHxs9rM4RB0iK",
+        "lastPublishedAt": "2026-02-14T16:34:44Z"
       },
       "SwiftGen/SwiftGen": {
-        "lastPublishedAt": "2024-03-02T20:59:46Z",
-        "lastReleaseId": "RE_kwDOAlWj5s4InRKf"
+        "lastReleaseId": "RE_kwDOAlWj5s4InRKf",
+        "lastPublishedAt": "2024-03-02T20:59:46Z"
       },
       "pointfreeco/isowords": {},
       "oven-sh/bun": {
-        "lastPublishedAt": "2026-05-13T03:48:28Z",
-        "lastReleaseId": "RE_kwDOFVKCyc4TFst1"
+        "lastReleaseId": "RE_kwDOFVKCyc4TFst1",
+        "lastPublishedAt": "2026-05-13T03:48:28Z"
       },
       "YusukeHosonuma/SwiftUI-Simulator": {
-        "lastPublishedAt": "2022-05-05T04:09:26Z",
-        "lastReleaseId": "RE_kwDOHJzlos4D8EeG"
+        "lastReleaseId": "RE_kwDOHJzlos4D8EeG",
+        "lastPublishedAt": "2022-05-05T04:09:26Z"
       },
       "erg-lang/erg": {
-        "lastPublishedAt": "2025-08-12T18:32:11Z",
-        "lastReleaseId": "RE_kwDOHzHsRM4ORdHc"
+        "lastReleaseId": "RE_kwDOHzHsRM4ORdHc",
+        "lastPublishedAt": "2025-08-12T18:32:11Z"
       },
       "gohandson/accountbook-ja": {},
       "vugu/vugu": {},
       "charmbracelet/gum": {
-        "lastPublishedAt": "2025-09-05T17:17:48Z",
-        "lastReleaseId": "RE_kwDOHe7bmc4OnHrw"
+        "lastReleaseId": "RE_kwDOHe7bmc4OnHrw",
+        "lastPublishedAt": "2025-09-05T17:17:48Z"
       },
       "podhmo/flagstruct": {
-        "lastPublishedAt": "2025-10-13T10:01:09Z",
-        "lastReleaseId": "RE_kwDOGr-yN84PJBhP"
+        "lastReleaseId": "RE_kwDOGr-yN84PJBhP",
+        "lastPublishedAt": "2025-10-13T10:01:09Z"
       },
       "chaosprint/glicol": {
-        "lastPublishedAt": "2022-05-11T17:34:02Z",
-        "lastReleaseId": "RE_kwDOEKeme84D-GmK"
+        "lastReleaseId": "RE_kwDOEKeme84D-GmK",
+        "lastPublishedAt": "2022-05-11T17:34:02Z"
       },
       "loov/goda": {
-        "lastPublishedAt": "2026-07-02T20:24:31Z",
-        "lastReleaseId": "RE_kwDOCPvJPM4Uwj1-"
+        "lastReleaseId": "RE_kwDOCPvJPM4Uwj1-",
+        "lastPublishedAt": "2026-07-02T20:24:31Z"
       },
       "chromedp/chromedp": {
-        "lastPublishedAt": "2026-04-01T00:05:30Z",
-        "lastReleaseId": "RE_kwDOBMN_y84SHfwz"
+        "lastReleaseId": "RE_kwDOBMN_y84SHfwz",
+        "lastPublishedAt": "2026-04-01T00:05:30Z"
       },
       "tkuchiki/slp": {
-        "lastPublishedAt": "2023-12-04T14:09:56Z",
-        "lastReleaseId": "RE_kwDOHqqFT84H5fZ5"
+        "lastReleaseId": "RE_kwDOHqqFT84H5fZ5",
+        "lastPublishedAt": "2023-12-04T14:09:56Z"
       },
       "sachaos/todoist": {
-        "lastPublishedAt": "2026-05-02T06:00:52Z",
-        "lastReleaseId": "RE_kwDOBD9I4s4S37Pu"
+        "lastReleaseId": "RE_kwDOBD9I4s4S37Pu",
+        "lastPublishedAt": "2026-05-02T06:00:52Z"
       },
       "elastic/go-elasticsearch": {
-        "lastPublishedAt": "2026-06-22T11:29:37Z",
-        "lastReleaseId": "RE_kwDOBSXbR84Ub6GN"
+        "lastReleaseId": "RE_kwDOBSXbR84Ub6GN",
+        "lastPublishedAt": "2026-06-22T11:29:37Z"
       },
       "peaks-cc/iOS_architecture_samplecode": {},
       "craftdocs/craft-extension-inspirations": {},
-      "bytedance/sonic": {},
+      "bytedance/sonic": {
+        "lastReleaseId": "RE_kwDOFhZBDs4Stuj4",
+        "lastPublishedAt": "2026-04-27T09:59:59Z",
+        "releaseHistoryCursor": null
+      },
       "kaz/pprotein": {
-        "lastPublishedAt": "2024-11-07T01:45:44Z",
-        "lastReleaseId": "RE_kwDOEeCQJc4K-Go2"
+        "lastReleaseId": "RE_kwDOEeCQJc4K-Go2",
+        "lastPublishedAt": "2024-11-07T01:45:44Z"
       },
       "justjanne/powerline-go": {
-        "lastPublishedAt": "2026-01-14T14:30:40Z",
-        "lastReleaseId": "RE_kwDOBgTAGc4Qfshq"
+        "lastReleaseId": "RE_kwDOBgTAGc4Qfshq",
+        "lastPublishedAt": "2026-01-14T14:30:40Z"
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastPublishedAt": "2026-07-16T07:22:36Z",
-        "lastReleaseId": "RE_kwDOHm9BJM4VJ7Ip",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0xMC0xN1QwNzo0Nzo0OFrODzak2w==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOHm9BJM4VPYNi",
+        "lastPublishedAt": "2026-07-19T14:02:01Z",
+        "releaseHistoryCursor": null
       },
       "samber/do": {
-        "lastPublishedAt": "2025-09-21T19:05:02Z",
-        "lastReleaseId": "RE_kwDOHWkejc4O1Zxb"
+        "lastReleaseId": "RE_kwDOHWkejc4VQ2c9",
+        "lastPublishedAt": "2026-07-20T13:25:06Z",
+        "releaseHistoryCursor": null
       },
       "evrone/go-clean-template": {
-        "lastPublishedAt": "2026-07-11T17:24:34Z",
-        "lastReleaseId": "RE_kwDOE7TOLM4VA8eo",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wOC0yM1QxMjo0Njo1NlrOAuCqnQ==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOE7TOLM4VO0_A",
+        "lastPublishedAt": "2026-07-18T22:38:23Z",
+        "releaseHistoryCursor": null
       },
       "uber-go/guide": {
-        "lastPublishedAt": "2023-05-09T18:28:17Z",
-        "lastReleaseId": "RE_kwDOCVvCKc4GGlFd"
+        "lastReleaseId": "RE_kwDOCVvCKc4GGlFd",
+        "lastPublishedAt": "2023-05-09T18:28:17Z"
       },
       "uber-go/atomic": {
-        "lastPublishedAt": "2023-05-03T21:29:59Z",
-        "lastReleaseId": "RE_kwDOA4xPTM4GESA7"
+        "lastReleaseId": "RE_kwDOA4xPTM4GESA7",
+        "lastPublishedAt": "2023-05-03T21:29:59Z"
       },
       "charmbracelet/lipgloss": {
-        "lastPublishedAt": "2026-07-03T02:07:39Z",
-        "lastReleaseId": "RE_kwDOFHnna84Uw82v"
+        "lastReleaseId": "RE_kwDOFHnna84Uw82v",
+        "lastPublishedAt": "2026-07-03T02:07:39Z"
       },
       "charmbracelet/bubbletea": {
-        "lastPublishedAt": "2026-07-03T01:56:48Z",
-        "lastReleaseId": "RE_kwDODeVIac4Uw8F3"
+        "lastReleaseId": "RE_kwDODeVIac4Uw8F3",
+        "lastPublishedAt": "2026-07-03T01:56:48Z"
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastPublishedAt": "2026-07-09T08:29:44Z",
-        "lastReleaseId": "RE_kwDOAcjBfM4U8gre"
+        "lastReleaseId": "RE_kwDOAcjBfM4U8gre",
+        "lastPublishedAt": "2026-07-09T08:29:44Z"
       },
       "spf13/cobra-cli": {
-        "lastPublishedAt": "2022-03-02T23:33:52Z",
-        "lastReleaseId": "RE_kwDOG0Z9DM4DoGXd"
+        "lastReleaseId": "RE_kwDOG0Z9DM4DoGXd",
+        "lastPublishedAt": "2022-03-02T23:33:52Z"
       },
       "github-linguist/linguist": {
-        "lastPublishedAt": "2026-06-08T11:02:58Z",
-        "lastReleaseId": "RE_kwDOABpTD84UBV3j"
+        "lastReleaseId": "RE_kwDOABpTD84UBV3j",
+        "lastPublishedAt": "2026-06-08T11:02:58Z"
       },
       "ikatyang/emoji-cheat-sheet": {},
       "dannyfritz/commit-message-emoji": {
-        "lastPublishedAt": "2017-09-18T14:16:52Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTc3OTI3NTM="
+        "lastReleaseId": "MDc6UmVsZWFzZTc3OTI3NTM=",
+        "lastPublishedAt": "2017-09-18T14:16:52Z"
       },
       "yonaskolb/XcodeGen": {
-        "lastPublishedAt": "2026-07-16T06:43:31Z",
         "lastReleaseId": "RE_kwDOBdMHVM4VJ3ap",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAxOS0xMC0xNFQxMDoxNzowOVrOATuDxA==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-16T06:43:31Z"
       },
       "darquro/GithubViewer": {},
       "yukikurage/1-day-reminder": {
-        "lastPublishedAt": "2022-05-09T06:40:46Z",
-        "lastReleaseId": "RE_kwDOHQBA684D9DsT"
+        "lastReleaseId": "RE_kwDOHQBA684D9DsT",
+        "lastPublishedAt": "2022-05-09T06:40:46Z"
       },
       "rome/tools": {
-        "lastPublishedAt": "2023-08-09T21:08:25Z",
-        "lastReleaseId": "RE_kwDODmmpGM4G53CD"
+        "lastReleaseId": "RE_kwDODmmpGM4G53CD",
+        "lastPublishedAt": "2023-08-09T21:08:25Z"
       },
       "twitter/twemoji": {
-        "lastPublishedAt": "2022-03-31T03:08:55Z",
-        "lastReleaseId": "RE_kwDOAZEt484DxKRb"
+        "lastReleaseId": "RE_kwDOAZEt484DxKRb",
+        "lastPublishedAt": "2022-03-31T03:08:55Z"
       },
       "motoki317/sc": {
-        "lastPublishedAt": "2025-03-14T14:38:07Z",
-        "lastReleaseId": "RE_kwDOHG9FN84MRUk-"
+        "lastReleaseId": "RE_kwDOHG9FN84MRUk-",
+        "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastPublishedAt": "2026-07-10T04:24:51Z",
         "lastReleaseId": "RE_kwDOF0rAvc4U-YH5",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMS0wNlQwNjozNjoyMVrOCBvxRg==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-10T04:24:51Z"
       },
       "magefile/mage": {
-        "lastPublishedAt": "2026-04-23T01:24:20Z",
-        "lastReleaseId": "RE_kwDOBjbmhc4SoHqx"
+        "lastReleaseId": "RE_kwDOBjbmhc4SoHqx",
+        "lastPublishedAt": "2026-04-23T01:24:20Z"
       },
       "task4233/dl": {
-        "lastPublishedAt": "2022-03-29T16:56:36Z",
-        "lastReleaseId": "RE_kwDOHAoX784Dwjwk"
+        "lastReleaseId": "RE_kwDOHAoX784Dwjwk",
+        "lastPublishedAt": "2022-03-29T16:56:36Z"
       },
       "guptarohit/asciigraph": {
-        "lastPublishedAt": "2026-06-21T18:00:31Z",
-        "lastReleaseId": "RE_kwDOCDRT9s4Ua0Av"
+        "lastReleaseId": "RE_kwDOCDRT9s4Ua0Av",
+        "lastPublishedAt": "2026-06-21T18:00:31Z"
       },
       "samber/lo": {
-        "lastPublishedAt": "2026-03-02T15:10:26Z",
-        "lastReleaseId": "RE_kwDOG7v3C84RaVb-"
+        "lastReleaseId": "RE_kwDOG7v3C84RaVb-",
+        "lastPublishedAt": "2026-03-02T15:10:26Z"
       },
       "wesmoncrief/obsidian-todoist-text": {
-        "lastPublishedAt": "2026-04-01T15:16:33Z",
-        "lastReleaseId": "RE_kwDOGy1Lsc4SIpyA"
+        "lastReleaseId": "RE_kwDOGy1Lsc4SIpyA",
+        "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastPublishedAt": "2026-07-17T11:58:09Z",
-        "lastReleaseId": "RE_kwDOCnR4Zc4VMtCI",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNi0wMS0yNFQwOTowOTowNFrOEKqEpw==",
-        "releaseCursorComplete": true
+        "lastReleaseId": "RE_kwDOCnR4Zc4VOscc",
+        "lastPublishedAt": "2026-07-18T19:06:46Z",
+        "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
       "honkit/honkit": {
-        "lastPublishedAt": "2026-06-14T03:31:41Z",
-        "lastReleaseId": "RE_kwDOEDZuds4UNin4"
+        "lastReleaseId": "RE_kwDOEDZuds4UNin4",
+        "lastPublishedAt": "2026-06-14T03:31:41Z"
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastPublishedAt": "2026-07-01T10:58:15Z",
-        "lastReleaseId": "RE_kwDOBoRDs84UtNOi"
+        "lastReleaseId": "RE_kwDOBoRDs84UtNOi",
+        "lastPublishedAt": "2026-07-01T10:58:15Z"
       },
       "ryanoasis/nerd-fonts": {
-        "lastPublishedAt": "2025-04-24T18:23:06Z",
-        "lastReleaseId": "RE_kwDOAaTAks4MyTTv"
+        "lastReleaseId": "RE_kwDOAaTAks4MyTTv",
+        "lastPublishedAt": "2025-04-24T18:23:06Z"
       },
       "Rigellute/spotify-tui": {
-        "lastPublishedAt": "2021-08-24T10:07:21Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTQ4MzQxODAw"
+        "lastReleaseId": "MDc6UmVsZWFzZTQ4MzQxODAw",
+        "lastPublishedAt": "2021-08-24T10:07:21Z"
       },
       "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee": {},
       "yamadashy/tech-blog-rss-feed": {},
       "laobubu/HyperMD": {},
       "nektos/act": {
-        "lastPublishedAt": "2026-06-01T03:22:22Z",
-        "lastReleaseId": "RE_kwDOCcSpD84TzgUK"
+        "lastReleaseId": "RE_kwDOCcSpD84TzgUK",
+        "lastPublishedAt": "2026-06-01T03:22:22Z"
       },
       "ibraheemdev/modern-unix": {},
       "taku910/mecab": {},
@@ -3064,117 +3041,109 @@
       "CyberAgentHack/web-speed-hackathon-2021": {},
       "Maki-Daisuke/go-yarex": {},
       "traPtitech/traq-ws-bot": {
-        "lastPublishedAt": "2024-08-26T06:56:42Z",
-        "lastReleaseId": "RE_kwDOGThff84KPsWs"
+        "lastReleaseId": "RE_kwDOGThff84KPsWs",
+        "lastPublishedAt": "2024-08-26T06:56:42Z"
       },
       "tenntenn/goplayground": {
-        "lastPublishedAt": "2022-01-06T05:22:02Z",
-        "lastReleaseId": "RE_kwDOB5WLtc4DXk27"
+        "lastReleaseId": "RE_kwDOB5WLtc4DXk27",
+        "lastPublishedAt": "2022-01-06T05:22:02Z"
       },
       "Milkdown/milkdown": {
-        "lastPublishedAt": "2026-07-12T16:15:09Z",
         "lastReleaseId": "RE_kwDOFJ5a6s4VByqv",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNC0wMi0xM1QxNzoxNDo1NlrOCHR7WQ==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-12T16:15:09Z"
       },
       "remarkjs/remark": {
-        "lastPublishedAt": "2024-04-30T12:32:19Z",
-        "lastReleaseId": "RE_kwDOAVUdDs4JJhA3"
+        "lastReleaseId": "RE_kwDOAVUdDs4JJhA3",
+        "lastPublishedAt": "2024-04-30T12:32:19Z"
       },
       "lowlighter/gracidea": {},
       "vlang/v": {
-        "lastPublishedAt": "2026-07-12T22:56:06Z",
         "lastReleaseId": "RE_kwDOCh0R8c4VCEXp",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyNS0wNC0xNVQxMjowNjo1N1rODKow-w==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-12T22:56:06Z"
       },
       "season1618/PentagonScript": {},
       "Mojashi/better-t2schola": {},
       "logica0419/oauth_ws_practice": {},
       "spf13/cobra": {
-        "lastPublishedAt": "2025-12-04T00:07:49Z",
-        "lastReleaseId": "RE_kwDOAL_eiM4P7iU2"
+        "lastReleaseId": "RE_kwDOAL_eiM4P7iU2",
+        "lastPublishedAt": "2025-12-04T00:07:49Z"
       },
       "x-motemen/gore": {
-        "lastPublishedAt": "2026-06-16T04:59:26Z",
-        "lastReleaseId": "RE_kwDOAdOsyM4UQq7d"
+        "lastReleaseId": "RE_kwDOAdOsyM4UQq7d",
+        "lastPublishedAt": "2026-06-16T04:59:26Z"
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastPublishedAt": "2026-06-26T16:32:04Z",
-        "lastReleaseId": "RE_kwDOAZfQX84UlsE4"
+        "lastReleaseId": "RE_kwDOAZfQX84VQQHz",
+        "lastPublishedAt": "2026-07-20T08:31:38Z",
+        "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
-        "lastPublishedAt": "2026-07-17T14:11:21Z",
         "lastReleaseId": "RE_kwDOCk_pzs4S3NTK",
-        "releaseCursor": "Y3Vyc29yOnYyOpK0MjAyMS0wMS0wNVQxNzowNjo1OVrOAiZ7pw==",
-        "releaseCursorComplete": true
+        "lastPublishedAt": "2026-07-17T14:11:21Z"
       },
       "AMAI-GmbH/AI-Expert-Roadmap": {},
       "zaddok/moodle": {},
       "mattn/go-gimei": {},
       "OpenWonderLabs/SwitchBotAPI": {},
       "jfeliu007/goplantuml": {
-        "lastPublishedAt": "2025-09-16T20:22:29Z",
-        "lastReleaseId": "RE_kwDOCz9c8c4OxKU2"
+        "lastReleaseId": "RE_kwDOCz9c8c4OxKU2",
+        "lastPublishedAt": "2025-09-16T20:22:29Z"
       },
       "bxcodec/go-clean-arch": {
-        "lastPublishedAt": "2019-04-30T06:53:03Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTE3MDU4NTky"
+        "lastReleaseId": "MDc6UmVsZWFzZTE3MDU4NTky",
+        "lastPublishedAt": "2019-04-30T06:53:03Z"
       },
       "google/wire": {
-        "lastPublishedAt": "2025-08-22T13:56:56Z",
-        "lastReleaseId": "RE_kwDOCYJk2M4Oakw4"
+        "lastReleaseId": "RE_kwDOCYJk2M4Oakw4",
+        "lastPublishedAt": "2025-08-22T13:56:56Z"
       },
       "fuji8/gotypeconverter": {},
       "Masterminds/sprig": {
-        "lastPublishedAt": "2024-08-29T20:44:55Z",
-        "lastReleaseId": "RE_kwDOAN7caM4KSml0"
+        "lastReleaseId": "RE_kwDOAN7caM4KSml0",
+        "lastPublishedAt": "2024-08-29T20:44:55Z"
       },
       "dersvenhesse/awesome-scriptable": {},
       "SSlime-s/afk-animation": {},
       "o2sh/onefetch": {
-        "lastPublishedAt": "2026-03-19T10:22:47Z",
-        "lastReleaseId": "RE_kwDOCN71Oc4R0Kxx"
+        "lastReleaseId": "RE_kwDOCN71Oc4R0Kxx",
+        "lastPublishedAt": "2026-03-19T10:22:47Z"
       },
       "tesso57/WinterHack2020": {},
       "philc/vimium": {},
       "LunarVim/LunarVim": {
-        "lastPublishedAt": "2024-05-15T07:58:55Z",
-        "lastReleaseId": "RE_kwDOCKVLsM4JRvsL"
+        "lastReleaseId": "RE_kwDOCKVLsM4JRvsL",
+        "lastPublishedAt": "2024-05-15T07:58:55Z"
       },
       "golang/go": {},
       "cweill/gotests": {
-        "lastPublishedAt": "2025-10-28T17:10:42Z",
-        "lastReleaseId": "RE_kwDOAvnWV84PX0n0"
+        "lastReleaseId": "RE_kwDOAvnWV84PX0n0",
+        "lastPublishedAt": "2025-10-28T17:10:42Z"
       },
       "air-verse/air": {
-        "lastPublishedAt": "2026-05-21T14:52:28Z",
-        "lastReleaseId": "RE_kwDOBlwsqc4TfdOF"
+        "lastReleaseId": "RE_kwDOBlwsqc4VQ7Rr",
+        "lastPublishedAt": "2026-07-20T13:56:37Z",
+        "releaseHistoryCursor": null
       },
       "AlecAivazis/survey": {
-        "lastPublishedAt": "2023-06-13T08:58:08Z",
-        "lastReleaseId": "RE_kwDOBFArUc4GdRCo"
+        "lastReleaseId": "RE_kwDOBFArUc4GdRCo",
+        "lastPublishedAt": "2023-06-13T08:58:08Z"
       },
       "asdf-vm/asdf": {
-        "lastPublishedAt": "2026-07-07T14:05:10Z",
-        "lastReleaseId": "RE_kwDOAaBvc84U4h87"
+        "lastReleaseId": "RE_kwDOAaBvc84U4h87",
+        "lastPublishedAt": "2026-07-07T14:05:10Z"
       },
       "danielgtaylor/apisprout": {
-        "lastPublishedAt": "2019-03-19T05:34:40Z",
-        "lastReleaseId": "MDc6UmVsZWFzZTE2MTk2MDgy"
+        "lastReleaseId": "MDc6UmVsZWFzZTE2MTk2MDgy",
+        "lastPublishedAt": "2019-03-19T05:34:40Z"
       },
       "JichouP/Better-traQ": {
-        "lastPublishedAt": "2024-05-21T15:14:47Z",
-        "lastReleaseId": "RE_kwDOFaO-FM4JVz8i"
+        "lastReleaseId": "RE_kwDOFaO-FM4JVz8i",
+        "lastPublishedAt": "2024-05-21T15:14:47Z"
       },
       "traP-jp/qtunes-frontend": {},
       "SSlime-s/traq-webhook": {},
       "sapphi-red/hubot-traq": {}
-    },
-    "phase2Queue": [],
-    "starredCursor": "Y3Vyc29yOnYyOpK5MjAyMC0xMS0wOVQyMTo0Mjo0NiswOTowMM4Oqfqm",
-    "starredComplete": true,
-    "phase2Index": 0
+    }
   }
 }
