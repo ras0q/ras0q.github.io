@@ -678,6 +678,24 @@
       ],
       "2026-07-21": [
         {
+          "id": "RE_kwDOHxfx2s4VSNdf",
+          "owner": "giginet",
+          "repo": "Scipio",
+          "tag": "0.33.0",
+          "url": "https://github.com/giginet/Scipio/releases/tag/0.33.0",
+          "publishedAt": "2026-07-21T03:18:18Z",
+          "name": "0.33.0"
+        },
+        {
+          "id": "RE_kwDOBoRDs84VSLp2",
+          "owner": "traPtitech",
+          "repo": "traQ",
+          "tag": "v3.28.4",
+          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.28.4",
+          "publishedAt": "2026-07-21T02:49:54Z",
+          "name": "v3.28.4"
+        },
+        {
           "id": "RE_kwDOH-jzvc4VSJw_",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -2526,8 +2544,9 @@
         "lastPublishedAt": "2020-11-25T05:45:59Z"
       },
       "giginet/Scipio": {
-        "lastReleaseId": "RE_kwDOHxfx2s4RuDRx",
-        "lastPublishedAt": "2026-03-16T03:08:48Z"
+        "lastReleaseId": "RE_kwDOHxfx2s4VSNdf",
+        "lastPublishedAt": "2026-07-21T03:18:18Z",
+        "releaseHistoryCursor": null
       },
       "SortableJS/Sortable": {
         "lastReleaseId": "RE_kwDOAOmW084RA8L8",
@@ -3017,8 +3036,9 @@
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastReleaseId": "RE_kwDOBoRDs84UtNOi",
-        "lastPublishedAt": "2026-07-01T10:58:15Z"
+        "lastReleaseId": "RE_kwDOBoRDs84VSLp2",
+        "lastPublishedAt": "2026-07-21T02:49:54Z",
+        "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
         "lastReleaseId": "RE_kwDOAaTAks4MyTTv",
