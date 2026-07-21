@@ -678,6 +678,51 @@
       ],
       "2026-07-21": [
         {
+          "id": "RE_kwDOAeC4a84VTp5p",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.3.1",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.3.1",
+          "publishedAt": "2026-07-21T16:10:56Z",
+          "name": "v5.3.1"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4VThHH",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.20.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.20.0",
+          "publishedAt": "2026-07-21T15:09:36Z",
+          "name": "Schema v1.20.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4VThG1",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.6.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.6.0",
+          "publishedAt": "2026-07-21T15:09:34Z",
+          "name": "Rust Crate v1.6.0"
+        },
+        {
+          "id": "RE_kwDOF9Sih84VTc9F",
+          "owner": "aquaproj",
+          "repo": "aqua",
+          "tag": "v2.62.1",
+          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.62.1",
+          "publishedAt": "2026-07-21T14:47:00Z",
+          "name": "v2.62.1"
+        },
+        {
+          "id": "RE_kwDOAZfQX84VTMed",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.35.2",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.35.2",
+          "publishedAt": "2026-07-21T13:04:21Z",
+          "name": "v0.35.2"
+        },
+        {
           "id": "RE_kwDONrCobc4VSuCq",
           "owner": "antfu",
           "repo": "node-modules-inspector",
@@ -1410,8 +1455,9 @@
         "lastPublishedAt": "2026-04-28T22:50:28Z"
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84VB8vd",
-        "lastPublishedAt": "2026-07-12T19:58:40Z"
+        "lastReleaseId": "RE_kwDOAeC4a84VTp5p",
+        "lastPublishedAt": "2026-07-21T16:10:56Z",
+        "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
       "remix-run/remix": {
@@ -1583,8 +1629,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4VRrV0",
-        "lastPublishedAt": "2026-07-20T19:39:16Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4VThHH",
+        "lastPublishedAt": "2026-07-21T15:09:36Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -2520,8 +2566,9 @@
         "lastPublishedAt": "2025-12-31T12:07:55Z"
       },
       "aquaproj/aqua": {
-        "lastReleaseId": "RE_kwDOF9Sih84VKhx2",
-        "lastPublishedAt": "2026-07-16T12:42:48Z"
+        "lastReleaseId": "RE_kwDOF9Sih84VTc9F",
+        "lastPublishedAt": "2026-07-21T14:47:00Z",
+        "releaseHistoryCursor": null
       },
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
@@ -3132,8 +3179,8 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84VQQHz",
-        "lastPublishedAt": "2026-07-20T08:31:38Z",
+        "lastReleaseId": "RE_kwDOAZfQX84VTMed",
+        "lastPublishedAt": "2026-07-21T13:04:21Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
