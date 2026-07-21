@@ -678,6 +678,33 @@
       ],
       "2026-07-21": [
         {
+          "id": "RE_kwDOE4c3is4VSj3b",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.4.2",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.4.2",
+          "publishedAt": "2026-07-21T07:56:09Z",
+          "name": "9.4.2"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VScmM",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v29.34.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.34.0",
+          "publishedAt": "2026-07-21T06:50:26Z",
+          "name": "v29.34.0"
+        },
+        {
+          "id": "RE_kwDONrCobc4VSUNY",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.2.0",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.2.0",
+          "publishedAt": "2026-07-21T05:04:39Z",
+          "name": "v2.2.0"
+        },
+        {
           "id": "RE_kwDOHxfx2s4VSNdf",
           "owner": "giginet",
           "repo": "Scipio",
@@ -1988,8 +2015,9 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4TtYHa",
-        "lastPublishedAt": "2026-05-28T05:05:59Z"
+        "lastReleaseId": "RE_kwDONrCobc4VSUNY",
+        "lastPublishedAt": "2026-07-21T05:04:39Z",
+        "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
         "lastReleaseId": "RE_kwDONw8d0M4SrWdI",
@@ -2685,8 +2713,9 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4Undi9",
-        "lastPublishedAt": "2026-06-28T10:51:20Z"
+        "lastReleaseId": "RE_kwDOE4c3is4VSj3b",
+        "lastPublishedAt": "2026-07-21T07:56:09Z",
+        "releaseHistoryCursor": null
       },
       "mgechev/revive": {
         "lastReleaseId": "RE_kwDOBbx18s4RhBh2",
@@ -3025,8 +3054,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VOscc",
-        "lastPublishedAt": "2026-07-18T19:06:46Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VScmM",
+        "lastPublishedAt": "2026-07-21T06:50:26Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
