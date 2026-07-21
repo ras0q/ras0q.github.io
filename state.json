@@ -678,6 +678,15 @@
       ],
       "2026-07-21": [
         {
+          "id": "RE_kwDONrCobc4VSuCq",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.3.0",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.0",
+          "publishedAt": "2026-07-21T09:21:05Z",
+          "name": "v2.3.0"
+        },
+        {
           "id": "RE_kwDOE4c3is4VSj3b",
           "owner": "mantinedev",
           "repo": "mantine",
@@ -2015,8 +2024,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4VSUNY",
-        "lastPublishedAt": "2026-07-21T05:04:39Z",
+        "lastReleaseId": "RE_kwDONrCobc4VSuCq",
+        "lastPublishedAt": "2026-07-21T09:21:05Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
