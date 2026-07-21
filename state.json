@@ -678,6 +678,60 @@
       ],
       "2026-07-21": [
         {
+          "id": "RE_kwDOH-jzvc4VUHJ4",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.104",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.104",
+          "publishedAt": "2026-07-21T19:40:53Z",
+          "name": "v8.4.104 - New YOLO26-Depth monocular depth estimation task (#25065)"
+        },
+        {
+          "id": "RE_kwDOD48kk84VUHCH",
+          "owner": "pointfreeco",
+          "repo": "swift-composable-architecture",
+          "tag": "1.26.1",
+          "url": "https://github.com/pointfreeco/swift-composable-architecture/releases/tag/1.26.1",
+          "publishedAt": "2026-07-21T19:40:04Z",
+          "name": "1.26.1"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4VUBVy",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.2.0",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.2.0",
+          "publishedAt": "2026-07-21T19:03:11Z",
+          "name": "v2.2.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4VT0te",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.114.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.114.0",
+          "publishedAt": "2026-07-21T17:31:34Z",
+          "name": "v1.114.0"
+        },
+        {
+          "id": "RE_kwDONvYw484VTytU",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/cli@0.5.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.5.2",
+          "publishedAt": "2026-07-21T17:16:29Z",
+          "name": "@arkenv/cli@0.5.2"
+        },
+        {
+          "id": "RE_kwDOINPdOM4VRLvF",
+          "owner": "zama-ai",
+          "repo": "tfhe-rs",
+          "tag": "tfhe-rs-1.7.0",
+          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.7.0",
+          "publishedAt": "2026-07-21T16:40:02Z",
+          "name": "TFHE-rs 1.7.0, tfhe-cuda-backend 0.15.0 and tfhe-hpu-backend 0.6.0"
+        },
+        {
           "id": "RE_kwDOAeC4a84VTp5p",
           "owner": "labstack",
           "repo": "echo",
@@ -1576,8 +1630,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484VRzax",
-        "lastPublishedAt": "2026-07-20T20:54:07Z",
+        "lastReleaseId": "RE_kwDONvYw484VTytU",
+        "lastPublishedAt": "2026-07-21T17:16:29Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -1585,8 +1639,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4VRRIH",
-        "lastPublishedAt": "2026-07-20T16:16:23Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4VT0te",
+        "lastPublishedAt": "2026-07-21T17:31:34Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2182,8 +2236,9 @@
         "lastPublishedAt": "2026-05-09T01:38:29Z"
       },
       "zama-ai/tfhe-rs": {
-        "lastReleaseId": "RE_kwDOINPdOM4U4bGq",
-        "lastPublishedAt": "2026-07-07T14:18:22Z"
+        "lastReleaseId": "RE_kwDOINPdOM4VRLvF",
+        "lastPublishedAt": "2026-07-21T16:40:02Z",
+        "releaseHistoryCursor": null
       },
       "obsidianmd/obsidian-clipper": {
         "lastReleaseId": "RE_kwDOMqJZbM4USFzh",
@@ -2541,8 +2596,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4VSJw_",
-        "lastPublishedAt": "2026-07-21T02:18:15Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4VUHJ4",
+        "lastPublishedAt": "2026-07-21T19:40:53Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2552,8 +2607,8 @@
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastReleaseId": "RE_kwDOE2oqQs4U_pUU",
-        "lastPublishedAt": "2026-07-10T17:09:12Z",
+        "lastReleaseId": "RE_kwDOE2oqQs4VUBVy",
+        "lastPublishedAt": "2026-07-21T19:03:11Z",
         "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
@@ -2795,8 +2850,9 @@
         "lastPublishedAt": "2020-12-14T13:39:04Z"
       },
       "pointfreeco/swift-composable-architecture": {
-        "lastReleaseId": "RE_kwDOD48kk84UEkkx",
-        "lastPublishedAt": "2026-06-09T16:51:22Z"
+        "lastReleaseId": "RE_kwDOD48kk84VUHCH",
+        "lastPublishedAt": "2026-07-21T19:40:04Z",
+        "releaseHistoryCursor": null
       },
       "jpki/myna": {
         "lastReleaseId": "RE_kwDOA6cUY84TECqR",
