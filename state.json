@@ -1053,6 +1053,15 @@
       ],
       "2026-07-22": [
         {
+          "id": "RE_kwDOIIPL1M4VVo8C",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.29.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.29.0",
+          "publishedAt": "2026-07-22T12:10:48Z",
+          "name": "Release 6.29.0"
+        },
+        {
           "id": "RE_kwDOIIPL1M4VVM0t",
           "owner": "webpro-nl",
           "repo": "knip",
@@ -1561,8 +1570,8 @@
         "lastPublishedAt": "2025-11-24T03:50:37Z"
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4VVM0t",
-        "lastPublishedAt": "2026-07-22T08:47:43Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4VVo8C",
+        "lastPublishedAt": "2026-07-22T12:10:48Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
