@@ -1050,6 +1050,26 @@
           "publishedAt": "2026-07-19T00:24:46Z",
           "name": "v1.2.3"
         }
+      ],
+      "2026-07-22": [
+        {
+          "id": "RE_kwDOBDf5XM4VUxN_",
+          "owner": "Foundry376",
+          "repo": "Mailspring",
+          "tag": "1.23.0",
+          "url": "https://github.com/Foundry376/Mailspring/releases/tag/1.23.0",
+          "publishedAt": "2026-07-22T03:45:22Z",
+          "name": "1.23.0"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4VUpRw",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.11.31",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.11.31",
+          "publishedAt": "2026-07-22T01:49:40Z",
+          "name": "0.11.31"
+        }
       ]
     }
   },
@@ -2289,8 +2309,9 @@
         "lastPublishedAt": "2026-01-10T23:21:01Z"
       },
       "Foundry376/Mailspring": {
-        "lastReleaseId": "RE_kwDOBDf5XM4UNWPo",
-        "lastPublishedAt": "2026-06-13T20:30:13Z"
+        "lastReleaseId": "RE_kwDOBDf5XM4VUxN_",
+        "lastPublishedAt": "2026-07-22T03:45:22Z",
+        "releaseHistoryCursor": null
       },
       "a5chin/python-uv": {
         "lastReleaseId": "RE_kwDOLqRJgs4QQEvk",
@@ -2326,8 +2347,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4VRyyr",
-        "lastPublishedAt": "2026-07-20T20:48:06Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4VUpRw",
+        "lastPublishedAt": "2026-07-22T01:49:40Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
