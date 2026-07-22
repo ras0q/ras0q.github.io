@@ -1053,6 +1053,69 @@
       ],
       "2026-07-22": [
         {
+          "id": "RE_kwDODH8YWs4VWNtt",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.07.22",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.07.22",
+          "publishedAt": "2026-07-22T15:58:44Z",
+          "name": "v2026.07.22"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VWLBq",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v29.35.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.35.0",
+          "publishedAt": "2026-07-22T15:39:44Z",
+          "name": "v29.35.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4VWELg",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.115.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.115.0",
+          "publishedAt": "2026-07-22T14:55:03Z",
+          "name": "v1.115.0"
+        },
+        {
+          "id": "RE_kwDONvYw484VWBOV",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/cli@0.5.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.5.3",
+          "publishedAt": "2026-07-22T14:36:38Z",
+          "name": "@arkenv/cli@0.5.3"
+        },
+        {
+          "id": "RE_kwDOJKcikM4VV94-",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.41.4",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.4",
+          "publishedAt": "2026-07-22T14:16:32Z",
+          "name": "@astrojs/starlight@0.41.4"
+        },
+        {
+          "id": "RE_kwDOBlwsqc4VV6_Y",
+          "owner": "air-verse",
+          "repo": "air",
+          "tag": "v1.67.2",
+          "url": "https://github.com/air-verse/air/releases/tag/v1.67.2",
+          "publishedAt": "2026-07-22T13:59:23Z",
+          "name": "v1.67.2"
+        },
+        {
+          "id": "RE_kwDOAyHt9s4VVv9k",
+          "owner": "pressly",
+          "repo": "goose",
+          "tag": "v3.27.3",
+          "url": "https://github.com/pressly/goose/releases/tag/v3.27.3",
+          "publishedAt": "2026-07-22T12:50:22Z",
+          "name": "v3.27.3"
+        },
+        {
           "id": "RE_kwDOIIPL1M4VVo8C",
           "owner": "webpro-nl",
           "repo": "knip",
@@ -1513,8 +1576,9 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4UygD1",
-        "lastPublishedAt": "2026-07-03T20:20:31Z"
+        "lastReleaseId": "RE_kwDOJKcikM4VV94-",
+        "lastPublishedAt": "2026-07-22T14:16:32Z",
+        "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
       "awaescher/StageManager": {
@@ -1532,8 +1596,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484VTytU",
-        "lastPublishedAt": "2026-07-21T17:16:29Z",
+        "lastReleaseId": "RE_kwDONvYw484VWBOV",
+        "lastPublishedAt": "2026-07-22T14:36:38Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -1541,8 +1605,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4VT0te",
-        "lastPublishedAt": "2026-07-21T17:31:34Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4VWELg",
+        "lastPublishedAt": "2026-07-22T14:55:03Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -1985,8 +2049,9 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4VK7yC",
-        "lastPublishedAt": "2026-07-16T15:36:38Z"
+        "lastReleaseId": "RE_kwDODH8YWs4VWNtt",
+        "lastPublishedAt": "2026-07-22T15:58:44Z",
+        "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
         "lastReleaseId": "RE_kwDOOEvYxM4MLpUO",
@@ -2671,8 +2736,9 @@
         "lastPublishedAt": "2025-03-12T16:38:48Z"
       },
       "pressly/goose": {
-        "lastReleaseId": "RE_kwDOAyHt9s4UrBGL",
-        "lastPublishedAt": "2026-06-30T12:44:02Z"
+        "lastReleaseId": "RE_kwDOAyHt9s4VVv9k",
+        "lastPublishedAt": "2026-07-22T12:50:22Z",
+        "releaseHistoryCursor": null
       },
       "mantinedev/ui.mantine.dev": {},
       "container2wasm/container2wasm": {
@@ -3070,8 +3136,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VScmM",
-        "lastPublishedAt": "2026-07-21T06:50:26Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VWLBq",
+        "lastPublishedAt": "2026-07-22T15:39:44Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -3186,8 +3252,8 @@
         "lastPublishedAt": "2025-10-28T17:10:42Z"
       },
       "air-verse/air": {
-        "lastReleaseId": "RE_kwDOBlwsqc4VQ7Rr",
-        "lastPublishedAt": "2026-07-20T13:56:37Z",
+        "lastReleaseId": "RE_kwDOBlwsqc4VV6_Y",
+        "lastPublishedAt": "2026-07-22T13:59:23Z",
         "releaseHistoryCursor": null
       },
       "AlecAivazis/survey": {
