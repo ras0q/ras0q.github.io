@@ -1386,6 +1386,42 @@
       ],
       "2026-07-23": [
         {
+          "id": "RE_kwDOCRgRGs4VX1jG",
+          "owner": "wasmerio",
+          "repo": "wasmer",
+          "tag": "v7.2.1",
+          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.2.1",
+          "publishedAt": "2026-07-23T11:04:33Z",
+          "name": " Release v7.2.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VYBuE",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v29.35.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.35.1",
+          "publishedAt": "2026-07-23T10:54:40Z",
+          "name": "v29.35.1"
+        },
+        {
+          "id": "RE_kwDOG8_Nmc4VX7ho",
+          "owner": "denoland",
+          "repo": "deno_task_shell",
+          "tag": "0.33.2",
+          "url": "https://github.com/denoland/deno_task_shell/releases/tag/0.33.2",
+          "publishedAt": "2026-07-23T10:04:14Z",
+          "name": "0.33.2"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VXyjL",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.52.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.52.0",
+          "publishedAt": "2026-07-23T08:56:03Z",
+          "name": "Release v2.52.0"
+        },
+        {
           "id": "RE_kwDOQHjZG84VXrIG",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1469,8 +1505,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VXrIG",
-        "lastPublishedAt": "2026-07-23T07:49:00Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VXyjL",
+        "lastPublishedAt": "2026-07-23T08:56:03Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1862,8 +1898,9 @@
         "lastPublishedAt": "2026-03-26T00:36:48Z"
       },
       "denoland/deno_task_shell": {
-        "lastReleaseId": "RE_kwDOG8_Nmc4VGXfj",
-        "lastPublishedAt": "2026-07-14T18:15:49Z"
+        "lastReleaseId": "RE_kwDOG8_Nmc4VX7ho",
+        "lastPublishedAt": "2026-07-23T10:04:14Z",
+        "releaseHistoryCursor": null
       },
       "wojciech-kulik/xcodebuild.nvim": {
         "lastReleaseId": "RE_kwDOKn_9Y84S8O3f",
@@ -2285,8 +2322,9 @@
         "lastPublishedAt": "2026-07-08T15:58:56Z"
       },
       "wasmerio/wasmer": {
-        "lastReleaseId": "RE_kwDOCRgRGs4UrhnZ",
-        "lastPublishedAt": "2026-06-30T20:25:56Z"
+        "lastReleaseId": "RE_kwDOCRgRGs4VX1jG",
+        "lastPublishedAt": "2026-07-23T11:04:33Z",
+        "releaseHistoryCursor": null
       },
       "yui540/css-animations": {},
       "yukikurage/purescript-jelly": {},
@@ -3385,8 +3423,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VWLBq",
-        "lastPublishedAt": "2026-07-22T15:39:44Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VYBuE",
+        "lastPublishedAt": "2026-07-23T10:54:40Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
