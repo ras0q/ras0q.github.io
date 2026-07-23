@@ -1386,6 +1386,24 @@
       ],
       "2026-07-23": [
         {
+          "id": "RE_kwDOQHjZG84VXrIG",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.51.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.51.0",
+          "publishedAt": "2026-07-23T07:49:00Z",
+          "name": "Release v2.51.0"
+        },
+        {
+          "id": "RE_kwDOOELNJM4VXihB",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.2.6",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.6",
+          "publishedAt": "2026-07-23T06:25:17Z",
+          "name": "vite-plus v0.2.6: Stable type-aware linting and more reliable task caching"
+        },
+        {
           "id": "RE_kwDOEd6VoM4VXWt5",
           "owner": "traPtitech",
           "repo": "NeoShowcase",
@@ -1451,8 +1469,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VXIpR",
-        "lastPublishedAt": "2026-07-23T00:01:45Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VXrIG",
+        "lastPublishedAt": "2026-07-23T07:49:00Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1596,8 +1614,9 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4VL1-l",
-        "lastPublishedAt": "2026-07-17T01:21:15Z"
+        "lastReleaseId": "RE_kwDOOELNJM4VXihB",
+        "lastPublishedAt": "2026-07-23T06:25:17Z",
+        "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
         "lastReleaseId": "RE_kwDOQ2gFTc4TGB-X",
