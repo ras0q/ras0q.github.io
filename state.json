@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-15",
       "2026-07-16",
       "2026-07-17",
       "2026-07-18",
       "2026-07-19",
       "2026-07-20",
-      "2026-07-21"
+      "2026-07-21",
+      "2026-07-22"
     ],
     "days": {
       "2026-07-17": [
@@ -355,152 +355,6 @@
           "url": "https://github.com/charmbracelet/crush/releases/tag/v0.85.0",
           "publishedAt": "2026-07-16T00:53:53Z",
           "name": "v0.85.0"
-        }
-      ],
-      "2026-07-15": [
-        {
-          "id": "RE_kwDONvYw484VJI7c",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/cli@0.3.3",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.3.3",
-          "publishedAt": "2026-07-15T21:16:31Z",
-          "name": "@arkenv/cli@0.3.3"
-        },
-        {
-          "id": "RE_kwDOIvux3s4VI2hY",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.7",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.7",
-          "publishedAt": "2026-07-15T18:49:36Z",
-          "name": "v2026.7.7: Monorepo deps, systemd timers, and OAuth reliability"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4VI2FV",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.11.29",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.11.29",
-          "publishedAt": "2026-07-15T18:44:43Z",
-          "name": "0.11.29"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VIqPx",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.110.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.110.0",
-          "publishedAt": "2026-07-15T17:08:40Z",
-          "name": "v1.110.0"
-        },
-        {
-          "id": "RE_kwDOB_QrUM4VIUio",
-          "owner": "denoland",
-          "repo": "deno",
-          "tag": "v2.9.3",
-          "url": "https://github.com/denoland/deno/releases/tag/v2.9.3",
-          "publishedAt": "2026-07-15T15:35:06Z",
-          "name": "v2.9.3"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4VIYME",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.27.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.27.0",
-          "publishedAt": "2026-07-15T14:59:05Z",
-          "name": "Release 6.27.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4VIV9o",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "0.25.82",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/0.25.82",
-          "publishedAt": "2026-07-15T14:51:18Z",
-          "name": "0.25.82"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VIWPO",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.109.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.109.0",
-          "publishedAt": "2026-07-15T14:46:28Z",
-          "name": "v1.109.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VIFjK",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.96",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.96",
-          "publishedAt": "2026-07-15T13:00:15Z",
-          "name": "v8.4.96 - Revert #25188 and secure NDJSON paths without a prepass (#25196)"
-        },
-        {
-          "id": "RE_kwDOPBkMZs4VIEoB",
-          "owner": "charmbracelet",
-          "repo": "catwalk",
-          "tag": "v0.49.25",
-          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.49.25",
-          "publishedAt": "2026-07-15T12:54:00Z",
-          "name": "v0.49.25"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VHuqD",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.108.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.108.0",
-          "publishedAt": "2026-07-15T10:16:26Z",
-          "name": "v1.108.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VHuoW",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.107.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.107.0",
-          "publishedAt": "2026-07-15T10:16:11Z",
-          "name": "v1.107.0"
-        },
-        {
-          "id": "RE_kwDOPf38cc4VHmCT",
-          "owner": "docker",
-          "repo": "github-builder",
-          "tag": "v1.14.0",
-          "url": "https://github.com/docker/github-builder/releases/tag/v1.14.0",
-          "publishedAt": "2026-07-15T09:08:43Z",
-          "name": "v1.14.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VHZBp",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.31.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.31.0",
-          "publishedAt": "2026-07-15T07:16:43Z",
-          "name": "v29.31.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VHSsz",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.30.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.30.0",
-          "publishedAt": "2026-07-15T06:07:15Z",
-          "name": "v29.30.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VHMXr",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.29.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.29.0",
-          "publishedAt": "2026-07-15T04:41:55Z",
-          "name": "v29.29.0"
         }
       ],
       "2026-07-21": [
@@ -1053,6 +907,60 @@
       ],
       "2026-07-22": [
         {
+          "id": "RE_kwDOQ5Wxys4VXFk8",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "rust/v1.0.8",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/rust/v1.0.8",
+          "publishedAt": "2026-07-22T23:17:13Z",
+          "name": "rust/v1.0.8"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4VXFkN",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.8",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.8",
+          "publishedAt": "2026-07-22T23:17:03Z",
+          "name": "v1.0.8"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4VXFiI",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "java/v1.0.8",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/java/v1.0.8",
+          "publishedAt": "2026-07-22T23:16:33Z",
+          "name": "GitHub Copilot SDK for Java 1.0.8"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VW7Tg",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.50.6",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.50.6",
+          "publishedAt": "2026-07-22T21:19:33Z",
+          "name": "Release v2.50.6"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VW4tD",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.50.5",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.50.5",
+          "publishedAt": "2026-07-22T20:57:01Z",
+          "name": "Release v2.50.5"
+        },
+        {
+          "id": "RE_kwDOObWEYM4VW4A-",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.52.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0",
+          "publishedAt": "2026-07-22T20:51:21Z",
+          "name": "Release v0.52.0"
+        },
+        {
           "id": "RE_kwDOII1H084VWxJp",
           "owner": "raphamorim",
           "repo": "rio",
@@ -1475,6 +1383,17 @@
           "publishedAt": "2026-07-22T01:49:40Z",
           "name": "0.11.31"
         }
+      ],
+      "2026-07-23": [
+        {
+          "id": "RE_kwDOQHjZG84VXIpR",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.50.7",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.50.7",
+          "publishedAt": "2026-07-23T00:01:45Z",
+          "name": "Release v2.50.7"
+        }
       ]
     }
   },
@@ -1514,8 +1433,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VWrFH",
-        "lastPublishedAt": "2026-07-22T19:30:16Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VXIpR",
+        "lastPublishedAt": "2026-07-23T00:01:45Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1744,8 +1663,8 @@
         "lastPublishedAt": "2026-05-12T03:32:03Z"
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4VK6F_",
-        "lastPublishedAt": "2026-07-16T15:23:19Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4VXFk8",
+        "lastPublishedAt": "2026-07-22T23:17:13Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2088,8 +2007,9 @@
         "lastPublishedAt": "2026-04-09T20:31:45Z"
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4VLKD0",
-        "lastPublishedAt": "2026-07-16T17:15:26Z"
+        "lastReleaseId": "RE_kwDOObWEYM4VW4A-",
+        "lastPublishedAt": "2026-07-22T20:51:21Z",
+        "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
         "lastReleaseId": "RE_kwDOO6elLc4P62p0",
