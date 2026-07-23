@@ -1386,6 +1386,42 @@
       ],
       "2026-07-23": [
         {
+          "id": "RE_kwDOKHF8zM4VZHAz",
+          "owner": "marimo-team",
+          "repo": "marimo",
+          "tag": "0.23.15",
+          "url": "https://github.com/marimo-team/marimo/releases/tag/0.23.15",
+          "publishedAt": "2026-07-23T19:21:02Z",
+          "name": "0.23.15"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4VZF9w",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.0",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.0",
+          "publishedAt": "2026-07-23T19:12:22Z",
+          "name": "0.16.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VY5d5",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v29.35.2",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.35.2",
+          "publishedAt": "2026-07-23T17:31:21Z",
+          "name": "v29.35.2"
+        },
+        {
+          "id": "RE_kwDOB_QrUM4VYqH4",
+          "owner": "denoland",
+          "repo": "deno",
+          "tag": "v2.9.4",
+          "url": "https://github.com/denoland/deno/releases/tag/v2.9.4",
+          "publishedAt": "2026-07-23T16:59:31Z",
+          "name": "v2.9.4"
+        },
+        {
           "id": "RE_kwDOLNZwwc4VYdR8",
           "owner": "e18e",
           "repo": "module-replacements",
@@ -2259,8 +2295,9 @@
         "lastPublishedAt": "2024-03-07T15:12:05Z"
       },
       "marimo-team/marimo": {
-        "lastReleaseId": "RE_kwDOKHF8zM4U_7-c",
-        "lastPublishedAt": "2026-07-10T20:04:08Z"
+        "lastReleaseId": "RE_kwDOKHF8zM4VZHAz",
+        "lastPublishedAt": "2026-07-23T19:21:02Z",
+        "releaseHistoryCursor": null
       },
       "8byt/gox": {},
       "ije/mono-jsx": {
@@ -2598,8 +2635,9 @@
         "lastPublishedAt": "2026-01-31T11:24:10Z"
       },
       "denoland/deno": {
-        "lastReleaseId": "RE_kwDOB_QrUM4VIUio",
-        "lastPublishedAt": "2026-07-15T15:35:06Z"
+        "lastReleaseId": "RE_kwDOB_QrUM4VYqH4",
+        "lastPublishedAt": "2026-07-23T16:59:31Z",
+        "releaseHistoryCursor": null
       },
       "go-michi/michi": {},
       "nbd-wtf/nostr-tools": {
@@ -2943,8 +2981,9 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4VK464",
-        "lastPublishedAt": "2026-07-16T15:15:10Z"
+        "lastReleaseId": "RE_kwDOHy0Bzc4VZF9w",
+        "lastPublishedAt": "2026-07-23T19:12:22Z",
+        "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
         "lastReleaseId": "RE_kwDOJaJYQs4MFKG7",
@@ -3463,8 +3502,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VYBuE",
-        "lastPublishedAt": "2026-07-23T10:54:40Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VY5d5",
+        "lastPublishedAt": "2026-07-23T17:31:21Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
