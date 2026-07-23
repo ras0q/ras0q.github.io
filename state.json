@@ -1386,6 +1386,24 @@
       ],
       "2026-07-23": [
         {
+          "id": "RE_kwDOEd6VoM4VXWt5",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.24",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.24",
+          "publishedAt": "2026-07-23T03:40:09Z",
+          "name": "v1.10.24"
+        },
+        {
+          "id": "RE_kwDOIvux3s4VXPwH",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.7.12",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.12",
+          "publishedAt": "2026-07-23T01:54:21Z",
+          "name": "v2026.7.12: Safe mode, node-free npm, and a built-in OCI push client"
+        },
+        {
           "id": "RE_kwDOQHjZG84VXIpR",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -2374,8 +2392,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4VR4r0",
-        "lastPublishedAt": "2026-07-20T21:49:48Z",
+        "lastReleaseId": "RE_kwDOIvux3s4VXPwH",
+        "lastPublishedAt": "2026-07-23T01:54:21Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2999,8 +3017,9 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4VK8aC",
-        "lastPublishedAt": "2026-07-16T15:39:53Z"
+        "lastReleaseId": "RE_kwDOEd6VoM4VXWt5",
+        "lastPublishedAt": "2026-07-23T03:40:09Z",
+        "releaseHistoryCursor": null
       },
       "toshusai/one": {},
       "twitter/the-algorithm": {},
