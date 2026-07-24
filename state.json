@@ -1395,6 +1395,15 @@
       ],
       "2026-07-24": [
         {
+          "id": "RE_kwDOFknhgc4VafVH",
+          "owner": "open-horizon-labs",
+          "repo": "obsidian-ics",
+          "tag": "1.12.1",
+          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.12.1",
+          "publishedAt": "2026-07-24T11:43:03Z",
+          "name": "1.12.1"
+        },
+        {
           "id": "RE_kwDONvYw484VaInl",
           "owner": "yamcodes",
           "repo": "arkenv",
@@ -2344,8 +2353,9 @@
         "lastPublishedAt": "2026-06-01T19:43:16Z"
       },
       "open-horizon-labs/obsidian-ics": {
-        "lastReleaseId": "RE_kwDOFknhgc4O7L47",
-        "lastPublishedAt": "2025-09-26T19:24:11Z"
+        "lastReleaseId": "RE_kwDOFknhgc4VafVH",
+        "lastPublishedAt": "2026-07-24T11:43:03Z",
+        "releaseHistoryCursor": null
       },
       "alecthomas/kong": {},
       "efugier/smartcat": {
