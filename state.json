@@ -1392,6 +1392,53 @@
           "publishedAt": "2026-07-23T00:01:45Z",
           "name": "Release v2.50.7"
         }
+      ],
+      "2026-07-24": [
+        {
+          "id": "RE_kwDONvYw484VaInl",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/bun-plugin@0.1.12",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%400.1.12",
+          "publishedAt": "2026-07-24T08:32:11Z",
+          "name": "@arkenv/bun-plugin@0.1.12"
+        },
+        {
+          "id": "RE_kwDONvYw484VaInU",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/cli@0.5.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.5.4",
+          "publishedAt": "2026-07-24T08:32:08Z",
+          "name": "@arkenv/cli@0.5.4"
+        },
+        {
+          "id": "RE_kwDOK-QCA84VaFWA",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v19.21.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.21.0",
+          "publishedAt": "2026-07-24T08:01:54Z",
+          "name": "v19.21.0"
+        },
+        {
+          "id": "RE_kwDONrCobc4VaFF-",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.3.1",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.1",
+          "publishedAt": "2026-07-24T07:59:31Z",
+          "name": "v2.3.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VZ89X",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v29.35.3",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.35.3",
+          "publishedAt": "2026-07-24T06:45:28Z",
+          "name": "v29.35.3"
+        }
       ]
     }
   },
@@ -1804,8 +1851,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484VWv9F",
-        "lastPublishedAt": "2026-07-22T20:05:39Z",
+        "lastReleaseId": "RE_kwDONvYw484VaInl",
+        "lastPublishedAt": "2026-07-24T08:32:11Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -1898,8 +1945,9 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84VMMKH",
-        "lastPublishedAt": "2026-07-17T06:52:24Z"
+        "lastReleaseId": "RE_kwDOK-QCA84VaFWA",
+        "lastPublishedAt": "2026-07-24T08:01:54Z",
+        "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
       "arktypeio/arktype": {
@@ -2306,8 +2354,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4VSuCq",
-        "lastPublishedAt": "2026-07-21T09:21:05Z",
+        "lastReleaseId": "RE_kwDONrCobc4VaFF-",
+        "lastPublishedAt": "2026-07-24T07:59:31Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -3356,8 +3404,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VY5d5",
-        "lastPublishedAt": "2026-07-23T17:31:21Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VZ89X",
+        "lastPublishedAt": "2026-07-24T06:45:28Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
