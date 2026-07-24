@@ -1395,6 +1395,33 @@
       ],
       "2026-07-24": [
         {
+          "id": "RE_kwDOOt6mSM4VbbPl",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.87.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.87.0",
+          "publishedAt": "2026-07-24T19:38:05Z",
+          "name": "v0.87.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4VbOdr",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.7.13",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.13",
+          "publishedAt": "2026-07-24T17:51:54Z",
+          "name": "v2026.7.13: Multi-binary renaming, cask completions, and go.mod support"
+        },
+        {
+          "id": "RE_kwDOA1DMt84VbFnd",
+          "owner": "microsoft",
+          "repo": "WSL",
+          "tag": "2.7.11",
+          "url": "https://github.com/microsoft/WSL/releases/tag/2.7.11",
+          "publishedAt": "2026-07-24T16:59:19Z",
+          "name": "2.7.11"
+        },
+        {
           "id": "RE_kwDOBLlNSM4VayJC",
           "owner": "lingui",
           "repo": "js-lingui",
@@ -1826,8 +1853,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4VRujd",
-        "lastPublishedAt": "2026-07-20T20:08:59Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4VbbPl",
+        "lastPublishedAt": "2026-07-24T19:38:05Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -2196,8 +2223,9 @@
         "lastPublishedAt": "2026-05-08T18:01:57Z"
       },
       "microsoft/WSL": {
-        "lastReleaseId": "RE_kwDOA1DMt84UkQ-4",
-        "lastPublishedAt": "2026-06-26T01:59:58Z"
+        "lastReleaseId": "RE_kwDOA1DMt84VbFnd",
+        "lastPublishedAt": "2026-07-24T16:59:19Z",
+        "releaseHistoryCursor": null
       },
       "traPtitech/naro-text": {
         "lastReleaseId": "RE_kwDOJi798s4UO6_N",
@@ -2483,8 +2511,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4VXPwH",
-        "lastPublishedAt": "2026-07-23T01:54:21Z",
+        "lastReleaseId": "RE_kwDOIvux3s4VbOdr",
+        "lastPublishedAt": "2026-07-24T17:51:54Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
