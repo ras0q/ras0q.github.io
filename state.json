@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-16",
       "2026-07-17",
       "2026-07-18",
       "2026-07-19",
       "2026-07-20",
       "2026-07-21",
-      "2026-07-22"
+      "2026-07-22",
+      "2026-07-23"
     ],
     "days": {
       "2026-07-17": [
@@ -200,161 +200,6 @@
           "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.97",
           "publishedAt": "2026-07-17T01:18:22Z",
           "name": "v8.4.97 - Add direct Hailo HEF export (#25231)"
-        }
-      ],
-      "2026-07-16": [
-        {
-          "id": "RE_kwDOPBkMZs4VLvIE",
-          "owner": "charmbracelet",
-          "repo": "catwalk",
-          "tag": "v0.49.26",
-          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.49.26",
-          "publishedAt": "2026-07-16T23:08:40Z",
-          "name": "v0.49.26"
-        },
-        {
-          "id": "RE_kwDONvYw484VLi2t",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/cli@0.3.4",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.3.4",
-          "publishedAt": "2026-07-16T20:37:17Z",
-          "name": "@arkenv/cli@0.3.4"
-        },
-        {
-          "id": "RE_kwDORQ3jDc4VLa6M",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.15.4",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.4",
-          "publishedAt": "2026-07-16T19:29:35Z",
-          "name": "v0.15.4"
-        },
-        {
-          "id": "RE_kwDOObWEYM4VLKD0",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.51.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.51.0",
-          "publishedAt": "2026-07-16T17:15:26Z",
-          "name": "Release v0.51.0"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4VK8aC",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.23",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.23",
-          "publishedAt": "2026-07-16T15:39:53Z",
-          "name": "v1.10.23"
-        },
-        {
-          "id": "RE_kwDODH8YWs4VK7yC",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.07.15",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.07.15",
-          "publishedAt": "2026-07-16T15:36:38Z",
-          "name": "v2026.07.15"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4VK6F_",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "rust/v1.0.7",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/rust/v1.0.7",
-          "publishedAt": "2026-07-16T15:23:19Z",
-          "name": "rust/v1.0.7"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4VK6ES",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.7",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.7",
-          "publishedAt": "2026-07-16T15:23:08Z",
-          "name": "v1.0.7"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4VK5-1",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "java/v1.0.7",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/java/v1.0.7",
-          "publishedAt": "2026-07-16T15:22:36Z",
-          "name": "GitHub Copilot SDK for Java 1.0.7"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4VK464",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.15.22",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.15.22",
-          "publishedAt": "2026-07-16T15:15:10Z",
-          "name": "0.15.22"
-        },
-        {
-          "id": "RE_kwDOGNEXps4VKmZ6",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "0.25.83",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/0.25.83",
-          "publishedAt": "2026-07-16T13:35:39Z",
-          "name": "0.25.83"
-        },
-        {
-          "id": "RE_kwDOF9Sih84VKhx2",
-          "owner": "aquaproj",
-          "repo": "aqua",
-          "tag": "v2.62.0",
-          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.62.0",
-          "publishedAt": "2026-07-16T12:42:48Z",
-          "name": "v2.62.0"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4VJ7Ip",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.39.7",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.39.7",
-          "publishedAt": "2026-07-16T07:22:36Z",
-          "name": "v0.39.7 Release"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4VJ7E6",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.22.48",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.48",
-          "publishedAt": "2026-07-16T07:20:54Z",
-          "name": "v0.22.48 Release"
-        },
-        {
-          "id": "RE_kwDOBdMHVM4VJ3ap",
-          "owner": "yonaskolb",
-          "repo": "XcodeGen",
-          "tag": "2.46.0",
-          "url": "https://github.com/yonaskolb/XcodeGen/releases/tag/2.46.0",
-          "publishedAt": "2026-07-16T06:43:31Z",
-          "name": "2.46.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VJvUY",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.31.1",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.31.1",
-          "publishedAt": "2026-07-16T05:11:03Z",
-          "name": "v29.31.1"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4VJfl5",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.85.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.85.0",
-          "publishedAt": "2026-07-16T00:53:53Z",
-          "name": "v0.85.0"
         }
       ],
       "2026-07-21": [
@@ -1385,6 +1230,15 @@
         }
       ],
       "2026-07-23": [
+        {
+          "id": "RE_kwDOKbIFZc4VZfD_",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.11.32",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.11.32",
+          "publishedAt": "2026-07-23T23:17:45Z",
+          "name": "0.11.32"
+        },
         {
           "id": "RE_kwDOKHF8zM4VZHAz",
           "owner": "marimo-team",
@@ -2831,8 +2685,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4VUpRw",
-        "lastPublishedAt": "2026-07-22T01:49:40Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4VZfD_",
+        "lastPublishedAt": "2026-07-23T23:17:45Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
