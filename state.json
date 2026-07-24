@@ -1395,6 +1395,51 @@
       ],
       "2026-07-24": [
         {
+          "id": "RE_kwDOBLlNSM4VayJC",
+          "owner": "lingui",
+          "repo": "js-lingui",
+          "tag": "v6.6.0",
+          "url": "https://github.com/lingui/js-lingui/releases/tag/v6.6.0",
+          "publishedAt": "2026-07-24T14:01:12Z",
+          "name": "v6.6.0"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4VaxnW",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.9.2",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.2",
+          "publishedAt": "2026-07-24T13:59:39Z",
+          "name": "v2.9.2"
+        },
+        {
+          "id": "RE_kwDOEcv33s4VawqI",
+          "owner": "quarto-dev",
+          "repo": "quarto-cli",
+          "tag": "v1.10.18",
+          "url": "https://github.com/quarto-dev/quarto-cli/releases/tag/v1.10.18",
+          "publishedAt": "2026-07-24T13:50:30Z",
+          "name": "v1.10.18"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4Vaq3p",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.116.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.116.0",
+          "publishedAt": "2026-07-24T13:07:57Z",
+          "name": "v1.116.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Vansf",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v29.36.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.36.0",
+          "publishedAt": "2026-07-24T12:43:33Z",
+          "name": "v29.36.0"
+        },
+        {
           "id": "RE_kwDOFknhgc4VafVH",
           "owner": "open-horizon-labs",
           "repo": "obsidian-ics",
@@ -1474,8 +1519,9 @@
       },
       "nikitabobko/AeroSpace": {},
       "lingui/js-lingui": {
-        "lastReleaseId": "RE_kwDOBLlNSM4U1s-3",
-        "lastPublishedAt": "2026-07-06T14:46:05Z"
+        "lastReleaseId": "RE_kwDOBLlNSM4VayJC",
+        "lastPublishedAt": "2026-07-24T14:01:12Z",
+        "releaseHistoryCursor": null
       },
       "docmost/docmost": {
         "lastReleaseId": "RE_kwDOKDDt4c4UuNGR",
@@ -1869,8 +1915,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4VWELg",
-        "lastPublishedAt": "2026-07-22T14:55:03Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Vaq3p",
+        "lastPublishedAt": "2026-07-24T13:07:57Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2432,8 +2478,8 @@
         "lastPublishedAt": "2026-07-08T17:33:42Z"
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4VPGnG",
-        "lastPublishedAt": "2026-07-19T07:22:49Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4VaxnW",
+        "lastPublishedAt": "2026-07-24T13:59:39Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
@@ -2781,8 +2827,9 @@
       },
       "bluesky-social/indigo": {},
       "quarto-dev/quarto-cli": {
-        "lastReleaseId": "RE_kwDOEcv33s4TmMMg",
-        "lastPublishedAt": "2026-05-25T09:58:56Z"
+        "lastReleaseId": "RE_kwDOEcv33s4VawqI",
+        "lastPublishedAt": "2026-07-24T13:50:30Z",
+        "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
         "lastReleaseId": "RE_kwDOElf8_c4U0TQh",
@@ -3414,8 +3461,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VZ89X",
-        "lastPublishedAt": "2026-07-24T06:45:28Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Vansf",
+        "lastPublishedAt": "2026-07-24T12:43:33Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
