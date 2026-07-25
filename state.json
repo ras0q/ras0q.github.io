@@ -1359,6 +1359,24 @@
       ],
       "2026-07-25": [
         {
+          "id": "RE_kwDOQzKeuM4VcpSL",
+          "owner": "tfcace",
+          "repo": "hash",
+          "tag": "v0.7.2",
+          "url": "https://github.com/tfcace/hash/releases/tag/v0.7.2",
+          "publishedAt": "2026-07-25T18:38:00Z",
+          "name": "v0.7.2"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4VcjZE",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.25",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.25",
+          "publishedAt": "2026-07-25T16:48:03Z",
+          "name": "v1.10.25"
+        },
+        {
           "id": "RE_kwDOEyYzbs4VcWNB",
           "owner": "cargo-bins",
           "repo": "cargo-binstall",
@@ -1548,8 +1566,8 @@
         "lastPublishedAt": "2026-06-01T05:36:56Z"
       },
       "tfcace/hash": {
-        "lastReleaseId": "RE_kwDOQzKeuM4VOtUb",
-        "lastPublishedAt": "2026-07-18T19:27:52Z",
+        "lastReleaseId": "RE_kwDOQzKeuM4VcpSL",
+        "lastPublishedAt": "2026-07-25T18:38:00Z",
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
@@ -3116,8 +3134,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4VXWt5",
-        "lastPublishedAt": "2026-07-23T03:40:09Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4VcjZE",
+        "lastPublishedAt": "2026-07-25T16:48:03Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
