@@ -1359,6 +1359,15 @@
       ],
       "2026-07-25": [
         {
+          "id": "RE_kwDOEyYzbs4VcWNB",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.21.1",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.21.1",
+          "publishedAt": "2026-07-25T12:21:43Z",
+          "name": "v1.21.1"
+        },
+        {
           "id": "RE_kwDOEyYzbs4VcTdL",
           "owner": "cargo-bins",
           "repo": "cargo-binstall",
@@ -2375,8 +2384,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4VcTdL",
-        "lastPublishedAt": "2026-07-25T11:10:33Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4VcWNB",
+        "lastPublishedAt": "2026-07-25T12:21:43Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
