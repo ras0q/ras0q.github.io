@@ -2,206 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-17",
       "2026-07-18",
       "2026-07-19",
       "2026-07-20",
       "2026-07-21",
       "2026-07-22",
-      "2026-07-23"
+      "2026-07-23",
+      "2026-07-24"
     ],
     "days": {
-      "2026-07-17": [
-        {
-          "id": "RE_kwDOPBkMZs4VNwpW",
-          "owner": "charmbracelet",
-          "repo": "catwalk",
-          "tag": "v0.49.28",
-          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.49.28",
-          "publishedAt": "2026-07-17T21:19:33Z",
-          "name": "v0.49.28"
-        },
-        {
-          "id": "RE_kwDONvYw484VNwhv",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/nuxt@0.0.6",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%400.0.6",
-          "publishedAt": "2026-07-17T21:18:05Z",
-          "name": "@arkenv/nuxt@0.0.6"
-        },
-        {
-          "id": "RE_kwDONvYw484VNwhb",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/fumadocs-ui@0.0.10",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/fumadocs-ui%400.0.10",
-          "publishedAt": "2026-07-17T21:18:02Z",
-          "name": "@arkenv/fumadocs-ui@0.0.10"
-        },
-        {
-          "id": "RE_kwDONvYw484VNwhD",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/cli@0.5.0",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.5.0",
-          "publishedAt": "2026-07-17T21:17:59Z",
-          "name": "@arkenv/cli@0.5.0"
-        },
-        {
-          "id": "RE_kwDONvYw484VNwgz",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/nextjs@0.1.4",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%400.1.4",
-          "publishedAt": "2026-07-17T21:17:56Z",
-          "name": "@arkenv/nextjs@0.1.4"
-        },
-        {
-          "id": "RE_kwDONvYw484VNwgi",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "arkenv@0.12.3",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/arkenv%400.12.3",
-          "publishedAt": "2026-07-17T21:17:53Z",
-          "name": "arkenv@0.12.3"
-        },
-        {
-          "id": "RE_kwDONvYw484VNwgQ",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/bun-plugin@0.1.11",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%400.1.11",
-          "publishedAt": "2026-07-17T21:17:50Z",
-          "name": "@arkenv/bun-plugin@0.1.11"
-        },
-        {
-          "id": "RE_kwDONvYw484VNwf_",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/vite-plugin@0.1.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%400.1.5",
-          "publishedAt": "2026-07-17T21:17:47Z",
-          "name": "@arkenv/vite-plugin@0.1.5"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VNZbV",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.99",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.99",
-          "publishedAt": "2026-07-17T17:48:56Z",
-          "name": "v8.4.99 - Add Hailo inference backend (#25247)"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4VNQgd",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.1",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.1",
-          "publishedAt": "2026-07-17T16:27:35Z",
-          "name": "v1.2.1"
-        },
-        {
-          "id": "RE_kwDOCk_pzs4S3NTK",
-          "owner": "oapi-codegen",
-          "repo": "oapi-codegen",
-          "tag": "v2.8.0",
-          "url": "https://github.com/oapi-codegen/oapi-codegen/releases/tag/v2.8.0",
-          "publishedAt": "2026-07-17T14:11:21Z",
-          "name": "v2.8.0: OpenAPI 3.1, fewer assumptions, and a giant bug hunt"
-        },
-        {
-          "id": "RE_kwDOPBkMZs4VM8RJ",
-          "owner": "charmbracelet",
-          "repo": "catwalk",
-          "tag": "v0.49.27",
-          "url": "https://github.com/charmbracelet/catwalk/releases/tag/v0.49.27",
-          "publishedAt": "2026-07-17T13:54:50Z",
-          "name": "v0.49.27"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VMtCI",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.32.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.32.0",
-          "publishedAt": "2026-07-17T11:58:09Z",
-          "name": "v29.32.0"
-        },
-        {
-          "id": "RE_kwDODI8QW84VMcAq",
-          "owner": "typst",
-          "repo": "typst",
-          "tag": "v0.15.1",
-          "url": "https://github.com/typst/typst/releases/tag/v0.15.1",
-          "publishedAt": "2026-07-17T11:12:06Z",
-          "name": "Version 0.15.1 (July 17, 2026)"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VMRI-",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.111.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.111.0",
-          "publishedAt": "2026-07-17T07:41:21Z",
-          "name": "v1.111.0"
-        },
-        {
-          "id": "RE_kwDONvYw484VMNkB",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/cli@0.4.0",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.4.0",
-          "publishedAt": "2026-07-17T07:05:20Z",
-          "name": "@arkenv/cli@0.4.0"
-        },
-        {
-          "id": "RE_kwDONvYw484VMNjt",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/nuxt@0.0.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%400.0.5",
-          "publishedAt": "2026-07-17T07:05:18Z",
-          "name": "@arkenv/nuxt@0.0.5"
-        },
-        {
-          "id": "RE_kwDOK-QCA84VMMKH",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v19.20.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.20.0",
-          "publishedAt": "2026-07-17T06:52:24Z",
-          "name": "v19.20.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VL7V6",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.98",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.98",
-          "publishedAt": "2026-07-17T02:49:05Z",
-          "name": "v8.4.98 - Support legacy checkpoints in Hailo export (#25237)"
-        },
-        {
-          "id": "RE_kwDOOELNJM4VL1-l",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v0.2.5",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.5",
-          "publishedAt": "2026-07-17T01:21:15Z",
-          "name": "vite-plus v0.2.5: Cleaner environments and more reliable workflows"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VL10P",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.97",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.97",
-          "publishedAt": "2026-07-17T01:18:22Z",
-          "name": "v8.4.97 - Add direct Hailo HEF export (#25231)"
-        }
-      ],
       "2026-07-21": [
         {
           "id": "RE_kwDOH-jzvc4VUHJ4",
@@ -1395,6 +1204,33 @@
       ],
       "2026-07-24": [
         {
+          "id": "RE_kwDOH-jzvc4VbwO2",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.105",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.105",
+          "publishedAt": "2026-07-24T23:35:04Z",
+          "name": "v8.4.105 - Fuse distillation checkpoints to the student model (#25415)"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4Vbszl",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.5",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.5",
+          "publishedAt": "2026-07-24T22:45:33Z",
+          "name": "1.9.5"
+        },
+        {
+          "id": "RE_kwDOBqNIoM4VbsdM",
+          "owner": "miniflux",
+          "repo": "v2",
+          "tag": "2.3.3",
+          "url": "https://github.com/miniflux/v2/releases/tag/2.3.3",
+          "publishedAt": "2026-07-24T22:41:57Z",
+          "name": "Miniflux 2.3.3"
+        },
+        {
           "id": "RE_kwDOOt6mSM4VbbPl",
           "owner": "charmbracelet",
           "repo": "crush",
@@ -1530,8 +1366,9 @@
     "repos": {
       "karb94/neoscroll.nvim": {},
       "miniflux/v2": {
-        "lastReleaseId": "RE_kwDOBqNIoM4UmQVX",
-        "lastPublishedAt": "2026-06-27T00:39:52Z"
+        "lastReleaseId": "RE_kwDOBqNIoM4VbsdM",
+        "lastPublishedAt": "2026-07-24T22:41:57Z",
+        "releaseHistoryCursor": null
       },
       "nvim-lua/kickstart.nvim": {},
       "kjuq/skkelua.nvim": {},
@@ -2753,8 +2590,9 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4UkZel",
-        "lastPublishedAt": "2026-06-26T02:01:41Z"
+        "lastReleaseId": "RE_kwDOJCIvuc4Vbszl",
+        "lastPublishedAt": "2026-07-24T22:45:33Z",
+        "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
       "microsoft/PowerToys": {
@@ -2916,8 +2754,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4VUHJ4",
-        "lastPublishedAt": "2026-07-21T19:40:53Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4VbwO2",
+        "lastPublishedAt": "2026-07-24T23:35:04Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
