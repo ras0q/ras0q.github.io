@@ -1404,6 +1404,15 @@
       ],
       "2026-07-26": [
         {
+          "id": "RE_kwDOIvux3s4Vdh_h",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.7.14",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.14",
+          "publishedAt": "2026-07-26T16:26:10Z",
+          "name": "v2026.7.14: Multi-asset GitHub installs, safer defaults, and Windows pip"
+        },
+        {
           "id": "RE_kwDOGgFgVM4VdgBM",
           "owner": "usememos",
           "repo": "memos",
@@ -2451,8 +2460,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4VbOdr",
-        "lastPublishedAt": "2026-07-24T17:51:54Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Vdh_h",
+        "lastPublishedAt": "2026-07-26T16:26:10Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
