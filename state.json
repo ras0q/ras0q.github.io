@@ -1404,6 +1404,15 @@
       ],
       "2026-07-26": [
         {
+          "id": "RE_kwDOGgFgVM4VdgBM",
+          "owner": "usememos",
+          "repo": "memos",
+          "tag": "v0.30.0",
+          "url": "https://github.com/usememos/memos/releases/tag/v0.30.0",
+          "publishedAt": "2026-07-26T15:46:00Z",
+          "name": "v0.30.0"
+        },
+        {
           "id": "RE_kwDOBlwsqc4VdHOx",
           "owner": "air-verse",
           "repo": "air",
@@ -2915,8 +2924,9 @@
       },
       "kaityo256/yaml_cv": {},
       "usememos/memos": {
-        "lastReleaseId": "RE_kwDOGgFgVM4T8qfp",
-        "lastPublishedAt": "2026-06-05T00:06:46Z"
+        "lastReleaseId": "RE_kwDOGgFgVM4VdgBM",
+        "lastPublishedAt": "2026-07-26T15:46:00Z",
+        "releaseHistoryCursor": null
       },
       "antimatter15/splat": {},
       "github/innovationgraph": {
