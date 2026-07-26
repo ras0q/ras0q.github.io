@@ -1401,6 +1401,35 @@
           "publishedAt": "2026-07-25T06:16:38Z",
           "name": "Release v2.52.1"
         }
+      ],
+      "2026-07-26": [
+        {
+          "id": "RE_kwDOQHjZG84VdAwq",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.53.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.53.0",
+          "publishedAt": "2026-07-26T04:41:24Z",
+          "name": "Release v2.53.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VdAWL",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.52.4",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.52.4",
+          "publishedAt": "2026-07-26T04:27:26Z",
+          "name": "Release v2.52.4"
+        },
+        {
+          "id": "RE_kwDOB21G7c4Vc_Oi",
+          "owner": "cel-expr",
+          "repo": "cel-go",
+          "tag": "v0.30.0",
+          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.30.0",
+          "publishedAt": "2026-07-26T03:54:59Z",
+          "name": "Release v0.30.0"
+        }
       ]
     }
   },
@@ -1442,8 +1471,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VcIHH",
-        "lastPublishedAt": "2026-07-25T06:54:22Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VdAwq",
+        "lastPublishedAt": "2026-07-26T04:41:24Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2626,8 +2655,9 @@
         "lastPublishedAt": "2025-06-13T14:11:11Z"
       },
       "cel-expr/cel-go": {
-        "lastReleaseId": "RE_kwDOB21G7c4U6ME4",
-        "lastPublishedAt": "2026-07-08T08:43:09Z"
+        "lastReleaseId": "RE_kwDOB21G7c4Vc_Oi",
+        "lastPublishedAt": "2026-07-26T03:54:59Z",
+        "releaseHistoryCursor": null
       },
       "glanceapp/glance": {
         "lastReleaseId": "RE_kwDOL0IZ084Tyfcl",
