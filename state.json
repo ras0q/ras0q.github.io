@@ -1404,6 +1404,24 @@
       ],
       "2026-07-26": [
         {
+          "id": "RE_kwDOBlwsqc4VdHOx",
+          "owner": "air-verse",
+          "repo": "air",
+          "tag": "v1.67.3",
+          "url": "https://github.com/air-verse/air/releases/tag/v1.67.3",
+          "publishedAt": "2026-07-26T07:35:30Z",
+          "name": "v1.67.3"
+        },
+        {
+          "id": "RE_kwDOEXrCM84VdGsZ",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v137_7",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v137_7",
+          "publishedAt": "2026-07-26T07:20:34Z",
+          "name": "Server v137_7"
+        },
+        {
           "id": "RE_kwDOQHjZG84VdAwq",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -2388,8 +2406,9 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84U0Yth",
-        "lastPublishedAt": "2026-07-06T00:24:18Z"
+        "lastReleaseId": "RE_kwDOEXrCM84VdGsZ",
+        "lastPublishedAt": "2026-07-26T07:20:34Z",
+        "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
       "Aleph-Alpha/ts-rs": {
@@ -3519,8 +3538,8 @@
         "lastPublishedAt": "2025-10-28T17:10:42Z"
       },
       "air-verse/air": {
-        "lastReleaseId": "RE_kwDOBlwsqc4VV6_Y",
-        "lastPublishedAt": "2026-07-22T13:59:23Z",
+        "lastReleaseId": "RE_kwDOBlwsqc4VdHOx",
+        "lastPublishedAt": "2026-07-26T07:35:30Z",
         "releaseHistoryCursor": null
       },
       "AlecAivazis/survey": {
