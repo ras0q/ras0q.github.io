@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-18",
       "2026-07-19",
       "2026-07-20",
       "2026-07-21",
       "2026-07-22",
       "2026-07-23",
-      "2026-07-24"
+      "2026-07-24",
+      "2026-07-25"
     ],
     "days": {
       "2026-07-21": [
@@ -182,134 +182,6 @@
           "url": "https://github.com/outline/outline/releases/tag/v1.9.2",
           "publishedAt": "2026-07-21T01:34:44Z",
           "name": "v1.9.2"
-        }
-      ],
-      "2026-07-18": [
-        {
-          "id": "RE_kwDOE7TOLM4VO0_A",
-          "owner": "evrone",
-          "repo": "go-clean-template",
-          "tag": "v1.17.1",
-          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.17.1",
-          "publishedAt": "2026-07-18T22:38:23Z",
-          "name": "v1.17.1"
-        },
-        {
-          "id": "RE_kwDOPyZEpc4VOzYi",
-          "owner": "microsoft",
-          "repo": "apm",
-          "tag": "v0.26.0",
-          "url": "https://github.com/microsoft/apm/releases/tag/v0.26.0",
-          "publishedAt": "2026-07-18T21:57:33Z",
-          "name": "v0.26.0"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4VOwEd",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.1",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.1",
-          "publishedAt": "2026-07-18T20:34:51Z",
-          "name": "cli-v0.1.1"
-        },
-        {
-          "id": "RE_kwDOQzKeuM4VOtUb",
-          "owner": "tfcace",
-          "repo": "hash",
-          "tag": "v0.7.1",
-          "url": "https://github.com/tfcace/hash/releases/tag/v0.7.1",
-          "publishedAt": "2026-07-18T19:27:52Z",
-          "name": "v0.7.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VOscc",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.33.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.33.0",
-          "publishedAt": "2026-07-18T19:06:46Z",
-          "name": "v29.33.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VOmJV",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.101",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.101",
-          "publishedAt": "2026-07-18T16:48:20Z",
-          "name": "v8.4.101 - Add Hailo pose, OBB, and classification export and inference for YOLOv8 and YOLO11 (#25276)"
-        },
-        {
-          "id": "RE_kwDONcE2Ic4VOk3G",
-          "owner": "traPtitech",
-          "repo": "piscon-portal-v2",
-          "tag": "v0.0.1-rc4",
-          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc4",
-          "publishedAt": "2026-07-18T16:21:57Z",
-          "name": "v0.0.1-rc4"
-        },
-        {
-          "id": "RE_kwDOCk1n-s4VOjHz",
-          "owner": "eure",
-          "repo": "swift-storybook",
-          "tag": "3.1.0",
-          "url": "https://github.com/eure/swift-storybook/releases/tag/3.1.0",
-          "publishedAt": "2026-07-18T15:47:08Z",
-          "name": "3.1.0 - Agentic UI Building"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4VOiqW",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.8.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.8.0",
-          "publishedAt": "2026-07-18T15:38:18Z",
-          "name": "v1.8.0"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4VOLsx",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.2",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.2",
-          "publishedAt": "2026-07-18T06:49:52Z",
-          "name": "v1.2.2"
-        },
-        {
-          "id": "RE_kwDONcE2Ic4VOKI0",
-          "owner": "traPtitech",
-          "repo": "piscon-portal-v2",
-          "tag": "v0.0.1-rc3",
-          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc3",
-          "publishedAt": "2026-07-18T06:07:54Z",
-          "name": "v0.0.1-rc3"
-        },
-        {
-          "id": "RE_kwDOBlwsqc4VOGDF",
-          "owner": "air-verse",
-          "repo": "air",
-          "tag": "v1.66.0",
-          "url": "https://github.com/air-verse/air/releases/tag/v1.66.0",
-          "publishedAt": "2026-07-18T04:24:08Z",
-          "name": "v1.66.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VOB3M",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.100",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.100",
-          "publishedAt": "2026-07-18T02:35:28Z",
-          "name": "v8.4.100 - Add Hailo segmentation export and inference for YOLOv8 and YOLO11 (#25259)"
-        },
-        {
-          "id": "RE_kwDONcE2Ic4VN_ea",
-          "owner": "traPtitech",
-          "repo": "piscon-portal-v2",
-          "tag": "v0.0.1-rc2",
-          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc2",
-          "publishedAt": "2026-07-18T01:43:38Z",
-          "name": "v0.0.1-rc2"
         }
       ],
       "2026-07-20": [
@@ -1358,6 +1230,24 @@
         }
       ],
       "2026-07-25": [
+        {
+          "id": "RE_kwDOLFvGAc4Vc0sX",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.3",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.3",
+          "publishedAt": "2026-07-25T22:51:18Z",
+          "name": "cli-v0.1.3"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4VcuOf",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.106",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.106",
+          "publishedAt": "2026-07-25T20:29:41Z",
+          "name": "v8.4.106 - Reject unreadable image sources, and harden download failure paths (#25431)"
+        },
         {
           "id": "RE_kwDOQzKeuM4VcpSL",
           "owner": "tfcace",
@@ -2557,8 +2447,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4VPlsj",
-        "lastPublishedAt": "2026-07-19T18:39:33Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4Vc0sX",
+        "lastPublishedAt": "2026-07-25T22:51:18Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2910,8 +2800,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4VbwO2",
-        "lastPublishedAt": "2026-07-24T23:35:04Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4VcuOf",
+        "lastPublishedAt": "2026-07-25T20:29:41Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
