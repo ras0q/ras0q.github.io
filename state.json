@@ -1437,6 +1437,26 @@
           "publishedAt": "2026-07-26T03:54:59Z",
           "name": "Release v0.30.0"
         }
+      ],
+      "2026-07-27": [
+        {
+          "id": "RE_kwDOM0jxcs4VeYjw",
+          "owner": "denoland",
+          "repo": "deno-vite-plugin",
+          "tag": "2.0.3",
+          "url": "https://github.com/denoland/deno-vite-plugin/releases/tag/2.0.3",
+          "publishedAt": "2026-07-27T08:16:43Z",
+          "name": "2.0.3"
+        },
+        {
+          "id": "RE_kwDOE4c3is4VeVfG",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.5.0",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.5.0",
+          "publishedAt": "2026-07-27T07:49:20Z",
+          "name": "9.5.0 🤖"
+        }
       ]
     }
   },
@@ -2528,8 +2548,9 @@
         "lastPublishedAt": "2026-06-24T04:15:57Z"
       },
       "denoland/deno-vite-plugin": {
-        "lastReleaseId": "RE_kwDOM0jxcs4SElEm",
-        "lastPublishedAt": "2026-03-30T13:35:05Z"
+        "lastReleaseId": "RE_kwDOM0jxcs4VeYjw",
+        "lastPublishedAt": "2026-07-27T08:16:43Z",
+        "releaseHistoryCursor": null
       },
       "lumeland/cms": {},
       "lumeland/lume": {
@@ -3070,8 +3091,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4VSj3b",
-        "lastPublishedAt": "2026-07-21T07:56:09Z",
+        "lastReleaseId": "RE_kwDOE4c3is4VeVfG",
+        "lastPublishedAt": "2026-07-27T07:49:20Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
