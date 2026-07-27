@@ -1440,6 +1440,33 @@
       ],
       "2026-07-27": [
         {
+          "id": "RE_kwDOPn2YWs4VenXS",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.117.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.117.0",
+          "publishedAt": "2026-07-27T10:20:22Z",
+          "name": "v1.117.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4Vek6p",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.0",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.0",
+          "publishedAt": "2026-07-27T10:07:27Z",
+          "name": "1.0.0"
+        },
+        {
+          "id": "RE_kwDOPf38cc4VefY6",
+          "owner": "docker",
+          "repo": "github-builder",
+          "tag": "v1.15.0",
+          "url": "https://github.com/docker/github-builder/releases/tag/v1.15.0",
+          "publishedAt": "2026-07-27T09:14:24Z",
+          "name": "v1.15.0"
+        },
+        {
           "id": "RE_kwDOM0jxcs4VeYjw",
           "owner": "denoland",
           "repo": "deno-vite-plugin",
@@ -1700,8 +1727,9 @@
       },
       "fand/ratride": {},
       "docker/github-builder": {
-        "lastReleaseId": "RE_kwDOPf38cc4VHmCT",
-        "lastPublishedAt": "2026-07-15T09:08:43Z"
+        "lastReleaseId": "RE_kwDOPf38cc4VefY6",
+        "lastPublishedAt": "2026-07-27T09:14:24Z",
+        "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
         "lastReleaseId": "RE_kwDOPYoUTM4U_Kll",
@@ -1880,8 +1908,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4Vaq3p",
-        "lastPublishedAt": "2026-07-24T13:07:57Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4VenXS",
+        "lastPublishedAt": "2026-07-27T10:20:22Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2983,8 +3011,9 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4VKmZ6",
-        "lastPublishedAt": "2026-07-16T13:35:39Z"
+        "lastReleaseId": "RE_kwDOGNEXps4Vek6p",
+        "lastPublishedAt": "2026-07-27T10:07:27Z",
+        "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
