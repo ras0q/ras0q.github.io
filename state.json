@@ -1440,6 +1440,33 @@
       ],
       "2026-07-27": [
         {
+          "id": "RE_kwDOH-jzvc4Vf65p",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.108",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.108",
+          "publishedAt": "2026-07-27T20:29:14Z",
+          "name": "v8.4.108 - Fix MuSGD crash on non-matrix params like LayerScale (#25447)"
+        },
+        {
+          "id": "RE_kwDOIvux3s4VfuQn",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.7.15",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.15",
+          "publishedAt": "2026-07-27T18:51:46Z",
+          "name": "v2026.7.15: Experimental Task Output Caching"
+        },
+        {
+          "id": "RE_kwDORSib_s4VfhE1",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.13.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.13.0",
+          "publishedAt": "2026-07-27T17:07:56Z",
+          "name": "acpx v0.13.0"
+        },
+        {
           "id": "RE_kwDOII1H084VfVYb",
           "owner": "raphamorim",
           "repo": "rio",
@@ -1563,8 +1590,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4VYTEr",
-        "lastPublishedAt": "2026-07-23T13:07:27Z",
+        "lastReleaseId": "RE_kwDORSib_s4VfhE1",
+        "lastPublishedAt": "2026-07-27T17:07:56Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2498,8 +2525,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Vdh_h",
-        "lastPublishedAt": "2026-07-26T16:26:10Z",
+        "lastReleaseId": "RE_kwDOIvux3s4VfuQn",
+        "lastPublishedAt": "2026-07-27T18:51:46Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2906,8 +2933,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Vdtop",
-        "lastPublishedAt": "2026-07-26T20:23:51Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Vf65p",
+        "lastPublishedAt": "2026-07-27T20:29:14Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
