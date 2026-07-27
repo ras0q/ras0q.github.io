@@ -1440,6 +1440,24 @@
       ],
       "2026-07-27": [
         {
+          "id": "RE_kwDOII1H084VfVYb",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.0",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.0",
+          "publishedAt": "2026-07-27T15:42:19Z",
+          "name": "v0.5.0"
+        },
+        {
+          "id": "RE_kwDOC_ORP84VfKks",
+          "owner": "GREsau",
+          "repo": "schemars",
+          "tag": "v1.2.2",
+          "url": "https://github.com/GREsau/schemars/releases/tag/v1.2.2",
+          "publishedAt": "2026-07-27T14:36:12Z",
+          "name": "v1.2.2"
+        },
+        {
           "id": "RE_kwDOPn2YWs4VenXS",
           "owner": "docker",
           "repo": "docker-agent",
@@ -1502,8 +1520,9 @@
       "kjuq/skkelua.nvim": {},
       "toppair/peek.nvim": {},
       "GREsau/schemars": {
-        "lastReleaseId": "RE_kwDOC_ORP84Qzgj7",
-        "lastPublishedAt": "2026-02-01T16:36:46Z"
+        "lastReleaseId": "RE_kwDOC_ORP84VfKks",
+        "lastPublishedAt": "2026-07-27T14:36:12Z",
+        "releaseHistoryCursor": null
       },
       "mazrean/kanata": {
         "lastReleaseId": "RE_kwDOS3x1EM4Um882",
@@ -2071,8 +2090,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084VWxJp",
-        "lastPublishedAt": "2026-07-22T20:14:30Z",
+        "lastReleaseId": "RE_kwDOII1H084VfVYb",
+        "lastPublishedAt": "2026-07-27T15:42:19Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
