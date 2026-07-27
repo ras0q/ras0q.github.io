@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-19",
       "2026-07-20",
       "2026-07-21",
       "2026-07-22",
       "2026-07-23",
       "2026-07-24",
-      "2026-07-25"
+      "2026-07-25",
+      "2026-07-26"
     ],
     "days": {
       "2026-07-21": [
@@ -355,80 +355,6 @@
           "url": "https://github.com/lynx-family/lynx/releases/tag/4.0.0",
           "publishedAt": "2026-07-20T08:27:41Z",
           "name": "4.0.0"
-        }
-      ],
-      "2026-07-19": [
-        {
-          "id": "RE_kwDOLFvGAc4VPlsj",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.2",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.2",
-          "publishedAt": "2026-07-19T18:39:33Z",
-          "name": "cli-v0.1.2"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4VPYNi",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.39.8",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.39.8",
-          "publishedAt": "2026-07-19T14:02:01Z",
-          "name": "v0.39.8 Release"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4VPXch",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.22.49",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.49",
-          "publishedAt": "2026-07-19T14:01:25Z",
-          "name": "v0.22.49 Release"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VPUY-",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.102",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.102",
-          "publishedAt": "2026-07-19T12:40:11Z",
-          "name": "v8.4.102 - 8x faster MuSGD optimizer step with batched Newton-Schulz (#25288)"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4VPQEk",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.4",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.4",
-          "publishedAt": "2026-07-19T11:04:02Z",
-          "name": "v1.2.4"
-        },
-        {
-          "id": "RE_kwDOD6wJuM4VPGnG",
-          "owner": "47ng",
-          "repo": "nuqs",
-          "tag": "v2.9.1",
-          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.1",
-          "publishedAt": "2026-07-19T07:22:49Z",
-          "name": "v2.9.1"
-        },
-        {
-          "id": "RE_kwDONcE2Ic4VO8-r",
-          "owner": "traPtitech",
-          "repo": "piscon-portal-v2",
-          "tag": "v0.0.1-rc5",
-          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.0.1-rc5",
-          "publishedAt": "2026-07-19T02:36:32Z",
-          "name": "v0.0.1-rc5"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4VO4kI",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.3",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.3",
-          "publishedAt": "2026-07-19T00:24:46Z",
-          "name": "v1.2.3"
         }
       ],
       "2026-07-22": [
@@ -1404,6 +1330,51 @@
       ],
       "2026-07-26": [
         {
+          "id": "RE_kwDOLLx-gc4Vd1--",
+          "owner": "iamgio",
+          "repo": "quarkdown",
+          "tag": "v2.4.1",
+          "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.4.1",
+          "publishedAt": "2026-07-26T23:41:00Z",
+          "name": "v2.4.1"
+        },
+        {
+          "id": "RE_kwDOFknhgc4VdyU_",
+          "owner": "open-horizon-labs",
+          "repo": "obsidian-ics",
+          "tag": "1.14.3",
+          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.14.3",
+          "publishedAt": "2026-07-26T22:13:59Z",
+          "name": "1.14.3"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4Vdvrv",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.8",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.8",
+          "publishedAt": "2026-07-26T21:08:56Z",
+          "name": "v0.2.8"
+        },
+        {
+          "id": "RE_kwDOFknhgc4VduDw",
+          "owner": "open-horizon-labs",
+          "repo": "obsidian-ics",
+          "tag": "1.14.0",
+          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.14.0",
+          "publishedAt": "2026-07-26T20:32:54Z",
+          "name": "1.14.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4Vdtop",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.107",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.107",
+          "publishedAt": "2026-07-26T20:23:51Z",
+          "name": "v8.4.107 - Add Huawei Ascend export (#25432)"
+        },
+        {
           "id": "RE_kwDOIvux3s4Vdh_h",
           "owner": "jdx",
           "repo": "mise",
@@ -2102,8 +2073,8 @@
       },
       "tak-dcxi/kiso.css": {},
       "iamgio/quarkdown": {
-        "lastReleaseId": "RE_kwDOLLx-gc4VCTqC",
-        "lastPublishedAt": "2026-07-13T04:19:39Z",
+        "lastReleaseId": "RE_kwDOLLx-gc4Vd1--",
+        "lastPublishedAt": "2026-07-26T23:41:00Z",
         "releaseHistoryCursor": null
       },
       "openapi-ts/openapi-typescript": {
@@ -2375,8 +2346,8 @@
         "lastPublishedAt": "2026-06-01T19:43:16Z"
       },
       "open-horizon-labs/obsidian-ics": {
-        "lastReleaseId": "RE_kwDOFknhgc4VafVH",
-        "lastPublishedAt": "2026-07-24T11:43:03Z",
+        "lastReleaseId": "RE_kwDOFknhgc4VdyU_",
+        "lastPublishedAt": "2026-07-26T22:13:59Z",
         "releaseHistoryCursor": null
       },
       "alecthomas/kong": {},
@@ -2513,8 +2484,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4Vc0sX",
-        "lastPublishedAt": "2026-07-25T22:51:18Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4Vdvrv",
+        "lastPublishedAt": "2026-07-26T21:08:56Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2867,8 +2838,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4VcuOf",
-        "lastPublishedAt": "2026-07-25T20:29:41Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Vdtop",
+        "lastPublishedAt": "2026-07-26T20:23:51Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
