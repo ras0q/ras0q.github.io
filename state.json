@@ -1359,6 +1359,42 @@
       ],
       "2026-07-28": [
         {
+          "id": "RE_kwDOQHjZG84VicGN",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.54.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.54.0",
+          "publishedAt": "2026-07-28T20:12:31Z",
+          "name": "Release v2.54.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4ViaRc",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.9",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.9",
+          "publishedAt": "2026-07-28T19:57:18Z",
+          "name": "v0.2.9"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ViWec",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.109",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.109",
+          "publishedAt": "2026-07-28T19:28:36Z",
+          "name": "v8.4.109 - Log GFLOPs at the training `imgsz` (#25483)"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4ViSIh",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.0",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
+          "publishedAt": "2026-07-28T18:58:12Z",
+          "name": "0.12.0"
+        },
+        {
           "id": "RE_kwDOPn2YWs4Vhi9E",
           "owner": "docker",
           "repo": "docker-agent",
@@ -1481,8 +1517,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VgRhD",
-        "lastPublishedAt": "2026-07-28T01:10:09Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VicGN",
+        "lastPublishedAt": "2026-07-28T20:12:31Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2489,8 +2525,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4Vdvrv",
-        "lastPublishedAt": "2026-07-26T21:08:56Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4ViaRc",
+        "lastPublishedAt": "2026-07-28T19:57:18Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2745,8 +2781,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4VhI0N",
-        "lastPublishedAt": "2026-07-28T10:37:25Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4ViSIh",
+        "lastPublishedAt": "2026-07-28T18:58:12Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -2844,8 +2880,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Vf65p",
-        "lastPublishedAt": "2026-07-27T20:29:14Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ViWec",
+        "lastPublishedAt": "2026-07-28T19:28:36Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
