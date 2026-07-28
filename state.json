@@ -1359,6 +1359,24 @@
       ],
       "2026-07-28": [
         {
+          "id": "RE_kwDOPn2YWs4Vhi9E",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.118.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.118.0",
+          "publishedAt": "2026-07-28T13:39:00Z",
+          "name": "v1.118.0"
+        },
+        {
+          "id": "RE_kwDOOeTgGM4VheUS",
+          "owner": "modelcontextprotocol",
+          "repo": "go-sdk",
+          "tag": "v1.7.0",
+          "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.7.0",
+          "publishedAt": "2026-07-28T13:09:53Z",
+          "name": "v1.7.0"
+        },
+        {
           "id": "RE_kwDOKbIFZc4VhI0N",
           "owner": "astral-sh",
           "repo": "uv",
@@ -1846,8 +1864,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4VenXS",
-        "lastPublishedAt": "2026-07-27T10:20:22Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Vhi9E",
+        "lastPublishedAt": "2026-07-28T13:39:00Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2036,8 +2054,9 @@
         "lastPublishedAt": "2025-12-04T04:49:44Z"
       },
       "modelcontextprotocol/go-sdk": {
-        "lastReleaseId": "RE_kwDOOeTgGM4Tiioh",
-        "lastPublishedAt": "2026-05-22T11:52:56Z"
+        "lastReleaseId": "RE_kwDOOeTgGM4VheUS",
+        "lastPublishedAt": "2026-07-28T13:09:53Z",
+        "releaseHistoryCursor": null
       },
       "charmbracelet/glow": {
         "lastReleaseId": "RE_kwDODRcWac4SUHHo",
