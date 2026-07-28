@@ -1356,6 +1356,17 @@
           "publishedAt": "2026-07-27T07:49:20Z",
           "name": "9.5.0 🤖"
         }
+      ],
+      "2026-07-28": [
+        {
+          "id": "RE_kwDOQHjZG84VgRhD",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.53.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.53.1",
+          "publishedAt": "2026-07-28T01:10:09Z",
+          "name": "Release v2.53.1"
+        }
       ]
     }
   },
@@ -1398,8 +1409,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VdAwq",
-        "lastPublishedAt": "2026-07-26T04:41:24Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VgRhD",
+        "lastPublishedAt": "2026-07-28T01:10:09Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
