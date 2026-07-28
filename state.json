@@ -1359,6 +1359,15 @@
       ],
       "2026-07-28": [
         {
+          "id": "RE_kwDOKbIFZc4VhI0N",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.11.33",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.11.33",
+          "publishedAt": "2026-07-28T10:37:25Z",
+          "name": "0.11.33"
+        },
+        {
           "id": "RE_kwDOII1H084Vg6UT",
           "owner": "raphamorim",
           "repo": "rio",
@@ -2717,8 +2726,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4VZfD_",
-        "lastPublishedAt": "2026-07-23T23:17:45Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4VhI0N",
+        "lastPublishedAt": "2026-07-28T10:37:25Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
