@@ -2,188 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-21",
       "2026-07-22",
       "2026-07-23",
       "2026-07-24",
       "2026-07-25",
       "2026-07-26",
-      "2026-07-27"
+      "2026-07-27",
+      "2026-07-28"
     ],
     "days": {
-      "2026-07-21": [
-        {
-          "id": "RE_kwDOH-jzvc4VUHJ4",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.104",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.104",
-          "publishedAt": "2026-07-21T19:40:53Z",
-          "name": "v8.4.104 - New YOLO26-Depth monocular depth estimation task (#25065)"
-        },
-        {
-          "id": "RE_kwDOD48kk84VUHCH",
-          "owner": "pointfreeco",
-          "repo": "swift-composable-architecture",
-          "tag": "1.26.1",
-          "url": "https://github.com/pointfreeco/swift-composable-architecture/releases/tag/1.26.1",
-          "publishedAt": "2026-07-21T19:40:04Z",
-          "name": "1.26.1"
-        },
-        {
-          "id": "RE_kwDOE2oqQs4VUBVy",
-          "owner": "grafana",
-          "repo": "pyroscope",
-          "tag": "v2.2.0",
-          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.2.0",
-          "publishedAt": "2026-07-21T19:03:11Z",
-          "name": "v2.2.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VT0te",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.114.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.114.0",
-          "publishedAt": "2026-07-21T17:31:34Z",
-          "name": "v1.114.0"
-        },
-        {
-          "id": "RE_kwDONvYw484VTytU",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/cli@0.5.2",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.5.2",
-          "publishedAt": "2026-07-21T17:16:29Z",
-          "name": "@arkenv/cli@0.5.2"
-        },
-        {
-          "id": "RE_kwDOINPdOM4VRLvF",
-          "owner": "zama-ai",
-          "repo": "tfhe-rs",
-          "tag": "tfhe-rs-1.7.0",
-          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.7.0",
-          "publishedAt": "2026-07-21T16:40:02Z",
-          "name": "TFHE-rs 1.7.0, tfhe-cuda-backend 0.15.0 and tfhe-hpu-backend 0.6.0"
-        },
-        {
-          "id": "RE_kwDOAeC4a84VTp5p",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v5.3.1",
-          "url": "https://github.com/labstack/echo/releases/tag/v5.3.1",
-          "publishedAt": "2026-07-21T16:10:56Z",
-          "name": "v5.3.1"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4VThHH",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "schema-v1.20.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.20.0",
-          "publishedAt": "2026-07-21T15:09:36Z",
-          "name": "Schema v1.20.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4VThG1",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "v1.6.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.6.0",
-          "publishedAt": "2026-07-21T15:09:34Z",
-          "name": "Rust Crate v1.6.0"
-        },
-        {
-          "id": "RE_kwDOF9Sih84VTc9F",
-          "owner": "aquaproj",
-          "repo": "aqua",
-          "tag": "v2.62.1",
-          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.62.1",
-          "publishedAt": "2026-07-21T14:47:00Z",
-          "name": "v2.62.1"
-        },
-        {
-          "id": "RE_kwDOAZfQX84VTMed",
-          "owner": "go-swagger",
-          "repo": "go-swagger",
-          "tag": "v0.35.2",
-          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.35.2",
-          "publishedAt": "2026-07-21T13:04:21Z",
-          "name": "v0.35.2"
-        },
-        {
-          "id": "RE_kwDONrCobc4VSuCq",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.3.0",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.0",
-          "publishedAt": "2026-07-21T09:21:05Z",
-          "name": "v2.3.0"
-        },
-        {
-          "id": "RE_kwDOE4c3is4VSj3b",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.4.2",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.4.2",
-          "publishedAt": "2026-07-21T07:56:09Z",
-          "name": "9.4.2"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VScmM",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.34.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.34.0",
-          "publishedAt": "2026-07-21T06:50:26Z",
-          "name": "v29.34.0"
-        },
-        {
-          "id": "RE_kwDONrCobc4VSUNY",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.2.0",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.2.0",
-          "publishedAt": "2026-07-21T05:04:39Z",
-          "name": "v2.2.0"
-        },
-        {
-          "id": "RE_kwDOHxfx2s4VSNdf",
-          "owner": "giginet",
-          "repo": "Scipio",
-          "tag": "0.33.0",
-          "url": "https://github.com/giginet/Scipio/releases/tag/0.33.0",
-          "publishedAt": "2026-07-21T03:18:18Z",
-          "name": "0.33.0"
-        },
-        {
-          "id": "RE_kwDOBoRDs84VSLp2",
-          "owner": "traPtitech",
-          "repo": "traQ",
-          "tag": "v3.28.4",
-          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.28.4",
-          "publishedAt": "2026-07-21T02:49:54Z",
-          "name": "v3.28.4"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VSJw_",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.103",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.103",
-          "publishedAt": "2026-07-21T02:18:15Z",
-          "name": "v8.4.103 - Prevent training from ending during warmup (#25321)"
-        },
-        {
-          "id": "RE_kwDOA4rpZM4VSHEy",
-          "owner": "outline",
-          "repo": "outline",
-          "tag": "v1.9.2",
-          "url": "https://github.com/outline/outline/releases/tag/v1.9.2",
-          "publishedAt": "2026-07-21T01:34:44Z",
-          "name": "v1.9.2"
-        }
-      ],
       "2026-07-22": [
         {
           "id": "RE_kwDOQ5Wxys4VXFk8",
@@ -1359,6 +1186,42 @@
       ],
       "2026-07-28": [
         {
+          "id": "RE_kwDOQHjZG84ViqbK",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.55.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.55.0",
+          "publishedAt": "2026-07-28T22:21:11Z",
+          "name": "Release v2.55.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4VioJd",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.4",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.4",
+          "publishedAt": "2026-07-28T21:55:36Z",
+          "name": "cli-v0.1.4"
+        },
+        {
+          "id": "RE_kwDOFua7Vs4VinjN",
+          "owner": "warpdotdev",
+          "repo": "warp",
+          "tag": "tui-screenshots-app5029",
+          "url": "https://github.com/warpdotdev/warp/releases/tag/tui-screenshots-app5029",
+          "publishedAt": "2026-07-28T21:49:25Z",
+          "name": "TUI Screenshots APP-5029 (delete after PR review)"
+        },
+        {
+          "id": "RE_kwDOObWEYM4VinPA",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.53.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.0",
+          "publishedAt": "2026-07-28T21:45:42Z",
+          "name": "Release v0.53.0"
+        },
+        {
           "id": "RE_kwDOQHjZG84VicGN",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1517,8 +1380,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VicGN",
-        "lastPublishedAt": "2026-07-28T20:12:31Z",
+        "lastReleaseId": "RE_kwDOQHjZG84ViqbK",
+        "lastPublishedAt": "2026-07-28T22:21:11Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2099,8 +1962,8 @@
         "lastPublishedAt": "2026-04-09T20:31:45Z"
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4VW4A-",
-        "lastPublishedAt": "2026-07-22T20:51:21Z",
+        "lastReleaseId": "RE_kwDOObWEYM4VinPA",
+        "lastPublishedAt": "2026-07-28T21:45:42Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -2525,8 +2388,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4ViaRc",
-        "lastPublishedAt": "2026-07-28T19:57:18Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4VioJd",
+        "lastPublishedAt": "2026-07-28T21:55:36Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2732,7 +2595,11 @@
         "lastPublishedAt": "2026-06-23T01:52:37Z"
       },
       "Tencent/TFace": {},
-      "warpdotdev/warp": {},
+      "warpdotdev/warp": {
+        "lastReleaseId": "RE_kwDOFua7Vs4VinjN",
+        "lastPublishedAt": "2026-07-28T21:49:25Z",
+        "releaseHistoryCursor": null
+      },
       "kyosu-1/passkey-go-example": {},
       "slidevjs/slidev": {
         "lastReleaseId": "RE_kwDOFYUYQs4VEryZ",
