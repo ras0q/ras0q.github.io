@@ -1338,6 +1338,305 @@
           "publishedAt": "2026-07-28T01:10:09Z",
           "name": "Release v2.53.1"
         }
+      ],
+      "2026-07-29": [
+        {
+          "id": "RE_kwDOHuVHqM4VjCoS",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/preset-open-props@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-open-props%401.12.0",
+          "publishedAt": "2026-07-29T04:29:07Z",
+          "name": "@pandacss/preset-open-props@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCoB",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/types@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/types%401.12.0",
+          "publishedAt": "2026-07-29T04:29:04Z",
+          "name": "@pandacss/types@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCn6",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/shared@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/shared%401.12.0",
+          "publishedAt": "2026-07-29T04:29:01Z",
+          "name": "@pandacss/shared@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCnw",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/preset-panda@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-panda%401.12.0",
+          "publishedAt": "2026-07-29T04:28:58Z",
+          "name": "@pandacss/preset-panda@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCnl",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/reporter@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/reporter%401.12.0",
+          "publishedAt": "2026-07-29T04:28:55Z",
+          "name": "@pandacss/reporter@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCnW",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/plugin-svelte@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/plugin-svelte%401.12.0",
+          "publishedAt": "2026-07-29T04:28:52Z",
+          "name": "@pandacss/plugin-svelte@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCnL",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/preset-base@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-base%401.12.0",
+          "publishedAt": "2026-07-29T04:28:49Z",
+          "name": "@pandacss/preset-base@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCm9",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/token-dictionary@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/token-dictionary%401.12.0",
+          "publishedAt": "2026-07-29T04:28:46Z",
+          "name": "@pandacss/token-dictionary@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCm1",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/plugin-vue@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/plugin-vue%401.12.0",
+          "publishedAt": "2026-07-29T04:28:43Z",
+          "name": "@pandacss/plugin-vue@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCmo",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/preset-atlaskit@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-atlaskit%401.12.0",
+          "publishedAt": "2026-07-29T04:28:40Z",
+          "name": "@pandacss/preset-atlaskit@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCma",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/node@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/node%401.12.0",
+          "publishedAt": "2026-07-29T04:28:37Z",
+          "name": "@pandacss/node@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCmP",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/studio@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/studio%401.12.0",
+          "publishedAt": "2026-07-29T04:28:34Z",
+          "name": "@pandacss/studio@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCmG",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/parser@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/parser%401.12.0",
+          "publishedAt": "2026-07-29T04:28:31Z",
+          "name": "@pandacss/parser@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCl0",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/core@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/core%401.12.0",
+          "publishedAt": "2026-07-29T04:28:28Z",
+          "name": "@pandacss/core@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjClq",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/mcp@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/mcp%401.12.0",
+          "publishedAt": "2026-07-29T04:28:25Z",
+          "name": "@pandacss/mcp@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjClf",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/extractor@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/extractor%401.12.0",
+          "publishedAt": "2026-07-29T04:28:22Z",
+          "name": "@pandacss/extractor@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjClW",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/postcss@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/postcss%401.12.0",
+          "publishedAt": "2026-07-29T04:28:19Z",
+          "name": "@pandacss/postcss@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjClM",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/is-valid-prop@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/is-valid-prop%401.12.0",
+          "publishedAt": "2026-07-29T04:28:16Z",
+          "name": "@pandacss/is-valid-prop@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjClA",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/plugin-lightningcss@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/plugin-lightningcss%401.12.0",
+          "publishedAt": "2026-07-29T04:28:13Z",
+          "name": "@pandacss/plugin-lightningcss@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCk1",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/dev@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/dev%401.12.0",
+          "publishedAt": "2026-07-29T04:28:10Z",
+          "name": "@pandacss/dev@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCkp",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/config@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/config%401.12.0",
+          "publishedAt": "2026-07-29T04:28:07Z",
+          "name": "@pandacss/config@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCkb",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/astro-plugin-studio@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/astro-plugin-studio%401.12.0",
+          "publishedAt": "2026-07-29T04:28:04Z",
+          "name": "@pandacss/astro-plugin-studio@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCkT",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/logger@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/logger%401.12.0",
+          "publishedAt": "2026-07-29T04:28:01Z",
+          "name": "@pandacss/logger@1.12.0"
+        },
+        {
+          "id": "RE_kwDOHuVHqM4VjCkI",
+          "owner": "chakra-ui",
+          "repo": "panda",
+          "tag": "@pandacss/generator@1.12.0",
+          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/generator%401.12.0",
+          "publishedAt": "2026-07-29T04:27:58Z",
+          "name": "@pandacss/generator@1.12.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VjAjH",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.57.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.57.0",
+          "publishedAt": "2026-07-29T03:55:49Z",
+          "name": "Release v2.57.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Vi-b-",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.56.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.56.2",
+          "publishedAt": "2026-07-29T03:23:16Z",
+          "name": "Release v2.56.2"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Vi-GC",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.56.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.56.1",
+          "publishedAt": "2026-07-29T03:17:43Z",
+          "name": "Release v2.56.1"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Vi9eH",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.56.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.56.0",
+          "publishedAt": "2026-07-29T03:08:18Z",
+          "name": "Release v2.56.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4Vi6Fv",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.110",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.110",
+          "publishedAt": "2026-07-29T02:14:33Z",
+          "name": "v8.4.110 - Expand RKNN export support to all tasks (#25490)"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Vi4gF",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.55.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.55.2",
+          "publishedAt": "2026-07-29T01:48:21Z",
+          "name": "Release v2.55.2"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4Vi3eM",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.7.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.7.0",
+          "publishedAt": "2026-07-29T01:31:26Z",
+          "name": "v1.7.0 - New tools, smarter updates"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Vi0pC",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.55.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.55.1",
+          "publishedAt": "2026-07-29T00:45:22Z",
+          "name": "Release v2.55.1"
+        },
+        {
+          "id": "RE_kwDOOzc9Ss4Vi0Ey",
+          "owner": "apple",
+          "repo": "container",
+          "tag": "1.2.0",
+          "url": "https://github.com/apple/container/releases/tag/1.2.0",
+          "publishedAt": "2026-07-29T00:41:28Z",
+          "name": "1.2.0"
+        }
       ]
     }
   },
@@ -1380,8 +1679,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84ViqbK",
-        "lastPublishedAt": "2026-07-28T22:21:11Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VjAjH",
+        "lastPublishedAt": "2026-07-29T03:55:49Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1587,8 +1886,9 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4U_Kll",
-        "lastPublishedAt": "2026-07-10T13:12:48Z"
+        "lastReleaseId": "RE_kwDOPYoUTM4Vi3eM",
+        "lastPublishedAt": "2026-07-29T01:31:26Z",
+        "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
         "lastReleaseId": "RE_kwDORKDUAs4R4Ib8",
@@ -1991,8 +2291,9 @@
       },
       "tohutohu/discord-claude-code": {},
       "apple/container": {
-        "lastReleaseId": "RE_kwDOOzc9Ss4U2YKI",
-        "lastPublishedAt": "2026-07-06T19:47:13Z"
+        "lastReleaseId": "RE_kwDOOzc9Ss4Vi0Ey",
+        "lastPublishedAt": "2026-07-29T00:41:28Z",
+        "releaseHistoryCursor": null
       },
       "anaisbetts/mcp-installer": {},
       "folke/which-key.nvim": {
@@ -2461,8 +2762,8 @@
         "lastPublishedAt": "2026-03-21T22:18:22Z"
       },
       "chakra-ui/panda": {
-        "lastReleaseId": "RE_kwDOHuVHqM4VWeUG",
-        "lastPublishedAt": "2026-07-22T17:56:36Z",
+        "lastReleaseId": "RE_kwDOHuVHqM4VjCoS",
+        "lastPublishedAt": "2026-07-29T04:29:07Z",
         "releaseHistoryCursor": null
       },
       "jonaschn/awesome-he": {},
@@ -2747,8 +3048,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ViWec",
-        "lastPublishedAt": "2026-07-28T19:28:36Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Vi6Fv",
+        "lastPublishedAt": "2026-07-29T02:14:33Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
