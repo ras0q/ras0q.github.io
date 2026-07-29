@@ -1341,6 +1341,24 @@
       ],
       "2026-07-29": [
         {
+          "id": "RE_kwDOH-jzvc4Vkgfz",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.111",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.111",
+          "publishedAt": "2026-07-29T16:22:19Z",
+          "name": "v8.4.111 - Add Huawei Ascend NPU training support (#25500)"
+        },
+        {
+          "id": "RE_kwDOPF72_s4VkSd7",
+          "owner": "atusy",
+          "repo": "kakehashi",
+          "tag": "v0.9.0",
+          "url": "https://github.com/atusy/kakehashi/releases/tag/v0.9.0",
+          "publishedAt": "2026-07-29T14:50:41Z",
+          "name": "v0.9.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4VjuC4",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2004,8 +2022,9 @@
       "mislav/gh-license": {},
       "i9wa4/quarto-intro": {},
       "atusy/kakehashi": {
-        "lastReleaseId": "RE_kwDOPF72_s4U3BQM",
-        "lastPublishedAt": "2026-07-07T01:13:01Z"
+        "lastReleaseId": "RE_kwDOPF72_s4VkSd7",
+        "lastPublishedAt": "2026-07-29T14:50:41Z",
+        "releaseHistoryCursor": null
       },
       "rcmdnk/vim_ahk": {
         "lastReleaseId": "RE_kwDOALIcz84UIxh1",
@@ -3104,8 +3123,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Vi6Fv",
-        "lastPublishedAt": "2026-07-29T02:14:33Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Vkgfz",
+        "lastPublishedAt": "2026-07-29T16:22:19Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
