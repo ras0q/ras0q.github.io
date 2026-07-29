@@ -1341,6 +1341,50 @@
       ],
       "2026-07-29": [
         {
+          "id": "RE_kwDOFknhgc4Vk_FN",
+          "owner": "open-horizon-labs",
+          "repo": "obsidian-ics",
+          "tag": "1.15.0",
+          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.15.0",
+          "publishedAt": "2026-07-29T19:56:09Z",
+          "name": "1.15.0"
+        },
+        {
+          "id": "RE_kwDOEYAvFc4VkvrM",
+          "owner": "lumeland",
+          "repo": "lume",
+          "tag": "v3.3.0",
+          "url": "https://github.com/lumeland/lume/releases/tag/v3.3.0",
+          "publishedAt": "2026-07-29T18:01:56Z",
+          "name": "v3.3.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4VksDy",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.112",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.112",
+          "publishedAt": "2026-07-29T17:36:37Z",
+          "name": "v8.4.112 - Document supported tasks for every export format (#25511)"
+        },
+        {
+          "id": "RE_kwDOJQ-iCs4Vkq6Y",
+          "owner": "ovechkin-dm",
+          "repo": "mockio",
+          "tag": "v2.0.5",
+          "url": "https://github.com/ovechkin-dm/mockio/releases/tag/v2.0.5",
+          "publishedAt": "2026-07-29T17:27:20Z",
+          "name": "v2.0.5"
+        },
+        {
+          "id": "RE_kwDOAQ5kSs4VkoHg",
+          "owner": "joerick",
+          "repo": "pyinstrument",
+          "tag": "v5.1.3",
+          "url": "https://github.com/joerick/pyinstrument/releases/tag/v5.1.3",
+          "publishedAt": "2026-07-29T17:11:13Z"
+        },
+        {
           "id": "RE_kwDOH-jzvc4Vkgfz",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -2393,8 +2437,9 @@
         "lastPublishedAt": "2026-05-29T07:22:44Z"
       },
       "joerick/pyinstrument": {
-        "lastReleaseId": "RE_kwDOAQ5kSs4QVhIz",
-        "lastPublishedAt": "2026-01-04T18:28:50Z"
+        "lastReleaseId": "RE_kwDOAQ5kSs4VkoHg",
+        "lastPublishedAt": "2026-07-29T17:11:13Z",
+        "releaseHistoryCursor": null
       },
       "xtool-org/xtool": {
         "lastReleaseId": "RE_kwDONQkKUc4TTNPA",
@@ -2531,8 +2576,9 @@
       "niw/CaptureUI": {},
       "aheze/SwiftGLSL": {},
       "ovechkin-dm/mockio": {
-        "lastReleaseId": "RE_kwDOJQ-iCs4PdC1j",
-        "lastPublishedAt": "2025-11-03T14:40:12Z"
+        "lastReleaseId": "RE_kwDOJQ-iCs4Vkq6Y",
+        "lastPublishedAt": "2026-07-29T17:27:20Z",
+        "releaseHistoryCursor": null
       },
       "DavidHDev/react-bits": {},
       "harshil1712/slidev-cloudflare-workers": {},
@@ -2625,8 +2671,8 @@
         "lastPublishedAt": "2026-06-01T19:43:16Z"
       },
       "open-horizon-labs/obsidian-ics": {
-        "lastReleaseId": "RE_kwDOFknhgc4VdyU_",
-        "lastPublishedAt": "2026-07-26T22:13:59Z",
+        "lastReleaseId": "RE_kwDOFknhgc4Vk_FN",
+        "lastPublishedAt": "2026-07-29T19:56:09Z",
         "releaseHistoryCursor": null
       },
       "alecthomas/kong": {},
@@ -2813,8 +2859,9 @@
       },
       "lumeland/cms": {},
       "lumeland/lume": {
-        "lastReleaseId": "RE_kwDOEYAvFc4TnBzq",
-        "lastPublishedAt": "2026-05-25T17:39:42Z"
+        "lastReleaseId": "RE_kwDOEYAvFc4VkvrM",
+        "lastPublishedAt": "2026-07-29T18:01:56Z",
+        "releaseHistoryCursor": null
       },
       "asyncapi/spec": {
         "lastReleaseId": "RE_kwDOBGu-184Qy5XO",
@@ -3123,8 +3170,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Vkgfz",
-        "lastPublishedAt": "2026-07-29T16:22:19Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4VksDy",
+        "lastPublishedAt": "2026-07-29T17:36:37Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
