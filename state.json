@@ -1341,6 +1341,24 @@
       ],
       "2026-07-29": [
         {
+          "id": "RE_kwDOQvjuaM4VjuC4",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.302.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.302.0",
+          "publishedAt": "2026-07-29T11:02:39Z",
+          "name": "v0.302.0"
+        },
+        {
+          "id": "RE_kwDOE4ox_c4Vjglt",
+          "owner": "hummingbird-project",
+          "repo": "hummingbird",
+          "tag": "2.26.0",
+          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.26.0",
+          "publishedAt": "2026-07-29T09:21:04Z",
+          "name": "v2.26.0"
+        },
+        {
           "id": "RE_kwDOEXrCM84VjVIa",
           "owner": "esm-dev",
           "repo": "esm.sh",
@@ -1879,8 +1897,9 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VBk67",
-        "lastPublishedAt": "2026-07-12T11:24:56Z"
+        "lastReleaseId": "RE_kwDOQvjuaM4VjuC4",
+        "lastPublishedAt": "2026-07-29T11:02:39Z",
+        "releaseHistoryCursor": null
       },
       "suin/opx": {
         "lastReleaseId": "RE_kwDORVyvIM4RO5dR",
@@ -2818,8 +2837,9 @@
       },
       "nerdsupremacist/memes": {},
       "hummingbird-project/hummingbird": {
-        "lastReleaseId": "RE_kwDOE4ox_c4VFAGg",
-        "lastPublishedAt": "2026-07-14T07:37:21Z"
+        "lastReleaseId": "RE_kwDOE4ox_c4Vjglt",
+        "lastPublishedAt": "2026-07-29T09:21:04Z",
+        "releaseHistoryCursor": null
       },
       "darlinghq/darling": {
         "lastReleaseId": "RE_kwDOAGv_Os4UDGJX",
