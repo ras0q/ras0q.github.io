@@ -1341,6 +1341,42 @@
       ],
       "2026-07-29": [
         {
+          "id": "RE_kwDOEXrCM84VjVIa",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v137_8",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v137_8",
+          "publishedAt": "2026-07-29T07:51:03Z",
+          "name": "Server v137_8"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VjRhe",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.58.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.58.1",
+          "publishedAt": "2026-07-29T07:20:49Z",
+          "name": "Release v2.58.1"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VjNZ5",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.58.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.58.0",
+          "publishedAt": "2026-07-29T06:44:19Z",
+          "name": "Release v2.58.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4VjLW8",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.7.16",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.16",
+          "publishedAt": "2026-07-29T06:23:37Z",
+          "name": "v2026.7.16: Task Workspaces, MCP Command Effects, and Dotfiles Cleanup"
+        },
+        {
           "id": "RE_kwDOHuVHqM4VjCoS",
           "owner": "chakra-ui",
           "repo": "panda",
@@ -1679,8 +1715,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VjAjH",
-        "lastPublishedAt": "2026-07-29T03:55:49Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VjRhe",
+        "lastPublishedAt": "2026-07-29T07:20:49Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2600,8 +2636,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84VdGsZ",
-        "lastPublishedAt": "2026-07-26T07:20:34Z",
+        "lastReleaseId": "RE_kwDOEXrCM84VjVIa",
+        "lastPublishedAt": "2026-07-29T07:51:03Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -2636,8 +2672,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4VfuQn",
-        "lastPublishedAt": "2026-07-27T18:51:46Z",
+        "lastReleaseId": "RE_kwDOIvux3s4VjLW8",
+        "lastPublishedAt": "2026-07-29T06:23:37Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
