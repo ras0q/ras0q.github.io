@@ -1304,6 +1304,78 @@
       ],
       "2026-07-30": [
         {
+          "id": "RE_kwDOD6MHws4VlBLN",
+          "owner": "obsidianmd",
+          "repo": "obsidian-releases",
+          "tag": "v1.13.4",
+          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.4",
+          "publishedAt": "2026-07-30T16:23:52Z",
+          "name": "1.13.4"
+        },
+        {
+          "id": "RE_kwDOAdOsyM4Vmtor",
+          "owner": "x-motemen",
+          "repo": "gore",
+          "tag": "v0.7.0",
+          "url": "https://github.com/x-motemen/gore/releases/tag/v0.7.0",
+          "publishedAt": "2026-07-30T13:51:50Z",
+          "name": "Release v0.7.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VmqrX",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.303.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.303.0",
+          "publishedAt": "2026-07-30T13:33:51Z",
+          "name": "v0.303.0"
+        },
+        {
+          "id": "RE_kwDONvYw484VmpJa",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nuxt@0.1.1",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%400.1.1",
+          "publishedAt": "2026-07-30T13:23:46Z",
+          "name": "@arkenv/nuxt@0.1.1"
+        },
+        {
+          "id": "RE_kwDONvYw484VmpI_",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/build@0.0.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/build%400.0.3",
+          "publishedAt": "2026-07-30T13:23:43Z",
+          "name": "@arkenv/build@0.0.3"
+        },
+        {
+          "id": "RE_kwDONvYw484VmpIl",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/bun-plugin@0.1.13",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%400.1.13",
+          "publishedAt": "2026-07-30T13:23:40Z",
+          "name": "@arkenv/bun-plugin@0.1.13"
+        },
+        {
+          "id": "RE_kwDONvYw484VmpII",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nextjs@0.1.5",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%400.1.5",
+          "publishedAt": "2026-07-30T13:23:38Z",
+          "name": "@arkenv/nextjs@0.1.5"
+        },
+        {
+          "id": "RE_kwDOQr_i4M4VmmTF",
+          "owner": "trasta298",
+          "repo": "keifu",
+          "tag": "v0.6.0",
+          "url": "https://github.com/trasta298/keifu/releases/tag/v0.6.0",
+          "publishedAt": "2026-07-30T13:05:03Z",
+          "name": "v0.6.0"
+        },
+        {
           "id": "RE_kwDOJEKgss4VmO7X",
           "owner": "DataDog",
           "repo": "orchestrion",
@@ -1608,8 +1680,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VjuC4",
-        "lastPublishedAt": "2026-07-29T11:02:39Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VmqrX",
+        "lastPublishedAt": "2026-07-30T13:33:51Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1691,8 +1763,9 @@
         "lastPublishedAt": "2026-05-29T03:24:20Z"
       },
       "trasta298/keifu": {
-        "lastReleaseId": "RE_kwDOQr_i4M4UZRcr",
-        "lastPublishedAt": "2026-06-19T23:04:05Z"
+        "lastReleaseId": "RE_kwDOQr_i4M4VmmTF",
+        "lastPublishedAt": "2026-07-30T13:05:03Z",
+        "releaseHistoryCursor": null
       },
       "xwmx/nb": {
         "lastReleaseId": "RE_kwDOAvORMc4SxPCV",
@@ -1822,8 +1895,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484VaInl",
-        "lastPublishedAt": "2026-07-24T08:32:11Z",
+        "lastReleaseId": "RE_kwDONvYw484VmpJa",
+        "lastPublishedAt": "2026-07-30T13:23:46Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -2747,8 +2820,9 @@
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastReleaseId": "RE_kwDOD6MHws4RzJob",
-        "lastPublishedAt": "2026-03-23T15:56:19Z"
+        "lastReleaseId": "RE_kwDOD6MHws4VlBLN",
+        "lastPublishedAt": "2026-07-30T16:23:52Z",
+        "releaseHistoryCursor": null
       },
       "j0k3r/banditore": {
         "lastReleaseId": "RE_kwDOBOOjGs4O9-vJ",
@@ -3462,8 +3536,9 @@
         "lastPublishedAt": "2025-12-04T00:07:49Z"
       },
       "x-motemen/gore": {
-        "lastReleaseId": "RE_kwDOAdOsyM4UQq7d",
-        "lastPublishedAt": "2026-06-16T04:59:26Z"
+        "lastReleaseId": "RE_kwDOAdOsyM4Vmtor",
+        "lastPublishedAt": "2026-07-30T13:51:50Z",
+        "releaseHistoryCursor": null
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
