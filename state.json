@@ -1304,6 +1304,24 @@
       ],
       "2026-07-30": [
         {
+          "id": "RE_kwDOJEKgss4VmO7X",
+          "owner": "DataDog",
+          "repo": "orchestrion",
+          "tag": "v1.12.0",
+          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.12.0",
+          "publishedAt": "2026-07-30T10:18:50Z",
+          "name": "v1.12.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4VlxLw",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.1",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.1",
+          "publishedAt": "2026-07-30T06:48:39Z",
+          "name": "1.0.1"
+        },
+        {
           "id": "RE_kwDOCk1n-s4VlyBN",
           "owner": "eure",
           "repo": "swift-storybook",
@@ -2836,8 +2854,9 @@
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
       "DataDog/orchestrion": {
-        "lastReleaseId": "RE_kwDOJEKgss4UaqDJ",
-        "lastPublishedAt": "2026-06-25T07:40:13Z"
+        "lastReleaseId": "RE_kwDOJEKgss4VmO7X",
+        "lastPublishedAt": "2026-07-30T10:18:50Z",
+        "releaseHistoryCursor": null
       },
       "spotify/voyager": {
         "lastReleaseId": "RE_kwDOJWXenM4O25e5",
@@ -2928,8 +2947,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Vek6p",
-        "lastPublishedAt": "2026-07-27T10:07:27Z",
+        "lastReleaseId": "RE_kwDOGNEXps4VlxLw",
+        "lastPublishedAt": "2026-07-30T06:48:39Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
