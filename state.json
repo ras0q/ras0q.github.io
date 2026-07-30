@@ -1304,6 +1304,24 @@
       ],
       "2026-07-30": [
         {
+          "id": "RE_kwDOHy0Bzc4Vnf5N",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.1",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.1",
+          "publishedAt": "2026-07-30T19:37:52Z",
+          "name": "0.16.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VnRWg",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.0.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.0.0",
+          "publishedAt": "2026-07-30T17:55:09Z",
+          "name": "v30.0.0"
+        },
+        {
           "id": "RE_kwDOD6MHws4VlBLN",
           "owner": "obsidianmd",
           "repo": "obsidian-releases",
@@ -2949,8 +2967,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4VZF9w",
-        "lastPublishedAt": "2026-07-23T19:12:22Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4Vnf5N",
+        "lastPublishedAt": "2026-07-30T19:37:52Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -3472,8 +3490,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Vgtlg",
-        "lastPublishedAt": "2026-07-28T07:12:50Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VnRWg",
+        "lastPublishedAt": "2026-07-30T17:55:09Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
