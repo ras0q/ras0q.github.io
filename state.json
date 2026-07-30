@@ -1304,6 +1304,42 @@
       ],
       "2026-07-30": [
         {
+          "id": "RE_kwDOCk1n-s4VlyBN",
+          "owner": "eure",
+          "repo": "swift-storybook",
+          "tag": "3.1.1",
+          "url": "https://github.com/eure/swift-storybook/releases/tag/3.1.1",
+          "publishedAt": "2026-07-30T06:24:11Z",
+          "name": "3.1.1"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4VlxzF",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.119.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.119.0",
+          "publishedAt": "2026-07-30T06:21:51Z",
+          "name": "v1.119.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Vlsmc",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.60.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.60.0",
+          "publishedAt": "2026-07-30T05:19:54Z",
+          "name": "Release v2.60.0"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4Vlr2F",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.5",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.5",
+          "publishedAt": "2026-07-30T05:09:19Z",
+          "name": "v0.15.5"
+        },
+        {
           "id": "RE_kwDOHm9BJM4VloYk",
           "owner": "pocketbase",
           "repo": "pocketbase",
@@ -1390,8 +1426,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VlNT9",
-        "lastPublishedAt": "2026-07-29T22:07:15Z",
+        "lastReleaseId": "RE_kwDOQHjZG84Vlsmc",
+        "lastPublishedAt": "2026-07-30T05:19:54Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1567,8 +1603,9 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4VLa6M",
-        "lastPublishedAt": "2026-07-16T19:29:35Z"
+        "lastReleaseId": "RE_kwDORQ3jDc4Vlr2F",
+        "lastPublishedAt": "2026-07-30T05:09:19Z",
+        "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
         "lastReleaseId": "RE_kwDORJmIws4VB9-g",
@@ -1776,8 +1813,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4Vhi9E",
-        "lastPublishedAt": "2026-07-28T13:39:00Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4VlxzF",
+        "lastPublishedAt": "2026-07-30T06:21:51Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2206,8 +2243,8 @@
       },
       "tmc/nlm": {},
       "eure/swift-storybook": {
-        "lastReleaseId": "RE_kwDOCk1n-s4VOjHz",
-        "lastPublishedAt": "2026-07-18T15:47:08Z",
+        "lastReleaseId": "RE_kwDOCk1n-s4VlyBN",
+        "lastPublishedAt": "2026-07-30T06:24:11Z",
         "releaseHistoryCursor": null
       },
       "subframe7536/maple-font": {
