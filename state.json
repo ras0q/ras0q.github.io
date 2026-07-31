@@ -1349,6 +1349,60 @@
       ],
       "2026-07-31": [
         {
+          "id": "RE_kwDOK-QCA84Vpfia",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v19.22.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.22.0",
+          "publishedAt": "2026-07-31T16:29:20Z",
+          "name": "v19.22.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4Vpfdw",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.114",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.114",
+          "publishedAt": "2026-07-31T16:28:43Z",
+          "name": "v8.4.114 - Surface Platform error messages and stop the console-output retry loop (#25581)"
+        },
+        {
+          "id": "RE_kwDOCkh5xs4Vpedr",
+          "owner": "pmndrs",
+          "repo": "react-three-fiber",
+          "tag": "v9.7.0",
+          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.7.0",
+          "publishedAt": "2026-07-31T16:19:29Z",
+          "name": "v9.7.0"
+        },
+        {
+          "id": "RE_kwDODH8YWs4VpPji",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.07.30",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.07.30",
+          "publishedAt": "2026-07-31T14:48:49Z",
+          "name": "v2026.07.30"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4VpQFV",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.31.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.31.0",
+          "publishedAt": "2026-07-31T14:42:01Z",
+          "name": "Release 6.31.0"
+        },
+        {
+          "id": "RE_kwDOOC1fY84VpEP_",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "4.0.1",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/4.0.1",
+          "publishedAt": "2026-07-31T13:32:02Z",
+          "name": "4.0.1"
+        },
+        {
           "id": "RE_kwDOFYUYQs4Vo2Yh",
           "owner": "slidevjs",
           "repo": "slidev",
@@ -1872,8 +1926,8 @@
         "lastPublishedAt": "2025-11-24T03:50:37Z"
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4VobA_",
-        "lastPublishedAt": "2026-07-31T07:46:25Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4VpQFV",
+        "lastPublishedAt": "2026-07-31T14:42:01Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -1926,8 +1980,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84VaFWA",
-        "lastPublishedAt": "2026-07-24T08:01:54Z",
+        "lastReleaseId": "RE_kwDOK-QCA84Vpfia",
+        "lastPublishedAt": "2026-07-31T16:29:20Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -2298,8 +2352,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4VWNtt",
-        "lastPublishedAt": "2026-07-22T15:58:44Z",
+        "lastReleaseId": "RE_kwDODH8YWs4VpPji",
+        "lastPublishedAt": "2026-07-31T14:48:49Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -2308,8 +2362,8 @@
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastReleaseId": "RE_kwDOOC1fY84VQPu3",
-        "lastPublishedAt": "2026-07-20T08:27:41Z",
+        "lastReleaseId": "RE_kwDOOC1fY84VpEP_",
+        "lastPublishedAt": "2026-07-31T13:32:02Z",
         "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
@@ -2834,8 +2888,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Vn4tW",
-        "lastPublishedAt": "2026-07-30T23:43:03Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Vpfdw",
+        "lastPublishedAt": "2026-07-31T16:28:43Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3131,8 +3185,9 @@
         "lastPublishedAt": "2026-06-25T18:44:37Z"
       },
       "pmndrs/react-three-fiber": {
-        "lastReleaseId": "RE_kwDOCkh5xs4Sw5nz",
-        "lastPublishedAt": "2026-04-28T20:05:51Z"
+        "lastReleaseId": "RE_kwDOCkh5xs4Vpedr",
+        "lastPublishedAt": "2026-07-31T16:19:29Z",
+        "releaseHistoryCursor": null
       },
       "jdecked/twemoji": {
         "lastReleaseId": "RE_kwDOD6SBCc4T1jkF",
