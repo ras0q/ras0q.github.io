@@ -1346,6 +1346,17 @@
           "publishedAt": "2026-07-30T00:02:03Z",
           "name": "v2.62.2"
         }
+      ],
+      "2026-07-31": [
+        {
+          "id": "RE_kwDOM9WtiM4VoATe",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.5",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.5",
+          "publishedAt": "2026-07-31T01:49:00Z",
+          "name": "v1.2.5"
+        }
       ]
     }
   },
@@ -2077,8 +2088,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4VPQEk",
-        "lastPublishedAt": "2026-07-19T11:04:02Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4VoATe",
+        "lastPublishedAt": "2026-07-31T01:49:00Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
