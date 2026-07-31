@@ -1349,6 +1349,60 @@
       ],
       "2026-07-31": [
         {
+          "id": "RE_kwDOJKcikM4Vp3EC",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.41.6",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.6",
+          "publishedAt": "2026-07-31T19:55:11Z",
+          "name": "@astrojs/starlight@0.41.6"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4Vp1oX",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.1",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.1",
+          "publishedAt": "2026-07-31T19:43:31Z",
+          "name": "0.12.1"
+        },
+        {
+          "id": "RE_kwDOII1H084VpuqV",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.3",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.3",
+          "publishedAt": "2026-07-31T18:37:48Z",
+          "name": "v0.5.3"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VpoVP",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.60.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.60.1",
+          "publishedAt": "2026-07-31T17:43:23Z",
+          "name": "Release v2.60.1"
+        },
+        {
+          "id": "RE_kwDODGtc284Vpk0G",
+          "owner": "adobe",
+          "repo": "react-spectrum",
+          "tag": "react-aria-components@1.20.0",
+          "url": "https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.20.0",
+          "publishedAt": "2026-07-31T17:11:02Z",
+          "name": "React Aria Components v1.20.0"
+        },
+        {
+          "id": "RE_kwDODGtc284Vpke1",
+          "owner": "adobe",
+          "repo": "react-spectrum",
+          "tag": "@react-spectrum/s2@1.6.0",
+          "url": "https://github.com/adobe/react-spectrum/releases/tag/%40react-spectrum/s2%401.6.0",
+          "publishedAt": "2026-07-31T17:07:43Z",
+          "name": "React Spectrum S2 v1.6.0"
+        },
+        {
           "id": "RE_kwDOK-QCA84Vpfia",
           "owner": "olimorris",
           "repo": "codecompanion.nvim",
@@ -1507,8 +1561,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84Vlsmc",
-        "lastPublishedAt": "2026-07-30T05:19:54Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VpoVP",
+        "lastPublishedAt": "2026-07-31T17:43:23Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1866,8 +1920,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4VgyxZ",
-        "lastPublishedAt": "2026-07-28T07:55:30Z",
+        "lastReleaseId": "RE_kwDOJKcikM4Vp3EC",
+        "lastPublishedAt": "2026-07-31T19:55:11Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -2058,8 +2112,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084Vg6UT",
-        "lastPublishedAt": "2026-07-28T08:52:03Z",
+        "lastReleaseId": "RE_kwDOII1H084VpuqV",
+        "lastPublishedAt": "2026-07-31T18:37:48Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -2788,8 +2842,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4ViSIh",
-        "lastPublishedAt": "2026-07-28T18:58:12Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4Vp1oX",
+        "lastPublishedAt": "2026-07-31T19:43:31Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3102,8 +3156,9 @@
         "lastPublishedAt": "2021-10-27T01:17:08Z"
       },
       "adobe/react-spectrum": {
-        "lastReleaseId": "RE_kwDODGtc284UW6Rs",
-        "lastPublishedAt": "2026-06-18T17:30:37Z"
+        "lastReleaseId": "RE_kwDODGtc284Vpk0G",
+        "lastPublishedAt": "2026-07-31T17:11:02Z",
+        "releaseHistoryCursor": null
       },
       "go-webauthn/webauthn": {
         "lastReleaseId": "RE_kwDOGiIVa84Tin1a",
