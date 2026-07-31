@@ -2,179 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-23",
       "2026-07-24",
       "2026-07-25",
       "2026-07-26",
       "2026-07-27",
       "2026-07-28",
-      "2026-07-29"
+      "2026-07-29",
+      "2026-07-30"
     ],
     "days": {
-      "2026-07-23": [
-        {
-          "id": "RE_kwDOKbIFZc4VZfD_",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.11.32",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.11.32",
-          "publishedAt": "2026-07-23T23:17:45Z",
-          "name": "0.11.32"
-        },
-        {
-          "id": "RE_kwDOKHF8zM4VZHAz",
-          "owner": "marimo-team",
-          "repo": "marimo",
-          "tag": "0.23.15",
-          "url": "https://github.com/marimo-team/marimo/releases/tag/0.23.15",
-          "publishedAt": "2026-07-23T19:21:02Z",
-          "name": "0.23.15"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4VZF9w",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.0",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.0",
-          "publishedAt": "2026-07-23T19:12:22Z",
-          "name": "0.16.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VY5d5",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.35.2",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.35.2",
-          "publishedAt": "2026-07-23T17:31:21Z",
-          "name": "v29.35.2"
-        },
-        {
-          "id": "RE_kwDOB_QrUM4VYqH4",
-          "owner": "denoland",
-          "repo": "deno",
-          "tag": "v2.9.4",
-          "url": "https://github.com/denoland/deno/releases/tag/v2.9.4",
-          "publishedAt": "2026-07-23T16:59:31Z",
-          "name": "v2.9.4"
-        },
-        {
-          "id": "RE_kwDOLNZwwc4VYdR8",
-          "owner": "e18e",
-          "repo": "module-replacements",
-          "tag": "3.1.0",
-          "url": "https://github.com/e18e/module-replacements/releases/tag/3.1.0",
-          "publishedAt": "2026-07-23T14:12:00Z",
-          "name": "3.1.0"
-        },
-        {
-          "id": "RE_kwDOOFv4Ac4VYcl4",
-          "owner": "getsentry",
-          "repo": "XcodeBuildMCP",
-          "tag": "v2.7.0",
-          "url": "https://github.com/getsentry/XcodeBuildMCP/releases/tag/v2.7.0",
-          "publishedAt": "2026-07-23T14:07:50Z",
-          "name": "Release v2.7.0"
-        },
-        {
-          "id": "RE_kwDOFNWFc84VYSjf",
-          "owner": "obsidian-tasks-group",
-          "repo": "obsidian-tasks",
-          "tag": "8.3.0",
-          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.3.0",
-          "publishedAt": "2026-07-23T13:12:56Z",
-          "name": "8.3.0: Stop blocking Obsidian UI during startup; 'hide nested backlinks' instruction; safer regex searches"
-        },
-        {
-          "id": "RE_kwDORSib_s4VYTEr",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.12.1",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.12.1",
-          "publishedAt": "2026-07-23T13:07:27Z",
-          "name": "acpx v0.12.1"
-        },
-        {
-          "id": "RE_kwDOCRgRGs4VX1jG",
-          "owner": "wasmerio",
-          "repo": "wasmer",
-          "tag": "v7.2.1",
-          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.2.1",
-          "publishedAt": "2026-07-23T11:04:33Z",
-          "name": " Release v7.2.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VYBuE",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.35.1",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.35.1",
-          "publishedAt": "2026-07-23T10:54:40Z",
-          "name": "v29.35.1"
-        },
-        {
-          "id": "RE_kwDOG8_Nmc4VX7ho",
-          "owner": "denoland",
-          "repo": "deno_task_shell",
-          "tag": "0.33.2",
-          "url": "https://github.com/denoland/deno_task_shell/releases/tag/0.33.2",
-          "publishedAt": "2026-07-23T10:04:14Z",
-          "name": "0.33.2"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VXyjL",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.52.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.52.0",
-          "publishedAt": "2026-07-23T08:56:03Z",
-          "name": "Release v2.52.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VXrIG",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.51.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.51.0",
-          "publishedAt": "2026-07-23T07:49:00Z",
-          "name": "Release v2.51.0"
-        },
-        {
-          "id": "RE_kwDOOELNJM4VXihB",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v0.2.6",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.6",
-          "publishedAt": "2026-07-23T06:25:17Z",
-          "name": "vite-plus v0.2.6: Stable type-aware linting and more reliable task caching"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4VXWt5",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.24",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.24",
-          "publishedAt": "2026-07-23T03:40:09Z",
-          "name": "v1.10.24"
-        },
-        {
-          "id": "RE_kwDOIvux3s4VXPwH",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.12",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.12",
-          "publishedAt": "2026-07-23T01:54:21Z",
-          "name": "v2026.7.12: Safe mode, node-free npm, and a built-in OCI push client"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VXIpR",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.50.7",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.50.7",
-          "publishedAt": "2026-07-23T00:01:45Z",
-          "name": "Release v2.50.7"
-        }
-      ],
       "2026-07-24": [
         {
           "id": "RE_kwDOH-jzvc4VbwO2",
@@ -1303,6 +1139,24 @@
         }
       ],
       "2026-07-30": [
+        {
+          "id": "RE_kwDOH-jzvc4Vn4tW",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.113",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.113",
+          "publishedAt": "2026-07-30T23:43:03Z",
+          "name": "v8.4.113 - Add Dragonwing IQ-8275 QNN export target (#25558)"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Vnxpp",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.7.18",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.18",
+          "publishedAt": "2026-07-30T22:11:04Z",
+          "name": "v2026.7.18: Monorepo task ergonomics and a broad round of fixes"
+        },
         {
           "id": "RE_kwDOHy0Bzc4Vnf5N",
           "owner": "astral-sh",
@@ -2498,8 +2352,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Vld6V",
-        "lastPublishedAt": "2026-07-30T01:58:40Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Vnxpp",
+        "lastPublishedAt": "2026-07-30T22:11:04Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2914,8 +2768,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4VksDy",
-        "lastPublishedAt": "2026-07-29T17:36:37Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Vn4tW",
+        "lastPublishedAt": "2026-07-30T23:43:03Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
