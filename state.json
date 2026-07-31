@@ -1349,6 +1349,42 @@
       ],
       "2026-07-31": [
         {
+          "id": "RE_kwDOOELNJM4VoiVa",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.2.7",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.7",
+          "publishedAt": "2026-07-31T08:54:28Z",
+          "name": "vite-plus v0.2.7"
+        },
+        {
+          "id": "RE_kwDOGNEXps4Vob7B",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.2",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.2",
+          "publishedAt": "2026-07-31T08:06:13Z",
+          "name": "1.0.2"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4VobA_",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.30.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.30.0",
+          "publishedAt": "2026-07-31T07:46:25Z",
+          "name": "Release 6.30.0"
+        },
+        {
+          "id": "RE_kwDONrCobc4VoSL8",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.3.2",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.2",
+          "publishedAt": "2026-07-31T06:15:40Z",
+          "name": "v2.3.2"
+        },
+        {
           "id": "RE_kwDOM9WtiM4VoATe",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -1545,8 +1581,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4VXihB",
-        "lastPublishedAt": "2026-07-23T06:25:17Z",
+        "lastReleaseId": "RE_kwDOOELNJM4VoiVa",
+        "lastPublishedAt": "2026-07-31T08:54:28Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1818,8 +1854,8 @@
         "lastPublishedAt": "2025-11-24T03:50:37Z"
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4VVo8C",
-        "lastPublishedAt": "2026-07-22T12:10:48Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4VobA_",
+        "lastPublishedAt": "2026-07-31T07:46:25Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -2289,8 +2325,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4VaFF-",
-        "lastPublishedAt": "2026-07-24T07:59:31Z",
+        "lastReleaseId": "RE_kwDONrCobc4VoSL8",
+        "lastPublishedAt": "2026-07-31T06:15:40Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -2904,8 +2940,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4VlxLw",
-        "lastPublishedAt": "2026-07-30T06:48:39Z",
+        "lastReleaseId": "RE_kwDOGNEXps4Vob7B",
+        "lastPublishedAt": "2026-07-31T08:06:13Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
