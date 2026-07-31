@@ -1349,6 +1349,24 @@
       ],
       "2026-07-31": [
         {
+          "id": "RE_kwDOFYUYQs4Vo2Yh",
+          "owner": "slidevjs",
+          "repo": "slidev",
+          "tag": "v52.18.1",
+          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.18.1",
+          "publishedAt": "2026-07-31T11:42:42Z",
+          "name": "v52.18.1"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4Vonhs",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.9.4",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.4",
+          "publishedAt": "2026-07-31T09:46:16Z",
+          "name": "v2.9.4"
+        },
+        {
           "id": "RE_kwDOOELNJM4VoiVa",
           "owner": "voidzero-dev",
           "repo": "vite-plus",
@@ -2394,8 +2412,8 @@
         "lastPublishedAt": "2026-07-08T17:33:42Z"
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4VlDEI",
-        "lastPublishedAt": "2026-07-29T20:46:15Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4Vonhs",
+        "lastPublishedAt": "2026-07-31T09:46:16Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
@@ -2669,8 +2687,9 @@
       },
       "kyosu-1/passkey-go-example": {},
       "slidevjs/slidev": {
-        "lastReleaseId": "RE_kwDOFYUYQs4VEryZ",
-        "lastPublishedAt": "2026-07-14T03:10:23Z"
+        "lastReleaseId": "RE_kwDOFYUYQs4Vo2Yh",
+        "lastPublishedAt": "2026-07-31T11:42:42Z",
+        "releaseHistoryCursor": null
       },
       "Striffly/mailspring-avatars": {
         "lastReleaseId": "RE_kwDOCBTEX84Qb7an",
