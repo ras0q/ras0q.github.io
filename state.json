@@ -1403,6 +1403,24 @@
       ],
       "2026-08-01": [
         {
+          "id": "RE_kwDOQHjZG84VrBmc",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.63.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.63.0",
+          "publishedAt": "2026-08-01T18:44:33Z",
+          "name": "Release v2.63.0"
+        },
+        {
+          "id": "RE_kwDOG-K8R84Vq9zm",
+          "owner": "windingwind",
+          "repo": "zotero-pdf-translate",
+          "tag": "v2.4.6",
+          "url": "https://github.com/windingwind/zotero-pdf-translate/releases/tag/v2.4.6",
+          "publishedAt": "2026-08-01T17:35:19Z",
+          "name": "Release v2.4.6"
+        },
+        {
           "id": "RE_kwDOH-jzvc4Vq5Oy",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1552,8 +1570,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VqcJE",
-        "lastPublishedAt": "2026-08-01T06:16:03Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VrBmc",
+        "lastPublishedAt": "2026-08-01T18:44:33Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2813,8 +2831,9 @@
         "lastPublishedAt": "2026-02-01T23:34:22Z"
       },
       "windingwind/zotero-pdf-translate": {
-        "lastReleaseId": "RE_kwDOG-K8R84UGNwQ",
-        "lastPublishedAt": "2026-06-10T11:11:37Z"
+        "lastReleaseId": "RE_kwDOG-K8R84Vq9zm",
+        "lastPublishedAt": "2026-08-01T17:35:19Z",
+        "releaseHistoryCursor": null
       },
       "charmbracelet/freeze": {
         "lastReleaseId": "RE_kwDOLC5GWM4MgC_K",
