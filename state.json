@@ -2,170 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-24",
       "2026-07-25",
       "2026-07-26",
       "2026-07-27",
       "2026-07-28",
       "2026-07-29",
-      "2026-07-30"
+      "2026-07-30",
+      "2026-07-31"
     ],
     "days": {
-      "2026-07-24": [
-        {
-          "id": "RE_kwDOH-jzvc4VbwO2",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.105",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.105",
-          "publishedAt": "2026-07-24T23:35:04Z",
-          "name": "v8.4.105 - Fuse distillation checkpoints to the student model (#25415)"
-        },
-        {
-          "id": "RE_kwDOJCIvuc4Vbszl",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.5",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.5",
-          "publishedAt": "2026-07-24T22:45:33Z",
-          "name": "1.9.5"
-        },
-        {
-          "id": "RE_kwDOBqNIoM4VbsdM",
-          "owner": "miniflux",
-          "repo": "v2",
-          "tag": "2.3.3",
-          "url": "https://github.com/miniflux/v2/releases/tag/2.3.3",
-          "publishedAt": "2026-07-24T22:41:57Z",
-          "name": "Miniflux 2.3.3"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4VbbPl",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.87.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.87.0",
-          "publishedAt": "2026-07-24T19:38:05Z",
-          "name": "v0.87.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4VbOdr",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.13",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.13",
-          "publishedAt": "2026-07-24T17:51:54Z",
-          "name": "v2026.7.13: Multi-binary renaming, cask completions, and go.mod support"
-        },
-        {
-          "id": "RE_kwDOA1DMt84VbFnd",
-          "owner": "microsoft",
-          "repo": "WSL",
-          "tag": "2.7.11",
-          "url": "https://github.com/microsoft/WSL/releases/tag/2.7.11",
-          "publishedAt": "2026-07-24T16:59:19Z",
-          "name": "2.7.11"
-        },
-        {
-          "id": "RE_kwDOBLlNSM4VayJC",
-          "owner": "lingui",
-          "repo": "js-lingui",
-          "tag": "v6.6.0",
-          "url": "https://github.com/lingui/js-lingui/releases/tag/v6.6.0",
-          "publishedAt": "2026-07-24T14:01:12Z",
-          "name": "v6.6.0"
-        },
-        {
-          "id": "RE_kwDOD6wJuM4VaxnW",
-          "owner": "47ng",
-          "repo": "nuqs",
-          "tag": "v2.9.2",
-          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.2",
-          "publishedAt": "2026-07-24T13:59:39Z",
-          "name": "v2.9.2"
-        },
-        {
-          "id": "RE_kwDOEcv33s4VawqI",
-          "owner": "quarto-dev",
-          "repo": "quarto-cli",
-          "tag": "v1.10.18",
-          "url": "https://github.com/quarto-dev/quarto-cli/releases/tag/v1.10.18",
-          "publishedAt": "2026-07-24T13:50:30Z",
-          "name": "v1.10.18"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Vaq3p",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.116.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.116.0",
-          "publishedAt": "2026-07-24T13:07:57Z",
-          "name": "v1.116.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Vansf",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.36.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.36.0",
-          "publishedAt": "2026-07-24T12:43:33Z",
-          "name": "v29.36.0"
-        },
-        {
-          "id": "RE_kwDOFknhgc4VafVH",
-          "owner": "open-horizon-labs",
-          "repo": "obsidian-ics",
-          "tag": "1.12.1",
-          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.12.1",
-          "publishedAt": "2026-07-24T11:43:03Z",
-          "name": "1.12.1"
-        },
-        {
-          "id": "RE_kwDONvYw484VaInl",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/bun-plugin@0.1.12",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%400.1.12",
-          "publishedAt": "2026-07-24T08:32:11Z",
-          "name": "@arkenv/bun-plugin@0.1.12"
-        },
-        {
-          "id": "RE_kwDONvYw484VaInU",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/cli@0.5.4",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/cli%400.5.4",
-          "publishedAt": "2026-07-24T08:32:08Z",
-          "name": "@arkenv/cli@0.5.4"
-        },
-        {
-          "id": "RE_kwDOK-QCA84VaFWA",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v19.21.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.21.0",
-          "publishedAt": "2026-07-24T08:01:54Z",
-          "name": "v19.21.0"
-        },
-        {
-          "id": "RE_kwDONrCobc4VaFF-",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.3.1",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.1",
-          "publishedAt": "2026-07-24T07:59:31Z",
-          "name": "v2.3.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VZ89X",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.35.3",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.35.3",
-          "publishedAt": "2026-07-24T06:45:28Z",
-          "name": "v29.35.3"
-        }
-      ],
       "2026-07-25": [
         {
           "id": "RE_kwDOLFvGAc4Vc0sX",
@@ -1349,6 +1194,42 @@
       ],
       "2026-07-31": [
         {
+          "id": "RE_kwDOKHF8zM4VqGg5",
+          "owner": "marimo-team",
+          "repo": "marimo",
+          "tag": "0.23.16",
+          "url": "https://github.com/marimo-team/marimo/releases/tag/0.23.16",
+          "publishedAt": "2026-07-31T22:44:32Z",
+          "name": "0.23.16"
+        },
+        {
+          "id": "RE_kwDOAZfQX84VqBqR",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.36.0",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.0",
+          "publishedAt": "2026-07-31T21:44:53Z",
+          "name": "v0.36.0"
+        },
+        {
+          "id": "RE_kwDOObWEYM4VqA0s",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.53.1",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.1",
+          "publishedAt": "2026-07-31T21:34:30Z",
+          "name": "Release v0.53.1"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4Vp-lv",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.88.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.88.0",
+          "publishedAt": "2026-07-31T21:07:20Z",
+          "name": "v0.88.0"
+        },
+        {
           "id": "RE_kwDOJKcikM4Vp3EC",
           "owner": "withastro",
           "repo": "starlight",
@@ -1860,8 +1741,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4VbbPl",
-        "lastPublishedAt": "2026-07-24T19:38:05Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4Vp-lv",
+        "lastPublishedAt": "2026-07-31T21:07:20Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -2148,8 +2029,8 @@
         "lastPublishedAt": "2026-04-09T20:31:45Z"
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4VinPA",
-        "lastPublishedAt": "2026-07-28T21:45:42Z",
+        "lastReleaseId": "RE_kwDOObWEYM4VqA0s",
+        "lastPublishedAt": "2026-07-31T21:34:30Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -2290,8 +2171,8 @@
         "lastPublishedAt": "2024-03-07T15:12:05Z"
       },
       "marimo-team/marimo": {
-        "lastReleaseId": "RE_kwDOKHF8zM4VZHAz",
-        "lastPublishedAt": "2026-07-23T19:21:02Z",
+        "lastReleaseId": "RE_kwDOKHF8zM4VqGg5",
+        "lastPublishedAt": "2026-07-31T22:44:32Z",
         "releaseHistoryCursor": null
       },
       "8byt/gox": {},
@@ -3590,8 +3471,8 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84VVBJJ",
-        "lastPublishedAt": "2026-07-22T07:11:44Z",
+        "lastReleaseId": "RE_kwDOAZfQX84VqBqR",
+        "lastPublishedAt": "2026-07-31T21:44:53Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
