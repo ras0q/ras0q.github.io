@@ -1400,6 +1400,53 @@
           "publishedAt": "2026-07-31T01:49:00Z",
           "name": "v1.2.5"
         }
+      ],
+      "2026-08-01": [
+        {
+          "id": "RE_kwDOQvjuaM4VqYdi",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.312.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.312.0",
+          "publishedAt": "2026-08-01T04:48:09Z",
+          "name": "v0.312.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VqX67",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.62.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.62.0",
+          "publishedAt": "2026-08-01T04:36:26Z",
+          "name": "Release v2.62.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VqXmO",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.61.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.61.1",
+          "publishedAt": "2026-08-01T04:27:35Z",
+          "name": "Release v2.61.1"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VqTHT",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.61.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.61.0",
+          "publishedAt": "2026-08-01T02:50:51Z",
+          "name": "Release v2.61.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VqSgx",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.60.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.60.2",
+          "publishedAt": "2026-08-01T02:36:55Z",
+          "name": "Release v2.60.2"
+        }
       ]
     }
   },
@@ -1442,8 +1489,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VpoVP",
-        "lastPublishedAt": "2026-07-31T17:43:23Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VqX67",
+        "lastPublishedAt": "2026-08-01T04:36:26Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1606,8 +1653,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VmqrX",
-        "lastPublishedAt": "2026-07-30T13:33:51Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VqYdi",
+        "lastPublishedAt": "2026-08-01T04:48:09Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
