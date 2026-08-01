@@ -1403,6 +1403,24 @@
       ],
       "2026-08-01": [
         {
+          "id": "RE_kwDOAoUxF84VqmNY",
+          "owner": "preactjs",
+          "repo": "preact",
+          "tag": "10.29.8",
+          "url": "https://github.com/preactjs/preact/releases/tag/10.29.8",
+          "publishedAt": "2026-08-01T09:57:31Z",
+          "name": "10.29.8"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VqlYO",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.1.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.1.0",
+          "publishedAt": "2026-08-01T09:29:46Z",
+          "name": "v30.1.0"
+        },
+        {
           "id": "RE_kwDOQHjZG84VqcJE",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -2462,8 +2480,9 @@
         "lastPublishedAt": "2024-12-24T12:10:23Z"
       },
       "preactjs/preact": {
-        "lastReleaseId": "RE_kwDOAoUxF84U7SHu",
-        "lastPublishedAt": "2026-07-08T17:33:42Z"
+        "lastReleaseId": "RE_kwDOAoUxF84VqmNY",
+        "lastPublishedAt": "2026-08-01T09:57:31Z",
+        "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
         "lastReleaseId": "RE_kwDOD6wJuM4Vonhs",
@@ -3466,8 +3485,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VnRWg",
-        "lastPublishedAt": "2026-07-30T17:55:09Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VqlYO",
+        "lastPublishedAt": "2026-08-01T09:29:46Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
