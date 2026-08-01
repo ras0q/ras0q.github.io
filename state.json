@@ -1403,6 +1403,33 @@
       ],
       "2026-08-01": [
         {
+          "id": "RE_kwDOH-jzvc4Vq5Oy",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.115",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.115",
+          "publishedAt": "2026-08-01T16:06:47Z",
+          "name": "v8.4.115 - Deprecate HUB in favor of Ultralytics Platform (#25608)"
+        },
+        {
+          "id": "RE_kwDOBlwsqc4Vq0b6",
+          "owner": "air-verse",
+          "repo": "air",
+          "tag": "v1.67.4",
+          "url": "https://github.com/air-verse/air/releases/tag/v1.67.4",
+          "publishedAt": "2026-08-01T14:40:15Z",
+          "name": "v1.67.4"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Vqyoa",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.1.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.1.1",
+          "publishedAt": "2026-08-01T14:02:55Z",
+          "name": "v30.1.1"
+        },
+        {
           "id": "RE_kwDOAoUxF84VqmNY",
           "owner": "preactjs",
           "repo": "preact",
@@ -2907,8 +2934,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Vpfdw",
-        "lastPublishedAt": "2026-07-31T16:28:43Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Vq5Oy",
+        "lastPublishedAt": "2026-08-01T16:06:47Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3485,8 +3512,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VqlYO",
-        "lastPublishedAt": "2026-08-01T09:29:46Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Vqyoa",
+        "lastPublishedAt": "2026-08-01T14:02:55Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -3602,8 +3629,8 @@
         "lastPublishedAt": "2025-10-28T17:10:42Z"
       },
       "air-verse/air": {
-        "lastReleaseId": "RE_kwDOBlwsqc4VdHOx",
-        "lastPublishedAt": "2026-07-26T07:35:30Z",
+        "lastReleaseId": "RE_kwDOBlwsqc4Vq0b6",
+        "lastPublishedAt": "2026-08-01T14:40:15Z",
         "releaseHistoryCursor": null
       },
       "AlecAivazis/survey": {
