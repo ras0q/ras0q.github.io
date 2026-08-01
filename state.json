@@ -1403,6 +1403,24 @@
       ],
       "2026-08-01": [
         {
+          "id": "RE_kwDOQHjZG84VqcJE",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.62.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.62.2",
+          "publishedAt": "2026-08-01T06:16:03Z",
+          "name": "Release v2.62.2"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VqbLG",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.62.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.62.1",
+          "publishedAt": "2026-08-01T05:55:27Z",
+          "name": "Release v2.62.1"
+        },
+        {
           "id": "RE_kwDOQvjuaM4VqYdi",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1489,8 +1507,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VqX67",
-        "lastPublishedAt": "2026-08-01T04:36:26Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VqcJE",
+        "lastPublishedAt": "2026-08-01T06:16:03Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
