@@ -1385,6 +1385,51 @@
       ],
       "2026-08-02": [
         {
+          "id": "RE_kwDOF9Sih84VrYiv",
+          "owner": "aquaproj",
+          "repo": "aqua",
+          "tag": "v2.62.3",
+          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.62.3",
+          "publishedAt": "2026-08-02T04:08:24Z",
+          "name": "v2.62.3"
+        },
+        {
+          "id": "RE_kwDOALIcz84VrYQx",
+          "owner": "rcmdnk",
+          "repo": "vim_ahk",
+          "tag": "v0.16.7",
+          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.16.7",
+          "publishedAt": "2026-08-02T04:00:19Z",
+          "name": "v0.16.7"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VrXyv",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.315.1",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.315.1",
+          "publishedAt": "2026-08-02T03:47:09Z",
+          "name": "v0.315.1"
+        },
+        {
+          "id": "RE_kwDOALIcz84VrVbX",
+          "owner": "rcmdnk",
+          "repo": "vim_ahk",
+          "tag": "v0.16.6",
+          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.16.6",
+          "publishedAt": "2026-08-02T02:48:08Z",
+          "name": "v0.16.6"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VrUdi",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.64.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.64.0",
+          "publishedAt": "2026-08-02T02:22:59Z",
+          "name": "Release v2.64.0"
+        },
+        {
           "id": "RE_kwDOQHjZG84VrPUq",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1435,8 +1480,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VrPUq",
-        "lastPublishedAt": "2026-08-02T00:01:05Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VrUdi",
+        "lastPublishedAt": "2026-08-02T02:22:59Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1599,8 +1644,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VqYdi",
-        "lastPublishedAt": "2026-08-01T04:48:09Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VrXyv",
+        "lastPublishedAt": "2026-08-02T03:47:09Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1713,8 +1758,9 @@
         "releaseHistoryCursor": null
       },
       "rcmdnk/vim_ahk": {
-        "lastReleaseId": "RE_kwDOALIcz84UIxh1",
-        "lastPublishedAt": "2026-06-11T09:47:18Z"
+        "lastReleaseId": "RE_kwDOALIcz84VrYQx",
+        "lastPublishedAt": "2026-08-02T04:00:19Z",
+        "releaseHistoryCursor": null
       },
       "tonisives/ovim": {
         "lastReleaseId": "RE_kwDOQo4rcs4SWQ-W",
@@ -2843,8 +2889,8 @@
         "lastPublishedAt": "2025-12-31T12:07:55Z"
       },
       "aquaproj/aqua": {
-        "lastReleaseId": "RE_kwDOF9Sih84VlWcT",
-        "lastPublishedAt": "2026-07-30T00:02:03Z",
+        "lastReleaseId": "RE_kwDOF9Sih84VrYiv",
+        "lastPublishedAt": "2026-08-02T04:08:24Z",
         "releaseHistoryCursor": null
       },
       "ikasam/yaml_cv": {},
@@ -3288,8 +3334,8 @@
       "peaks-cc/iOS_architecture_samplecode": {},
       "craftdocs/craft-extension-inspirations": {},
       "bytedance/sonic": {
-        "lastReleaseId": "RE_kwDOFhZBDs4Stuj4",
-        "lastPublishedAt": "2026-04-27T09:59:59Z",
+        "lastReleaseId": "RE_kwDOFhZBDs4T68XM",
+        "lastPublishedAt": "2026-06-04T08:55:08Z",
         "releaseHistoryCursor": null
       },
       "kaz/pprotein": {
