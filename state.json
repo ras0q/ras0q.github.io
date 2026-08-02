@@ -1385,6 +1385,24 @@
       ],
       "2026-08-02": [
         {
+          "id": "RE_kwDOPyZEpc4VsG9s",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.27.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.27.0",
+          "publishedAt": "2026-08-02T20:11:22Z",
+          "name": "v0.27.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Vr7m_",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.3.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.3.0",
+          "publishedAt": "2026-08-02T16:42:00Z",
+          "name": "v30.3.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4Vr2h-",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1643,8 +1661,8 @@
         "lastPublishedAt": "2026-07-02T16:21:01Z"
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4VOzYi",
-        "lastPublishedAt": "2026-07-18T21:57:33Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4VsG9s",
+        "lastPublishedAt": "2026-08-02T20:11:22Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -3497,8 +3515,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VrpWa",
-        "lastPublishedAt": "2026-08-02T10:51:59Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Vr7m_",
+        "lastPublishedAt": "2026-08-02T16:42:00Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
