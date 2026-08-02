@@ -1385,6 +1385,15 @@
       ],
       "2026-08-02": [
         {
+          "id": "RE_kwDOCnR4Zc4VrpWa",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.2.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.2.0",
+          "publishedAt": "2026-08-02T10:51:59Z",
+          "name": "v30.2.0"
+        },
+        {
           "id": "RE_kwDOE4c3is4Vrher",
           "owner": "mantinedev",
           "repo": "mantine",
@@ -3479,8 +3488,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Vqyoa",
-        "lastPublishedAt": "2026-08-01T14:02:55Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VrpWa",
+        "lastPublishedAt": "2026-08-02T10:51:59Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
