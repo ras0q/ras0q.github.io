@@ -1385,6 +1385,42 @@
       ],
       "2026-08-02": [
         {
+          "id": "RE_kwDOE4c3is4Vrher",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.5.1",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.5.1",
+          "publishedAt": "2026-08-02T07:53:10Z",
+          "name": "9.5.1"
+        },
+        {
+          "id": "RE_kwDOQHjZG84VrfwW",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.66.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.66.0",
+          "publishedAt": "2026-08-02T07:10:54Z",
+          "name": "Release v2.66.0"
+        },
+        {
+          "id": "RE_kwDOG7dO584VrdND",
+          "owner": "NomarCub",
+          "repo": "obsidian-hide-sidebars-on-window-resize",
+          "tag": "1.2.0",
+          "url": "https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize/releases/tag/1.2.0",
+          "publishedAt": "2026-08-02T06:08:15Z",
+          "name": "1.2.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Vrb5a",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.65.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.65.0",
+          "publishedAt": "2026-08-02T05:34:35Z",
+          "name": "Release v2.65.0"
+        },
+        {
           "id": "RE_kwDOF9Sih84VrYiv",
           "owner": "aquaproj",
           "repo": "aqua",
@@ -1480,8 +1516,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84VrUdi",
-        "lastPublishedAt": "2026-08-02T02:22:59Z",
+        "lastReleaseId": "RE_kwDOQHjZG84VrfwW",
+        "lastPublishedAt": "2026-08-02T07:10:54Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2451,8 +2487,9 @@
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
-        "lastReleaseId": "RE_kwDOG7dO584TZRGb",
-        "lastPublishedAt": "2026-05-19T21:34:54Z"
+        "lastReleaseId": "RE_kwDOG7dO584VrdND",
+        "lastPublishedAt": "2026-08-02T06:08:15Z",
+        "releaseHistoryCursor": null
       },
       "XuehaiPan/nvitop": {
         "lastReleaseId": "RE_kwDOE9Uprc4U--hZ",
@@ -3099,8 +3136,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4VeVfG",
-        "lastPublishedAt": "2026-07-27T07:49:20Z",
+        "lastReleaseId": "RE_kwDOE4c3is4Vrher",
+        "lastPublishedAt": "2026-08-02T07:53:10Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
