@@ -1412,6 +1412,33 @@
       ],
       "2026-08-03": [
         {
+          "id": "RE_kwDOKMzyM84Vt1VJ",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.20.0",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.20.0",
+          "publishedAt": "2026-08-03T16:01:47Z",
+          "name": "0.20.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VtrN0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.322.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.322.0",
+          "publishedAt": "2026-08-03T14:55:38Z",
+          "name": "v0.322.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4VtWdQ",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.3",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.3",
+          "publishedAt": "2026-08-03T13:01:50Z",
+          "name": "1.0.3"
+        },
+        {
           "id": "RE_kwDOFJ5a6s4VtSy7",
           "owner": "Milkdown",
           "repo": "milkdown",
@@ -1680,8 +1707,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VtEDZ",
-        "lastPublishedAt": "2026-08-03T10:25:25Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VtrN0",
+        "lastPublishedAt": "2026-08-03T14:55:38Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1862,8 +1889,9 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84VBAsn",
-        "lastPublishedAt": "2026-07-11T19:04:47Z"
+        "lastReleaseId": "RE_kwDOKMzyM84Vt1VJ",
+        "lastPublishedAt": "2026-08-03T16:01:47Z",
+        "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
         "lastReleaseId": "RE_kwDOFu6vY84PfiC4",
@@ -3027,8 +3055,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Vob7B",
-        "lastPublishedAt": "2026-07-31T08:06:13Z",
+        "lastReleaseId": "RE_kwDOGNEXps4VtWdQ",
+        "lastPublishedAt": "2026-08-03T13:01:50Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
