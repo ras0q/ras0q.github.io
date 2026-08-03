@@ -2,125 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-26",
       "2026-07-27",
       "2026-07-28",
       "2026-07-29",
       "2026-07-30",
       "2026-07-31",
-      "2026-08-01"
+      "2026-08-01",
+      "2026-08-02"
     ],
     "days": {
-      "2026-07-26": [
-        {
-          "id": "RE_kwDOLLx-gc4Vd1--",
-          "owner": "iamgio",
-          "repo": "quarkdown",
-          "tag": "v2.4.1",
-          "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.4.1",
-          "publishedAt": "2026-07-26T23:41:00Z",
-          "name": "v2.4.1"
-        },
-        {
-          "id": "RE_kwDOFknhgc4VdyU_",
-          "owner": "open-horizon-labs",
-          "repo": "obsidian-ics",
-          "tag": "1.14.3",
-          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.14.3",
-          "publishedAt": "2026-07-26T22:13:59Z",
-          "name": "1.14.3"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4Vdvrv",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "v0.2.8",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.8",
-          "publishedAt": "2026-07-26T21:08:56Z",
-          "name": "v0.2.8"
-        },
-        {
-          "id": "RE_kwDOFknhgc4VduDw",
-          "owner": "open-horizon-labs",
-          "repo": "obsidian-ics",
-          "tag": "1.14.0",
-          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.14.0",
-          "publishedAt": "2026-07-26T20:32:54Z",
-          "name": "1.14.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Vdtop",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.107",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.107",
-          "publishedAt": "2026-07-26T20:23:51Z",
-          "name": "v8.4.107 - Add Huawei Ascend export (#25432)"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Vdh_h",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.14",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.14",
-          "publishedAt": "2026-07-26T16:26:10Z",
-          "name": "v2026.7.14: Multi-asset GitHub installs, safer defaults, and Windows pip"
-        },
-        {
-          "id": "RE_kwDOGgFgVM4VdgBM",
-          "owner": "usememos",
-          "repo": "memos",
-          "tag": "v0.30.0",
-          "url": "https://github.com/usememos/memos/releases/tag/v0.30.0",
-          "publishedAt": "2026-07-26T15:46:00Z",
-          "name": "v0.30.0"
-        },
-        {
-          "id": "RE_kwDOBlwsqc4VdHOx",
-          "owner": "air-verse",
-          "repo": "air",
-          "tag": "v1.67.3",
-          "url": "https://github.com/air-verse/air/releases/tag/v1.67.3",
-          "publishedAt": "2026-07-26T07:35:30Z",
-          "name": "v1.67.3"
-        },
-        {
-          "id": "RE_kwDOEXrCM84VdGsZ",
-          "owner": "esm-dev",
-          "repo": "esm.sh",
-          "tag": "v137_7",
-          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v137_7",
-          "publishedAt": "2026-07-26T07:20:34Z",
-          "name": "Server v137_7"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VdAwq",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.53.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.53.0",
-          "publishedAt": "2026-07-26T04:41:24Z",
-          "name": "Release v2.53.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VdAWL",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.52.4",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.52.4",
-          "publishedAt": "2026-07-26T04:27:26Z",
-          "name": "Release v2.52.4"
-        },
-        {
-          "id": "RE_kwDOB21G7c4Vc_Oi",
-          "owner": "cel-expr",
-          "repo": "cel-go",
-          "tag": "v0.30.0",
-          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.30.0",
-          "publishedAt": "2026-07-26T03:54:59Z",
-          "name": "Release v0.30.0"
-        }
-      ],
       "2026-07-27": [
         {
           "id": "RE_kwDOH-jzvc4Vf65p",
@@ -1384,6 +1274,15 @@
         }
       ],
       "2026-08-02": [
+        {
+          "id": "RE_kwDOAaTAks4VrDia",
+          "owner": "ryanoasis",
+          "repo": "nerd-fonts",
+          "tag": "v3.5.0",
+          "url": "https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.5.0",
+          "publishedAt": "2026-08-02T23:35:36Z",
+          "name": "v3.5.0"
+        },
         {
           "id": "RE_kwDOPyZEpc4VsG9s",
           "owner": "microsoft",
@@ -3531,8 +3430,9 @@
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
-        "lastReleaseId": "RE_kwDOAaTAks4MyTTv",
-        "lastPublishedAt": "2025-04-24T18:23:06Z"
+        "lastReleaseId": "RE_kwDOAaTAks4VrDia",
+        "lastPublishedAt": "2026-08-02T23:35:36Z",
+        "releaseHistoryCursor": null
       },
       "Rigellute/spotify-tui": {
         "lastReleaseId": "MDc6UmVsZWFzZTQ4MzQxODAw",
