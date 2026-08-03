@@ -1409,6 +1409,35 @@
           "publishedAt": "2026-08-02T00:01:05Z",
           "name": "Release v2.63.1"
         }
+      ],
+      "2026-08-03": [
+        {
+          "id": "RE_kwDOCciW1M4VsfXc",
+          "owner": "files-community",
+          "repo": "Files",
+          "tag": "v4.2.2",
+          "url": "https://github.com/files-community/Files/releases/tag/v4.2.2",
+          "publishedAt": "2026-08-03T04:15:12Z",
+          "name": "v4.2.2"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4VsWRN",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.6",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.6",
+          "publishedAt": "2026-08-03T01:42:15Z",
+          "name": "v1.2.6"
+        },
+        {
+          "id": "RE_kwDOFYUYQs4VsTsI",
+          "owner": "slidevjs",
+          "repo": "slidev",
+          "tag": "v52.19.0",
+          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.19.0",
+          "publishedAt": "2026-08-03T00:56:26Z",
+          "name": "v52.19.0"
+        }
       ]
     }
   },
@@ -2141,8 +2170,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4VoATe",
-        "lastPublishedAt": "2026-07-31T01:49:00Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4VsWRN",
+        "lastPublishedAt": "2026-08-03T01:42:15Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2251,8 +2280,9 @@
         "lastPublishedAt": "2024-12-05T18:51:33Z"
       },
       "files-community/Files": {
-        "lastReleaseId": "RE_kwDOCciW1M4U1lyY",
-        "lastPublishedAt": "2026-07-06T13:57:26Z"
+        "lastReleaseId": "RE_kwDOCciW1M4VsfXc",
+        "lastPublishedAt": "2026-08-03T04:15:12Z",
+        "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
         "lastReleaseId": "RE_kwDONRQKHs4ShcP-",
@@ -2688,8 +2718,8 @@
       },
       "kyosu-1/passkey-go-example": {},
       "slidevjs/slidev": {
-        "lastReleaseId": "RE_kwDOFYUYQs4Vo2Yh",
-        "lastPublishedAt": "2026-07-31T11:42:42Z",
+        "lastReleaseId": "RE_kwDOFYUYQs4VsTsI",
+        "lastPublishedAt": "2026-08-03T00:56:26Z",
         "releaseHistoryCursor": null
       },
       "Striffly/mailspring-avatars": {
