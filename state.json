@@ -1412,6 +1412,15 @@
       ],
       "2026-08-03": [
         {
+          "id": "RE_kwDOCnR4Zc4VsmDy",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.4.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.4.0",
+          "publishedAt": "2026-08-03T05:58:29Z",
+          "name": "v30.4.0"
+        },
+        {
           "id": "RE_kwDOCciW1M4VsfXc",
           "owner": "files-community",
           "repo": "Files",
@@ -3444,8 +3453,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Vr7m_",
-        "lastPublishedAt": "2026-08-02T16:42:00Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VsmDy",
+        "lastPublishedAt": "2026-08-03T05:58:29Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
