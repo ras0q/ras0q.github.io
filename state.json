@@ -1412,6 +1412,33 @@
       ],
       "2026-08-03": [
         {
+          "id": "RE_kwDOFJ5a6s4VtSy7",
+          "owner": "Milkdown",
+          "repo": "milkdown",
+          "tag": "v7.22.0",
+          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.0",
+          "publishedAt": "2026-08-03T12:20:59Z",
+          "name": "v7.22.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VtEDZ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.321.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.321.0",
+          "publishedAt": "2026-08-03T10:25:25Z",
+          "name": "v0.321.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4Vs9p_",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.120.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.120.0",
+          "publishedAt": "2026-08-03T09:40:02Z",
+          "name": "v1.120.0"
+        },
+        {
           "id": "RE_kwDOCnR4Zc4VsmDy",
           "owner": "JanDeDobbeleer",
           "repo": "oh-my-posh",
@@ -1653,8 +1680,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Vr2h-",
-        "lastPublishedAt": "2026-08-02T15:08:01Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VtEDZ",
+        "lastPublishedAt": "2026-08-03T10:25:25Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1878,8 +1905,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4VlxzF",
-        "lastPublishedAt": "2026-07-30T06:21:51Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Vs9p_",
+        "lastPublishedAt": "2026-08-03T09:40:02Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3498,8 +3525,9 @@
         "lastPublishedAt": "2022-01-06T05:22:02Z"
       },
       "Milkdown/milkdown": {
-        "lastReleaseId": "RE_kwDOFJ5a6s4VByqv",
-        "lastPublishedAt": "2026-07-12T16:15:09Z"
+        "lastReleaseId": "RE_kwDOFJ5a6s4VtSy7",
+        "lastPublishedAt": "2026-08-03T12:20:59Z",
+        "releaseHistoryCursor": null
       },
       "remarkjs/remark": {
         "lastReleaseId": "RE_kwDOAVUdDs4JJhA3",
