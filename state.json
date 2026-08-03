@@ -1412,6 +1412,33 @@
       ],
       "2026-08-03": [
         {
+          "id": "RE_kwDOFknhgc4VuPZV",
+          "owner": "open-horizon-labs",
+          "repo": "obsidian-ics",
+          "tag": "1.15.2",
+          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.15.2",
+          "publishedAt": "2026-08-03T19:17:04Z",
+          "name": "1.15.2"
+        },
+        {
+          "id": "RE_kwDODhPY784VuNb_",
+          "owner": "OpenMined",
+          "repo": "TenSEAL",
+          "tag": "v0.3.16",
+          "url": "https://github.com/OpenMined/TenSEAL/releases/tag/v0.3.16",
+          "publishedAt": "2026-08-03T19:00:04Z",
+          "name": "v0.3.16"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Vt9B_",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.1",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.1",
+          "publishedAt": "2026-08-03T16:58:47Z",
+          "name": "v2026.8.1: Task Cache Goes Remote, Affected Tasks, and Config Ergonomics"
+        },
+        {
           "id": "RE_kwDOKMzyM84Vt1VJ",
           "owner": "OpenSwiftUIProject",
           "repo": "OpenSwiftUI",
@@ -2425,8 +2452,8 @@
         "lastPublishedAt": "2026-06-01T19:43:16Z"
       },
       "open-horizon-labs/obsidian-ics": {
-        "lastReleaseId": "RE_kwDOFknhgc4Vk_FN",
-        "lastPublishedAt": "2026-07-29T19:56:09Z",
+        "lastReleaseId": "RE_kwDOFknhgc4VuPZV",
+        "lastPublishedAt": "2026-08-03T19:17:04Z",
         "releaseHistoryCursor": null
       },
       "alecthomas/kong": {},
@@ -2451,8 +2478,9 @@
       "kumoridai/obsidian-bookmark-bookmarklet": {},
       "trasta298/bot-itika-v2": {},
       "OpenMined/TenSEAL": {
-        "lastReleaseId": "RE_kwDODhPY784KlsGV",
-        "lastPublishedAt": "2024-09-30T17:32:35Z"
+        "lastReleaseId": "RE_kwDODhPY784VuNb_",
+        "lastPublishedAt": "2026-08-03T19:00:04Z",
+        "releaseHistoryCursor": null
       },
       "wavetermdev/waveterm": {
         "lastReleaseId": "RE_kwDOHd1Zkc4SeSYo",
@@ -2511,8 +2539,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4VrHET",
-        "lastPublishedAt": "2026-08-01T20:42:50Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Vt9B_",
+        "lastPublishedAt": "2026-08-03T16:58:47Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
