@@ -1466,6 +1466,24 @@
       ],
       "2026-08-04": [
         {
+          "id": "RE_kwDOOR3Pys4Vws_8",
+          "owner": "swiftlang",
+          "repo": "swift-subprocess",
+          "tag": "1.0.0",
+          "url": "https://github.com/swiftlang/swift-subprocess/releases/tag/1.0.0",
+          "publishedAt": "2026-08-04T19:00:13Z",
+          "name": "Subprocess 1.0.0"
+        },
+        {
+          "id": "RE_kwDOII1H084Vwmbx",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.10",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.10",
+          "publishedAt": "2026-08-04T18:07:53Z",
+          "name": "v0.5.10"
+        },
+        {
           "id": "RE_kwDOBSXbR84VwXjA",
           "owner": "elastic",
           "repo": "go-elasticsearch",
@@ -2195,8 +2213,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084Vvi_b",
-        "lastPublishedAt": "2026-08-04T10:30:31Z",
+        "lastReleaseId": "RE_kwDOII1H084Vwmbx",
+        "lastPublishedAt": "2026-08-04T18:07:53Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -2398,8 +2416,8 @@
         "lastPublishedAt": "2026-05-27T07:37:36Z"
       },
       "swiftlang/swift-subprocess": {
-        "lastReleaseId": "RE_kwDOOR3Pys4Tx5xu",
-        "lastPublishedAt": "2026-05-30T01:29:21Z",
+        "lastReleaseId": "RE_kwDOOR3Pys4Vws_8",
+        "lastPublishedAt": "2026-08-04T19:00:13Z",
         "releaseHistoryCursor": null
       },
       "Shoryu-Y/At-UIEnvironment": {},
