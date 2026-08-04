@@ -2,107 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-27",
       "2026-07-28",
       "2026-07-29",
       "2026-07-30",
       "2026-07-31",
       "2026-08-01",
-      "2026-08-02"
+      "2026-08-02",
+      "2026-08-03"
     ],
     "days": {
-      "2026-07-27": [
-        {
-          "id": "RE_kwDOH-jzvc4Vf65p",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.108",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.108",
-          "publishedAt": "2026-07-27T20:29:14Z",
-          "name": "v8.4.108 - Fix MuSGD crash on non-matrix params like LayerScale (#25447)"
-        },
-        {
-          "id": "RE_kwDOIvux3s4VfuQn",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.15",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.15",
-          "publishedAt": "2026-07-27T18:51:46Z",
-          "name": "v2026.7.15: Experimental Task Output Caching"
-        },
-        {
-          "id": "RE_kwDORSib_s4VfhE1",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.13.0",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.13.0",
-          "publishedAt": "2026-07-27T17:07:56Z",
-          "name": "acpx v0.13.0"
-        },
-        {
-          "id": "RE_kwDOII1H084VfVYb",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.0",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.0",
-          "publishedAt": "2026-07-27T15:42:19Z",
-          "name": "v0.5.0"
-        },
-        {
-          "id": "RE_kwDOC_ORP84VfKks",
-          "owner": "GREsau",
-          "repo": "schemars",
-          "tag": "v1.2.2",
-          "url": "https://github.com/GREsau/schemars/releases/tag/v1.2.2",
-          "publishedAt": "2026-07-27T14:36:12Z",
-          "name": "v1.2.2"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VenXS",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.117.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.117.0",
-          "publishedAt": "2026-07-27T10:20:22Z",
-          "name": "v1.117.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4Vek6p",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.0",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.0",
-          "publishedAt": "2026-07-27T10:07:27Z",
-          "name": "1.0.0"
-        },
-        {
-          "id": "RE_kwDOPf38cc4VefY6",
-          "owner": "docker",
-          "repo": "github-builder",
-          "tag": "v1.15.0",
-          "url": "https://github.com/docker/github-builder/releases/tag/v1.15.0",
-          "publishedAt": "2026-07-27T09:14:24Z",
-          "name": "v1.15.0"
-        },
-        {
-          "id": "RE_kwDOM0jxcs4VeYjw",
-          "owner": "denoland",
-          "repo": "deno-vite-plugin",
-          "tag": "2.0.3",
-          "url": "https://github.com/denoland/deno-vite-plugin/releases/tag/2.0.3",
-          "publishedAt": "2026-07-27T08:16:43Z",
-          "name": "2.0.3"
-        },
-        {
-          "id": "RE_kwDOE4c3is4VeVfG",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.5.0",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.5.0",
-          "publishedAt": "2026-07-27T07:49:20Z",
-          "name": "9.5.0 🤖"
-        }
-      ],
       "2026-07-28": [
         {
           "id": "RE_kwDOQHjZG84ViqbK",
@@ -1412,6 +1320,33 @@
       ],
       "2026-08-03": [
         {
+          "id": "RE_kwDOII1H084VulZ-",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.8",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.8",
+          "publishedAt": "2026-08-03T22:52:46Z",
+          "name": "v0.5.8"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VufAX",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.323.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.323.0",
+          "publishedAt": "2026-08-03T21:36:22Z",
+          "name": "v0.323.0"
+        },
+        {
+          "id": "RE_kwDOKMzyM84Vud40",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.21.0",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.21.0",
+          "publishedAt": "2026-08-03T21:24:38Z",
+          "name": "0.21.0"
+        },
+        {
           "id": "RE_kwDOFknhgc4VuPZV",
           "owner": "open-horizon-labs",
           "repo": "obsidian-ics",
@@ -1734,8 +1669,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VtrN0",
-        "lastPublishedAt": "2026-08-03T14:55:38Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VufAX",
+        "lastPublishedAt": "2026-08-03T21:36:22Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1916,8 +1851,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84Vt1VJ",
-        "lastPublishedAt": "2026-08-03T16:01:47Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Vud40",
+        "lastPublishedAt": "2026-08-03T21:24:38Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -2123,8 +2058,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084VrIsv",
-        "lastPublishedAt": "2026-08-01T21:18:40Z",
+        "lastReleaseId": "RE_kwDOII1H084VulZ-",
+        "lastPublishedAt": "2026-08-03T22:52:46Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
