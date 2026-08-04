@@ -1466,6 +1466,60 @@
       ],
       "2026-08-04": [
         {
+          "id": "RE_kwDOBSXbR84VwXjA",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v9.5.0",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.5.0",
+          "publishedAt": "2026-08-04T16:16:21Z",
+          "name": "v9.5.0"
+        },
+        {
+          "id": "RE_kwDOBSXbR84VwWwe",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v9.4.3",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.4.3",
+          "publishedAt": "2026-08-04T16:10:24Z",
+          "name": "v9.4.3"
+        },
+        {
+          "id": "RE_kwDOBSXbR84VwVjM",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v9.3.6",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.3.6",
+          "publishedAt": "2026-08-04T16:01:32Z",
+          "name": "v9.3.6"
+        },
+        {
+          "id": "RE_kwDOBSXbR84VwUR5",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v8.19.7",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v8.19.7",
+          "publishedAt": "2026-08-04T15:52:15Z",
+          "name": "v8.19.7"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VwGbN",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.327.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.327.0",
+          "publishedAt": "2026-08-04T14:23:53Z",
+          "name": "v0.327.0"
+        },
+        {
+          "id": "RE_kwDOE7TOLM4VwEsy",
+          "owner": "evrone",
+          "repo": "go-clean-template",
+          "tag": "v1.17.2",
+          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.17.2",
+          "publishedAt": "2026-08-04T14:13:22Z",
+          "name": "v1.17.2"
+        },
+        {
           "id": "RE_kwDOG8_Nmc4Vvkpo",
           "owner": "denoland",
           "repo": "deno_task_shell",
@@ -1752,8 +1806,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VvB69",
-        "lastPublishedAt": "2026-08-04T06:08:22Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VwGbN",
+        "lastPublishedAt": "2026-08-04T14:23:53Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3440,8 +3494,9 @@
         "lastPublishedAt": "2026-05-02T06:00:52Z"
       },
       "elastic/go-elasticsearch": {
-        "lastReleaseId": "RE_kwDOBSXbR84Ub6GN",
-        "lastPublishedAt": "2026-06-22T11:29:37Z"
+        "lastReleaseId": "RE_kwDOBSXbR84VwXjA",
+        "lastPublishedAt": "2026-08-04T16:16:21Z",
+        "releaseHistoryCursor": null
       },
       "peaks-cc/iOS_architecture_samplecode": {},
       "craftdocs/craft-extension-inspirations": {},
@@ -3470,8 +3525,8 @@
         "releaseHistoryCursor": null
       },
       "evrone/go-clean-template": {
-        "lastReleaseId": "RE_kwDOE7TOLM4VO0_A",
-        "lastPublishedAt": "2026-07-18T22:38:23Z",
+        "lastReleaseId": "RE_kwDOE7TOLM4VwEsy",
+        "lastPublishedAt": "2026-08-04T14:13:22Z",
         "releaseHistoryCursor": null
       },
       "uber-go/guide": {
