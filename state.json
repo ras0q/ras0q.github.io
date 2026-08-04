@@ -1463,6 +1463,35 @@
           "publishedAt": "2026-08-03T00:56:26Z",
           "name": "v52.19.0"
         }
+      ],
+      "2026-08-04": [
+        {
+          "id": "RE_kwDOKMzyM84Vu632",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.20.1",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.20.1",
+          "publishedAt": "2026-08-04T04:33:46Z",
+          "name": "0.20.1"
+        },
+        {
+          "id": "RE_kwDODhPY784VuzJf",
+          "owner": "OpenMined",
+          "repo": "TenSEAL",
+          "tag": "v0.3.17",
+          "url": "https://github.com/OpenMined/TenSEAL/releases/tag/v0.3.17",
+          "publishedAt": "2026-08-04T02:33:50Z",
+          "name": "v0.3.17"
+        },
+        {
+          "id": "RE_kwDONrCobc4VutUd",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.3.3",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.3",
+          "publishedAt": "2026-08-04T01:00:41Z",
+          "name": "v2.3.3"
+        }
       ]
     }
   },
@@ -1851,8 +1880,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84Vud40",
-        "lastPublishedAt": "2026-08-03T21:24:38Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Vu632",
+        "lastPublishedAt": "2026-08-04T04:33:46Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -2398,8 +2427,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4VoSL8",
-        "lastPublishedAt": "2026-07-31T06:15:40Z",
+        "lastReleaseId": "RE_kwDONrCobc4VutUd",
+        "lastPublishedAt": "2026-08-04T01:00:41Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -2413,8 +2442,8 @@
       "kumoridai/obsidian-bookmark-bookmarklet": {},
       "trasta298/bot-itika-v2": {},
       "OpenMined/TenSEAL": {
-        "lastReleaseId": "RE_kwDODhPY784VuNb_",
-        "lastPublishedAt": "2026-08-03T19:00:04Z",
+        "lastReleaseId": "RE_kwDODhPY784VuzJf",
+        "lastPublishedAt": "2026-08-04T02:33:50Z",
         "releaseHistoryCursor": null
       },
       "wavetermdev/waveterm": {
