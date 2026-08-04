@@ -1466,6 +1466,42 @@
       ],
       "2026-08-04": [
         {
+          "id": "RE_kwDOCnR4Zc4VvF4t",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.5.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.5.0",
+          "publishedAt": "2026-08-04T06:49:26Z",
+          "name": "v30.5.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VvB69",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.325.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.325.0",
+          "publishedAt": "2026-08-04T06:08:22Z",
+          "name": "v0.325.0"
+        },
+        {
+          "id": "RE_kwDOAcjBfM4VvA7t",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v4.2.8",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v4.2.8",
+          "publishedAt": "2026-08-04T05:56:56Z",
+          "name": "Fluent Bit 4.2.8"
+        },
+        {
+          "id": "RE_kwDOLLx-gc4Vu-wN",
+          "owner": "iamgio",
+          "repo": "quarkdown",
+          "tag": "v2.5.0",
+          "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.5.0",
+          "publishedAt": "2026-08-04T05:29:41Z",
+          "name": "v2.5.0"
+        },
+        {
           "id": "RE_kwDOKMzyM84Vu632",
           "owner": "OpenSwiftUIProject",
           "repo": "OpenSwiftUI",
@@ -1698,8 +1734,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4VufAX",
-        "lastPublishedAt": "2026-08-03T21:36:22Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VvB69",
+        "lastPublishedAt": "2026-08-04T06:08:22Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2138,8 +2174,8 @@
       },
       "tak-dcxi/kiso.css": {},
       "iamgio/quarkdown": {
-        "lastReleaseId": "RE_kwDOLLx-gc4Vd1--",
-        "lastPublishedAt": "2026-07-26T23:41:00Z",
+        "lastReleaseId": "RE_kwDOLLx-gc4Vu-wN",
+        "lastPublishedAt": "2026-08-04T05:29:41Z",
         "releaseHistoryCursor": null
       },
       "openapi-ts/openapi-typescript": {
@@ -3438,8 +3474,9 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4U8gre",
-        "lastPublishedAt": "2026-07-09T08:29:44Z"
+        "lastReleaseId": "RE_kwDOAcjBfM4VvA7t",
+        "lastPublishedAt": "2026-08-04T05:56:56Z",
+        "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
         "lastReleaseId": "RE_kwDOG0Z9DM4DoGXd",
@@ -3500,8 +3537,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VsmDy",
-        "lastPublishedAt": "2026-08-03T05:58:29Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VvF4t",
+        "lastPublishedAt": "2026-08-04T06:49:26Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
