@@ -1466,6 +1466,24 @@
       ],
       "2026-08-04": [
         {
+          "id": "RE_kwDOG8_Nmc4Vvkpo",
+          "owner": "denoland",
+          "repo": "deno_task_shell",
+          "tag": "0.33.3",
+          "url": "https://github.com/denoland/deno_task_shell/releases/tag/0.33.3",
+          "publishedAt": "2026-08-04T10:43:27Z",
+          "name": "0.33.3"
+        },
+        {
+          "id": "RE_kwDOII1H084Vvi_b",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.9",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.9",
+          "publishedAt": "2026-08-04T10:30:31Z",
+          "name": "v0.5.9"
+        },
+        {
           "id": "RE_kwDOCnR4Zc4VvF4t",
           "owner": "JanDeDobbeleer",
           "repo": "oh-my-posh",
@@ -1973,8 +1991,8 @@
         "lastPublishedAt": "2026-03-26T00:36:48Z"
       },
       "denoland/deno_task_shell": {
-        "lastReleaseId": "RE_kwDOG8_Nmc4VX7ho",
-        "lastPublishedAt": "2026-07-23T10:04:14Z",
+        "lastReleaseId": "RE_kwDOG8_Nmc4Vvkpo",
+        "lastPublishedAt": "2026-08-04T10:43:27Z",
         "releaseHistoryCursor": null
       },
       "wojciech-kulik/xcodebuild.nvim": {
@@ -2123,8 +2141,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084VulZ-",
-        "lastPublishedAt": "2026-08-03T22:52:46Z",
+        "lastReleaseId": "RE_kwDOII1H084Vvi_b",
+        "lastPublishedAt": "2026-08-04T10:30:31Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
