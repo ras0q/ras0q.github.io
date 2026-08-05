@@ -1466,6 +1466,15 @@
       ],
       "2026-08-05": [
         {
+          "id": "RE_kwDOKbIFZc4VzSgf",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.2",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.2",
+          "publishedAt": "2026-08-05T19:22:56Z",
+          "name": "0.12.2"
+        },
+        {
           "id": "RE_kwDOII1H084Vy1I4",
           "owner": "raphamorim",
           "repo": "rio",
@@ -3021,8 +3030,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4Vp1oX",
-        "lastPublishedAt": "2026-07-31T19:43:31Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4VzSgf",
+        "lastPublishedAt": "2026-08-05T19:22:56Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
