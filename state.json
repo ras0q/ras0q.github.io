@@ -1466,6 +1466,51 @@
       ],
       "2026-08-05": [
         {
+          "id": "RE_kwDOOELNJM4Vxldb",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.2.8",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.8",
+          "publishedAt": "2026-08-05T06:15:54Z",
+          "name": "vite-plus v0.2.8"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4VxkqA",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.6.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.0",
+          "publishedAt": "2026-08-05T06:07:46Z",
+          "name": "v30.6.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4Vxibv",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.4",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.4",
+          "publishedAt": "2026-08-05T05:51:38Z",
+          "name": "1.0.4"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4Vxd-m",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.121.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.121.0",
+          "publishedAt": "2026-08-05T04:37:34Z",
+          "name": "v1.121.0"
+        },
+        {
+          "id": "RE_kwDOGkmMps4Vxd3Q",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.17",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.17",
+          "publishedAt": "2026-08-05T04:35:28Z",
+          "name": "3.0.17"
+        },
+        {
           "id": "RE_kwDOIvux3s4VxSys",
           "owner": "jdx",
           "repo": "mise",
@@ -1662,8 +1707,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4VoiVa",
-        "lastPublishedAt": "2026-07-31T08:54:28Z",
+        "lastReleaseId": "RE_kwDOOELNJM4Vxldb",
+        "lastPublishedAt": "2026-08-05T06:15:54Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1906,8 +1951,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4Vs9p_",
-        "lastPublishedAt": "2026-08-03T09:40:02Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Vxd-m",
+        "lastPublishedAt": "2026-08-05T04:37:34Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3029,14 +3074,15 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4VtWdQ",
-        "lastPublishedAt": "2026-08-03T13:01:50Z",
+        "lastReleaseId": "RE_kwDOGNEXps4Vxibv",
+        "lastPublishedAt": "2026-08-05T05:51:38Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4U-MlA",
-        "lastPublishedAt": "2026-07-10T01:07:35Z"
+        "lastReleaseId": "RE_kwDOGkmMps4Vxd3Q",
+        "lastPublishedAt": "2026-08-05T04:35:28Z",
+        "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
       "Lightning-Universe/lightning-flash": {
@@ -3484,8 +3530,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4VvF4t",
-        "lastPublishedAt": "2026-08-04T06:49:26Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4VxkqA",
+        "lastPublishedAt": "2026-08-05T06:07:46Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
