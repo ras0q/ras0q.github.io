@@ -1466,6 +1466,105 @@
       ],
       "2026-08-05": [
         {
+          "id": "RE_kwDOCnR4Zc4Vygzw",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.6.2",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.2",
+          "publishedAt": "2026-08-05T13:52:23Z",
+          "name": "v30.6.2"
+        },
+        {
+          "id": "RE_kwDOII1H084Vyfp9",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.13",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.13",
+          "publishedAt": "2026-08-05T13:45:35Z",
+          "name": "v0.5.13"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4Vyewz",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.122.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.122.0",
+          "publishedAt": "2026-08-05T13:40:17Z",
+          "name": "v1.122.0"
+        },
+        {
+          "id": "RE_kwDOGkmMps4VycmA",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.19",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.19",
+          "publishedAt": "2026-08-05T13:27:00Z",
+          "name": "3.0.19"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VyYQo",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.333.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.333.0",
+          "publishedAt": "2026-08-05T12:59:45Z",
+          "name": "v0.333.0"
+        },
+        {
+          "id": "RE_kwDOII1H084VySyq",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.12",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.12",
+          "publishedAt": "2026-08-05T12:19:29Z",
+          "name": "v0.5.12"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4VyRPK",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.332.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.332.0",
+          "publishedAt": "2026-08-05T12:07:50Z",
+          "name": "v0.332.0"
+        },
+        {
+          "id": "RE_kwDOII1H084VyNiL",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.11",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.11",
+          "publishedAt": "2026-08-05T11:41:53Z",
+          "name": "v0.5.11"
+        },
+        {
+          "id": "RE_kwDOCd2s284VyJ85",
+          "owner": "emilk",
+          "repo": "egui",
+          "tag": "0.36.0",
+          "url": "https://github.com/emilk/egui/releases/tag/0.36.0",
+          "publishedAt": "2026-08-05T11:13:50Z",
+          "name": "0.36.0 - Improved mobile keyboard support"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4VyHze",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.9.5",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.5",
+          "publishedAt": "2026-08-05T11:10:44Z",
+          "name": "v2.9.5"
+        },
+        {
+          "id": "RE_kwDOGNEXps4VyICK",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.5",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.5",
+          "publishedAt": "2026-08-05T11:05:34Z",
+          "name": "1.0.5"
+        },
+        {
           "id": "RE_kwDOJKcikM4VyDGD",
           "owner": "withastro",
           "repo": "starlight",
@@ -1770,8 +1869,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Vx3SU",
-        "lastPublishedAt": "2026-08-05T08:53:09Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4VyYQo",
+        "lastPublishedAt": "2026-08-05T12:59:45Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1996,8 +2095,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4Vxd-m",
-        "lastPublishedAt": "2026-08-05T04:37:34Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Vyewz",
+        "lastPublishedAt": "2026-08-05T13:40:17Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2159,8 +2258,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084Vwmbx",
-        "lastPublishedAt": "2026-08-04T18:07:53Z",
+        "lastReleaseId": "RE_kwDOII1H084Vyfp9",
+        "lastPublishedAt": "2026-08-05T13:45:35Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -2570,8 +2669,8 @@
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4Vonhs",
-        "lastPublishedAt": "2026-07-31T09:46:16Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4VyHze",
+        "lastPublishedAt": "2026-08-05T11:10:44Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
@@ -3119,14 +3218,14 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Vxibv",
-        "lastPublishedAt": "2026-08-05T05:51:38Z",
+        "lastReleaseId": "RE_kwDOGNEXps4VyICK",
+        "lastPublishedAt": "2026-08-05T11:05:34Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4Vx9iB",
-        "lastPublishedAt": "2026-08-05T09:36:13Z",
+        "lastReleaseId": "RE_kwDOGkmMps4VycmA",
+        "lastPublishedAt": "2026-08-05T13:27:00Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
@@ -3289,8 +3388,9 @@
         "lastPublishedAt": "2024-01-19T05:36:48Z"
       },
       "emilk/egui": {
-        "lastReleaseId": "RE_kwDOCd2s284Ujvgs",
-        "lastPublishedAt": "2026-06-25T18:44:37Z"
+        "lastReleaseId": "RE_kwDOCd2s284VyJ85",
+        "lastPublishedAt": "2026-08-05T11:13:50Z",
+        "releaseHistoryCursor": null
       },
       "pmndrs/react-three-fiber": {
         "lastReleaseId": "RE_kwDOCkh5xs4Vpedr",
@@ -3575,8 +3675,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Vxri_",
-        "lastPublishedAt": "2026-08-05T07:16:13Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Vygzw",
+        "lastPublishedAt": "2026-08-05T13:52:23Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
