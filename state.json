@@ -2,170 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-28",
       "2026-07-29",
       "2026-07-30",
       "2026-07-31",
       "2026-08-01",
       "2026-08-02",
-      "2026-08-03"
+      "2026-08-03",
+      "2026-08-04"
     ],
     "days": {
-      "2026-07-28": [
-        {
-          "id": "RE_kwDOQHjZG84ViqbK",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.55.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.55.0",
-          "publishedAt": "2026-07-28T22:21:11Z",
-          "name": "Release v2.55.0"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4VioJd",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.4",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.4",
-          "publishedAt": "2026-07-28T21:55:36Z",
-          "name": "cli-v0.1.4"
-        },
-        {
-          "id": "RE_kwDOFua7Vs4VinjN",
-          "owner": "warpdotdev",
-          "repo": "warp",
-          "tag": "tui-screenshots-app5029",
-          "url": "https://github.com/warpdotdev/warp/releases/tag/tui-screenshots-app5029",
-          "publishedAt": "2026-07-28T21:49:25Z",
-          "name": "TUI Screenshots APP-5029 (delete after PR review)"
-        },
-        {
-          "id": "RE_kwDOObWEYM4VinPA",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.53.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.0",
-          "publishedAt": "2026-07-28T21:45:42Z",
-          "name": "Release v0.53.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VicGN",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.54.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.54.0",
-          "publishedAt": "2026-07-28T20:12:31Z",
-          "name": "Release v2.54.0"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4ViaRc",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "v0.2.9",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.9",
-          "publishedAt": "2026-07-28T19:57:18Z",
-          "name": "v0.2.9"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ViWec",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.109",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.109",
-          "publishedAt": "2026-07-28T19:28:36Z",
-          "name": "v8.4.109 - Log GFLOPs at the training `imgsz` (#25483)"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4ViSIh",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.0",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.0",
-          "publishedAt": "2026-07-28T18:58:12Z",
-          "name": "0.12.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Vhi9E",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.118.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.118.0",
-          "publishedAt": "2026-07-28T13:39:00Z",
-          "name": "v1.118.0"
-        },
-        {
-          "id": "RE_kwDOOeTgGM4VheUS",
-          "owner": "modelcontextprotocol",
-          "repo": "go-sdk",
-          "tag": "v1.7.0",
-          "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.7.0",
-          "publishedAt": "2026-07-28T13:09:53Z",
-          "name": "v1.7.0"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4VhI0N",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.11.33",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.11.33",
-          "publishedAt": "2026-07-28T10:37:25Z",
-          "name": "0.11.33"
-        },
-        {
-          "id": "RE_kwDOII1H084Vg6UT",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.2",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.2",
-          "publishedAt": "2026-07-28T08:52:03Z",
-          "name": "v0.5.2"
-        },
-        {
-          "id": "RE_kwDOJKcikM4VgyxZ",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.41.5",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.5",
-          "publishedAt": "2026-07-28T07:55:30Z",
-          "name": "@astrojs/starlight@0.41.5"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Vgtlg",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.37.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.37.0",
-          "publishedAt": "2026-07-28T07:12:50Z",
-          "name": "v29.37.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Vgp7n",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v29.36.1",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v29.36.1",
-          "publishedAt": "2026-07-28T06:42:47Z",
-          "name": "v29.36.1"
-        },
-        {
-          "id": "RE_kwDOII1H084VgpKq",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.1",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.1",
-          "publishedAt": "2026-07-28T06:34:44Z",
-          "name": "v0.5.1"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VgRhD",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.53.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.53.1",
-          "publishedAt": "2026-07-28T01:10:09Z",
-          "name": "Release v2.53.1"
-        }
-      ],
       "2026-07-29": [
         {
           "id": "RE_kwDOOTmf284VlQn4",
@@ -1618,6 +1463,17 @@
           "publishedAt": "2026-08-04T01:00:41Z",
           "name": "v2.3.3"
         }
+      ],
+      "2026-08-05": [
+        {
+          "id": "RE_kwDOIvux3s4VxSys",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.2",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.2",
+          "publishedAt": "2026-08-05T01:50:22Z",
+          "name": "v2026.8.2: Declarative System Bootstrap"
+        }
       ]
     }
   },
@@ -2629,8 +2485,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Vt9B_",
-        "lastPublishedAt": "2026-08-03T16:58:47Z",
+        "lastReleaseId": "RE_kwDOIvux3s4VxSys",
+        "lastPublishedAt": "2026-08-05T01:50:22Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
