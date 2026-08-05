@@ -1466,6 +1466,33 @@
       ],
       "2026-08-05": [
         {
+          "id": "RE_kwDOII1H084Vy1I4",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.14",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.14",
+          "publishedAt": "2026-08-05T15:57:08Z",
+          "name": "v0.5.14"
+        },
+        {
+          "id": "RE_kwDOPDzQl84Vypo3",
+          "owner": "yoshiko-pg",
+          "repo": "difit",
+          "tag": "v5.0.9",
+          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.9",
+          "publishedAt": "2026-08-05T14:44:28Z",
+          "name": "v5.0.9"
+        },
+        {
+          "id": "RE_kwDOGkmMps4Vyixv",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.20",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.20",
+          "publishedAt": "2026-08-05T14:03:44Z",
+          "name": "3.0.20"
+        },
+        {
           "id": "RE_kwDOCnR4Zc4Vygzw",
           "owner": "JanDeDobbeleer",
           "repo": "oh-my-posh",
@@ -2258,8 +2285,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084Vyfp9",
-        "lastPublishedAt": "2026-08-05T13:45:35Z",
+        "lastReleaseId": "RE_kwDOII1H084Vy1I4",
+        "lastPublishedAt": "2026-08-05T15:57:08Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -2272,8 +2299,9 @@
       },
       "memento-org/memento-lang": {},
       "yoshiko-pg/difit": {
-        "lastReleaseId": "RE_kwDOPDzQl84VAlta",
-        "lastPublishedAt": "2026-07-11T09:18:04Z"
+        "lastReleaseId": "RE_kwDOPDzQl84Vypo3",
+        "lastPublishedAt": "2026-08-05T14:44:28Z",
+        "releaseHistoryCursor": null
       },
       "yknishidate/CalexCodeJP": {},
       "ovechkin-dm/go-dyno": {
@@ -3224,8 +3252,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4VycmA",
-        "lastPublishedAt": "2026-08-05T13:27:00Z",
+        "lastReleaseId": "RE_kwDOGkmMps4Vyixv",
+        "lastPublishedAt": "2026-08-05T14:03:44Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
