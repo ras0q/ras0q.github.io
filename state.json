@@ -1278,6 +1278,60 @@
       ],
       "2026-08-06": [
         {
+          "id": "RE_kwDOQvjuaM4V1EnT",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.336.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.336.0",
+          "publishedAt": "2026-08-06T13:16:25Z",
+          "name": "v0.336.0"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4V05Ih",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.2.1",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.2.1",
+          "publishedAt": "2026-08-06T11:58:05Z",
+          "name": "v2.2.1"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4V02P5",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.1.2",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.1.2",
+          "publishedAt": "2026-08-06T11:34:09Z",
+          "name": "v2.1.2"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4V0y_U",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.7",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.7",
+          "publishedAt": "2026-08-06T11:08:03Z",
+          "name": "v1.2.7"
+        },
+        {
+          "id": "RE_kwDOGNEXps4V0vp-",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.6",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.6",
+          "publishedAt": "2026-08-06T10:59:08Z",
+          "name": "1.0.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V0vNg",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.335.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.335.0",
+          "publishedAt": "2026-08-06T10:39:43Z",
+          "name": "v0.335.0"
+        },
+        {
           "id": "RE_kwDOPyZEpc4V0l5e",
           "owner": "microsoft",
           "repo": "apm",
@@ -1600,8 +1654,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V0W_3",
-        "lastPublishedAt": "2026-08-06T07:37:33Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4V1EnT",
+        "lastPublishedAt": "2026-08-06T13:16:25Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2128,8 +2182,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4VsWRN",
-        "lastPublishedAt": "2026-08-03T01:42:15Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4V0y_U",
+        "lastPublishedAt": "2026-08-06T11:08:03Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2836,8 +2890,8 @@
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastReleaseId": "RE_kwDOE2oqQs4VUBVy",
-        "lastPublishedAt": "2026-07-21T19:03:11Z",
+        "lastReleaseId": "RE_kwDOE2oqQs4V05Ih",
+        "lastPublishedAt": "2026-08-06T11:58:05Z",
         "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
@@ -2950,8 +3004,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4VyICK",
-        "lastPublishedAt": "2026-08-05T11:05:34Z",
+        "lastReleaseId": "RE_kwDOGNEXps4V0vp-",
+        "lastPublishedAt": "2026-08-06T10:59:08Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
