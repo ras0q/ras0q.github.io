@@ -1278,6 +1278,24 @@
       ],
       "2026-08-06": [
         {
+          "id": "RE_kwDOIIPL1M4V0G0s",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.32.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.32.0",
+          "publishedAt": "2026-08-06T04:49:25Z",
+          "name": "Release 6.32.0"
+        },
+        {
+          "id": "RE_kwDOAcjBfM4Vz80k",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v5.1.0",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.0",
+          "publishedAt": "2026-08-06T02:29:07Z",
+          "name": "Fluent Bit 5.1.0"
+        },
+        {
           "id": "RE_kwDOGkmMps4Vz6vP",
           "owner": "Quorafind",
           "repo": "Obsidian-Thino",
@@ -1794,8 +1812,8 @@
         "lastPublishedAt": "2025-11-24T03:50:37Z"
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4VpQFV",
-        "lastPublishedAt": "2026-07-31T14:42:01Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4V0G0s",
+        "lastPublishedAt": "2026-08-06T04:49:25Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -3281,8 +3299,8 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4VvA7t",
-        "lastPublishedAt": "2026-08-04T05:56:56Z",
+        "lastReleaseId": "RE_kwDOAcjBfM4Vz80k",
+        "lastPublishedAt": "2026-08-06T02:29:07Z",
         "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
