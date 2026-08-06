@@ -2,457 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-29",
       "2026-07-30",
       "2026-07-31",
       "2026-08-01",
       "2026-08-02",
       "2026-08-03",
-      "2026-08-04"
+      "2026-08-04",
+      "2026-08-05"
     ],
     "days": {
-      "2026-07-29": [
-        {
-          "id": "RE_kwDOOTmf284VlQn4",
-          "owner": "actions",
-          "repo": "ai-inference",
-          "tag": "v3",
-          "url": "https://github.com/actions/ai-inference/releases/tag/v3",
-          "publishedAt": "2026-07-29T22:46:03Z",
-          "name": "v3"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VlNT9",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.59.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.59.0",
-          "publishedAt": "2026-07-29T22:07:15Z",
-          "name": "Release v2.59.0"
-        },
-        {
-          "id": "RE_kwDOD6wJuM4VlDEI",
-          "owner": "47ng",
-          "repo": "nuqs",
-          "tag": "v2.9.3",
-          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.3",
-          "publishedAt": "2026-07-29T20:46:15Z",
-          "name": "v2.9.3"
-        },
-        {
-          "id": "RE_kwDOFknhgc4Vk_FN",
-          "owner": "open-horizon-labs",
-          "repo": "obsidian-ics",
-          "tag": "1.15.0",
-          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.15.0",
-          "publishedAt": "2026-07-29T19:56:09Z",
-          "name": "1.15.0"
-        },
-        {
-          "id": "RE_kwDOEYAvFc4VkvrM",
-          "owner": "lumeland",
-          "repo": "lume",
-          "tag": "v3.3.0",
-          "url": "https://github.com/lumeland/lume/releases/tag/v3.3.0",
-          "publishedAt": "2026-07-29T18:01:56Z",
-          "name": "v3.3.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4VksDy",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.112",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.112",
-          "publishedAt": "2026-07-29T17:36:37Z",
-          "name": "v8.4.112 - Document supported tasks for every export format (#25511)"
-        },
-        {
-          "id": "RE_kwDOJQ-iCs4Vkq6Y",
-          "owner": "ovechkin-dm",
-          "repo": "mockio",
-          "tag": "v2.0.5",
-          "url": "https://github.com/ovechkin-dm/mockio/releases/tag/v2.0.5",
-          "publishedAt": "2026-07-29T17:27:20Z",
-          "name": "v2.0.5"
-        },
-        {
-          "id": "RE_kwDOAQ5kSs4VkoHg",
-          "owner": "joerick",
-          "repo": "pyinstrument",
-          "tag": "v5.1.3",
-          "url": "https://github.com/joerick/pyinstrument/releases/tag/v5.1.3",
-          "publishedAt": "2026-07-29T17:11:13Z"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Vkgfz",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.111",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.111",
-          "publishedAt": "2026-07-29T16:22:19Z",
-          "name": "v8.4.111 - Add Huawei Ascend NPU training support (#25500)"
-        },
-        {
-          "id": "RE_kwDOPF72_s4VkSd7",
-          "owner": "atusy",
-          "repo": "kakehashi",
-          "tag": "v0.9.0",
-          "url": "https://github.com/atusy/kakehashi/releases/tag/v0.9.0",
-          "publishedAt": "2026-07-29T14:50:41Z",
-          "name": "v0.9.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VjuC4",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.302.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.302.0",
-          "publishedAt": "2026-07-29T11:02:39Z",
-          "name": "v0.302.0"
-        },
-        {
-          "id": "RE_kwDOE4ox_c4Vjglt",
-          "owner": "hummingbird-project",
-          "repo": "hummingbird",
-          "tag": "2.26.0",
-          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.26.0",
-          "publishedAt": "2026-07-29T09:21:04Z",
-          "name": "v2.26.0"
-        },
-        {
-          "id": "RE_kwDOEXrCM84VjVIa",
-          "owner": "esm-dev",
-          "repo": "esm.sh",
-          "tag": "v137_8",
-          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v137_8",
-          "publishedAt": "2026-07-29T07:51:03Z",
-          "name": "Server v137_8"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VjRhe",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.58.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.58.1",
-          "publishedAt": "2026-07-29T07:20:49Z",
-          "name": "Release v2.58.1"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VjNZ5",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.58.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.58.0",
-          "publishedAt": "2026-07-29T06:44:19Z",
-          "name": "Release v2.58.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4VjLW8",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.16",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.16",
-          "publishedAt": "2026-07-29T06:23:37Z",
-          "name": "v2026.7.16: Task Workspaces, MCP Command Effects, and Dotfiles Cleanup"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCoS",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-open-props@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-open-props%401.12.0",
-          "publishedAt": "2026-07-29T04:29:07Z",
-          "name": "@pandacss/preset-open-props@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCoB",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/types@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/types%401.12.0",
-          "publishedAt": "2026-07-29T04:29:04Z",
-          "name": "@pandacss/types@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCn6",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/shared@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/shared%401.12.0",
-          "publishedAt": "2026-07-29T04:29:01Z",
-          "name": "@pandacss/shared@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCnw",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-panda@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-panda%401.12.0",
-          "publishedAt": "2026-07-29T04:28:58Z",
-          "name": "@pandacss/preset-panda@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCnl",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/reporter@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/reporter%401.12.0",
-          "publishedAt": "2026-07-29T04:28:55Z",
-          "name": "@pandacss/reporter@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCnW",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/plugin-svelte@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/plugin-svelte%401.12.0",
-          "publishedAt": "2026-07-29T04:28:52Z",
-          "name": "@pandacss/plugin-svelte@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCnL",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-base@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-base%401.12.0",
-          "publishedAt": "2026-07-29T04:28:49Z",
-          "name": "@pandacss/preset-base@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCm9",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/token-dictionary@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/token-dictionary%401.12.0",
-          "publishedAt": "2026-07-29T04:28:46Z",
-          "name": "@pandacss/token-dictionary@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCm1",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/plugin-vue@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/plugin-vue%401.12.0",
-          "publishedAt": "2026-07-29T04:28:43Z",
-          "name": "@pandacss/plugin-vue@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCmo",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-atlaskit@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-atlaskit%401.12.0",
-          "publishedAt": "2026-07-29T04:28:40Z",
-          "name": "@pandacss/preset-atlaskit@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCma",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/node@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/node%401.12.0",
-          "publishedAt": "2026-07-29T04:28:37Z",
-          "name": "@pandacss/node@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCmP",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/studio@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/studio%401.12.0",
-          "publishedAt": "2026-07-29T04:28:34Z",
-          "name": "@pandacss/studio@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCmG",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/parser@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/parser%401.12.0",
-          "publishedAt": "2026-07-29T04:28:31Z",
-          "name": "@pandacss/parser@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCl0",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/core@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/core%401.12.0",
-          "publishedAt": "2026-07-29T04:28:28Z",
-          "name": "@pandacss/core@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjClq",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/mcp@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/mcp%401.12.0",
-          "publishedAt": "2026-07-29T04:28:25Z",
-          "name": "@pandacss/mcp@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjClf",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/extractor@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/extractor%401.12.0",
-          "publishedAt": "2026-07-29T04:28:22Z",
-          "name": "@pandacss/extractor@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjClW",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/postcss@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/postcss%401.12.0",
-          "publishedAt": "2026-07-29T04:28:19Z",
-          "name": "@pandacss/postcss@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjClM",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/is-valid-prop@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/is-valid-prop%401.12.0",
-          "publishedAt": "2026-07-29T04:28:16Z",
-          "name": "@pandacss/is-valid-prop@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjClA",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/plugin-lightningcss@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/plugin-lightningcss%401.12.0",
-          "publishedAt": "2026-07-29T04:28:13Z",
-          "name": "@pandacss/plugin-lightningcss@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCk1",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/dev@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/dev%401.12.0",
-          "publishedAt": "2026-07-29T04:28:10Z",
-          "name": "@pandacss/dev@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCkp",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/config@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/config%401.12.0",
-          "publishedAt": "2026-07-29T04:28:07Z",
-          "name": "@pandacss/config@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCkb",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/astro-plugin-studio@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/astro-plugin-studio%401.12.0",
-          "publishedAt": "2026-07-29T04:28:04Z",
-          "name": "@pandacss/astro-plugin-studio@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCkT",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/logger@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/logger%401.12.0",
-          "publishedAt": "2026-07-29T04:28:01Z",
-          "name": "@pandacss/logger@1.12.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4VjCkI",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/generator@1.12.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/generator%401.12.0",
-          "publishedAt": "2026-07-29T04:27:58Z",
-          "name": "@pandacss/generator@1.12.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VjAjH",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.57.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.57.0",
-          "publishedAt": "2026-07-29T03:55:49Z",
-          "name": "Release v2.57.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Vi-b-",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.56.2",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.56.2",
-          "publishedAt": "2026-07-29T03:23:16Z",
-          "name": "Release v2.56.2"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Vi-GC",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.56.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.56.1",
-          "publishedAt": "2026-07-29T03:17:43Z",
-          "name": "Release v2.56.1"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Vi9eH",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.56.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.56.0",
-          "publishedAt": "2026-07-29T03:08:18Z",
-          "name": "Release v2.56.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Vi6Fv",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.110",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.110",
-          "publishedAt": "2026-07-29T02:14:33Z",
-          "name": "v8.4.110 - Expand RKNN export support to all tasks (#25490)"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Vi4gF",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.55.2",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.55.2",
-          "publishedAt": "2026-07-29T01:48:21Z",
-          "name": "Release v2.55.2"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4Vi3eM",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.7.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.7.0",
-          "publishedAt": "2026-07-29T01:31:26Z",
-          "name": "v1.7.0 - New tools, smarter updates"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Vi0pC",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.55.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.55.1",
-          "publishedAt": "2026-07-29T00:45:22Z",
-          "name": "Release v2.55.1"
-        },
-        {
-          "id": "RE_kwDOOzc9Ss4Vi0Ey",
-          "owner": "apple",
-          "repo": "container",
-          "tag": "1.2.0",
-          "url": "https://github.com/apple/container/releases/tag/1.2.0",
-          "publishedAt": "2026-07-29T00:41:28Z",
-          "name": "1.2.0"
-        }
-      ],
       "2026-07-30": [
         {
           "id": "RE_kwDOH-jzvc4Vn4tW",
@@ -1466,6 +1024,24 @@
       ],
       "2026-08-05": [
         {
+          "id": "RE_kwDOGkmMps4Vzu0V",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.21",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.21",
+          "publishedAt": "2026-08-05T23:26:11Z",
+          "name": "3.0.21"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4VzfrK",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.8.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.8.0",
+          "publishedAt": "2026-08-05T21:10:13Z",
+          "name": "v1.8.0 - More agents, sturdier archives"
+        },
+        {
           "id": "RE_kwDOKbIFZc4VzSgf",
           "owner": "astral-sh",
           "repo": "uv",
@@ -1698,6 +1274,62 @@
           "url": "https://github.com/jdx/mise/releases/tag/v2026.8.2",
           "publishedAt": "2026-08-05T01:50:22Z",
           "name": "v2026.8.2: Declarative System Bootstrap"
+        }
+      ],
+      "2026-08-06": [
+        {
+          "id": "RE_kwDOGkmMps4Vz6vP",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.23",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.23",
+          "publishedAt": "2026-08-06T02:01:03Z",
+          "name": "3.0.23"
+        },
+        {
+          "id": "RE_kwDOObWEYM4Vz440",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.54.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.54.0",
+          "publishedAt": "2026-08-06T01:35:59Z",
+          "name": "Release v0.54.0"
+        },
+        {
+          "id": "RE_kwDOGkmMps4Vz3g_",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.22",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.22",
+          "publishedAt": "2026-08-06T01:20:45Z",
+          "name": "3.0.22"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4Vz09G",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "rust/v1.0.9",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/rust/v1.0.9",
+          "publishedAt": "2026-08-06T00:46:46Z",
+          "name": "rust/v1.0.9"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4Vz08K",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.9",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.9",
+          "publishedAt": "2026-08-06T00:46:33Z",
+          "name": "v1.0.9"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4Vz05P",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "java/v1.0.9",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/java/v1.0.9",
+          "publishedAt": "2026-08-06T00:45:58Z",
+          "name": "GitHub Copilot SDK for Java 1.0.9"
         }
       ]
     }
@@ -1950,8 +1582,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4Vi3eM",
-        "lastPublishedAt": "2026-07-29T01:31:26Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4VzfrK",
+        "lastPublishedAt": "2026-08-05T21:10:13Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -1978,8 +1610,8 @@
         "lastPublishedAt": "2026-05-12T03:32:03Z"
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4VXFk8",
-        "lastPublishedAt": "2026-07-22T23:17:13Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4Vz09G",
+        "lastPublishedAt": "2026-08-06T00:46:46Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2331,8 +1963,8 @@
         "lastPublishedAt": "2026-04-09T20:31:45Z"
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4VqA0s",
-        "lastPublishedAt": "2026-07-31T21:34:30Z",
+        "lastReleaseId": "RE_kwDOObWEYM4Vz440",
+        "lastPublishedAt": "2026-08-06T01:35:59Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -3261,8 +2893,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4Vyixv",
-        "lastPublishedAt": "2026-08-05T14:03:44Z",
+        "lastReleaseId": "RE_kwDOGkmMps4Vz6vP",
+        "lastPublishedAt": "2026-08-06T02:01:03Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
@@ -3853,7 +3485,8 @@
       },
       "traP-jp/qtunes-frontend": {},
       "SSlime-s/traq-webhook": {},
-      "sapphi-red/hubot-traq": {}
+      "sapphi-red/hubot-traq": {},
+      "smnatale/nvim_native": {}
     }
   }
 }
