@@ -1278,6 +1278,60 @@
       ],
       "2026-08-07": [
         {
+          "id": "RE_kwDOQvjuaM4V2arK",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.341.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.341.0",
+          "publishedAt": "2026-08-07T07:33:34Z",
+          "name": "v0.341.0"
+        },
+        {
+          "id": "RE_kwDOGkmMps4V2WkT",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.27",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.27",
+          "publishedAt": "2026-08-07T06:55:26Z",
+          "name": "3.0.27"
+        },
+        {
+          "id": "RE_kwDOGkmMps4V2WUq",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.0.26",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.26",
+          "publishedAt": "2026-08-07T06:53:06Z",
+          "name": "3.0.26"
+        },
+        {
+          "id": "RE_kwDOOzc9Ss4V2LPB",
+          "owner": "apple",
+          "repo": "container",
+          "tag": "1.2.1",
+          "url": "https://github.com/apple/container/releases/tag/1.2.1",
+          "publishedAt": "2026-08-07T06:32:20Z",
+          "name": "1.2.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4V2RJJ",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.6.3",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.3",
+          "publishedAt": "2026-08-07T05:55:35Z",
+          "name": "v30.6.3"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V2QX5",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.340.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.340.0",
+          "publishedAt": "2026-08-07T05:46:40Z",
+          "name": "v0.340.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4V2MCv",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1537,8 +1591,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V2MCv",
-        "lastPublishedAt": "2026-08-07T04:49:51Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4V2arK",
+        "lastPublishedAt": "2026-08-07T07:33:34Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1992,8 +2046,8 @@
       },
       "tohutohu/discord-claude-code": {},
       "apple/container": {
-        "lastReleaseId": "RE_kwDOOzc9Ss4Vi0Ey",
-        "lastPublishedAt": "2026-07-29T00:41:28Z",
+        "lastReleaseId": "RE_kwDOOzc9Ss4V2LPB",
+        "lastPublishedAt": "2026-08-07T06:32:20Z",
         "releaseHistoryCursor": null
       },
       "anaisbetts/mcp-installer": {},
@@ -2894,8 +2948,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4V0kur",
-        "lastPublishedAt": "2026-08-06T09:19:52Z",
+        "lastReleaseId": "RE_kwDOGkmMps4V2WkT",
+        "lastPublishedAt": "2026-08-07T06:55:26Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
@@ -3345,8 +3399,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Vygzw",
-        "lastPublishedAt": "2026-08-05T13:52:23Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4V2RJJ",
+        "lastPublishedAt": "2026-08-07T05:55:35Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
