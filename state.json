@@ -2,224 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-30",
       "2026-07-31",
       "2026-08-01",
       "2026-08-02",
       "2026-08-03",
       "2026-08-04",
-      "2026-08-05"
+      "2026-08-05",
+      "2026-08-06"
     ],
     "days": {
-      "2026-07-30": [
-        {
-          "id": "RE_kwDOH-jzvc4Vn4tW",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.113",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.113",
-          "publishedAt": "2026-07-30T23:43:03Z",
-          "name": "v8.4.113 - Add Dragonwing IQ-8275 QNN export target (#25558)"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Vnxpp",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.18",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.18",
-          "publishedAt": "2026-07-30T22:11:04Z",
-          "name": "v2026.7.18: Monorepo task ergonomics and a broad round of fixes"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4Vnf5N",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.1",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.1",
-          "publishedAt": "2026-07-30T19:37:52Z",
-          "name": "0.16.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VnRWg",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.0.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.0.0",
-          "publishedAt": "2026-07-30T17:55:09Z",
-          "name": "v30.0.0"
-        },
-        {
-          "id": "RE_kwDOD6MHws4VlBLN",
-          "owner": "obsidianmd",
-          "repo": "obsidian-releases",
-          "tag": "v1.13.4",
-          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.4",
-          "publishedAt": "2026-07-30T16:23:52Z",
-          "name": "1.13.4"
-        },
-        {
-          "id": "RE_kwDOAdOsyM4Vmtor",
-          "owner": "x-motemen",
-          "repo": "gore",
-          "tag": "v0.7.0",
-          "url": "https://github.com/x-motemen/gore/releases/tag/v0.7.0",
-          "publishedAt": "2026-07-30T13:51:50Z",
-          "name": "Release v0.7.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VmqrX",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.303.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.303.0",
-          "publishedAt": "2026-07-30T13:33:51Z",
-          "name": "v0.303.0"
-        },
-        {
-          "id": "RE_kwDONvYw484VmpJa",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/nuxt@0.1.1",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%400.1.1",
-          "publishedAt": "2026-07-30T13:23:46Z",
-          "name": "@arkenv/nuxt@0.1.1"
-        },
-        {
-          "id": "RE_kwDONvYw484VmpI_",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/build@0.0.3",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/build%400.0.3",
-          "publishedAt": "2026-07-30T13:23:43Z",
-          "name": "@arkenv/build@0.0.3"
-        },
-        {
-          "id": "RE_kwDONvYw484VmpIl",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/bun-plugin@0.1.13",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%400.1.13",
-          "publishedAt": "2026-07-30T13:23:40Z",
-          "name": "@arkenv/bun-plugin@0.1.13"
-        },
-        {
-          "id": "RE_kwDONvYw484VmpII",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/nextjs@0.1.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%400.1.5",
-          "publishedAt": "2026-07-30T13:23:38Z",
-          "name": "@arkenv/nextjs@0.1.5"
-        },
-        {
-          "id": "RE_kwDOQr_i4M4VmmTF",
-          "owner": "trasta298",
-          "repo": "keifu",
-          "tag": "v0.6.0",
-          "url": "https://github.com/trasta298/keifu/releases/tag/v0.6.0",
-          "publishedAt": "2026-07-30T13:05:03Z",
-          "name": "v0.6.0"
-        },
-        {
-          "id": "RE_kwDOJEKgss4VmO7X",
-          "owner": "DataDog",
-          "repo": "orchestrion",
-          "tag": "v1.12.0",
-          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.12.0",
-          "publishedAt": "2026-07-30T10:18:50Z",
-          "name": "v1.12.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4VlxLw",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.1",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.1",
-          "publishedAt": "2026-07-30T06:48:39Z",
-          "name": "1.0.1"
-        },
-        {
-          "id": "RE_kwDOCk1n-s4VlyBN",
-          "owner": "eure",
-          "repo": "swift-storybook",
-          "tag": "3.1.1",
-          "url": "https://github.com/eure/swift-storybook/releases/tag/3.1.1",
-          "publishedAt": "2026-07-30T06:24:11Z",
-          "name": "3.1.1"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4VlxzF",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.119.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.119.0",
-          "publishedAt": "2026-07-30T06:21:51Z",
-          "name": "v1.119.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Vlsmc",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.60.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.60.0",
-          "publishedAt": "2026-07-30T05:19:54Z",
-          "name": "Release v2.60.0"
-        },
-        {
-          "id": "RE_kwDORQ3jDc4Vlr2F",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.15.5",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.5",
-          "publishedAt": "2026-07-30T05:09:19Z",
-          "name": "v0.15.5"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4VloYk",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.39.10",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.39.10",
-          "publishedAt": "2026-07-30T04:19:15Z",
-          "name": "v0.39.10 Release"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4Vloej",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.22.51",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.51",
-          "publishedAt": "2026-07-30T04:18:51Z",
-          "name": "v0.22.51 Release"
-        },
-        {
-          "id": "RE_kwDOIbdQqs4VlfyS",
-          "owner": "elk-zone",
-          "repo": "elk",
-          "tag": "v1.0.1",
-          "url": "https://github.com/elk-zone/elk/releases/tag/v1.0.1",
-          "publishedAt": "2026-07-30T02:25:53Z",
-          "name": "v1.0.1"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Vld6V",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.7.17",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.7.17",
-          "publishedAt": "2026-07-30T01:58:40Z",
-          "name": "v2026.7.17: Monorepo Task Inference and Root Defaults"
-        },
-        {
-          "id": "RE_kwDOF9Sih84VlWcT",
-          "owner": "aquaproj",
-          "repo": "aqua",
-          "tag": "v2.62.2",
-          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.62.2",
-          "publishedAt": "2026-07-30T00:02:03Z",
-          "name": "v2.62.2"
-        }
-      ],
       "2026-07-31": [
         {
           "id": "RE_kwDOKHF8zM4VqGg5",
@@ -1278,6 +1069,42 @@
       ],
       "2026-08-06": [
         {
+          "id": "RE_kwDOII1H084V11uK",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.18",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.18",
+          "publishedAt": "2026-08-06T23:46:12Z",
+          "name": "v0.5.18"
+        },
+        {
+          "id": "RE_kwDOII1H084V1boe",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.16",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.16",
+          "publishedAt": "2026-08-06T15:37:29Z",
+          "name": "v0.5.16"
+        },
+        {
+          "id": "RE_kwDOB_QrUM4V1BkW",
+          "owner": "denoland",
+          "repo": "deno",
+          "tag": "v2.9.5",
+          "url": "https://github.com/denoland/deno/releases/tag/v2.9.5",
+          "publishedAt": "2026-08-06T15:05:43Z",
+          "name": "v2.9.5"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4V1QI3",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.123.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.123.0",
+          "publishedAt": "2026-08-06T14:25:52Z",
+          "name": "v1.123.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4V1EnT",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1447,6 +1274,35 @@
           "url": "https://github.com/github/copilot-sdk/releases/tag/java/v1.0.9",
           "publishedAt": "2026-08-06T00:45:58Z",
           "name": "GitHub Copilot SDK for Java 1.0.9"
+        }
+      ],
+      "2026-08-07": [
+        {
+          "id": "RE_kwDOMRmaUs4V16Na",
+          "owner": "amnweb",
+          "repo": "yasb",
+          "tag": "v2.0.6",
+          "url": "https://github.com/amnweb/yasb/releases/tag/v2.0.6",
+          "publishedAt": "2026-08-07T00:44:27Z",
+          "name": "v2.0.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V14TT",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.337.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.337.0",
+          "publishedAt": "2026-08-07T00:21:44Z",
+          "name": "v0.337.0"
+        },
+        {
+          "id": "RE_kwDOII1H084V13VP",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.19",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.19",
+          "publishedAt": "2026-08-07T00:09:08Z",
+          "name": "v0.5.19"
         }
       ]
     }
@@ -1654,8 +1510,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V1EnT",
-        "lastPublishedAt": "2026-08-06T13:16:25Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4V14TT",
+        "lastPublishedAt": "2026-08-07T00:21:44Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1880,8 +1736,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4Vyewz",
-        "lastPublishedAt": "2026-08-05T13:40:17Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4V1QI3",
+        "lastPublishedAt": "2026-08-06T14:25:52Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2043,8 +1899,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084V0OJ3",
-        "lastPublishedAt": "2026-08-06T06:25:15Z",
+        "lastReleaseId": "RE_kwDOII1H084V13VP",
+        "lastPublishedAt": "2026-08-07T00:09:08Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -2537,8 +2393,9 @@
       },
       "WinterTC55/proposal-minimum-common-api": {},
       "amnweb/yasb": {
-        "lastReleaseId": "RE_kwDOMRmaUs4UfOcQ",
-        "lastPublishedAt": "2026-06-23T19:51:38Z"
+        "lastReleaseId": "RE_kwDOMRmaUs4V16Na",
+        "lastPublishedAt": "2026-08-07T00:44:27Z",
+        "releaseHistoryCursor": null
       },
       "3b1b/manim": {
         "lastReleaseId": "RE_kwDOAfLOx84LW7Os",
@@ -2574,8 +2431,8 @@
         "lastPublishedAt": "2026-01-31T11:24:10Z"
       },
       "denoland/deno": {
-        "lastReleaseId": "RE_kwDOB_QrUM4VYqH4",
-        "lastPublishedAt": "2026-07-23T16:59:31Z",
+        "lastReleaseId": "RE_kwDOB_QrUM4V1BkW",
+        "lastPublishedAt": "2026-08-06T15:05:43Z",
         "releaseHistoryCursor": null
       },
       "go-michi/michi": {},
