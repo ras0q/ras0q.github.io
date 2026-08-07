@@ -1278,6 +1278,33 @@
       ],
       "2026-08-07": [
         {
+          "id": "RE_kwDOQvjuaM4V2MCv",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.339.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.339.0",
+          "publishedAt": "2026-08-07T04:49:51Z",
+          "name": "v0.339.0"
+        },
+        {
+          "id": "RE_kwDOObWEYM4V2LqU",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.54.4",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.54.4",
+          "publishedAt": "2026-08-07T04:44:19Z",
+          "name": "Release v0.54.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V18Qo",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.338.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.338.0",
+          "publishedAt": "2026-08-07T01:08:46Z",
+          "name": "v0.338.0"
+        },
+        {
           "id": "RE_kwDOMRmaUs4V16Na",
           "owner": "amnweb",
           "repo": "yasb",
@@ -1510,8 +1537,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V14TT",
-        "lastPublishedAt": "2026-08-07T00:21:44Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4V2MCv",
+        "lastPublishedAt": "2026-08-07T04:49:51Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1936,8 +1963,8 @@
         "lastPublishedAt": "2026-04-09T20:31:45Z"
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4Vz440",
-        "lastPublishedAt": "2026-08-06T01:35:59Z",
+        "lastReleaseId": "RE_kwDOObWEYM4V2LqU",
+        "lastPublishedAt": "2026-08-07T04:44:19Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
