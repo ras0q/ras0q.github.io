@@ -1278,6 +1278,60 @@
       ],
       "2026-08-07": [
         {
+          "id": "RE_kwDOKbIFZc4V3iN5",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.3",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.3",
+          "publishedAt": "2026-08-07T16:34:42Z",
+          "name": "0.12.3"
+        },
+        {
+          "id": "RE_kwDOAZfQX84V3ch2",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.36.2",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.2",
+          "publishedAt": "2026-08-07T15:54:11Z",
+          "name": "v0.36.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V3HjD",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.345.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.345.0",
+          "publishedAt": "2026-08-07T13:34:59Z",
+          "name": "v0.345.0"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4V3HJC",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.2",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.2",
+          "publishedAt": "2026-08-07T13:31:55Z",
+          "name": "0.16.2"
+        },
+        {
+          "id": "RE_kwDOCd2s284V3GAx",
+          "owner": "emilk",
+          "repo": "egui",
+          "tag": "0.36.1",
+          "url": "https://github.com/emilk/egui/releases/tag/0.36.1",
+          "publishedAt": "2026-08-07T13:24:07Z",
+          "name": "0.36.1 - `Sense::drag()` bugfix"
+        },
+        {
+          "id": "RE_kwDONAbKCM4V3CX2",
+          "owner": "EmmyLuaLs",
+          "repo": "emmylua-analyzer-rust",
+          "tag": "0.25.0",
+          "url": "https://github.com/EmmyLuaLs/emmylua-analyzer-rust/releases/tag/0.25.0",
+          "publishedAt": "2026-08-07T12:58:22Z",
+          "name": "emmylua_ls"
+        },
+        {
           "id": "RE_kwDOJE7Z-84V29gT",
           "owner": "Zxilly",
           "repo": "go-size-analyzer",
@@ -1478,8 +1532,9 @@
       },
       "kyoh86/vim-jsonl": {},
       "EmmyLuaLs/emmylua-analyzer-rust": {
-        "lastReleaseId": "RE_kwDONAbKCM4U_GTH",
-        "lastPublishedAt": "2026-07-10T12:37:03Z"
+        "lastReleaseId": "RE_kwDONAbKCM4V3CX2",
+        "lastPublishedAt": "2026-08-07T12:58:22Z",
+        "releaseHistoryCursor": null
       },
       "ascorbic/cirrus": {
         "lastReleaseId": "RE_kwDOQvKulM4TzntO",
@@ -1636,8 +1691,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V22G0",
-        "lastPublishedAt": "2026-08-07T11:19:00Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4V3HjD",
+        "lastPublishedAt": "2026-08-07T13:34:59Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2764,8 +2819,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4VzSgf",
-        "lastPublishedAt": "2026-08-05T19:22:56Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4V3iN5",
+        "lastPublishedAt": "2026-08-07T16:34:42Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -2917,8 +2972,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4Vnf5N",
-        "lastPublishedAt": "2026-07-30T19:37:52Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4V3HJC",
+        "lastPublishedAt": "2026-08-07T13:31:55Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -3159,8 +3214,8 @@
         "lastPublishedAt": "2024-01-19T05:36:48Z"
       },
       "emilk/egui": {
-        "lastReleaseId": "RE_kwDOCd2s284VyJ85",
-        "lastPublishedAt": "2026-08-05T11:13:50Z",
+        "lastReleaseId": "RE_kwDOCd2s284V3GAx",
+        "lastPublishedAt": "2026-08-07T13:24:07Z",
         "releaseHistoryCursor": null
       },
       "pmndrs/react-three-fiber": {
@@ -3518,8 +3573,8 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84VrHSJ",
-        "lastPublishedAt": "2026-08-01T20:47:12Z",
+        "lastReleaseId": "RE_kwDOAZfQX84V3ch2",
+        "lastPublishedAt": "2026-08-07T15:54:11Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
