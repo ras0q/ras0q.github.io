@@ -1278,6 +1278,51 @@
       ],
       "2026-08-07": [
         {
+          "id": "RE_kwDOJE7Z-84V29gT",
+          "owner": "Zxilly",
+          "repo": "go-size-analyzer",
+          "tag": "v1.13.1",
+          "url": "https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.13.1",
+          "publishedAt": "2026-08-07T12:19:48Z",
+          "name": "v1.13.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V22G0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.343.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.343.0",
+          "publishedAt": "2026-08-07T11:19:00Z",
+          "name": "v0.343.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4V2xA1",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.116",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.116",
+          "publishedAt": "2026-08-07T10:34:42Z",
+          "name": "v8.4.116 - Raise minimum `opencv-python` to 4.7.0 (#25702)"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V2t3Q",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.342.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.342.0",
+          "publishedAt": "2026-08-07T10:07:40Z",
+          "name": "v0.342.0"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84V2jq-",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.12.0",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.0",
+          "publishedAt": "2026-08-07T08:51:44Z",
+          "name": "4.12.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4V2arK",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1591,8 +1636,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V2arK",
-        "lastPublishedAt": "2026-08-07T07:33:34Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4V22G0",
+        "lastPublishedAt": "2026-08-07T11:19:00Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1869,8 +1914,9 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84UkJia",
-        "lastPublishedAt": "2026-06-26T08:59:18Z"
+        "lastReleaseId": "RE_kwDOOr4uZ84V2jq-",
+        "lastPublishedAt": "2026-08-07T08:51:44Z",
+        "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
       "obsidianmd/eslint-plugin": {
@@ -2570,8 +2616,9 @@
       },
       "Ye-D/PPML-Resource": {},
       "Zxilly/go-size-analyzer": {
-        "lastReleaseId": "RE_kwDOJE7Z-84TTujE",
-        "lastPublishedAt": "2026-05-17T18:08:34Z"
+        "lastReleaseId": "RE_kwDOJE7Z-84V29gT",
+        "lastPublishedAt": "2026-08-07T12:19:48Z",
+        "releaseHistoryCursor": null
       },
       "compose-spec/compose-spec": {},
       "freshframework/fresh": {
@@ -2817,8 +2864,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Vq5Oy",
-        "lastPublishedAt": "2026-08-01T16:06:47Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4V2xA1",
+        "lastPublishedAt": "2026-08-07T10:34:42Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
