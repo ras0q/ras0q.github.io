@@ -1278,6 +1278,15 @@
       ],
       "2026-08-07": [
         {
+          "id": "RE_kwDOOt6mSM4V3mTI",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.88.1",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.88.1",
+          "publishedAt": "2026-08-07T17:05:42Z",
+          "name": "v0.88.1"
+        },
+        {
           "id": "RE_kwDOKbIFZc4V3iN5",
           "owner": "astral-sh",
           "repo": "uv",
@@ -1827,8 +1836,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4Vp-lv",
-        "lastPublishedAt": "2026-07-31T21:07:20Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4V3mTI",
+        "lastPublishedAt": "2026-08-07T17:05:42Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
