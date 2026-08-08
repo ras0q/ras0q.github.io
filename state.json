@@ -1332,6 +1332,15 @@
           "name": "4.12.1"
         },
         {
+          "id": "RE_kwDOGNEXps4V4WjW",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.7",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.7",
+          "publishedAt": "2026-08-08T03:13:53Z",
+          "name": "1.0.7"
+        },
+        {
           "id": "RE_kwDOOzc9Ss4V4SPt",
           "owner": "apple",
           "repo": "container",
@@ -2901,8 +2910,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4V0vp-",
-        "lastPublishedAt": "2026-08-06T10:59:08Z",
+        "lastReleaseId": "RE_kwDOGNEXps4V4WjW",
+        "lastPublishedAt": "2026-08-08T03:13:53Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
