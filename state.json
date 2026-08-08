@@ -2,224 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-07-31",
       "2026-08-01",
       "2026-08-02",
       "2026-08-03",
       "2026-08-04",
       "2026-08-05",
-      "2026-08-06"
+      "2026-08-06",
+      "2026-08-07"
     ],
     "days": {
-      "2026-07-31": [
-        {
-          "id": "RE_kwDOKHF8zM4VqGg5",
-          "owner": "marimo-team",
-          "repo": "marimo",
-          "tag": "0.23.16",
-          "url": "https://github.com/marimo-team/marimo/releases/tag/0.23.16",
-          "publishedAt": "2026-07-31T22:44:32Z",
-          "name": "0.23.16"
-        },
-        {
-          "id": "RE_kwDOAZfQX84VqBqR",
-          "owner": "go-swagger",
-          "repo": "go-swagger",
-          "tag": "v0.36.0",
-          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.0",
-          "publishedAt": "2026-07-31T21:44:53Z",
-          "name": "v0.36.0"
-        },
-        {
-          "id": "RE_kwDOObWEYM4VqA0s",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.53.1",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.1",
-          "publishedAt": "2026-07-31T21:34:30Z",
-          "name": "Release v0.53.1"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4Vp-lv",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.88.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.88.0",
-          "publishedAt": "2026-07-31T21:07:20Z",
-          "name": "v0.88.0"
-        },
-        {
-          "id": "RE_kwDOJKcikM4Vp3EC",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.41.6",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.6",
-          "publishedAt": "2026-07-31T19:55:11Z",
-          "name": "@astrojs/starlight@0.41.6"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4Vp1oX",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.1",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.1",
-          "publishedAt": "2026-07-31T19:43:31Z",
-          "name": "0.12.1"
-        },
-        {
-          "id": "RE_kwDOII1H084VpuqV",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.3",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.3",
-          "publishedAt": "2026-07-31T18:37:48Z",
-          "name": "v0.5.3"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VpoVP",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.60.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.60.1",
-          "publishedAt": "2026-07-31T17:43:23Z",
-          "name": "Release v2.60.1"
-        },
-        {
-          "id": "RE_kwDODGtc284Vpk0G",
-          "owner": "adobe",
-          "repo": "react-spectrum",
-          "tag": "react-aria-components@1.20.0",
-          "url": "https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.20.0",
-          "publishedAt": "2026-07-31T17:11:02Z",
-          "name": "React Aria Components v1.20.0"
-        },
-        {
-          "id": "RE_kwDODGtc284Vpke1",
-          "owner": "adobe",
-          "repo": "react-spectrum",
-          "tag": "@react-spectrum/s2@1.6.0",
-          "url": "https://github.com/adobe/react-spectrum/releases/tag/%40react-spectrum/s2%401.6.0",
-          "publishedAt": "2026-07-31T17:07:43Z",
-          "name": "React Spectrum S2 v1.6.0"
-        },
-        {
-          "id": "RE_kwDOK-QCA84Vpfia",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v19.22.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.22.0",
-          "publishedAt": "2026-07-31T16:29:20Z",
-          "name": "v19.22.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Vpfdw",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.114",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.114",
-          "publishedAt": "2026-07-31T16:28:43Z",
-          "name": "v8.4.114 - Surface Platform error messages and stop the console-output retry loop (#25581)"
-        },
-        {
-          "id": "RE_kwDOCkh5xs4Vpedr",
-          "owner": "pmndrs",
-          "repo": "react-three-fiber",
-          "tag": "v9.7.0",
-          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.7.0",
-          "publishedAt": "2026-07-31T16:19:29Z",
-          "name": "v9.7.0"
-        },
-        {
-          "id": "RE_kwDODH8YWs4VpPji",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.07.30",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.07.30",
-          "publishedAt": "2026-07-31T14:48:49Z",
-          "name": "v2026.07.30"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4VpQFV",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.31.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.31.0",
-          "publishedAt": "2026-07-31T14:42:01Z",
-          "name": "Release 6.31.0"
-        },
-        {
-          "id": "RE_kwDOOC1fY84VpEP_",
-          "owner": "lynx-family",
-          "repo": "lynx",
-          "tag": "4.0.1",
-          "url": "https://github.com/lynx-family/lynx/releases/tag/4.0.1",
-          "publishedAt": "2026-07-31T13:32:02Z",
-          "name": "4.0.1"
-        },
-        {
-          "id": "RE_kwDOFYUYQs4Vo2Yh",
-          "owner": "slidevjs",
-          "repo": "slidev",
-          "tag": "v52.18.1",
-          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.18.1",
-          "publishedAt": "2026-07-31T11:42:42Z",
-          "name": "v52.18.1"
-        },
-        {
-          "id": "RE_kwDOD6wJuM4Vonhs",
-          "owner": "47ng",
-          "repo": "nuqs",
-          "tag": "v2.9.4",
-          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.4",
-          "publishedAt": "2026-07-31T09:46:16Z",
-          "name": "v2.9.4"
-        },
-        {
-          "id": "RE_kwDOOELNJM4VoiVa",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v0.2.7",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.7",
-          "publishedAt": "2026-07-31T08:54:28Z",
-          "name": "vite-plus v0.2.7"
-        },
-        {
-          "id": "RE_kwDOGNEXps4Vob7B",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.2",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.2",
-          "publishedAt": "2026-07-31T08:06:13Z",
-          "name": "1.0.2"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4VobA_",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.30.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.30.0",
-          "publishedAt": "2026-07-31T07:46:25Z",
-          "name": "Release 6.30.0"
-        },
-        {
-          "id": "RE_kwDONrCobc4VoSL8",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.3.2",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.2",
-          "publishedAt": "2026-07-31T06:15:40Z",
-          "name": "v2.3.2"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4VoATe",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.5",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.5",
-          "publishedAt": "2026-07-31T01:49:00Z",
-          "name": "v1.2.5"
-        }
-      ],
       "2026-08-01": [
         {
           "id": "RE_kwDOII1H084VrIsv",
@@ -1277,6 +1068,33 @@
         }
       ],
       "2026-08-07": [
+        {
+          "id": "RE_kwDOIvux3s4V4JTb",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.3",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.3",
+          "publishedAt": "2026-08-07T22:39:57Z",
+          "name": "v2026.8.3: Flatpak, Font Casks, and Task Precedence Fixes"
+        },
+        {
+          "id": "RE_kwDOCawmHs4V4BFl",
+          "owner": "Wilfred",
+          "repo": "difftastic",
+          "tag": "0.70.0",
+          "url": "https://github.com/Wilfred/difftastic/releases/tag/0.70.0",
+          "publishedAt": "2026-08-07T22:06:18Z",
+          "name": "0.70.0"
+        },
+        {
+          "id": "RE_kwDOB21G7c4V4FXY",
+          "owner": "cel-expr",
+          "repo": "cel-go",
+          "tag": "v0.31.0",
+          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.31.0",
+          "publishedAt": "2026-08-07T21:46:36Z",
+          "name": "Release v0.31.0"
+        },
         {
           "id": "RE_kwDOOt6mSM4V3mTI",
           "owner": "charmbracelet",
@@ -2507,8 +2325,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4VxSys",
-        "lastPublishedAt": "2026-08-05T01:50:22Z",
+        "lastReleaseId": "RE_kwDOIvux3s4V4JTb",
+        "lastPublishedAt": "2026-08-07T22:39:57Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2746,8 +2564,8 @@
         "lastPublishedAt": "2025-06-13T14:11:11Z"
       },
       "cel-expr/cel-go": {
-        "lastReleaseId": "RE_kwDOB21G7c4Vc_Oi",
-        "lastPublishedAt": "2026-07-26T03:54:59Z",
+        "lastReleaseId": "RE_kwDOB21G7c4V4FXY",
+        "lastPublishedAt": "2026-08-07T21:46:36Z",
         "releaseHistoryCursor": null
       },
       "glanceapp/glance": {
@@ -2892,8 +2710,9 @@
         "lastPublishedAt": "2025-09-14T05:22:01Z"
       },
       "Wilfred/difftastic": {
-        "lastReleaseId": "RE_kwDOCawmHs4S14fA",
-        "lastPublishedAt": "2026-04-30T21:47:36Z"
+        "lastReleaseId": "RE_kwDOCawmHs4V4BFl",
+        "lastPublishedAt": "2026-08-07T22:06:18Z",
+        "releaseHistoryCursor": null
       },
       "tadashi-aikawa/obsidian-various-complements-plugin": {
         "lastReleaseId": "RE_kwDOFA4JCs4UgY6b",
