@@ -1314,6 +1314,33 @@
       ],
       "2026-08-08": [
         {
+          "id": "RE_kwDOCnR4Zc4V447P",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.6.4",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.4",
+          "publishedAt": "2026-08-08T15:30:38Z",
+          "name": "v30.6.4"
+        },
+        {
+          "id": "RE_kwDOPDzQl84V4yv1",
+          "owner": "yoshiko-pg",
+          "repo": "difit",
+          "tag": "v5.0.10",
+          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.10",
+          "publishedAt": "2026-08-08T13:32:48Z",
+          "name": "v5.0.10"
+        },
+        {
+          "id": "RE_kwDOGNEXps4V4yUw",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.9",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.9",
+          "publishedAt": "2026-08-08T13:29:42Z",
+          "name": "1.0.9"
+        },
+        {
           "id": "RE_kwDOGkmMps4V4a3X",
           "owner": "Quorafind",
           "repo": "Obsidian-Thino",
@@ -1960,8 +1987,8 @@
       },
       "memento-org/memento-lang": {},
       "yoshiko-pg/difit": {
-        "lastReleaseId": "RE_kwDOPDzQl84Vypo3",
-        "lastPublishedAt": "2026-08-05T14:44:28Z",
+        "lastReleaseId": "RE_kwDOPDzQl84V4yv1",
+        "lastPublishedAt": "2026-08-08T13:32:48Z",
         "releaseHistoryCursor": null
       },
       "yknishidate/CalexCodeJP": {},
@@ -2910,8 +2937,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4V4WjW",
-        "lastPublishedAt": "2026-08-08T03:13:53Z",
+        "lastReleaseId": "RE_kwDOGNEXps4V4yUw",
+        "lastPublishedAt": "2026-08-08T13:29:42Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3367,8 +3394,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4V2RJJ",
-        "lastPublishedAt": "2026-08-07T05:55:35Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4V447P",
+        "lastPublishedAt": "2026-08-08T15:30:38Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
