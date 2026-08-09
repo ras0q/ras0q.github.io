@@ -1224,6 +1224,33 @@
       ],
       "2026-08-09": [
         {
+          "id": "RE_kwDOEd6VoM4V5kB5",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.26",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.26",
+          "publishedAt": "2026-08-09T07:22:37Z",
+          "name": "v1.10.26"
+        },
+        {
+          "id": "RE_kwDOPDzQl84V5hMu",
+          "owner": "yoshiko-pg",
+          "repo": "difit",
+          "tag": "v5.0.11",
+          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.11",
+          "publishedAt": "2026-08-09T06:45:41Z",
+          "name": "v5.0.11"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84V5elO",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.12.2",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.2",
+          "publishedAt": "2026-08-09T05:44:04Z",
+          "name": "4.12.2"
+        },
+        {
           "id": "RE_kwDOGNEXps4V5Y5K",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1726,8 +1753,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84V4WsV",
-        "lastPublishedAt": "2026-08-08T03:14:35Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84V5elO",
+        "lastPublishedAt": "2026-08-09T05:44:04Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -1852,8 +1879,8 @@
       },
       "memento-org/memento-lang": {},
       "yoshiko-pg/difit": {
-        "lastReleaseId": "RE_kwDOPDzQl84V4yv1",
-        "lastPublishedAt": "2026-08-08T13:32:48Z",
+        "lastReleaseId": "RE_kwDOPDzQl84V5hMu",
+        "lastPublishedAt": "2026-08-09T06:45:41Z",
         "releaseHistoryCursor": null
       },
       "yknishidate/CalexCodeJP": {},
@@ -2906,8 +2933,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4VcjZE",
-        "lastPublishedAt": "2026-07-25T16:48:03Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4V5kB5",
+        "lastPublishedAt": "2026-08-09T07:22:37Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
