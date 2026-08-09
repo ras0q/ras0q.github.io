@@ -1224,6 +1224,24 @@
       ],
       "2026-08-09": [
         {
+          "id": "RE_kwDOLFvGAc4V6FyZ",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.5",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.5",
+          "publishedAt": "2026-08-09T18:13:36Z",
+          "name": "cli-v0.1.5"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4V6Cid",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.117",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.117",
+          "publishedAt": "2026-08-09T17:10:22Z",
+          "name": "v8.4.117 - Route spatial Albumentations by type and carry masks, polygons and keypoints through it (#25633)"
+        },
+        {
           "id": "RE_kwDOGNEXps4V57uO",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -2373,8 +2391,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4VioJd",
-        "lastPublishedAt": "2026-07-28T21:55:36Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4V6FyZ",
+        "lastPublishedAt": "2026-08-09T18:13:36Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2741,8 +2759,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4V2xA1",
-        "lastPublishedAt": "2026-08-07T10:34:42Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4V6Cid",
+        "lastPublishedAt": "2026-08-09T17:10:22Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
