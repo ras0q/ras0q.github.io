@@ -1224,6 +1224,42 @@
       ],
       "2026-08-09": [
         {
+          "id": "RE_kwDOGNEXps4V57uO",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.11",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.11",
+          "publishedAt": "2026-08-09T15:32:45Z",
+          "name": "1.0.11"
+        },
+        {
+          "id": "RE_kwDOHJPY_c4V58-F",
+          "owner": "subframe7536",
+          "repo": "maple-font",
+          "tag": "cjk-base",
+          "url": "https://github.com/subframe7536/maple-font/releases/tag/cjk-base",
+          "publishedAt": "2026-08-09T15:26:22Z",
+          "name": "CJK Base Fonts"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4V57ai",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.8",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.8",
+          "publishedAt": "2026-08-09T14:57:41Z",
+          "name": "v1.2.8"
+        },
+        {
+          "id": "RE_kwDOJF91uM4V53Na",
+          "owner": "wakatime",
+          "repo": "macos-wakatime",
+          "tag": "v5.28.5",
+          "url": "https://github.com/wakatime/macos-wakatime/releases/tag/v5.28.5",
+          "publishedAt": "2026-08-09T13:45:20Z",
+          "name": "v5.28.5"
+        },
+        {
           "id": "RE_kwDOEd6VoM4V5kB5",
           "owner": "traPtitech",
           "repo": "NeoShowcase",
@@ -2004,8 +2040,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4V0y_U",
-        "lastPublishedAt": "2026-08-06T11:08:03Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4V57ai",
+        "lastPublishedAt": "2026-08-09T14:57:41Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2139,8 +2175,9 @@
         "releaseHistoryCursor": null
       },
       "subframe7536/maple-font": {
-        "lastReleaseId": "RE_kwDOHJPY_c4P9X8l",
-        "lastPublishedAt": "2025-12-05T12:40:29Z"
+        "lastReleaseId": "RE_kwDOHJPY_c4V58-F",
+        "lastPublishedAt": "2026-08-09T15:26:22Z",
+        "releaseHistoryCursor": null
       },
       "sheepla/renedit": {},
       "mazrean/deno-mcp-server": {},
@@ -2829,8 +2866,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4V5Y5K",
-        "lastPublishedAt": "2026-08-09T04:09:23Z",
+        "lastReleaseId": "RE_kwDOGNEXps4V57uO",
+        "lastPublishedAt": "2026-08-09T15:32:45Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -2949,8 +2986,9 @@
         "lastPublishedAt": "2026-03-06T10:03:57Z"
       },
       "wakatime/macos-wakatime": {
-        "lastReleaseId": "RE_kwDOJF91uM4ThooS",
-        "lastPublishedAt": "2026-05-22T04:11:50Z"
+        "lastReleaseId": "RE_kwDOJF91uM4V53Na",
+        "lastPublishedAt": "2026-08-09T13:45:20Z",
+        "releaseHistoryCursor": null
       },
       "typst/typst": {
         "lastReleaseId": "RE_kwDODI8QW84VMcAq",
