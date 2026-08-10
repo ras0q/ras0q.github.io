@@ -1206,6 +1206,24 @@
       ],
       "2026-08-10": [
         {
+          "id": "RE_kwDOM9WtiM4V7NdU",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.10",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.10",
+          "publishedAt": "2026-08-10T10:48:21Z",
+          "name": "v1.2.10"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4V7JhD",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.2.9",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.9",
+          "publishedAt": "2026-08-10T10:14:25Z",
+          "name": "v1.2.9"
+        },
+        {
           "id": "RE_kwDOIIPL1M4V6-p3",
           "owner": "webpro-nl",
           "repo": "knip",
@@ -1960,8 +1978,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4V57ai",
-        "lastPublishedAt": "2026-08-09T14:57:41Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4V7NdU",
+        "lastPublishedAt": "2026-08-10T10:48:21Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
