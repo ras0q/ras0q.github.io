@@ -1206,6 +1206,15 @@
       ],
       "2026-08-10": [
         {
+          "id": "RE_kwDOD6MHws4V7mcR",
+          "owner": "obsidianmd",
+          "repo": "obsidian-releases",
+          "tag": "v1.13.6",
+          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.6",
+          "publishedAt": "2026-08-10T15:56:15Z",
+          "name": "1.13.6"
+        },
+        {
           "id": "RE_kwDOM9WtiM4V7NdU",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -2602,8 +2611,8 @@
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastReleaseId": "RE_kwDOD6MHws4VlBLN",
-        "lastPublishedAt": "2026-07-30T16:23:52Z",
+        "lastReleaseId": "RE_kwDOD6MHws4V7mcR",
+        "lastPublishedAt": "2026-08-10T15:56:15Z",
         "releaseHistoryCursor": null
       },
       "j0k3r/banditore": {
