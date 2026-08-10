@@ -2,152 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-02",
       "2026-08-03",
       "2026-08-04",
       "2026-08-05",
       "2026-08-06",
       "2026-08-07",
-      "2026-08-08"
+      "2026-08-08",
+      "2026-08-09"
     ],
     "days": {
-      "2026-08-02": [
-        {
-          "id": "RE_kwDOAaTAks4VrDia",
-          "owner": "ryanoasis",
-          "repo": "nerd-fonts",
-          "tag": "v3.5.0",
-          "url": "https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.5.0",
-          "publishedAt": "2026-08-02T23:35:36Z",
-          "name": "v3.5.0"
-        },
-        {
-          "id": "RE_kwDOPyZEpc4VsG9s",
-          "owner": "microsoft",
-          "repo": "apm",
-          "tag": "v0.27.0",
-          "url": "https://github.com/microsoft/apm/releases/tag/v0.27.0",
-          "publishedAt": "2026-08-02T20:11:22Z",
-          "name": "v0.27.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Vr7m_",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.3.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.3.0",
-          "publishedAt": "2026-08-02T16:42:00Z",
-          "name": "v30.3.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Vr2h-",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.318.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.318.0",
-          "publishedAt": "2026-08-02T15:08:01Z",
-          "name": "v0.318.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VrpWa",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.2.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.2.0",
-          "publishedAt": "2026-08-02T10:51:59Z",
-          "name": "v30.2.0"
-        },
-        {
-          "id": "RE_kwDOE4c3is4Vrher",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.5.1",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.5.1",
-          "publishedAt": "2026-08-02T07:53:10Z",
-          "name": "9.5.1"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VrfwW",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.66.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.66.0",
-          "publishedAt": "2026-08-02T07:10:54Z",
-          "name": "Release v2.66.0"
-        },
-        {
-          "id": "RE_kwDOG7dO584VrdND",
-          "owner": "NomarCub",
-          "repo": "obsidian-hide-sidebars-on-window-resize",
-          "tag": "1.2.0",
-          "url": "https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize/releases/tag/1.2.0",
-          "publishedAt": "2026-08-02T06:08:15Z",
-          "name": "1.2.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Vrb5a",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.65.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.65.0",
-          "publishedAt": "2026-08-02T05:34:35Z",
-          "name": "Release v2.65.0"
-        },
-        {
-          "id": "RE_kwDOF9Sih84VrYiv",
-          "owner": "aquaproj",
-          "repo": "aqua",
-          "tag": "v2.62.3",
-          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.62.3",
-          "publishedAt": "2026-08-02T04:08:24Z",
-          "name": "v2.62.3"
-        },
-        {
-          "id": "RE_kwDOALIcz84VrYQx",
-          "owner": "rcmdnk",
-          "repo": "vim_ahk",
-          "tag": "v0.16.7",
-          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.16.7",
-          "publishedAt": "2026-08-02T04:00:19Z",
-          "name": "v0.16.7"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VrXyv",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.315.1",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.315.1",
-          "publishedAt": "2026-08-02T03:47:09Z",
-          "name": "v0.315.1"
-        },
-        {
-          "id": "RE_kwDOALIcz84VrVbX",
-          "owner": "rcmdnk",
-          "repo": "vim_ahk",
-          "tag": "v0.16.6",
-          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.16.6",
-          "publishedAt": "2026-08-02T02:48:08Z",
-          "name": "v0.16.6"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VrUdi",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.64.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.64.0",
-          "publishedAt": "2026-08-02T02:22:59Z",
-          "name": "Release v2.64.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84VrPUq",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.63.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.63.1",
-          "publishedAt": "2026-08-02T00:01:05Z",
-          "name": "Release v2.63.1"
-        }
-      ],
       "2026-08-03": [
         {
           "id": "RE_kwDOII1H084VulZ-",
@@ -1224,6 +1087,24 @@
       ],
       "2026-08-09": [
         {
+          "id": "RE_kwDOOr4uZ84V6Rj-",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.12.3",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.3",
+          "publishedAt": "2026-08-09T22:10:13Z",
+          "name": "4.12.3"
+        },
+        {
+          "id": "RE_kwDOCciW1M4V6OEr",
+          "owner": "files-community",
+          "repo": "Files",
+          "tag": "v4.2.3",
+          "url": "https://github.com/files-community/Files/releases/tag/v4.2.3",
+          "publishedAt": "2026-08-09T20:57:58Z",
+          "name": "v4.2.3"
+        },
+        {
           "id": "RE_kwDOLFvGAc4V6FyZ",
           "owner": "sweetpad-dev",
           "repo": "sweetpad",
@@ -1807,8 +1688,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84V5elO",
-        "lastPublishedAt": "2026-08-09T05:44:04Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84V6Rj-",
+        "lastPublishedAt": "2026-08-09T22:10:13Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -2168,8 +2049,8 @@
         "lastPublishedAt": "2024-12-05T18:51:33Z"
       },
       "files-community/Files": {
-        "lastReleaseId": "RE_kwDOCciW1M4VsfXc",
-        "lastPublishedAt": "2026-08-03T04:15:12Z",
+        "lastReleaseId": "RE_kwDOCciW1M4V6OEr",
+        "lastPublishedAt": "2026-08-09T20:57:58Z",
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
