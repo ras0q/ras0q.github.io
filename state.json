@@ -1143,6 +1143,15 @@
       ],
       "2026-08-11": [
         {
+          "id": "RE_kwDOJcq7QM4V-cq6",
+          "owner": "modular",
+          "repo": "modular",
+          "tag": "max/v26.5.0",
+          "url": "https://github.com/modular/modular/releases/tag/max/v26.5.0",
+          "publishedAt": "2026-08-11T16:05:56Z",
+          "name": "MAX 26.5 / Mojo 1.0.0"
+        },
+        {
           "id": "RE_kwDOGNEXps4V9DMW",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -2542,8 +2551,9 @@
       },
       "youta-t/its": {},
       "modular/modular": {
-        "lastReleaseId": "RE_kwDOJcq7QM4UWx_B",
-        "lastPublishedAt": "2026-06-18T16:15:54Z"
+        "lastReleaseId": "RE_kwDOJcq7QM4V-cq6",
+        "lastPublishedAt": "2026-08-11T16:05:56Z",
+        "releaseHistoryCursor": null
       },
       "bluesky-social/indigo": {},
       "quarto-dev/quarto-cli": {
@@ -3336,8 +3346,8 @@
       "sapphi-red/hubot-traq": {},
       "smnatale/nvim_native": {},
       "actions/attest": {
-        "lastPublishedAt": "2026-08-04T20:36:29Z",
         "lastReleaseId": "RE_kwDOLVdghc4Vw5NY",
+        "lastPublishedAt": "2026-08-04T20:36:29Z",
         "releaseHistoryCursor": null
       }
     }
