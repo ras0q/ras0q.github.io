@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-03",
       "2026-08-04",
       "2026-08-05",
       "2026-08-06",
       "2026-08-07",
       "2026-08-08",
-      "2026-08-09"
+      "2026-08-09",
+      "2026-08-10"
     ],
     "days": {
-      "2026-08-03": [
-        {
-          "id": "RE_kwDOII1H084VulZ-",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.8",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.8",
-          "publishedAt": "2026-08-03T22:52:46Z",
-          "name": "v0.5.8"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VufAX",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.323.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.323.0",
-          "publishedAt": "2026-08-03T21:36:22Z",
-          "name": "v0.323.0"
-        },
-        {
-          "id": "RE_kwDOKMzyM84Vud40",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.21.0",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.21.0",
-          "publishedAt": "2026-08-03T21:24:38Z",
-          "name": "0.21.0"
-        },
-        {
-          "id": "RE_kwDOFknhgc4VuPZV",
-          "owner": "open-horizon-labs",
-          "repo": "obsidian-ics",
-          "tag": "1.15.2",
-          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.15.2",
-          "publishedAt": "2026-08-03T19:17:04Z",
-          "name": "1.15.2"
-        },
-        {
-          "id": "RE_kwDODhPY784VuNb_",
-          "owner": "OpenMined",
-          "repo": "TenSEAL",
-          "tag": "v0.3.16",
-          "url": "https://github.com/OpenMined/TenSEAL/releases/tag/v0.3.16",
-          "publishedAt": "2026-08-03T19:00:04Z",
-          "name": "v0.3.16"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Vt9B_",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.1",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.1",
-          "publishedAt": "2026-08-03T16:58:47Z",
-          "name": "v2026.8.1: Task Cache Goes Remote, Affected Tasks, and Config Ergonomics"
-        },
-        {
-          "id": "RE_kwDOKMzyM84Vt1VJ",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.20.0",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.20.0",
-          "publishedAt": "2026-08-03T16:01:47Z",
-          "name": "0.20.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VtrN0",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.322.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.322.0",
-          "publishedAt": "2026-08-03T14:55:38Z",
-          "name": "v0.322.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4VtWdQ",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.3",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.3",
-          "publishedAt": "2026-08-03T13:01:50Z",
-          "name": "1.0.3"
-        },
-        {
-          "id": "RE_kwDOFJ5a6s4VtSy7",
-          "owner": "Milkdown",
-          "repo": "milkdown",
-          "tag": "v7.22.0",
-          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.0",
-          "publishedAt": "2026-08-03T12:20:59Z",
-          "name": "v7.22.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VtEDZ",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.321.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.321.0",
-          "publishedAt": "2026-08-03T10:25:25Z",
-          "name": "v0.321.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Vs9p_",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.120.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.120.0",
-          "publishedAt": "2026-08-03T09:40:02Z",
-          "name": "v1.120.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VsmDy",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.4.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.4.0",
-          "publishedAt": "2026-08-03T05:58:29Z",
-          "name": "v30.4.0"
-        },
-        {
-          "id": "RE_kwDOCciW1M4VsfXc",
-          "owner": "files-community",
-          "repo": "Files",
-          "tag": "v4.2.2",
-          "url": "https://github.com/files-community/Files/releases/tag/v4.2.2",
-          "publishedAt": "2026-08-03T04:15:12Z",
-          "name": "v4.2.2"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4VsWRN",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.6",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.6",
-          "publishedAt": "2026-08-03T01:42:15Z",
-          "name": "v1.2.6"
-        },
-        {
-          "id": "RE_kwDOFYUYQs4VsTsI",
-          "owner": "slidevjs",
-          "repo": "slidev",
-          "tag": "v52.19.0",
-          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.19.0",
-          "publishedAt": "2026-08-03T00:56:26Z",
-          "name": "v52.19.0"
-        }
-      ],
       "2026-08-04": [
         {
           "id": "RE_kwDOOR3Pys4Vws_8",
@@ -1206,6 +1060,24 @@
       ],
       "2026-08-10": [
         {
+          "id": "RE_kwDOD81yrs4V8pEL",
+          "owner": "ManimCommunity",
+          "repo": "manim",
+          "tag": "v0.21.0",
+          "url": "https://github.com/ManimCommunity/manim/releases/tag/v0.21.0",
+          "publishedAt": "2026-08-10T21:56:35Z",
+          "name": "Manim v0.21.0"
+        },
+        {
+          "id": "RE_kwDOEYAvFc4V8olu",
+          "owner": "lumeland",
+          "repo": "lume",
+          "tag": "v3.3.1",
+          "url": "https://github.com/lumeland/lume/releases/tag/v3.3.1",
+          "publishedAt": "2026-08-10T21:51:43Z",
+          "name": "v3.3.1"
+        },
+        {
           "id": "RE_kwDOHrOdo84V8eFt",
           "owner": "runmedev",
           "repo": "runme",
@@ -2010,8 +1882,9 @@
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
-        "lastReleaseId": "RE_kwDOD81yrs4RXB7k",
-        "lastPublishedAt": "2026-02-27T07:32:25Z"
+        "lastReleaseId": "RE_kwDOD81yrs4V8pEL",
+        "lastPublishedAt": "2026-08-10T21:56:35Z",
+        "releaseHistoryCursor": null
       },
       "akiym/ed25519brute": {},
       "going-doer/Paper2Code": {},
@@ -2390,8 +2263,8 @@
       },
       "lumeland/cms": {},
       "lumeland/lume": {
-        "lastReleaseId": "RE_kwDOEYAvFc4VkvrM",
-        "lastPublishedAt": "2026-07-29T18:01:56Z",
+        "lastReleaseId": "RE_kwDOEYAvFc4V8olu",
+        "lastPublishedAt": "2026-08-10T21:51:43Z",
         "releaseHistoryCursor": null
       },
       "asyncapi/spec": {
