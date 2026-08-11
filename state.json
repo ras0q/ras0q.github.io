@@ -1143,6 +1143,51 @@
       ],
       "2026-08-11": [
         {
+          "id": "RE_kwDOIIPL1M4V_AqG",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.32.2",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.32.2",
+          "publishedAt": "2026-08-11T20:30:55Z",
+          "name": "Release 6.32.2"
+        },
+        {
+          "id": "RE_kwDODRcWac4V-tPc",
+          "owner": "charmbracelet",
+          "repo": "glow",
+          "tag": "v3.0.0",
+          "url": "https://github.com/charmbracelet/glow/releases/tag/v3.0.0",
+          "publishedAt": "2026-08-11T18:09:45Z",
+          "name": "v3.0.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4V-rYz",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.347.7",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.347.7",
+          "publishedAt": "2026-08-11T17:55:59Z",
+          "name": "v0.347.7"
+        },
+        {
+          "id": "RE_kwDOAWJAkM4V-lCW",
+          "owner": "git-for-windows",
+          "repo": "git",
+          "tag": "v2.55.0.windows.4",
+          "url": "https://github.com/git-for-windows/git/releases/tag/v2.55.0.windows.4",
+          "publishedAt": "2026-08-11T17:35:02Z",
+          "name": "Git for Windows 2.55.0(4)"
+        },
+        {
+          "id": "RE_kwDOFHnna84V-mgZ",
+          "owner": "charmbracelet",
+          "repo": "lipgloss",
+          "tag": "v2.0.6",
+          "url": "https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.6",
+          "publishedAt": "2026-08-11T17:18:55Z",
+          "name": "v2.0.6"
+        },
+        {
           "id": "RE_kwDOJcq7QM4V-cq6",
           "owner": "modular",
           "repo": "modular",
@@ -1385,8 +1430,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V3HjD",
-        "lastPublishedAt": "2026-08-07T13:34:59Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4V-rYz",
+        "lastPublishedAt": "2026-08-11T17:55:59Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1642,8 +1687,8 @@
         "lastPublishedAt": "2025-11-24T03:50:37Z"
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4V6-p3",
-        "lastPublishedAt": "2026-08-10T08:48:20Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4V_AqG",
+        "lastPublishedAt": "2026-08-11T20:30:55Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -1809,8 +1854,9 @@
         "releaseHistoryCursor": null
       },
       "charmbracelet/glow": {
-        "lastReleaseId": "RE_kwDODRcWac4SUHHo",
-        "lastPublishedAt": "2026-04-09T20:31:45Z"
+        "lastReleaseId": "RE_kwDODRcWac4V-tPc",
+        "lastPublishedAt": "2026-08-11T18:09:45Z",
+        "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
         "lastReleaseId": "RE_kwDOObWEYM4V2LqU",
@@ -2149,8 +2195,9 @@
         "lastPublishedAt": "2026-06-21T21:53:03Z"
       },
       "git-for-windows/git": {
-        "lastReleaseId": "RE_kwDOAWJAkM4VGaPf",
-        "lastPublishedAt": "2026-07-14T18:41:31Z"
+        "lastReleaseId": "RE_kwDOAWJAkM4V-lCW",
+        "lastPublishedAt": "2026-08-11T17:35:02Z",
+        "releaseHistoryCursor": null
       },
       "VitalAudio/visage": {},
       "picocss/pico": {
@@ -3130,8 +3177,9 @@
         "lastPublishedAt": "2023-05-03T21:29:59Z"
       },
       "charmbracelet/lipgloss": {
-        "lastReleaseId": "RE_kwDOFHnna84Uw82v",
-        "lastPublishedAt": "2026-07-03T02:07:39Z"
+        "lastReleaseId": "RE_kwDOFHnna84V-mgZ",
+        "lastPublishedAt": "2026-08-11T17:18:55Z",
+        "releaseHistoryCursor": null
       },
       "charmbracelet/bubbletea": {
         "lastReleaseId": "RE_kwDODeVIac4Uw8F3",
