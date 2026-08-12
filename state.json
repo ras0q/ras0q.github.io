@@ -1107,6 +1107,24 @@
       ],
       "2026-08-12": [
         {
+          "id": "RE_kwDOOt6mSM4WBhVJ",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.89.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.89.0",
+          "publishedAt": "2026-08-12T20:04:42Z",
+          "name": "v0.89.0"
+        },
+        {
+          "id": "RE_kwDOII1H084WBbAE",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.23",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.23",
+          "publishedAt": "2026-08-12T19:15:12Z",
+          "name": "v0.5.23"
+        },
+        {
           "id": "RE_kwDOM9WtiM4WA_aI",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -1539,8 +1557,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4V3mTI",
-        "lastPublishedAt": "2026-08-07T17:05:42Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4WBhVJ",
+        "lastPublishedAt": "2026-08-12T20:04:42Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1794,8 +1812,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084WAwvr",
-        "lastPublishedAt": "2026-08-12T14:22:50Z",
+        "lastReleaseId": "RE_kwDOII1H084WBbAE",
+        "lastPublishedAt": "2026-08-12T19:15:12Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
