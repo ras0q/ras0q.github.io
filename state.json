@@ -1107,6 +1107,42 @@
       ],
       "2026-08-12": [
         {
+          "id": "RE_kwDOFJ5a6s4WAdT6",
+          "owner": "Milkdown",
+          "repo": "milkdown",
+          "tag": "v7.22.1",
+          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.1",
+          "publishedAt": "2026-08-12T12:22:05Z",
+          "name": "v7.22.1"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WAad1",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.5",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.5",
+          "publishedAt": "2026-08-12T12:01:21Z",
+          "name": "v2026.8.5: PyPy on the precompiled path, Node source patches, and a broad batch of fixes"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4WALtC",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.3.2",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.2",
+          "publishedAt": "2026-08-12T10:08:49Z",
+          "name": "v1.3.2"
+        },
+        {
+          "id": "RE_kwDOLLx-gc4V_0AL",
+          "owner": "iamgio",
+          "repo": "quarkdown",
+          "tag": "v2.5.1",
+          "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.5.1",
+          "publishedAt": "2026-08-12T07:06:08Z",
+          "name": "v2.5.1"
+        },
+        {
           "id": "RE_kwDOOELNJM4V_gdg",
           "owner": "voidzero-dev",
           "repo": "vite-plus",
@@ -1766,8 +1802,8 @@
       },
       "tak-dcxi/kiso.css": {},
       "iamgio/quarkdown": {
-        "lastReleaseId": "RE_kwDOLLx-gc4Vu-wN",
-        "lastPublishedAt": "2026-08-04T05:29:41Z",
+        "lastReleaseId": "RE_kwDOLLx-gc4V_0AL",
+        "lastPublishedAt": "2026-08-12T07:06:08Z",
         "releaseHistoryCursor": null
       },
       "openapi-ts/openapi-typescript": {
@@ -1853,8 +1889,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4V7NdU",
-        "lastPublishedAt": "2026-08-10T10:48:21Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4WALtC",
+        "lastPublishedAt": "2026-08-12T10:08:49Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2134,8 +2170,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4V8_Ik",
-        "lastPublishedAt": "2026-08-11T03:03:53Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WAad1",
+        "lastPublishedAt": "2026-08-12T12:01:21Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3188,8 +3224,8 @@
         "lastPublishedAt": "2022-01-06T05:22:02Z"
       },
       "Milkdown/milkdown": {
-        "lastReleaseId": "RE_kwDOFJ5a6s4VtSy7",
-        "lastPublishedAt": "2026-08-03T12:20:59Z",
+        "lastReleaseId": "RE_kwDOFJ5a6s4WAdT6",
+        "lastPublishedAt": "2026-08-12T12:22:05Z",
         "releaseHistoryCursor": null
       },
       "remarkjs/remark": {
