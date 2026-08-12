@@ -1104,6 +1104,17 @@
           "publishedAt": "2026-08-11T03:03:53Z",
           "name": "v2026.8.4: Cross-backend ls, semver ordering, and bootstrap cask pruning"
         }
+      ],
+      "2026-08-12": [
+        {
+          "id": "RE_kwDOOELNJM4V_gdg",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.2.9",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.9",
+          "publishedAt": "2026-08-12T03:04:02Z",
+          "name": "vite-plus v0.2.9: add `vp toolchain` and `vp hooks`, and fix `vp run` inside Codex and Claude Code sandboxes"
+        }
       ]
     }
   },
@@ -1293,8 +1304,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4Vxldb",
-        "lastPublishedAt": "2026-08-05T06:15:54Z",
+        "lastReleaseId": "RE_kwDOOELNJM4V_gdg",
+        "lastPublishedAt": "2026-08-12T03:04:02Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
