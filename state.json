@@ -2,170 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-04",
       "2026-08-05",
       "2026-08-06",
       "2026-08-07",
       "2026-08-08",
       "2026-08-09",
-      "2026-08-10"
+      "2026-08-10",
+      "2026-08-11"
     ],
     "days": {
-      "2026-08-04": [
-        {
-          "id": "RE_kwDOOR3Pys4Vws_8",
-          "owner": "swiftlang",
-          "repo": "swift-subprocess",
-          "tag": "1.0.0",
-          "url": "https://github.com/swiftlang/swift-subprocess/releases/tag/1.0.0",
-          "publishedAt": "2026-08-04T19:00:13Z",
-          "name": "Subprocess 1.0.0"
-        },
-        {
-          "id": "RE_kwDOII1H084Vwmbx",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.10",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.10",
-          "publishedAt": "2026-08-04T18:07:53Z",
-          "name": "v0.5.10"
-        },
-        {
-          "id": "RE_kwDOBSXbR84VwXjA",
-          "owner": "elastic",
-          "repo": "go-elasticsearch",
-          "tag": "v9.5.0",
-          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.5.0",
-          "publishedAt": "2026-08-04T16:16:21Z",
-          "name": "v9.5.0"
-        },
-        {
-          "id": "RE_kwDOBSXbR84VwWwe",
-          "owner": "elastic",
-          "repo": "go-elasticsearch",
-          "tag": "v9.4.3",
-          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.4.3",
-          "publishedAt": "2026-08-04T16:10:24Z",
-          "name": "v9.4.3"
-        },
-        {
-          "id": "RE_kwDOBSXbR84VwVjM",
-          "owner": "elastic",
-          "repo": "go-elasticsearch",
-          "tag": "v9.3.6",
-          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.3.6",
-          "publishedAt": "2026-08-04T16:01:32Z",
-          "name": "v9.3.6"
-        },
-        {
-          "id": "RE_kwDOBSXbR84VwUR5",
-          "owner": "elastic",
-          "repo": "go-elasticsearch",
-          "tag": "v8.19.7",
-          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v8.19.7",
-          "publishedAt": "2026-08-04T15:52:15Z",
-          "name": "v8.19.7"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VwGbN",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.327.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.327.0",
-          "publishedAt": "2026-08-04T14:23:53Z",
-          "name": "v0.327.0"
-        },
-        {
-          "id": "RE_kwDOE7TOLM4VwEsy",
-          "owner": "evrone",
-          "repo": "go-clean-template",
-          "tag": "v1.17.2",
-          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.17.2",
-          "publishedAt": "2026-08-04T14:13:22Z",
-          "name": "v1.17.2"
-        },
-        {
-          "id": "RE_kwDOG8_Nmc4Vvkpo",
-          "owner": "denoland",
-          "repo": "deno_task_shell",
-          "tag": "0.33.3",
-          "url": "https://github.com/denoland/deno_task_shell/releases/tag/0.33.3",
-          "publishedAt": "2026-08-04T10:43:27Z",
-          "name": "0.33.3"
-        },
-        {
-          "id": "RE_kwDOII1H084Vvi_b",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.9",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.9",
-          "publishedAt": "2026-08-04T10:30:31Z",
-          "name": "v0.5.9"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VvF4t",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.5.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.5.0",
-          "publishedAt": "2026-08-04T06:49:26Z",
-          "name": "v30.5.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VvB69",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.325.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.325.0",
-          "publishedAt": "2026-08-04T06:08:22Z",
-          "name": "v0.325.0"
-        },
-        {
-          "id": "RE_kwDOAcjBfM4VvA7t",
-          "owner": "fluent",
-          "repo": "fluent-bit",
-          "tag": "v4.2.8",
-          "url": "https://github.com/fluent/fluent-bit/releases/tag/v4.2.8",
-          "publishedAt": "2026-08-04T05:56:56Z",
-          "name": "Fluent Bit 4.2.8"
-        },
-        {
-          "id": "RE_kwDOLLx-gc4Vu-wN",
-          "owner": "iamgio",
-          "repo": "quarkdown",
-          "tag": "v2.5.0",
-          "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.5.0",
-          "publishedAt": "2026-08-04T05:29:41Z",
-          "name": "v2.5.0"
-        },
-        {
-          "id": "RE_kwDOKMzyM84Vu632",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.20.1",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.20.1",
-          "publishedAt": "2026-08-04T04:33:46Z",
-          "name": "0.20.1"
-        },
-        {
-          "id": "RE_kwDODhPY784VuzJf",
-          "owner": "OpenMined",
-          "repo": "TenSEAL",
-          "tag": "v0.3.17",
-          "url": "https://github.com/OpenMined/TenSEAL/releases/tag/v0.3.17",
-          "publishedAt": "2026-08-04T02:33:50Z",
-          "name": "v0.3.17"
-        },
-        {
-          "id": "RE_kwDONrCobc4VutUd",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.3.3",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.3.3",
-          "publishedAt": "2026-08-04T01:00:41Z",
-          "name": "v2.3.3"
-        }
-      ],
       "2026-08-05": [
         {
           "id": "RE_kwDOGkmMps4Vzu0V",
@@ -1143,6 +988,42 @@
       ],
       "2026-08-11": [
         {
+          "id": "RE_kwDOH-jzvc4V_St6",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.118",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.118",
+          "publishedAt": "2026-08-11T23:49:33Z",
+          "name": "v8.4.118 - Add standalone LLM model interface (#25761)"
+        },
+        {
+          "id": "RE_kwDOII1H084V_PzR",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.20",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.20",
+          "publishedAt": "2026-08-11T23:06:41Z",
+          "name": "v0.5.20"
+        },
+        {
+          "id": "RE_kwDOIF_Mq84V_IQm",
+          "owner": "pointfreeco",
+          "repo": "swift-dependencies",
+          "tag": "1.15.0",
+          "url": "https://github.com/pointfreeco/swift-dependencies/releases/tag/1.15.0",
+          "publishedAt": "2026-08-11T21:38:41Z",
+          "name": "1.15.0"
+        },
+        {
+          "id": "RE_kwDOObWEYM4V_FzS",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.55.1",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.1",
+          "publishedAt": "2026-08-11T21:15:10Z",
+          "name": "Release v0.55.1"
+        },
+        {
           "id": "RE_kwDOIIPL1M4V_AqG",
           "owner": "webpro-nl",
           "repo": "knip",
@@ -1821,8 +1702,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084V13VP",
-        "lastPublishedAt": "2026-08-07T00:09:08Z",
+        "lastReleaseId": "RE_kwDOII1H084V_PzR",
+        "lastPublishedAt": "2026-08-11T23:06:41Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -1859,8 +1740,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4V2LqU",
-        "lastPublishedAt": "2026-08-07T04:44:19Z",
+        "lastReleaseId": "RE_kwDOObWEYM4V_FzS",
+        "lastPublishedAt": "2026-08-11T21:15:10Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -2666,8 +2547,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4V6Cid",
-        "lastPublishedAt": "2026-08-09T17:10:22Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4V_St6",
+        "lastPublishedAt": "2026-08-11T23:49:33Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2707,8 +2588,9 @@
         "lastPublishedAt": "2025-09-23T12:26:10Z"
       },
       "pointfreeco/swift-dependencies": {
-        "lastReleaseId": "RE_kwDOIF_Mq84UVIAu",
-        "lastPublishedAt": "2026-06-17T22:51:31Z"
+        "lastReleaseId": "RE_kwDOIF_Mq84V_IQm",
+        "lastPublishedAt": "2026-08-11T21:38:41Z",
+        "releaseHistoryCursor": null
       },
       "kalupas226/tca-workshop": {},
       "EnixCoda/Gitako": {
