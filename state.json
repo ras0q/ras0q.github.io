@@ -1107,6 +1107,51 @@
       ],
       "2026-08-12": [
         {
+          "id": "RE_kwDOM9WtiM4WA_aI",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.3.3",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.3",
+          "publishedAt": "2026-08-12T15:49:40Z",
+          "name": "v1.3.3"
+        },
+        {
+          "id": "RE_kwDOII1H084WAwvr",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.22",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.22",
+          "publishedAt": "2026-08-12T14:22:50Z",
+          "name": "v0.5.22"
+        },
+        {
+          "id": "RE_kwDON7Gnt84WAtzt",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.17.0",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.17.0",
+          "publishedAt": "2026-08-12T14:05:02Z",
+          "name": "slidev-addon-fancy-arrow@0.17.0"
+        },
+        {
+          "id": "RE_kwDOD6MHws4WApGK",
+          "owner": "obsidianmd",
+          "repo": "obsidian-releases",
+          "tag": "v1.13.7",
+          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.7",
+          "publishedAt": "2026-08-12T13:57:51Z",
+          "name": "1.13.7"
+        },
+        {
+          "id": "RE_kwDOII1H084WAm9-",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.21",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.21",
+          "publishedAt": "2026-08-12T13:24:40Z",
+          "name": "v0.5.21"
+        },
+        {
           "id": "RE_kwDOFJ5a6s4WAdT6",
           "owner": "Milkdown",
           "repo": "milkdown",
@@ -1749,8 +1794,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084V_PzR",
-        "lastPublishedAt": "2026-08-11T23:06:41Z",
+        "lastReleaseId": "RE_kwDOII1H084WAwvr",
+        "lastPublishedAt": "2026-08-12T14:22:50Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -1889,8 +1934,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4WALtC",
-        "lastPublishedAt": "2026-08-12T10:08:49Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4WA_aI",
+        "lastPublishedAt": "2026-08-12T15:49:40Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -1922,8 +1967,9 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84SjkOX",
-        "lastPublishedAt": "2026-04-20T17:17:29Z"
+        "lastReleaseId": "RE_kwDON7Gnt84WAtzt",
+        "lastPublishedAt": "2026-08-12T14:05:02Z",
+        "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
         "lastReleaseId": "RE_kwDOJcdu4c4IqOBO",
@@ -2516,8 +2562,8 @@
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastReleaseId": "RE_kwDOD6MHws4V7mcR",
-        "lastPublishedAt": "2026-08-10T15:56:15Z",
+        "lastReleaseId": "RE_kwDOD6MHws4WApGK",
+        "lastPublishedAt": "2026-08-12T13:57:51Z",
         "releaseHistoryCursor": null
       },
       "j0k3r/banditore": {
