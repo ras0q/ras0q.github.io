@@ -999,6 +999,15 @@
       ],
       "2026-08-13": [
         {
+          "id": "RE_kwDOII1H084WC9jf",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.24",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.24",
+          "publishedAt": "2026-08-13T11:48:10Z",
+          "name": "v0.5.24"
+        },
+        {
           "id": "RE_kwDOGNEXps4WCEzx",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1615,8 +1624,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084WBbAE",
-        "lastPublishedAt": "2026-08-12T19:15:12Z",
+        "lastReleaseId": "RE_kwDOII1H084WC9jf",
+        "lastPublishedAt": "2026-08-13T11:48:10Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
