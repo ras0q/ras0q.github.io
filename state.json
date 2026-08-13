@@ -2,269 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-05",
       "2026-08-06",
       "2026-08-07",
       "2026-08-08",
       "2026-08-09",
       "2026-08-10",
-      "2026-08-11"
+      "2026-08-11",
+      "2026-08-12"
     ],
     "days": {
-      "2026-08-05": [
-        {
-          "id": "RE_kwDOGkmMps4Vzu0V",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.21",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.21",
-          "publishedAt": "2026-08-05T23:26:11Z",
-          "name": "3.0.21"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4VzfrK",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.8.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.8.0",
-          "publishedAt": "2026-08-05T21:10:13Z",
-          "name": "v1.8.0 - More agents, sturdier archives"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4VzSgf",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.2",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.2",
-          "publishedAt": "2026-08-05T19:22:56Z",
-          "name": "0.12.2"
-        },
-        {
-          "id": "RE_kwDOII1H084Vy1I4",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.14",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.14",
-          "publishedAt": "2026-08-05T15:57:08Z",
-          "name": "v0.5.14"
-        },
-        {
-          "id": "RE_kwDOPDzQl84Vypo3",
-          "owner": "yoshiko-pg",
-          "repo": "difit",
-          "tag": "v5.0.9",
-          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.9",
-          "publishedAt": "2026-08-05T14:44:28Z",
-          "name": "v5.0.9"
-        },
-        {
-          "id": "RE_kwDOGkmMps4Vyixv",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.20",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.20",
-          "publishedAt": "2026-08-05T14:03:44Z",
-          "name": "3.0.20"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Vygzw",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.6.2",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.2",
-          "publishedAt": "2026-08-05T13:52:23Z",
-          "name": "v30.6.2"
-        },
-        {
-          "id": "RE_kwDOII1H084Vyfp9",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.13",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.13",
-          "publishedAt": "2026-08-05T13:45:35Z",
-          "name": "v0.5.13"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Vyewz",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.122.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.122.0",
-          "publishedAt": "2026-08-05T13:40:17Z",
-          "name": "v1.122.0"
-        },
-        {
-          "id": "RE_kwDOGkmMps4VycmA",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.19",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.19",
-          "publishedAt": "2026-08-05T13:27:00Z",
-          "name": "3.0.19"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VyYQo",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.333.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.333.0",
-          "publishedAt": "2026-08-05T12:59:45Z",
-          "name": "v0.333.0"
-        },
-        {
-          "id": "RE_kwDOII1H084VySyq",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.12",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.12",
-          "publishedAt": "2026-08-05T12:19:29Z",
-          "name": "v0.5.12"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4VyRPK",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.332.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.332.0",
-          "publishedAt": "2026-08-05T12:07:50Z",
-          "name": "v0.332.0"
-        },
-        {
-          "id": "RE_kwDOII1H084VyNiL",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.11",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.11",
-          "publishedAt": "2026-08-05T11:41:53Z",
-          "name": "v0.5.11"
-        },
-        {
-          "id": "RE_kwDOCd2s284VyJ85",
-          "owner": "emilk",
-          "repo": "egui",
-          "tag": "0.36.0",
-          "url": "https://github.com/emilk/egui/releases/tag/0.36.0",
-          "publishedAt": "2026-08-05T11:13:50Z",
-          "name": "0.36.0 - Improved mobile keyboard support"
-        },
-        {
-          "id": "RE_kwDOD6wJuM4VyHze",
-          "owner": "47ng",
-          "repo": "nuqs",
-          "tag": "v2.9.5",
-          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.5",
-          "publishedAt": "2026-08-05T11:10:44Z",
-          "name": "v2.9.5"
-        },
-        {
-          "id": "RE_kwDOGNEXps4VyICK",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.5",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.5",
-          "publishedAt": "2026-08-05T11:05:34Z",
-          "name": "1.0.5"
-        },
-        {
-          "id": "RE_kwDOJKcikM4VyDGD",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.41.7",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.7",
-          "publishedAt": "2026-08-05T10:18:34Z",
-          "name": "@astrojs/starlight@0.41.7"
-        },
-        {
-          "id": "RE_kwDOGkmMps4Vx9iB",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.18",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.18",
-          "publishedAt": "2026-08-05T09:36:13Z",
-          "name": "3.0.18"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Vx3SU",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.331.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.331.0",
-          "publishedAt": "2026-08-05T08:53:09Z",
-          "name": "v0.331.0"
-        },
-        {
-          "id": "RE_kwDOPf38cc4Vx10g",
-          "owner": "docker",
-          "repo": "github-builder",
-          "tag": "v1.16.0",
-          "url": "https://github.com/docker/github-builder/releases/tag/v1.16.0",
-          "publishedAt": "2026-08-05T08:41:26Z",
-          "name": "v1.16.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Vxri_",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.6.1",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.1",
-          "publishedAt": "2026-08-05T07:16:13Z",
-          "name": "v30.6.1"
-        },
-        {
-          "id": "RE_kwDOOELNJM4Vxldb",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v0.2.8",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.8",
-          "publishedAt": "2026-08-05T06:15:54Z",
-          "name": "vite-plus v0.2.8"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4VxkqA",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.6.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.0",
-          "publishedAt": "2026-08-05T06:07:46Z",
-          "name": "v30.6.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4Vxibv",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.4",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.4",
-          "publishedAt": "2026-08-05T05:51:38Z",
-          "name": "1.0.4"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Vxd-m",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.121.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.121.0",
-          "publishedAt": "2026-08-05T04:37:34Z",
-          "name": "v1.121.0"
-        },
-        {
-          "id": "RE_kwDOGkmMps4Vxd3Q",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.17",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.17",
-          "publishedAt": "2026-08-05T04:35:28Z",
-          "name": "3.0.17"
-        },
-        {
-          "id": "RE_kwDOIvux3s4VxSys",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.2",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.2",
-          "publishedAt": "2026-08-05T01:50:22Z",
-          "name": "v2026.8.2: Declarative System Bootstrap"
-        }
-      ],
       "2026-08-06": [
         {
           "id": "RE_kwDOII1H084V11uK",
@@ -1107,6 +853,42 @@
       ],
       "2026-08-12": [
         {
+          "id": "RE_kwDOAvORMc4WB4N-",
+          "owner": "xwmx",
+          "repo": "nb",
+          "tag": "7.25.5",
+          "url": "https://github.com/xwmx/nb/releases/tag/7.25.5",
+          "publishedAt": "2026-08-12T23:57:33Z",
+          "name": "7.25.5"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4WB1nC",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.3.4",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.4",
+          "publishedAt": "2026-08-12T23:19:52Z",
+          "name": "v1.3.4"
+        },
+        {
+          "id": "RE_kwDOElf8_c4WBqRL",
+          "owner": "Vinzent03",
+          "repo": "obsidian-git",
+          "tag": "2.39.0",
+          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.39.0",
+          "publishedAt": "2026-08-12T21:16:32Z",
+          "name": "2.39.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4WBpJA",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.6.5",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.5",
+          "publishedAt": "2026-08-12T21:05:59Z",
+          "name": "v30.6.5"
+        },
+        {
           "id": "RE_kwDOOt6mSM4WBhVJ",
           "owner": "charmbracelet",
           "repo": "crush",
@@ -1213,6 +995,26 @@
           "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.9",
           "publishedAt": "2026-08-12T03:04:02Z",
           "name": "vite-plus v0.2.9: add `vp toolchain` and `vp hooks`, and fix `vp run` inside Codex and Claude Code sandboxes"
+        }
+      ],
+      "2026-08-13": [
+        {
+          "id": "RE_kwDOGNEXps4WCEzx",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.13",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.13",
+          "publishedAt": "2026-08-13T03:44:23Z",
+          "name": "1.0.13"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4WB7Mb",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.3.5",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.5",
+          "publishedAt": "2026-08-13T00:40:53Z",
+          "name": "v1.3.5"
         }
       ]
     }
@@ -1509,8 +1311,9 @@
         "releaseHistoryCursor": null
       },
       "xwmx/nb": {
-        "lastReleaseId": "RE_kwDOAvORMc4SxPCV",
-        "lastPublishedAt": "2026-04-28T22:50:28Z"
+        "lastReleaseId": "RE_kwDOAvORMc4WB4N-",
+        "lastPublishedAt": "2026-08-12T23:57:33Z",
+        "releaseHistoryCursor": null
       },
       "labstack/echo": {
         "lastReleaseId": "RE_kwDOAeC4a84VTp5p",
@@ -1952,8 +1755,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4WA_aI",
-        "lastPublishedAt": "2026-08-12T15:49:40Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4WB7Mb",
+        "lastPublishedAt": "2026-08-13T00:40:53Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2601,8 +2404,9 @@
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
-        "lastReleaseId": "RE_kwDOElf8_c4U0TQh",
-        "lastPublishedAt": "2026-07-05T21:52:08Z"
+        "lastReleaseId": "RE_kwDOElf8_c4WBqRL",
+        "lastPublishedAt": "2026-08-12T21:16:32Z",
+        "releaseHistoryCursor": null
       },
       "ish-app/ish": {
         "lastReleaseId": "RE_kwDOBWIubs4GLncI",
@@ -2784,8 +2588,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4V9DMW",
-        "lastPublishedAt": "2026-08-11T04:23:22Z",
+        "lastReleaseId": "RE_kwDOGNEXps4WCEzx",
+        "lastPublishedAt": "2026-08-13T03:44:23Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3243,8 +3047,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4V447P",
-        "lastPublishedAt": "2026-08-08T15:30:38Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4WBpJA",
+        "lastPublishedAt": "2026-08-12T21:05:59Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
