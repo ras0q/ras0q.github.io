@@ -900,6 +900,24 @@
       ],
       "2026-08-14": [
         {
+          "id": "RE_kwDOKbIFZc4WGd5R",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.5",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.5",
+          "publishedAt": "2026-08-14T19:57:52Z",
+          "name": "0.12.5"
+        },
+        {
+          "id": "RE_kwDOAZfQX84WGTCX",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.36.3",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.3",
+          "publishedAt": "2026-08-14T18:22:49Z",
+          "name": "v0.36.3"
+        },
+        {
           "id": "RE_kwDOQ5Wxys4WGD6I",
           "owner": "github",
           "repo": "copilot-sdk",
@@ -2569,8 +2587,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4WERad",
-        "lastPublishedAt": "2026-08-13T21:16:08Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4WGd5R",
+        "lastPublishedAt": "2026-08-14T19:57:52Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3329,8 +3347,8 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84V3ch2",
-        "lastPublishedAt": "2026-08-07T15:54:11Z",
+        "lastReleaseId": "RE_kwDOAZfQX84WGTCX",
+        "lastPublishedAt": "2026-08-14T18:22:49Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
