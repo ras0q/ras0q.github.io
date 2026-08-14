@@ -900,6 +900,15 @@
       ],
       "2026-08-14": [
         {
+          "id": "RE_kwDONAbKCM4WFlQj",
+          "owner": "EmmyLuaLs",
+          "repo": "emmylua-analyzer-rust",
+          "tag": "0.25.1",
+          "url": "https://github.com/EmmyLuaLs/emmylua-analyzer-rust/releases/tag/0.25.1",
+          "publishedAt": "2026-08-14T12:33:31Z",
+          "name": "emmylua_ls"
+        },
+        {
           "id": "RE_kwDOHm9BJM4WEyHy",
           "owner": "pocketbase",
           "repo": "pocketbase",
@@ -1244,8 +1253,8 @@
       },
       "kyoh86/vim-jsonl": {},
       "EmmyLuaLs/emmylua-analyzer-rust": {
-        "lastReleaseId": "RE_kwDONAbKCM4V3CX2",
-        "lastPublishedAt": "2026-08-07T12:58:22Z",
+        "lastReleaseId": "RE_kwDONAbKCM4WFlQj",
+        "lastPublishedAt": "2026-08-14T12:33:31Z",
         "releaseHistoryCursor": null
       },
       "ascorbic/cirrus": {
@@ -3376,6 +3385,11 @@
       "actions/attest": {
         "lastReleaseId": "RE_kwDOLVdghc4Vw5NY",
         "lastPublishedAt": "2026-08-04T20:36:29Z",
+        "releaseHistoryCursor": null
+      },
+      "eugenioenko/ttt": {
+        "lastPublishedAt": "2026-08-13T21:26:34Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4WESrH",
         "releaseHistoryCursor": null
       }
     }
