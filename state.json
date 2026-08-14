@@ -900,6 +900,24 @@
       ],
       "2026-08-14": [
         {
+          "id": "RE_kwDOQ5Wxys4WGD6I",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.11",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.11",
+          "publishedAt": "2026-08-14T16:14:52Z",
+          "name": "v1.0.11"
+        },
+        {
+          "id": "RE_kwDOGNEXps4WFlra",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.14",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.14",
+          "publishedAt": "2026-08-14T12:55:54Z",
+          "name": "1.0.14"
+        },
+        {
           "id": "RE_kwDONAbKCM4WFlQj",
           "owner": "EmmyLuaLs",
           "repo": "emmylua-analyzer-rust",
@@ -1486,8 +1504,8 @@
         "lastPublishedAt": "2026-05-12T03:32:03Z"
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4Vz09G",
-        "lastPublishedAt": "2026-08-06T00:46:46Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4WGD6I",
+        "lastPublishedAt": "2026-08-14T16:14:52Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2780,8 +2798,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4WCEzx",
-        "lastPublishedAt": "2026-08-13T03:44:23Z",
+        "lastReleaseId": "RE_kwDOGNEXps4WFlra",
+        "lastPublishedAt": "2026-08-14T12:55:54Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3388,8 +3406,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastPublishedAt": "2026-08-13T21:26:34Z",
         "lastReleaseId": "RE_kwDOQ63fjM4WESrH",
+        "lastPublishedAt": "2026-08-13T21:26:34Z",
         "releaseHistoryCursor": null
       }
     }
