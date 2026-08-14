@@ -900,6 +900,33 @@
       ],
       "2026-08-14": [
         {
+          "id": "RE_kwDOHm9BJM4WEyHy",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.39.11",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.39.11",
+          "publishedAt": "2026-08-14T04:28:29Z",
+          "name": "v0.39.11 Release"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4WEx36",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.22.52",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.52",
+          "publishedAt": "2026-08-14T04:27:22Z",
+          "name": "v0.22.52 Release"
+        },
+        {
+          "id": "RE_kwDOQu84n84WElkM",
+          "owner": "k1LoW",
+          "repo": "git-wt",
+          "tag": "v0.29.1",
+          "url": "https://github.com/k1LoW/git-wt/releases/tag/v0.29.1",
+          "publishedAt": "2026-08-14T01:44:04Z",
+          "name": "v0.29.1"
+        },
+        {
           "id": "RE_kwDOElPqBM4WEiXK",
           "owner": "remix-run",
           "repo": "remix",
@@ -1371,8 +1398,9 @@
         "lastPublishedAt": "2026-07-14T10:28:03Z"
       },
       "k1LoW/git-wt": {
-        "lastReleaseId": "RE_kwDOQu84n84T6t7-",
-        "lastPublishedAt": "2026-06-04T06:45:24Z"
+        "lastReleaseId": "RE_kwDOQu84n84WElkM",
+        "lastPublishedAt": "2026-08-14T01:44:04Z",
+        "releaseHistoryCursor": null
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
@@ -3106,8 +3134,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4VloYk",
-        "lastPublishedAt": "2026-07-30T04:19:15Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4WEyHy",
+        "lastPublishedAt": "2026-08-14T04:28:29Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
