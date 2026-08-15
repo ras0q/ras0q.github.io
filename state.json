@@ -1005,6 +1005,26 @@
           "publishedAt": "2026-08-14T00:52:26Z",
           "name": "ui-hmr v0.1.0"
         }
+      ],
+      "2026-08-15": [
+        {
+          "id": "RE_kwDOAZfQX84WHM_6",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.36.4",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.4",
+          "publishedAt": "2026-08-15T07:24:35Z",
+          "name": "v0.36.4"
+        },
+        {
+          "id": "RE_kwDODLQBlc4WHIOM",
+          "owner": "go-rel",
+          "repo": "rel",
+          "tag": "v0.43.0",
+          "url": "https://github.com/go-rel/rel/releases/tag/v0.43.0",
+          "publishedAt": "2026-08-15T05:28:42Z",
+          "name": "v0.43.0"
+        }
       ]
     }
   },
@@ -2830,8 +2850,9 @@
       },
       "marp-team/marp": {},
       "go-rel/rel": {
-        "lastReleaseId": "RE_kwDODLQBlc4Inif6",
-        "lastPublishedAt": "2024-03-04T06:16:21Z"
+        "lastReleaseId": "RE_kwDODLQBlc4WHIOM",
+        "lastPublishedAt": "2026-08-15T05:28:42Z",
+        "releaseHistoryCursor": null
       },
       "TokamakUI/Tokamak": {
         "lastReleaseId": "RE_kwDOCOCTVc4FB9HZ",
@@ -3111,8 +3132,8 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84WGTCX",
-        "lastPublishedAt": "2026-08-14T18:22:49Z",
+        "lastReleaseId": "RE_kwDOAZfQX84WHM_6",
+        "lastPublishedAt": "2026-08-15T07:24:35Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
