@@ -2,260 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-07",
       "2026-08-08",
       "2026-08-09",
       "2026-08-10",
       "2026-08-11",
       "2026-08-12",
-      "2026-08-13"
+      "2026-08-13",
+      "2026-08-14"
     ],
     "days": {
-      "2026-08-07": [
-        {
-          "id": "RE_kwDOIvux3s4V4JTb",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.3",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.3",
-          "publishedAt": "2026-08-07T22:39:57Z",
-          "name": "v2026.8.3: Flatpak, Font Casks, and Task Precedence Fixes"
-        },
-        {
-          "id": "RE_kwDOCawmHs4V4BFl",
-          "owner": "Wilfred",
-          "repo": "difftastic",
-          "tag": "0.70.0",
-          "url": "https://github.com/Wilfred/difftastic/releases/tag/0.70.0",
-          "publishedAt": "2026-08-07T22:06:18Z",
-          "name": "0.70.0"
-        },
-        {
-          "id": "RE_kwDOB21G7c4V4FXY",
-          "owner": "cel-expr",
-          "repo": "cel-go",
-          "tag": "v0.31.0",
-          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.31.0",
-          "publishedAt": "2026-08-07T21:46:36Z",
-          "name": "Release v0.31.0"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4V3mTI",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.88.1",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.88.1",
-          "publishedAt": "2026-08-07T17:05:42Z",
-          "name": "v0.88.1"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4V3iN5",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.3",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.3",
-          "publishedAt": "2026-08-07T16:34:42Z",
-          "name": "0.12.3"
-        },
-        {
-          "id": "RE_kwDOAZfQX84V3ch2",
-          "owner": "go-swagger",
-          "repo": "go-swagger",
-          "tag": "v0.36.2",
-          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.2",
-          "publishedAt": "2026-08-07T15:54:11Z",
-          "name": "v0.36.2"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V3HjD",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.345.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.345.0",
-          "publishedAt": "2026-08-07T13:34:59Z",
-          "name": "v0.345.0"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4V3HJC",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.2",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.2",
-          "publishedAt": "2026-08-07T13:31:55Z",
-          "name": "0.16.2"
-        },
-        {
-          "id": "RE_kwDOCd2s284V3GAx",
-          "owner": "emilk",
-          "repo": "egui",
-          "tag": "0.36.1",
-          "url": "https://github.com/emilk/egui/releases/tag/0.36.1",
-          "publishedAt": "2026-08-07T13:24:07Z",
-          "name": "0.36.1 - `Sense::drag()` bugfix"
-        },
-        {
-          "id": "RE_kwDONAbKCM4V3CX2",
-          "owner": "EmmyLuaLs",
-          "repo": "emmylua-analyzer-rust",
-          "tag": "0.25.0",
-          "url": "https://github.com/EmmyLuaLs/emmylua-analyzer-rust/releases/tag/0.25.0",
-          "publishedAt": "2026-08-07T12:58:22Z",
-          "name": "emmylua_ls"
-        },
-        {
-          "id": "RE_kwDOJE7Z-84V29gT",
-          "owner": "Zxilly",
-          "repo": "go-size-analyzer",
-          "tag": "v1.13.1",
-          "url": "https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.13.1",
-          "publishedAt": "2026-08-07T12:19:48Z",
-          "name": "v1.13.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V22G0",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.343.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.343.0",
-          "publishedAt": "2026-08-07T11:19:00Z",
-          "name": "v0.343.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4V2xA1",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.116",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.116",
-          "publishedAt": "2026-08-07T10:34:42Z",
-          "name": "v8.4.116 - Raise minimum `opencv-python` to 4.7.0 (#25702)"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V2t3Q",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.342.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.342.0",
-          "publishedAt": "2026-08-07T10:07:40Z",
-          "name": "v0.342.0"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84V2jq-",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.12.0",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.0",
-          "publishedAt": "2026-08-07T08:51:44Z",
-          "name": "4.12.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V2arK",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.341.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.341.0",
-          "publishedAt": "2026-08-07T07:33:34Z",
-          "name": "v0.341.0"
-        },
-        {
-          "id": "RE_kwDOGkmMps4V2WkT",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.27",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.27",
-          "publishedAt": "2026-08-07T06:55:26Z",
-          "name": "3.0.27"
-        },
-        {
-          "id": "RE_kwDOGkmMps4V2WUq",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.26",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.26",
-          "publishedAt": "2026-08-07T06:53:06Z",
-          "name": "3.0.26"
-        },
-        {
-          "id": "RE_kwDOOzc9Ss4V2LPB",
-          "owner": "apple",
-          "repo": "container",
-          "tag": "1.2.1",
-          "url": "https://github.com/apple/container/releases/tag/1.2.1",
-          "publishedAt": "2026-08-07T06:32:20Z",
-          "name": "1.2.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4V2RJJ",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.6.3",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.3",
-          "publishedAt": "2026-08-07T05:55:35Z",
-          "name": "v30.6.3"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V2QX5",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.340.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.340.0",
-          "publishedAt": "2026-08-07T05:46:40Z",
-          "name": "v0.340.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V2MCv",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.339.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.339.0",
-          "publishedAt": "2026-08-07T04:49:51Z",
-          "name": "v0.339.0"
-        },
-        {
-          "id": "RE_kwDOObWEYM4V2LqU",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.54.4",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.54.4",
-          "publishedAt": "2026-08-07T04:44:19Z",
-          "name": "Release v0.54.4"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V18Qo",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.338.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.338.0",
-          "publishedAt": "2026-08-07T01:08:46Z",
-          "name": "v0.338.0"
-        },
-        {
-          "id": "RE_kwDOMRmaUs4V16Na",
-          "owner": "amnweb",
-          "repo": "yasb",
-          "tag": "v2.0.6",
-          "url": "https://github.com/amnweb/yasb/releases/tag/v2.0.6",
-          "publishedAt": "2026-08-07T00:44:27Z",
-          "name": "v2.0.6"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4V14TT",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.337.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.337.0",
-          "publishedAt": "2026-08-07T00:21:44Z",
-          "name": "v0.337.0"
-        },
-        {
-          "id": "RE_kwDOII1H084V13VP",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.19",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.19",
-          "publishedAt": "2026-08-07T00:09:08Z",
-          "name": "v0.5.19"
-        }
-      ],
       "2026-08-08": [
         {
           "id": "RE_kwDOCnR4Zc4V447P",
@@ -899,6 +654,15 @@
         }
       ],
       "2026-08-14": [
+        {
+          "id": "RE_kwDOIvux3s4WGsxW",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.6",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.6",
+          "publishedAt": "2026-08-14T22:33:07Z",
+          "name": "v2026.8.6: Resumable downloads, richer Homebrew casks, and monorepo task fixes"
+        },
         {
           "id": "RE_kwDOKbIFZc4WGd5R",
           "owner": "astral-sh",
@@ -2265,8 +2029,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WAad1",
-        "lastPublishedAt": "2026-08-12T12:01:21Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WGsxW",
+        "lastPublishedAt": "2026-08-14T22:33:07Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
