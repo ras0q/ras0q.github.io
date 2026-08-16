@@ -2,80 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-08",
       "2026-08-09",
       "2026-08-10",
       "2026-08-11",
       "2026-08-12",
       "2026-08-13",
-      "2026-08-14"
+      "2026-08-14",
+      "2026-08-15"
     ],
     "days": {
-      "2026-08-08": [
-        {
-          "id": "RE_kwDOCnR4Zc4V447P",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.6.4",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.4",
-          "publishedAt": "2026-08-08T15:30:38Z",
-          "name": "v30.6.4"
-        },
-        {
-          "id": "RE_kwDOPDzQl84V4yv1",
-          "owner": "yoshiko-pg",
-          "repo": "difit",
-          "tag": "v5.0.10",
-          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.10",
-          "publishedAt": "2026-08-08T13:32:48Z",
-          "name": "v5.0.10"
-        },
-        {
-          "id": "RE_kwDOGNEXps4V4yUw",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.9",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.9",
-          "publishedAt": "2026-08-08T13:29:42Z",
-          "name": "1.0.9"
-        },
-        {
-          "id": "RE_kwDOGkmMps4V4a3X",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.28",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.28",
-          "publishedAt": "2026-08-08T04:44:59Z",
-          "name": "3.0.28"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84V4WsV",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.12.1",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.1",
-          "publishedAt": "2026-08-08T03:14:35Z",
-          "name": "4.12.1"
-        },
-        {
-          "id": "RE_kwDOGNEXps4V4WjW",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.7",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.7",
-          "publishedAt": "2026-08-08T03:13:53Z",
-          "name": "1.0.7"
-        },
-        {
-          "id": "RE_kwDOOzc9Ss4V4SPt",
-          "owner": "apple",
-          "repo": "container",
-          "tag": "1.2.2",
-          "url": "https://github.com/apple/container/releases/tag/1.2.2",
-          "publishedAt": "2026-08-08T01:33:50Z",
-          "name": "1.2.2"
-        }
-      ],
       "2026-08-09": [
         {
           "id": "RE_kwDOOr4uZ84V6Rj-",
@@ -1008,6 +943,15 @@
       ],
       "2026-08-15": [
         {
+          "id": "RE_kwDOII1H084WH07M",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.25",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.25",
+          "publishedAt": "2026-08-15T20:29:51Z",
+          "name": "v0.5.25"
+        },
+        {
           "id": "RE_kwDOGNEXps4WHjxo",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1635,8 +1579,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084WC9jf",
-        "lastPublishedAt": "2026-08-13T11:48:10Z",
+        "lastReleaseId": "RE_kwDOII1H084WH07M",
+        "lastPublishedAt": "2026-08-15T20:29:51Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
