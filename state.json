@@ -981,6 +981,15 @@
       ],
       "2026-08-16": [
         {
+          "id": "RE_kwDOB675s84WITcC",
+          "owner": "iamkun",
+          "repo": "dayjs",
+          "tag": "v1.11.22",
+          "url": "https://github.com/iamkun/dayjs/releases/tag/v1.11.22",
+          "publishedAt": "2026-08-16T08:46:44Z",
+          "name": "v1.11.22"
+        },
+        {
           "id": "RE_kwDOEd6VoM4WIJjD",
           "owner": "traPtitech",
           "repo": "NeoShowcase",
@@ -2549,8 +2558,9 @@
       "logica0419/remote-bmi": {},
       "romannurik/SlidesCodeHighlighter": {},
       "iamkun/dayjs": {
-        "lastReleaseId": "RE_kwDOB675s84Tnz8N",
-        "lastPublishedAt": "2026-05-26T05:46:13Z"
+        "lastReleaseId": "RE_kwDOB675s84WITcC",
+        "lastPublishedAt": "2026-08-16T08:46:44Z",
+        "releaseHistoryCursor": null
       },
       "renemarc/dotfiles": {},
       "wezterm/wezterm": {
