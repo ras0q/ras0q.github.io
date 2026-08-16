@@ -978,6 +978,26 @@
           "publishedAt": "2026-08-15T05:28:42Z",
           "name": "v0.43.0"
         }
+      ],
+      "2026-08-16": [
+        {
+          "id": "RE_kwDOEd6VoM4WIJjD",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.27",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.27",
+          "publishedAt": "2026-08-16T04:57:14Z",
+          "name": "v1.10.27"
+        },
+        {
+          "id": "RE_kwDOAcjBfM4WII8-",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v5.1.1",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.1",
+          "publishedAt": "2026-08-16T04:40:56Z",
+          "name": "Fluent Bit 5.1.1"
+        }
       ]
     }
   },
@@ -2657,8 +2677,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4V5kB5",
-        "lastPublishedAt": "2026-08-09T07:22:37Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4WIJjD",
+        "lastPublishedAt": "2026-08-16T04:57:14Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
@@ -2950,8 +2970,8 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4Vz80k",
-        "lastPublishedAt": "2026-08-06T02:29:07Z",
+        "lastReleaseId": "RE_kwDOAcjBfM4WII8-",
+        "lastPublishedAt": "2026-08-16T04:40:56Z",
         "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
