@@ -981,6 +981,33 @@
       ],
       "2026-08-16": [
         {
+          "id": "RE_kwDOH1-qgs4WI1Ds",
+          "owner": "jetify-com",
+          "repo": "devbox",
+          "tag": "0.18.0",
+          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.0",
+          "publishedAt": "2026-08-16T19:43:10Z",
+          "name": "0.18.0 — Remove Jetify Cloud features"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4WIzcA",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.10",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.10",
+          "publishedAt": "2026-08-16T18:55:51Z",
+          "name": "v0.2.10"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4WIzSX",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.6",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.6",
+          "publishedAt": "2026-08-16T18:53:04Z",
+          "name": "cli-v0.1.6"
+        },
+        {
           "id": "RE_kwDOB675s84WITcC",
           "owner": "iamkun",
           "repo": "dayjs",
@@ -2085,8 +2112,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4V6FyZ",
-        "lastPublishedAt": "2026-08-09T18:13:36Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4WIzcA",
+        "lastPublishedAt": "2026-08-16T18:55:51Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2811,8 +2838,8 @@
         "releaseHistoryCursor": null
       },
       "jetify-com/devbox": {
-        "lastReleaseId": "RE_kwDOH1-qgs4UfTQw",
-        "lastPublishedAt": "2026-06-23T20:35:44Z",
+        "lastReleaseId": "RE_kwDOH1-qgs4WI1Ds",
+        "lastPublishedAt": "2026-08-16T19:43:10Z",
         "releaseHistoryCursor": null
       },
       "fedibird/mastodon": {},
