@@ -933,6 +933,17 @@
           "publishedAt": "2026-08-16T04:40:56Z",
           "name": "Fluent Bit 5.1.1"
         }
+      ],
+      "2026-08-17": [
+        {
+          "id": "RE_kwDON7Gnt84WJIfE",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.18.0",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.18.0",
+          "publishedAt": "2026-08-17T02:08:56Z",
+          "name": "slidev-addon-fancy-arrow@0.18.0"
+        }
       ]
     }
   },
@@ -1709,8 +1720,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84WAtzt",
-        "lastPublishedAt": "2026-08-12T14:05:02Z",
+        "lastReleaseId": "RE_kwDON7Gnt84WJIfE",
+        "lastPublishedAt": "2026-08-17T02:08:56Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
