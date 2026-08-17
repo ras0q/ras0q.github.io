@@ -936,6 +936,15 @@
       ],
       "2026-08-17": [
         {
+          "id": "RE_kwDOD6wJuM4WJWMi",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.9.6",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.9.6",
+          "publishedAt": "2026-08-17T06:08:32Z",
+          "name": "v2.9.6"
+        },
+        {
           "id": "RE_kwDON7Gnt84WJIfE",
           "owner": "whitphx",
           "repo": "slidev-addon-fancy-arrow",
@@ -1964,8 +1973,8 @@
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4VyHze",
-        "lastPublishedAt": "2026-08-05T11:10:44Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4WJWMi",
+        "lastPublishedAt": "2026-08-17T06:08:32Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
