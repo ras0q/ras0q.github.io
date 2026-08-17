@@ -936,6 +936,33 @@
       ],
       "2026-08-17": [
         {
+          "id": "RE_kwDOB675s84WJ_WJ",
+          "owner": "iamkun",
+          "repo": "dayjs",
+          "tag": "v1.11.23",
+          "url": "https://github.com/iamkun/dayjs/releases/tag/v1.11.23",
+          "publishedAt": "2026-08-17T11:50:26Z",
+          "name": "v1.11.23"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4WJ0Or",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.125.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.125.0",
+          "publishedAt": "2026-08-17T10:17:24Z",
+          "name": "v1.125.0"
+        },
+        {
+          "id": "RE_kwDOJEKgss4WJxfS",
+          "owner": "DataDog",
+          "repo": "orchestrion",
+          "tag": "v1.12.1",
+          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.12.1",
+          "publishedAt": "2026-08-17T09:54:33Z",
+          "name": "v1.12.1"
+        },
+        {
           "id": "RE_kwDOD6wJuM4WJWMi",
           "owner": "47ng",
           "repo": "nuqs",
@@ -1390,8 +1417,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4V8bKm",
-        "lastPublishedAt": "2026-08-10T19:51:36Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4WJ0Or",
+        "lastPublishedAt": "2026-08-17T10:17:24Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2435,8 +2462,8 @@
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
       "DataDog/orchestrion": {
-        "lastReleaseId": "RE_kwDOJEKgss4VmO7X",
-        "lastPublishedAt": "2026-07-30T10:18:50Z",
+        "lastReleaseId": "RE_kwDOJEKgss4WJxfS",
+        "lastPublishedAt": "2026-08-17T09:54:33Z",
         "releaseHistoryCursor": null
       },
       "spotify/voyager": {
@@ -2505,8 +2532,8 @@
       "logica0419/remote-bmi": {},
       "romannurik/SlidesCodeHighlighter": {},
       "iamkun/dayjs": {
-        "lastReleaseId": "RE_kwDOB675s84WITcC",
-        "lastPublishedAt": "2026-08-16T08:46:44Z",
+        "lastReleaseId": "RE_kwDOB675s84WJ_WJ",
+        "lastPublishedAt": "2026-08-17T11:50:26Z",
         "releaseHistoryCursor": null
       },
       "renemarc/dotfiles": {},
