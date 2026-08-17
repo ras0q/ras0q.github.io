@@ -2,134 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-09",
       "2026-08-10",
       "2026-08-11",
       "2026-08-12",
       "2026-08-13",
       "2026-08-14",
-      "2026-08-15"
+      "2026-08-15",
+      "2026-08-16"
     ],
     "days": {
-      "2026-08-09": [
-        {
-          "id": "RE_kwDOOr4uZ84V6Rj-",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.12.3",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.3",
-          "publishedAt": "2026-08-09T22:10:13Z",
-          "name": "4.12.3"
-        },
-        {
-          "id": "RE_kwDOCciW1M4V6OEr",
-          "owner": "files-community",
-          "repo": "Files",
-          "tag": "v4.2.3",
-          "url": "https://github.com/files-community/Files/releases/tag/v4.2.3",
-          "publishedAt": "2026-08-09T20:57:58Z",
-          "name": "v4.2.3"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4V6FyZ",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.5",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.5",
-          "publishedAt": "2026-08-09T18:13:36Z",
-          "name": "cli-v0.1.5"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4V6Cid",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.117",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.117",
-          "publishedAt": "2026-08-09T17:10:22Z",
-          "name": "v8.4.117 - Route spatial Albumentations by type and carry masks, polygons and keypoints through it (#25633)"
-        },
-        {
-          "id": "RE_kwDOGNEXps4V57uO",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.11",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.11",
-          "publishedAt": "2026-08-09T15:32:45Z",
-          "name": "1.0.11"
-        },
-        {
-          "id": "RE_kwDOHJPY_c4V58-F",
-          "owner": "subframe7536",
-          "repo": "maple-font",
-          "tag": "cjk-base",
-          "url": "https://github.com/subframe7536/maple-font/releases/tag/cjk-base",
-          "publishedAt": "2026-08-09T15:26:22Z",
-          "name": "CJK Base Fonts"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4V57ai",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.8",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.8",
-          "publishedAt": "2026-08-09T14:57:41Z",
-          "name": "v1.2.8"
-        },
-        {
-          "id": "RE_kwDOJF91uM4V53Na",
-          "owner": "wakatime",
-          "repo": "macos-wakatime",
-          "tag": "v5.28.5",
-          "url": "https://github.com/wakatime/macos-wakatime/releases/tag/v5.28.5",
-          "publishedAt": "2026-08-09T13:45:20Z",
-          "name": "v5.28.5"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4V5kB5",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.26",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.26",
-          "publishedAt": "2026-08-09T07:22:37Z",
-          "name": "v1.10.26"
-        },
-        {
-          "id": "RE_kwDOPDzQl84V5hMu",
-          "owner": "yoshiko-pg",
-          "repo": "difit",
-          "tag": "v5.0.11",
-          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.11",
-          "publishedAt": "2026-08-09T06:45:41Z",
-          "name": "v5.0.11"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84V5elO",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.12.2",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.2",
-          "publishedAt": "2026-08-09T05:44:04Z",
-          "name": "4.12.2"
-        },
-        {
-          "id": "RE_kwDOGNEXps4V5Y5K",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.10",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.10",
-          "publishedAt": "2026-08-09T04:09:23Z",
-          "name": "1.0.10"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4V5WyV",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.9.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.9.0",
-          "publishedAt": "2026-08-09T02:17:39Z",
-          "name": "v1.9.0"
-        }
-      ],
       "2026-08-10": [
         {
           "id": "RE_kwDOD81yrs4V8pEL",
@@ -981,6 +862,24 @@
       ],
       "2026-08-16": [
         {
+          "id": "RE_kwDOQk1Y9c4WI-PL",
+          "owner": "tobi",
+          "repo": "qmd",
+          "tag": "v2.8.3",
+          "url": "https://github.com/tobi/qmd/releases/tag/v2.8.3",
+          "publishedAt": "2026-08-16T22:30:34Z",
+          "name": "v2.8.3"
+        },
+        {
+          "id": "RE_kwDOCciW1M4WI5fN",
+          "owner": "files-community",
+          "repo": "Files",
+          "tag": "v4.2.7",
+          "url": "https://github.com/files-community/Files/releases/tag/v4.2.7",
+          "publishedAt": "2026-08-16T20:49:01Z",
+          "name": "v4.2.7"
+        },
+        {
           "id": "RE_kwDOH1-qgs4WI1Ds",
           "owner": "jetify-com",
           "repo": "devbox",
@@ -1321,8 +1220,9 @@
       },
       "KentBeck/kent-beck-prompt-experiment": {},
       "tobi/qmd": {
-        "lastReleaseId": "RE_kwDOQk1Y9c4TvqSM",
-        "lastPublishedAt": "2026-05-29T03:24:20Z"
+        "lastReleaseId": "RE_kwDOQk1Y9c4WI-PL",
+        "lastPublishedAt": "2026-08-16T22:30:34Z",
+        "releaseHistoryCursor": null
       },
       "trasta298/keifu": {
         "lastReleaseId": "RE_kwDOQr_i4M4VmmTF",
@@ -1888,8 +1788,8 @@
         "lastPublishedAt": "2024-12-05T18:51:33Z"
       },
       "files-community/Files": {
-        "lastReleaseId": "RE_kwDOCciW1M4V6OEr",
-        "lastPublishedAt": "2026-08-09T20:57:58Z",
+        "lastReleaseId": "RE_kwDOCciW1M4WI5fN",
+        "lastPublishedAt": "2026-08-16T20:49:01Z",
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
