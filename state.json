@@ -936,6 +936,33 @@
       ],
       "2026-08-17": [
         {
+          "id": "RE_kwDORKDUAs4WKTsS",
+          "owner": "alberti42",
+          "repo": "zsh-appearance-control",
+          "tag": "v2.1.0",
+          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.1.0",
+          "publishedAt": "2026-08-17T15:19:14Z",
+          "name": "v2.1.0"
+        },
+        {
+          "id": "RE_kwDORKDUAs4WKRxB",
+          "owner": "alberti42",
+          "repo": "zsh-appearance-control",
+          "tag": "v2.0.0",
+          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.0.0",
+          "publishedAt": "2026-08-17T14:56:56Z",
+          "name": "v2.0.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WKLsZ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.121",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.121",
+          "publishedAt": "2026-08-17T13:15:15Z",
+          "name": "v8.4.121 - Fix OpenVINO INT8 detection head scope (#25841)"
+        },
+        {
           "id": "RE_kwDOB675s84WJ_WJ",
           "owner": "iamkun",
           "repo": "dayjs",
@@ -1238,8 +1265,9 @@
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
-        "lastReleaseId": "RE_kwDORKDUAs4R4Ib8",
-        "lastPublishedAt": "2026-03-22T16:56:34Z"
+        "lastReleaseId": "RE_kwDORKDUAs4WKTsS",
+        "lastPublishedAt": "2026-08-17T15:19:14Z",
+        "releaseHistoryCursor": null
       },
       "DaltonSW/prism": {
         "lastReleaseId": "RE_kwDOP1p5Vs4U7w5b",
@@ -2430,8 +2458,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WEZNW",
-        "lastPublishedAt": "2026-08-13T22:38:09Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WKLsZ",
+        "lastPublishedAt": "2026-08-17T13:15:15Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
