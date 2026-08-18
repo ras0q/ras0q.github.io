@@ -990,6 +990,15 @@
       ],
       "2026-08-18": [
         {
+          "id": "RE_kwDORRnees4WL-YI",
+          "owner": "kavinsood",
+          "repo": "yaos",
+          "tag": "2.0.0",
+          "url": "https://github.com/kavinsood/yaos/releases/tag/2.0.0",
+          "publishedAt": "2026-08-18T09:43:28Z",
+          "name": "2.0.0 🎉"
+        },
+        {
           "id": "RE_kwDOLNZwwc4WLvGd",
           "owner": "e18e",
           "repo": "module-replacements",
@@ -1119,8 +1128,9 @@
         "lastPublishedAt": "2026-07-12T12:54:15Z"
       },
       "kavinsood/yaos": {
-        "lastReleaseId": "RE_kwDORRnees4SeeSy",
-        "lastPublishedAt": "2026-04-16T17:49:23Z"
+        "lastReleaseId": "RE_kwDORRnees4WL-YI",
+        "lastPublishedAt": "2026-08-18T09:43:28Z",
+        "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
         "lastReleaseId": "RE_kwDORsUayc4SjaeD",
