@@ -990,6 +990,24 @@
       ],
       "2026-08-18": [
         {
+          "id": "RE_kwDORRnees4WNUux",
+          "owner": "kavinsood",
+          "repo": "yaos",
+          "tag": "2.1.0",
+          "url": "https://github.com/kavinsood/yaos/releases/tag/2.1.0",
+          "publishedAt": "2026-08-18T19:28:19Z",
+          "name": "2.1.0"
+        },
+        {
+          "id": "RE_kwDOQ52_2c4WNMP3",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.20.0",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.20.0",
+          "publishedAt": "2026-08-18T18:23:29Z",
+          "name": "v0.20.0"
+        },
+        {
           "id": "RE_kwDOG-K8R84WMlOQ",
           "owner": "windingwind",
           "repo": "zotero-pdf-translate",
@@ -1146,8 +1164,8 @@
         "lastPublishedAt": "2026-07-12T12:54:15Z"
       },
       "kavinsood/yaos": {
-        "lastReleaseId": "RE_kwDORRnees4WL-YI",
-        "lastPublishedAt": "2026-08-18T09:43:28Z",
+        "lastReleaseId": "RE_kwDORRnees4WNUux",
+        "lastPublishedAt": "2026-08-18T19:28:19Z",
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
@@ -1304,8 +1322,9 @@
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastReleaseId": "RE_kwDOQ52_2c4TILd7",
-        "lastPublishedAt": "2026-05-12T03:32:03Z"
+        "lastReleaseId": "RE_kwDOQ52_2c4WNMP3",
+        "lastPublishedAt": "2026-08-18T18:23:29Z",
+        "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
         "lastReleaseId": "RE_kwDOQ5Wxys4WGD6I",
