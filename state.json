@@ -990,6 +990,24 @@
       ],
       "2026-08-18": [
         {
+          "id": "RE_kwDOG-K8R84WMlOQ",
+          "owner": "windingwind",
+          "repo": "zotero-pdf-translate",
+          "tag": "v2.4.7",
+          "url": "https://github.com/windingwind/zotero-pdf-translate/releases/tag/v2.4.7",
+          "publishedAt": "2026-08-18T14:07:07Z",
+          "name": "Release v2.4.7"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4WMazf",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.56.0",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.56.0",
+          "publishedAt": "2026-08-18T13:11:58Z",
+          "name": "0.56.0"
+        },
+        {
           "id": "RE_kwDORRnees4WL-YI",
           "owner": "kavinsood",
           "repo": "yaos",
@@ -2101,8 +2119,9 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4VGbZx",
-        "lastPublishedAt": "2026-07-14T19:11:11Z"
+        "lastReleaseId": "RE_kwDOC3PEAc4WMazf",
+        "lastPublishedAt": "2026-08-18T13:11:58Z",
+        "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
         "lastReleaseId": "RE_kwDOLTetx84VQwFw",
@@ -2334,8 +2353,8 @@
         "lastPublishedAt": "2026-02-01T23:34:22Z"
       },
       "windingwind/zotero-pdf-translate": {
-        "lastReleaseId": "RE_kwDOG-K8R84Vq9zm",
-        "lastPublishedAt": "2026-08-01T17:35:19Z",
+        "lastReleaseId": "RE_kwDOG-K8R84WMlOQ",
+        "lastPublishedAt": "2026-08-18T14:07:07Z",
         "releaseHistoryCursor": null
       },
       "charmbracelet/freeze": {
@@ -3198,7 +3217,8 @@
         "lastReleaseId": "RE_kwDOQ63fjM4WESrH",
         "lastPublishedAt": "2026-08-13T21:26:34Z",
         "releaseHistoryCursor": null
-      }
+      },
+      "google/heir": {}
     }
   }
 }
