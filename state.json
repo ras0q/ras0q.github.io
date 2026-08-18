@@ -987,6 +987,17 @@
           "publishedAt": "2026-08-17T02:08:56Z",
           "name": "slidev-addon-fancy-arrow@0.18.0"
         }
+      ],
+      "2026-08-18": [
+        {
+          "id": "RE_kwDOLNZwwc4WLvGd",
+          "owner": "e18e",
+          "repo": "module-replacements",
+          "tag": "3.2.0",
+          "url": "https://github.com/e18e/module-replacements/releases/tag/3.2.0",
+          "publishedAt": "2026-08-18T07:54:52Z",
+          "name": "3.2.0"
+        }
       ]
     }
   },
@@ -1229,8 +1240,8 @@
         "lastPublishedAt": "2026-03-03T10:16:35Z"
       },
       "e18e/module-replacements": {
-        "lastReleaseId": "RE_kwDOLNZwwc4VYdR8",
-        "lastPublishedAt": "2026-07-23T14:12:00Z",
+        "lastReleaseId": "RE_kwDOLNZwwc4WLvGd",
+        "lastPublishedAt": "2026-08-18T07:54:52Z",
         "releaseHistoryCursor": null
       },
       "fand/ratride": {},
