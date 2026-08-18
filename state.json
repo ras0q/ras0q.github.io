@@ -2,98 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-10",
       "2026-08-11",
       "2026-08-12",
       "2026-08-13",
       "2026-08-14",
       "2026-08-15",
-      "2026-08-16"
+      "2026-08-16",
+      "2026-08-17"
     ],
     "days": {
-      "2026-08-10": [
-        {
-          "id": "RE_kwDOD81yrs4V8pEL",
-          "owner": "ManimCommunity",
-          "repo": "manim",
-          "tag": "v0.21.0",
-          "url": "https://github.com/ManimCommunity/manim/releases/tag/v0.21.0",
-          "publishedAt": "2026-08-10T21:56:35Z",
-          "name": "Manim v0.21.0"
-        },
-        {
-          "id": "RE_kwDOEYAvFc4V8olu",
-          "owner": "lumeland",
-          "repo": "lume",
-          "tag": "v3.3.1",
-          "url": "https://github.com/lumeland/lume/releases/tag/v3.3.1",
-          "publishedAt": "2026-08-10T21:51:43Z",
-          "name": "v3.3.1"
-        },
-        {
-          "id": "RE_kwDOHrOdo84V8eFt",
-          "owner": "runmedev",
-          "repo": "runme",
-          "tag": "v3.17.3",
-          "url": "https://github.com/runmedev/runme/releases/tag/v3.17.3",
-          "publishedAt": "2026-08-10T20:17:07Z",
-          "name": "v3.17.3"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4V8bKm",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.124.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.124.0",
-          "publishedAt": "2026-08-10T19:51:36Z",
-          "name": "v1.124.0"
-        },
-        {
-          "id": "RE_kwDOD6MHws4V7mcR",
-          "owner": "obsidianmd",
-          "repo": "obsidian-releases",
-          "tag": "v1.13.6",
-          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.6",
-          "publishedAt": "2026-08-10T15:56:15Z",
-          "name": "1.13.6"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4V7NdU",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.10",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.10",
-          "publishedAt": "2026-08-10T10:48:21Z",
-          "name": "v1.2.10"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4V7JhD",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.2.9",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.2.9",
-          "publishedAt": "2026-08-10T10:14:25Z",
-          "name": "v1.2.9"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4V6-p3",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.32.1",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.32.1",
-          "publishedAt": "2026-08-10T08:48:20Z",
-          "name": "Release 6.32.1"
-        },
-        {
-          "id": "RE_kwDOLk0b284V6nS8",
-          "owner": "ymtdzzz",
-          "repo": "otel-tui",
-          "tag": "v0.7.4",
-          "url": "https://github.com/ymtdzzz/otel-tui/releases/tag/v0.7.4",
-          "publishedAt": "2026-08-10T05:03:36Z",
-          "name": "v0.7.4"
-        }
-      ],
       "2026-08-11": [
         {
           "id": "RE_kwDOH-jzvc4V_St6",
@@ -936,6 +853,51 @@
       ],
       "2026-08-17": [
         {
+          "id": "RE_kwDOElPqBM4WLCcd",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "static-middleware@0.4.14",
+          "url": "https://github.com/remix-run/remix/releases/tag/static-middleware%400.4.14",
+          "publishedAt": "2026-08-17T22:44:58Z",
+          "name": "static-middleware v0.4.14"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WLAmH",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cli@0.5.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/cli%400.5.0",
+          "publishedAt": "2026-08-17T22:21:35Z",
+          "name": "cli v0.5.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WLAmO",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "static-files-middleware@0.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/static-files-middleware%400.1.0",
+          "publishedAt": "2026-08-17T22:21:35Z",
+          "name": "[Superseded] static-files-middleware v0.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WLAl5",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "ui@0.7.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/ui%400.7.0",
+          "publishedAt": "2026-08-17T22:21:33Z",
+          "name": "ui v0.7.0"
+        },
+        {
+          "id": "RE_kwDOKHF8zM4WK7ZA",
+          "owner": "marimo-team",
+          "repo": "marimo",
+          "tag": "0.24.0",
+          "url": "https://github.com/marimo-team/marimo/releases/tag/0.24.0",
+          "publishedAt": "2026-08-17T21:32:47Z",
+          "name": "0.24.0"
+        },
+        {
           "id": "RE_kwDOIvux3s4WKhon",
           "owner": "jdx",
           "repo": "mise",
@@ -1334,8 +1296,8 @@
       },
       "adrian-thurston/ragel": {},
       "remix-run/remix": {
-        "lastReleaseId": "RE_kwDOElPqBM4WEiXK",
-        "lastPublishedAt": "2026-08-14T00:52:42Z",
+        "lastReleaseId": "RE_kwDOElPqBM4WLCcd",
+        "lastPublishedAt": "2026-08-17T22:44:58Z",
         "releaseHistoryCursor": null
       },
       "ktnyt/cclsp": {},
@@ -1811,8 +1773,8 @@
         "lastPublishedAt": "2024-03-07T15:12:05Z"
       },
       "marimo-team/marimo": {
-        "lastReleaseId": "RE_kwDOKHF8zM4VqGg5",
-        "lastPublishedAt": "2026-07-31T22:44:32Z",
+        "lastReleaseId": "RE_kwDOKHF8zM4WK7ZA",
+        "lastPublishedAt": "2026-08-17T21:32:47Z",
         "releaseHistoryCursor": null
       },
       "8byt/gox": {},
