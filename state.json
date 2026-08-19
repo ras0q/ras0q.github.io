@@ -954,6 +954,42 @@
       ],
       "2026-08-19": [
         {
+          "id": "RE_kwDODeVIac4WPgS_",
+          "owner": "charmbracelet",
+          "repo": "bubbletea",
+          "tag": "v2.0.9",
+          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.9",
+          "publishedAt": "2026-08-19T15:33:34Z",
+          "name": "v2.0.9"
+        },
+        {
+          "id": "RE_kwDOJFqMhs4WPTkj",
+          "owner": "mattn",
+          "repo": "bsky",
+          "tag": "v0.0.82",
+          "url": "https://github.com/mattn/bsky/releases/tag/v0.0.82",
+          "publishedAt": "2026-08-19T14:18:08Z",
+          "name": "bsky v0.0.82"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WPN-N",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.123",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.123",
+          "publishedAt": "2026-08-19T13:46:52Z",
+          "name": "v8.4.123 - Accept existing depth dataset formats (#25859)"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WPCdc",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.350.2",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.350.2",
+          "publishedAt": "2026-08-19T12:45:11Z",
+          "name": "v0.350.2"
+        },
+        {
           "id": "RE_kwDOH-jzvc4WOreQ",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1111,8 +1147,9 @@
       "ikura-hamu/ooo": {},
       "n-ari/decomd": {},
       "mattn/bsky": {
-        "lastReleaseId": "RE_kwDOJFqMhs4T9wCL",
-        "lastPublishedAt": "2026-06-05T13:49:45Z"
+        "lastReleaseId": "RE_kwDOJFqMhs4WPTkj",
+        "lastPublishedAt": "2026-08-19T14:18:08Z",
+        "releaseHistoryCursor": null
       },
       "abap34/ss": {
         "lastReleaseId": "RE_kwDOSP9SeM4VBo_1",
@@ -1207,8 +1244,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4V-rYz",
-        "lastPublishedAt": "2026-08-11T17:55:59Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WPCdc",
+        "lastPublishedAt": "2026-08-19T12:45:11Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2452,8 +2489,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WOreQ",
-        "lastPublishedAt": "2026-08-19T10:01:51Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WPN-N",
+        "lastPublishedAt": "2026-08-19T13:46:52Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2971,8 +3008,9 @@
         "releaseHistoryCursor": null
       },
       "charmbracelet/bubbletea": {
-        "lastReleaseId": "RE_kwDODeVIac4Uw8F3",
-        "lastPublishedAt": "2026-07-03T01:56:48Z"
+        "lastReleaseId": "RE_kwDODeVIac4WPgS_",
+        "lastPublishedAt": "2026-08-19T15:33:34Z",
+        "releaseHistoryCursor": null
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
