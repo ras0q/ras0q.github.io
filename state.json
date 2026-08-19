@@ -954,6 +954,24 @@
       ],
       "2026-08-19": [
         {
+          "id": "RE_kwDOH-jzvc4WOreQ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.122",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.122",
+          "publishedAt": "2026-08-19T10:01:51Z",
+          "name": "v8.4.122 - Use canonical PNG depth maps (#25858)"
+        },
+        {
+          "id": "RE_kwDOGNEXps4WOnaX",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.16",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.16",
+          "publishedAt": "2026-08-19T09:36:37Z",
+          "name": "1.0.16"
+        },
+        {
           "id": "RE_kwDOFYUYQs4WOQ8x",
           "owner": "slidevjs",
           "repo": "slidev",
@@ -2434,8 +2452,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WKLsZ",
-        "lastPublishedAt": "2026-08-17T13:15:15Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WOreQ",
+        "lastPublishedAt": "2026-08-19T10:01:51Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2561,8 +2579,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4WHjxo",
-        "lastPublishedAt": "2026-08-15T15:22:28Z",
+        "lastReleaseId": "RE_kwDOGNEXps4WOnaX",
+        "lastPublishedAt": "2026-08-19T09:36:37Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
