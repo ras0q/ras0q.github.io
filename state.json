@@ -954,6 +954,24 @@
       ],
       "2026-08-19": [
         {
+          "id": "RE_kwDOFYUYQs4WOQ8x",
+          "owner": "slidevjs",
+          "repo": "slidev",
+          "tag": "v52.19.1",
+          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.19.1",
+          "publishedAt": "2026-08-19T06:24:24Z",
+          "name": "v52.19.1"
+        },
+        {
+          "id": "RE_kwDORSib_s4WOHUO",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.13.1",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.13.1",
+          "publishedAt": "2026-08-19T04:32:27Z",
+          "name": "acpx v0.13.1"
+        },
+        {
           "id": "RE_kwDOJCIvuc4WN4Mt",
           "owner": "skiptools",
           "repo": "skip",
@@ -1024,8 +1042,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4VfhE1",
-        "lastPublishedAt": "2026-07-27T17:07:56Z",
+        "lastReleaseId": "RE_kwDORSib_s4WOHUO",
+        "lastPublishedAt": "2026-08-19T04:32:27Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2265,8 +2283,8 @@
       },
       "kyosu-1/passkey-go-example": {},
       "slidevjs/slidev": {
-        "lastReleaseId": "RE_kwDOFYUYQs4VsTsI",
-        "lastPublishedAt": "2026-08-03T00:56:26Z",
+        "lastReleaseId": "RE_kwDOFYUYQs4WOQ8x",
+        "lastPublishedAt": "2026-08-19T06:24:24Z",
         "releaseHistoryCursor": null
       },
       "Striffly/mailspring-avatars": {
