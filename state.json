@@ -963,6 +963,51 @@
       ],
       "2026-08-20": [
         {
+          "id": "RE_kwDOHe7bmc4WRFOO",
+          "owner": "charmbracelet",
+          "repo": "gum",
+          "tag": "v2.0.0",
+          "url": "https://github.com/charmbracelet/gum/releases/tag/v2.0.0",
+          "publishedAt": "2026-08-20T08:13:46Z",
+          "name": "v2.0.0"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4WQ85O",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.10.0",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.10.0",
+          "publishedAt": "2026-08-20T08:10:25Z",
+          "name": "v2.10.0"
+        },
+        {
+          "id": "RE_kwDOJEKgss4WRAp0",
+          "owner": "DataDog",
+          "repo": "orchestrion",
+          "tag": "v1.12.2",
+          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.12.2",
+          "publishedAt": "2026-08-20T07:36:11Z",
+          "name": "v1.12.2"
+        },
+        {
+          "id": "RE_kwDONrCobc4WQ6dX",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.4.0",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.0",
+          "publishedAt": "2026-08-20T06:41:24Z",
+          "name": "v2.4.0"
+        },
+        {
+          "id": "RE_kwDOG9R6-M4WQwCu",
+          "owner": "k1LoW",
+          "repo": "runn",
+          "tag": "v1.9.5",
+          "url": "https://github.com/k1LoW/runn/releases/tag/v1.9.5",
+          "publishedAt": "2026-08-20T05:02:08Z",
+          "name": "v1.9.5"
+        },
+        {
           "id": "RE_kwDOIrCKK84WQo7v",
           "owner": "m-mizutani",
           "repo": "masq",
@@ -1639,8 +1684,9 @@
         "lastPublishedAt": "2026-02-11T16:02:36Z"
       },
       "k1LoW/runn": {
-        "lastReleaseId": "RE_kwDOG9R6-M4UqG1R",
-        "lastPublishedAt": "2026-06-30T08:31:59Z"
+        "lastReleaseId": "RE_kwDOG9R6-M4WQwCu",
+        "lastPublishedAt": "2026-08-20T05:02:08Z",
+        "releaseHistoryCursor": null
       },
       "tohutohu/discord-claude-code": {},
       "apple/container": {
@@ -1923,8 +1969,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4VutUd",
-        "lastPublishedAt": "2026-08-04T01:00:41Z",
+        "lastReleaseId": "RE_kwDONrCobc4WQ6dX",
+        "lastPublishedAt": "2026-08-20T06:41:24Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -1995,8 +2041,8 @@
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4WJWMi",
-        "lastPublishedAt": "2026-08-17T06:08:32Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4WQ85O",
+        "lastPublishedAt": "2026-08-20T08:10:25Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
@@ -2458,8 +2504,8 @@
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
       "DataDog/orchestrion": {
-        "lastReleaseId": "RE_kwDOJEKgss4WJxfS",
-        "lastPublishedAt": "2026-08-17T09:54:33Z",
+        "lastReleaseId": "RE_kwDOJEKgss4WRAp0",
+        "lastPublishedAt": "2026-08-20T07:36:11Z",
         "releaseHistoryCursor": null
       },
       "spotify/voyager": {
@@ -2869,8 +2915,9 @@
       "gohandson/accountbook-ja": {},
       "vugu/vugu": {},
       "charmbracelet/gum": {
-        "lastReleaseId": "RE_kwDOHe7bmc4OnHrw",
-        "lastPublishedAt": "2025-09-05T17:17:48Z"
+        "lastReleaseId": "RE_kwDOHe7bmc4WRFOO",
+        "lastPublishedAt": "2026-08-20T08:13:46Z",
+        "releaseHistoryCursor": null
       },
       "podhmo/flagstruct": {
         "lastReleaseId": "RE_kwDOGr-yN84PJBhP",
