@@ -963,6 +963,42 @@
       ],
       "2026-08-20": [
         {
+          "id": "RE_kwDOPAlvYM4WSpk2",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.21.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.21.0",
+          "publishedAt": "2026-08-20T19:43:13Z",
+          "name": "Schema v1.21.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4WSpkN",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.7.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.7.0",
+          "publishedAt": "2026-08-20T19:43:09Z",
+          "name": "Rust Crate v1.7.0"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4WSYyP",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.4",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.4",
+          "publishedAt": "2026-08-20T17:44:56Z",
+          "name": "0.16.4"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WSTgY",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.10",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.10",
+          "publishedAt": "2026-08-20T17:05:41Z",
+          "name": "v2026.8.10: Remote bootstrap environments and asset-matching fixes"
+        },
+        {
           "id": "RE_kwDOAWJAkM4WSNot",
           "owner": "git-for-windows",
           "repo": "git",
@@ -1549,8 +1585,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4VThHH",
-        "lastPublishedAt": "2026-07-21T15:09:36Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4WSpk2",
+        "lastPublishedAt": "2026-08-20T19:43:13Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -2091,8 +2127,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WQPpJ",
-        "lastPublishedAt": "2026-08-19T21:19:31Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WSTgY",
+        "lastPublishedAt": "2026-08-20T17:05:41Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2571,8 +2607,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4WDe2Q",
-        "lastPublishedAt": "2026-08-13T15:18:05Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4WSYyP",
+        "lastPublishedAt": "2026-08-20T17:44:56Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -3261,7 +3297,12 @@
         "lastPublishedAt": "2026-08-13T21:26:34Z",
         "releaseHistoryCursor": null
       },
-      "google/heir": {}
+      "google/heir": {},
+      "avante-corp/avante.nvim": {
+        "lastPublishedAt": "2026-06-22T15:53:52Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4UcfRR",
+        "releaseHistoryCursor": null
+      }
     }
   }
 }
