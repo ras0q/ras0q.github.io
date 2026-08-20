@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-12",
       "2026-08-13",
       "2026-08-14",
       "2026-08-15",
       "2026-08-16",
       "2026-08-17",
-      "2026-08-18"
+      "2026-08-18",
+      "2026-08-19"
     ],
     "days": {
-      "2026-08-12": [
-        {
-          "id": "RE_kwDOAvORMc4WB4N-",
-          "owner": "xwmx",
-          "repo": "nb",
-          "tag": "7.25.5",
-          "url": "https://github.com/xwmx/nb/releases/tag/7.25.5",
-          "publishedAt": "2026-08-12T23:57:33Z",
-          "name": "7.25.5"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4WB1nC",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.3.4",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.4",
-          "publishedAt": "2026-08-12T23:19:52Z",
-          "name": "v1.3.4"
-        },
-        {
-          "id": "RE_kwDOElf8_c4WBqRL",
-          "owner": "Vinzent03",
-          "repo": "obsidian-git",
-          "tag": "2.39.0",
-          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.39.0",
-          "publishedAt": "2026-08-12T21:16:32Z",
-          "name": "2.39.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4WBpJA",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.6.5",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.6.5",
-          "publishedAt": "2026-08-12T21:05:59Z",
-          "name": "v30.6.5"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4WBhVJ",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.89.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.89.0",
-          "publishedAt": "2026-08-12T20:04:42Z",
-          "name": "v0.89.0"
-        },
-        {
-          "id": "RE_kwDOII1H084WBbAE",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.23",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.23",
-          "publishedAt": "2026-08-12T19:15:12Z",
-          "name": "v0.5.23"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4WA_aI",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.3.3",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.3",
-          "publishedAt": "2026-08-12T15:49:40Z",
-          "name": "v1.3.3"
-        },
-        {
-          "id": "RE_kwDOII1H084WAwvr",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.22",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.22",
-          "publishedAt": "2026-08-12T14:22:50Z",
-          "name": "v0.5.22"
-        },
-        {
-          "id": "RE_kwDON7Gnt84WAtzt",
-          "owner": "whitphx",
-          "repo": "slidev-addon-fancy-arrow",
-          "tag": "slidev-addon-fancy-arrow@0.17.0",
-          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.17.0",
-          "publishedAt": "2026-08-12T14:05:02Z",
-          "name": "slidev-addon-fancy-arrow@0.17.0"
-        },
-        {
-          "id": "RE_kwDOD6MHws4WApGK",
-          "owner": "obsidianmd",
-          "repo": "obsidian-releases",
-          "tag": "v1.13.7",
-          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.7",
-          "publishedAt": "2026-08-12T13:57:51Z",
-          "name": "1.13.7"
-        },
-        {
-          "id": "RE_kwDOII1H084WAm9-",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.21",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.21",
-          "publishedAt": "2026-08-12T13:24:40Z",
-          "name": "v0.5.21"
-        },
-        {
-          "id": "RE_kwDOFJ5a6s4WAdT6",
-          "owner": "Milkdown",
-          "repo": "milkdown",
-          "tag": "v7.22.1",
-          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.1",
-          "publishedAt": "2026-08-12T12:22:05Z",
-          "name": "v7.22.1"
-        },
-        {
-          "id": "RE_kwDOIvux3s4WAad1",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.5",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.5",
-          "publishedAt": "2026-08-12T12:01:21Z",
-          "name": "v2026.8.5: PyPy on the precompiled path, Node source patches, and a broad batch of fixes"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4WALtC",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.3.2",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.2",
-          "publishedAt": "2026-08-12T10:08:49Z",
-          "name": "v1.3.2"
-        },
-        {
-          "id": "RE_kwDOLLx-gc4V_0AL",
-          "owner": "iamgio",
-          "repo": "quarkdown",
-          "tag": "v2.5.1",
-          "url": "https://github.com/iamgio/quarkdown/releases/tag/v2.5.1",
-          "publishedAt": "2026-08-12T07:06:08Z",
-          "name": "v2.5.1"
-        },
-        {
-          "id": "RE_kwDOOELNJM4V_gdg",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v0.2.9",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.2.9",
-          "publishedAt": "2026-08-12T03:04:02Z",
-          "name": "vite-plus v0.2.9: add `vp toolchain` and `vp hooks`, and fix `vp run` inside Codex and Claude Code sandboxes"
-        }
-      ],
       "2026-08-13": [
         {
           "id": "RE_kwDOHrOdo84WEcyL",
@@ -954,6 +808,42 @@
       ],
       "2026-08-19": [
         {
+          "id": "RE_kwDOPYoUTM4WQXSO",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.10.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.10.0",
+          "publishedAt": "2026-08-19T22:33:44Z",
+          "name": "v1.10.0 - Zed support, quieter installs"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WQPpJ",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.9",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.9",
+          "publishedAt": "2026-08-19T21:19:31Z",
+          "name": "v2026.8.9: Composable Bootstrap, Environment-Aware conf.d, and Faster Startup"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4WQNnx",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.90.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.90.0",
+          "publishedAt": "2026-08-19T21:01:49Z",
+          "name": "v0.90.0"
+        },
+        {
+          "id": "RE_kwDOCciW1M4WQK6t",
+          "owner": "files-community",
+          "repo": "Files",
+          "tag": "v4.2.9",
+          "url": "https://github.com/files-community/Files/releases/tag/v4.2.9",
+          "publishedAt": "2026-08-19T20:39:26Z",
+          "name": "v4.2.9"
+        },
+        {
           "id": "RE_kwDOB21G7c4WQD0P",
           "owner": "cel-expr",
           "repo": "cel-go",
@@ -1325,8 +1215,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4WDiVb",
-        "lastPublishedAt": "2026-08-13T15:38:22Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4WQXSO",
+        "lastPublishedAt": "2026-08-19T22:33:44Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -1421,8 +1311,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4WBhVJ",
-        "lastPublishedAt": "2026-08-12T20:04:42Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4WQNnx",
+        "lastPublishedAt": "2026-08-19T21:01:49Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1929,8 +1819,8 @@
         "lastPublishedAt": "2024-12-05T18:51:33Z"
       },
       "files-community/Files": {
-        "lastReleaseId": "RE_kwDOCciW1M4WI5fN",
-        "lastPublishedAt": "2026-08-16T20:49:01Z",
+        "lastReleaseId": "RE_kwDOCciW1M4WQK6t",
+        "lastPublishedAt": "2026-08-19T20:39:26Z",
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
@@ -2099,8 +1989,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WKhon",
-        "lastPublishedAt": "2026-08-17T17:57:04Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WQPpJ",
+        "lastPublishedAt": "2026-08-19T21:19:31Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
