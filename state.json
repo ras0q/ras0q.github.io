@@ -1008,6 +1008,42 @@
       ],
       "2026-08-21": [
         {
+          "id": "RE_kwDOC3PEAc4WVJrA",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.56.1",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.56.1",
+          "publishedAt": "2026-08-21T19:59:21Z",
+          "name": "0.56.1"
+        },
+        {
+          "id": "RE_kwDOR1G_Qs4WUyzx",
+          "owner": "zonuexe",
+          "repo": "riida",
+          "tag": "v0.8.1",
+          "url": "https://github.com/zonuexe/riida/releases/tag/v0.8.1",
+          "publishedAt": "2026-08-21T16:59:06Z",
+          "name": "[0.8.1] - 2026-08-22"
+        },
+        {
+          "id": "RE_kwDOBbx18s4WUxhl",
+          "owner": "mgechev",
+          "repo": "revive",
+          "tag": "v1.16.0",
+          "url": "https://github.com/mgechev/revive/releases/tag/v1.16.0",
+          "publishedAt": "2026-08-21T16:47:59Z",
+          "name": "v1.16.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4WUvUm",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.127.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.127.0",
+          "publishedAt": "2026-08-21T16:30:18Z",
+          "name": "v1.127.0"
+        },
+        {
           "id": "RE_kwDOJE7Z-84WUq9B",
           "owner": "Zxilly",
           "repo": "go-size-analyzer",
@@ -1274,8 +1310,9 @@
       "parsimonhi/animCJK": {},
       "pirosiki197/nvim-config": {},
       "zonuexe/riida": {
-        "lastReleaseId": "RE_kwDOR1G_Qs4UwIca",
-        "lastPublishedAt": "2026-07-02T16:21:01Z"
+        "lastReleaseId": "RE_kwDOR1G_Qs4WUyzx",
+        "lastPublishedAt": "2026-08-21T16:59:06Z",
+        "releaseHistoryCursor": null
       },
       "microsoft/apm": {
         "lastReleaseId": "RE_kwDOPyZEpc4V0l5e",
@@ -1566,8 +1603,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4WNfEP",
-        "lastPublishedAt": "2026-08-18T20:46:55Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4WUvUm",
+        "lastPublishedAt": "2026-08-21T16:30:18Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2222,8 +2259,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4WMazf",
-        "lastPublishedAt": "2026-08-18T13:11:58Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4WVJrA",
+        "lastPublishedAt": "2026-08-21T19:59:21Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -2825,8 +2862,9 @@
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
-        "lastReleaseId": "RE_kwDOBbx18s4RhBh2",
-        "lastPublishedAt": "2026-03-06T10:03:57Z"
+        "lastReleaseId": "RE_kwDOBbx18s4WUxhl",
+        "lastPublishedAt": "2026-08-21T16:47:59Z",
+        "releaseHistoryCursor": null
       },
       "wakatime/macos-wakatime": {
         "lastReleaseId": "RE_kwDOJF91uM4V53Na",
