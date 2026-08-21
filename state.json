@@ -1008,6 +1008,33 @@
       ],
       "2026-08-21": [
         {
+          "id": "RE_kwDOJCIvuc4WTKti",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.7",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.7",
+          "publishedAt": "2026-08-21T01:42:29Z",
+          "name": "1.9.7"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WTJf-",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.353.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.353.0",
+          "publishedAt": "2026-08-21T01:24:15Z",
+          "name": "v0.353.0"
+        },
+        {
+          "id": "RE_kwDONrCobc4WTJHY",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.4.2",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.2",
+          "publishedAt": "2026-08-21T01:18:04Z",
+          "name": "v2.4.2"
+        },
+        {
           "id": "RE_kwDONrCobc4WTG2g",
           "owner": "antfu",
           "repo": "node-modules-inspector",
@@ -1226,8 +1253,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WS85F",
-        "lastPublishedAt": "2026-08-20T22:33:04Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WTJf-",
+        "lastPublishedAt": "2026-08-21T01:24:15Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1970,8 +1997,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4WTG2g",
-        "lastPublishedAt": "2026-08-21T00:44:55Z",
+        "lastReleaseId": "RE_kwDONrCobc4WTJHY",
+        "lastPublishedAt": "2026-08-21T01:18:04Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -2299,8 +2326,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4WN4Mt",
-        "lastPublishedAt": "2026-08-19T00:51:31Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4WTKti",
+        "lastPublishedAt": "2026-08-21T01:42:29Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
