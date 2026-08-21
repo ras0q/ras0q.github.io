@@ -1008,6 +1008,60 @@
       ],
       "2026-08-21": [
         {
+          "id": "RE_kwDOJE7Z-84WUq9B",
+          "owner": "Zxilly",
+          "repo": "go-size-analyzer",
+          "tag": "v1.14.0",
+          "url": "https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.14.0",
+          "publishedAt": "2026-08-21T15:58:15Z",
+          "name": "v1.14.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WUqZk",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.357.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.357.0",
+          "publishedAt": "2026-08-21T15:54:24Z",
+          "name": "v0.357.0"
+        },
+        {
+          "id": "RE_kwDOAaTAks4WToUR",
+          "owner": "ryanoasis",
+          "repo": "nerd-fonts",
+          "tag": "v3.5.1",
+          "url": "https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.5.1",
+          "publishedAt": "2026-08-21T15:21:46Z",
+          "name": "v3.5.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WUa4j",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.126",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.126",
+          "publishedAt": "2026-08-21T14:14:00Z",
+          "name": "v8.4.126 - Make restricted checkpoint loading thread-safe and 40% faster, simplify RLE prior (#25885)"
+        },
+        {
+          "id": "RE_kwDOCRgRGs4WUYY6",
+          "owner": "wasmerio",
+          "repo": "wasmer",
+          "tag": "v7.3.0",
+          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.3.0",
+          "publishedAt": "2026-08-21T14:02:02Z",
+          "name": "Release v7.3.0"
+        },
+        {
+          "id": "RE_kwDOD6MHws4WUVeS",
+          "owner": "obsidianmd",
+          "repo": "obsidian-releases",
+          "tag": "v1.13.8",
+          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.8",
+          "publishedAt": "2026-08-21T13:53:55Z",
+          "name": "1.13.8"
+        },
+        {
           "id": "RE_kwDOH-jzvc4WT707",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1280,8 +1334,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WTagJ",
-        "lastPublishedAt": "2026-08-21T05:32:55Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WUqZk",
+        "lastPublishedAt": "2026-08-21T15:54:24Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1968,8 +2022,8 @@
         "lastPublishedAt": "2026-07-08T15:58:56Z"
       },
       "wasmerio/wasmer": {
-        "lastReleaseId": "RE_kwDOCRgRGs4VX1jG",
-        "lastPublishedAt": "2026-07-23T11:04:33Z",
+        "lastReleaseId": "RE_kwDOCRgRGs4WUYY6",
+        "lastPublishedAt": "2026-08-21T14:02:02Z",
         "releaseHistoryCursor": null
       },
       "yui540/css-animations": {},
@@ -2275,8 +2329,8 @@
       },
       "Ye-D/PPML-Resource": {},
       "Zxilly/go-size-analyzer": {
-        "lastReleaseId": "RE_kwDOJE7Z-84V29gT",
-        "lastPublishedAt": "2026-08-07T12:19:48Z",
+        "lastReleaseId": "RE_kwDOJE7Z-84WUq9B",
+        "lastPublishedAt": "2026-08-21T15:58:15Z",
         "releaseHistoryCursor": null
       },
       "compose-spec/compose-spec": {},
@@ -2448,8 +2502,8 @@
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastReleaseId": "RE_kwDOD6MHws4WApGK",
-        "lastPublishedAt": "2026-08-12T13:57:51Z",
+        "lastReleaseId": "RE_kwDOD6MHws4WUVeS",
+        "lastPublishedAt": "2026-08-21T13:53:55Z",
         "releaseHistoryCursor": null
       },
       "j0k3r/banditore": {
@@ -2527,8 +2581,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WT707",
-        "lastPublishedAt": "2026-08-21T10:26:05Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WUa4j",
+        "lastPublishedAt": "2026-08-21T14:14:00Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3134,8 +3188,8 @@
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
-        "lastReleaseId": "RE_kwDOAaTAks4VrDia",
-        "lastPublishedAt": "2026-08-02T23:35:36Z",
+        "lastReleaseId": "RE_kwDOAaTAks4WToUR",
+        "lastPublishedAt": "2026-08-21T15:21:46Z",
         "releaseHistoryCursor": null
       },
       "Rigellute/spotify-tui": {
