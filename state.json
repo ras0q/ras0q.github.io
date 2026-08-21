@@ -1008,6 +1008,15 @@
       ],
       "2026-08-21": [
         {
+          "id": "RE_kwDOQvjuaM4WTagJ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.354.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.354.0",
+          "publishedAt": "2026-08-21T05:32:55Z",
+          "name": "v0.354.0"
+        },
+        {
           "id": "RE_kwDOJCIvuc4WTKti",
           "owner": "skiptools",
           "repo": "skip",
@@ -1253,8 +1262,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WTJf-",
-        "lastPublishedAt": "2026-08-21T01:24:15Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WTagJ",
+        "lastPublishedAt": "2026-08-21T05:32:55Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
