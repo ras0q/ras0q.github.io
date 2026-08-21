@@ -2,125 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-13",
       "2026-08-14",
       "2026-08-15",
       "2026-08-16",
       "2026-08-17",
       "2026-08-18",
-      "2026-08-19"
+      "2026-08-19",
+      "2026-08-20"
     ],
     "days": {
-      "2026-08-13": [
-        {
-          "id": "RE_kwDOHrOdo84WEcyL",
-          "owner": "runmedev",
-          "repo": "runme",
-          "tag": "v3.17.4",
-          "url": "https://github.com/runmedev/runme/releases/tag/v3.17.4",
-          "publishedAt": "2026-08-13T23:27:53Z",
-          "name": "v3.17.4"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WEZNW",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.120",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.120",
-          "publishedAt": "2026-08-13T22:38:09Z",
-          "name": "v8.4.120 - Avoid nondeterministic CUDA anchor cumsum (#25806)"
-        },
-        {
-          "id": "RE_kwDOBhpcn84WESwZ",
-          "owner": "cel-expr",
-          "repo": "cel-spec",
-          "tag": "v0.25.3",
-          "url": "https://github.com/cel-expr/cel-spec/releases/tag/v0.25.3",
-          "publishedAt": "2026-08-13T21:27:23Z",
-          "name": "v0.25.3"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4WERad",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.4",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.4",
-          "publishedAt": "2026-08-13T21:16:08Z",
-          "name": "0.12.4"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WEDKM",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.119",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.119",
-          "publishedAt": "2026-08-13T19:37:44Z",
-          "name": "v8.4.119 - Enable OpenVINO NPU_TURBO for classification models on supported NPUs (#25784)"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4WDigZ",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.4.0",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.4.0",
-          "publishedAt": "2026-08-13T15:38:54Z",
-          "name": "v1.4.0"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4WDiVb",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.9.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.9.0",
-          "publishedAt": "2026-08-13T15:38:22Z",
-          "name": "v1.9.0 - Command Code & safer specs"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4WDe2Q",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.3",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.3",
-          "publishedAt": "2026-08-13T15:18:05Z",
-          "name": "0.16.3"
-        },
-        {
-          "id": "RE_kwDOGkmMps4WDIGS",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.29",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.29",
-          "publishedAt": "2026-08-13T13:01:43Z",
-          "name": "3.0.29"
-        },
-        {
-          "id": "RE_kwDOII1H084WC9jf",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.24",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.24",
-          "publishedAt": "2026-08-13T11:48:10Z",
-          "name": "v0.5.24"
-        },
-        {
-          "id": "RE_kwDOGNEXps4WCEzx",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.13",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.13",
-          "publishedAt": "2026-08-13T03:44:23Z",
-          "name": "1.0.13"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4WB7Mb",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.3.5",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.3.5",
-          "publishedAt": "2026-08-13T00:40:53Z",
-          "name": "v1.3.5"
-        }
-      ],
       "2026-08-14": [
         {
           "id": "RE_kwDOIvux3s4WGsxW",
@@ -963,6 +853,24 @@
       ],
       "2026-08-20": [
         {
+          "id": "RE_kwDOQvjuaM4WS85F",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.352.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.352.0",
+          "publishedAt": "2026-08-20T22:33:04Z",
+          "name": "v0.352.0"
+        },
+        {
+          "id": "RE_kwDOOfp6ts4WSxod",
+          "owner": "nickjvandyke",
+          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
+          "tag": "v1.0.2",
+          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.0.2",
+          "publishedAt": "2026-08-20T20:45:29Z",
+          "name": "v1.0.2"
+        },
+        {
           "id": "RE_kwDOPAlvYM4WSpk2",
           "owner": "agentclientprotocol",
           "repo": "agent-client-protocol",
@@ -1096,6 +1004,17 @@
           "url": "https://github.com/m-mizutani/masq/releases/tag/v0.2.3",
           "publishedAt": "2026-08-20T02:47:40Z",
           "name": "v0.2.3"
+        }
+      ],
+      "2026-08-21": [
+        {
+          "id": "RE_kwDONrCobc4WTG2g",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.4.1",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.1",
+          "publishedAt": "2026-08-21T00:44:55Z",
+          "name": "v2.4.1"
         }
       ]
     }
@@ -1307,8 +1226,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WSNQg",
-        "lastPublishedAt": "2026-08-20T16:18:02Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WS85F",
+        "lastPublishedAt": "2026-08-20T22:33:04Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1524,8 +1443,9 @@
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastReleaseId": "RE_kwDOOfp6ts4UPaXe",
-        "lastPublishedAt": "2026-06-15T13:50:53Z"
+        "lastReleaseId": "RE_kwDOOfp6ts4WSxod",
+        "lastPublishedAt": "2026-08-20T20:45:29Z",
+        "releaseHistoryCursor": null
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
@@ -2050,8 +1970,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4WQ6dX",
-        "lastPublishedAt": "2026-08-20T06:41:24Z",
+        "lastReleaseId": "RE_kwDONrCobc4WTG2g",
+        "lastPublishedAt": "2026-08-21T00:44:55Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -3299,8 +3219,8 @@
       },
       "google/heir": {},
       "avante-corp/avante.nvim": {
-        "lastPublishedAt": "2026-06-22T15:53:52Z",
         "lastReleaseId": "RE_kwDOMjjYJM4UcfRR",
+        "lastPublishedAt": "2026-06-22T15:53:52Z",
         "releaseHistoryCursor": null
       }
     }
