@@ -816,6 +816,26 @@
           "publishedAt": "2026-08-21T00:44:55Z",
           "name": "v2.4.1"
         }
+      ],
+      "2026-08-22": [
+        {
+          "id": "RE_kwDOQ63fjM4WVuep",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.3.0",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.3.0",
+          "publishedAt": "2026-08-22T03:59:21Z",
+          "name": "v1.3.0"
+        },
+        {
+          "id": "RE_kwDOR1G_Qs4WVp9t",
+          "owner": "zonuexe",
+          "repo": "riida",
+          "tag": "v0.8.2",
+          "url": "https://github.com/zonuexe/riida/releases/tag/v0.8.2",
+          "publishedAt": "2026-08-22T02:29:33Z",
+          "name": "[0.8.2] - 2026-08-22"
+        }
       ]
     }
   },
@@ -966,8 +986,8 @@
       "parsimonhi/animCJK": {},
       "pirosiki197/nvim-config": {},
       "zonuexe/riida": {
-        "lastReleaseId": "RE_kwDOR1G_Qs4WUyzx",
-        "lastPublishedAt": "2026-08-21T16:59:06Z",
+        "lastReleaseId": "RE_kwDOR1G_Qs4WVp9t",
+        "lastPublishedAt": "2026-08-22T02:29:33Z",
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
@@ -3015,8 +3035,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4WESrH",
-        "lastPublishedAt": "2026-08-13T21:26:34Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4WVuep",
+        "lastPublishedAt": "2026-08-22T03:59:21Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {},
