@@ -819,6 +819,42 @@
       ],
       "2026-08-22": [
         {
+          "id": "RE_kwDOM9WtiM4WWaLD",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.4.1",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.4.1",
+          "publishedAt": "2026-08-22T16:01:32Z",
+          "name": "v1.4.1"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4WWYEU",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.22.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.22.0",
+          "publishedAt": "2026-08-22T15:24:58Z",
+          "name": "v1.22.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WWTRx",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.362.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.362.0",
+          "publishedAt": "2026-08-22T13:59:01Z",
+          "name": "v0.362.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WWPvi",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.361.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.361.0",
+          "publishedAt": "2026-08-22T12:54:03Z",
+          "name": "v0.361.0"
+        },
+        {
           "id": "RE_kwDOGkmMps4WWNIC",
           "owner": "Quorafind",
           "repo": "Obsidian-Thino",
@@ -1155,8 +1191,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WWJIs",
-        "lastPublishedAt": "2026-08-22T10:47:37Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WWTRx",
+        "lastPublishedAt": "2026-08-22T13:59:01Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1694,8 +1730,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4WDigZ",
-        "lastPublishedAt": "2026-08-13T15:38:54Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4WWaLD",
+        "lastPublishedAt": "2026-08-22T16:01:32Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -1870,8 +1906,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4WWD6d",
-        "lastPublishedAt": "2026-08-22T09:03:04Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4WWYEU",
+        "lastPublishedAt": "2026-08-22T15:24:58Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
