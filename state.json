@@ -819,6 +819,15 @@
       ],
       "2026-08-22": [
         {
+          "id": "RE_kwDOE4c3is4WWeON",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.5.2",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.5.2",
+          "publishedAt": "2026-08-22T17:15:59Z",
+          "name": "9.5.2"
+        },
+        {
           "id": "RE_kwDOM9WtiM4WWaLD",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -2677,8 +2686,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4Vrher",
-        "lastPublishedAt": "2026-08-02T07:53:10Z",
+        "lastReleaseId": "RE_kwDOE4c3is4WWeON",
+        "lastPublishedAt": "2026-08-22T17:15:59Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
