@@ -819,6 +819,15 @@
       ],
       "2026-08-22": [
         {
+          "id": "RE_kwDOQvjuaM4WV-4L",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.358.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.358.0",
+          "publishedAt": "2026-08-22T07:21:30Z",
+          "name": "v0.358.0"
+        },
+        {
           "id": "RE_kwDOQ63fjM4WVuep",
           "owner": "eugenioenko",
           "repo": "ttt",
@@ -1047,8 +1056,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WUqZk",
-        "lastPublishedAt": "2026-08-21T15:54:24Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WV-4L",
+        "lastPublishedAt": "2026-08-22T07:21:30Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
