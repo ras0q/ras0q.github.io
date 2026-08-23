@@ -987,6 +987,35 @@
           "publishedAt": "2026-08-22T02:29:33Z",
           "name": "[0.8.2] - 2026-08-22"
         }
+      ],
+      "2026-08-23": [
+        {
+          "id": "RE_kwDOGNEXps4WW_yQ",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.17",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.17",
+          "publishedAt": "2026-08-23T06:01:47Z",
+          "name": "1.0.17"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4WW9VC",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.40.0",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.0",
+          "publishedAt": "2026-08-23T04:47:56Z",
+          "name": "v0.40.0 Release"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4WW9Aj",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.22.53",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.53",
+          "publishedAt": "2026-08-23T04:46:51Z",
+          "name": "v0.22.53 Release"
+        }
       ]
     }
   },
@@ -2576,8 +2605,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4WOnaX",
-        "lastPublishedAt": "2026-08-19T09:36:37Z",
+        "lastReleaseId": "RE_kwDOGNEXps4WW_yQ",
+        "lastPublishedAt": "2026-08-23T06:01:47Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -2944,8 +2973,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4WEyHy",
-        "lastPublishedAt": "2026-08-14T04:28:29Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4WW9VC",
+        "lastPublishedAt": "2026-08-23T04:47:56Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
