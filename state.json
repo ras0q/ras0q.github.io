@@ -2,53 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-15",
       "2026-08-16",
       "2026-08-17",
       "2026-08-18",
       "2026-08-19",
       "2026-08-20",
-      "2026-08-21"
+      "2026-08-21",
+      "2026-08-22"
     ],
     "days": {
-      "2026-08-15": [
-        {
-          "id": "RE_kwDOII1H084WH07M",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.25",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.25",
-          "publishedAt": "2026-08-15T20:29:51Z",
-          "name": "v0.5.25"
-        },
-        {
-          "id": "RE_kwDOGNEXps4WHjxo",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.15",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.15",
-          "publishedAt": "2026-08-15T15:22:28Z",
-          "name": "1.0.15"
-        },
-        {
-          "id": "RE_kwDOAZfQX84WHM_6",
-          "owner": "go-swagger",
-          "repo": "go-swagger",
-          "tag": "v0.36.4",
-          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.4",
-          "publishedAt": "2026-08-15T07:24:35Z",
-          "name": "v0.36.4"
-        },
-        {
-          "id": "RE_kwDODLQBlc4WHIOM",
-          "owner": "go-rel",
-          "repo": "rel",
-          "tag": "v0.43.0",
-          "url": "https://github.com/go-rel/rel/releases/tag/v0.43.0",
-          "publishedAt": "2026-08-15T05:28:42Z",
-          "name": "v0.43.0"
-        }
-      ],
       "2026-08-16": [
         {
           "id": "RE_kwDOQk1Y9c4WI-PL",
@@ -819,6 +781,42 @@
       ],
       "2026-08-22": [
         {
+          "id": "RE_kwDOOAhtcs4WWxMn",
+          "owner": "kepano",
+          "repo": "defuddle",
+          "tag": "0.19.3",
+          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.3",
+          "publishedAt": "2026-08-22T23:41:19Z",
+          "name": "0.19.3"
+        },
+        {
+          "id": "RE_kwDOQw7t884WWwwq",
+          "owner": "taigrr",
+          "repo": "neocrush.nvim",
+          "tag": "v2.0.5",
+          "url": "https://github.com/taigrr/neocrush.nvim/releases/tag/v2.0.5",
+          "publishedAt": "2026-08-22T23:29:00Z",
+          "name": "v2.0.5"
+        },
+        {
+          "id": "RE_kwDONrCobc4WWwFR",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.4.3",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.3",
+          "publishedAt": "2026-08-22T23:11:48Z",
+          "name": "v2.4.3"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4WWp0o",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.91.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.91.0",
+          "publishedAt": "2026-08-22T20:56:04Z",
+          "name": "v0.91.0"
+        },
+        {
           "id": "RE_kwDOE4c3is4WWeON",
           "owner": "mantinedev",
           "repo": "mantine",
@@ -1135,7 +1133,11 @@
         "lastReleaseId": "RE_kwDOQw2m0s4Q9kZ6",
         "lastPublishedAt": "2026-02-09T21:19:19Z"
       },
-      "taigrr/neocrush.nvim": {},
+      "taigrr/neocrush.nvim": {
+        "lastReleaseId": "RE_kwDOQw7t884WWwwq",
+        "lastPublishedAt": "2026-08-22T23:29:00Z",
+        "releaseHistoryCursor": null
+      },
       "parsimonhi/animCJK": {},
       "pirosiki197/nvim-config": {},
       "zonuexe/riida": {
@@ -1341,8 +1343,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4WQNnx",
-        "lastPublishedAt": "2026-08-19T21:01:49Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4WWp0o",
+        "lastPublishedAt": "2026-08-22T20:56:04Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1865,8 +1867,8 @@
       },
       "typedgrammar/typed-japanese": {},
       "kepano/defuddle": {
-        "lastReleaseId": "RE_kwDOOAhtcs4VWgR9",
-        "lastPublishedAt": "2026-07-22T18:10:09Z",
+        "lastReleaseId": "RE_kwDOOAhtcs4WWxMn",
+        "lastPublishedAt": "2026-08-22T23:41:19Z",
         "releaseHistoryCursor": null
       },
       "tmc/nlm": {},
@@ -1944,8 +1946,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4WTJHY",
-        "lastPublishedAt": "2026-08-21T01:18:04Z",
+        "lastReleaseId": "RE_kwDONrCobc4WWwFR",
+        "lastPublishedAt": "2026-08-22T23:11:48Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
