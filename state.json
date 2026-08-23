@@ -990,6 +990,51 @@
       ],
       "2026-08-23": [
         {
+          "id": "RE_kwDOQvjuaM4WXtRM",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.374.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.374.0",
+          "publishedAt": "2026-08-23T20:09:02Z",
+          "name": "v0.374.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WXojP",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.127",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.127",
+          "publishedAt": "2026-08-23T18:39:34Z",
+          "name": "v8.4.127 - Load exported YOLO models with the correct task across all 20 formats (#25886)"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WXnB1",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.373.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.373.0",
+          "publishedAt": "2026-08-23T18:15:17Z",
+          "name": "v0.373.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WXiAs",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.11",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.11",
+          "publishedAt": "2026-08-23T16:46:13Z",
+          "name": "v2026.8.11: Automatic updates, remote mise installs, and versioned lockfiles"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WXg1j",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.372.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.372.0",
+          "publishedAt": "2026-08-23T16:24:38Z",
+          "name": "v0.372.0"
+        },
+        {
           "id": "RE_kwDOAB79bM4WXez9",
           "owner": "foliojs",
           "repo": "pdfkit",
@@ -1303,8 +1348,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WXdrS",
-        "lastPublishedAt": "2026-08-23T15:31:08Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WXtRM",
+        "lastPublishedAt": "2026-08-23T20:09:02Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2125,8 +2170,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WSTgY",
-        "lastPublishedAt": "2026-08-20T17:05:41Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WXiAs",
+        "lastPublishedAt": "2026-08-23T16:46:13Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2551,8 +2596,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WUa4j",
-        "lastPublishedAt": "2026-08-21T14:14:00Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WXojP",
+        "lastPublishedAt": "2026-08-23T18:39:34Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
