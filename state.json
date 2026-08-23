@@ -990,6 +990,42 @@
       ],
       "2026-08-23": [
         {
+          "id": "RE_kwDOAB79bM4WXez9",
+          "owner": "foliojs",
+          "repo": "pdfkit",
+          "tag": "v0.20.1",
+          "url": "https://github.com/foliojs/pdfkit/releases/tag/v0.20.1",
+          "publishedAt": "2026-08-23T15:50:51Z",
+          "name": "v0.20.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WXdrS",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.371.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.371.0",
+          "publishedAt": "2026-08-23T15:31:08Z",
+          "name": "v0.371.0"
+        },
+        {
+          "id": "RE_kwDOAB79bM4WXThq",
+          "owner": "foliojs",
+          "repo": "pdfkit",
+          "tag": "v0.20.0",
+          "url": "https://github.com/foliojs/pdfkit/releases/tag/v0.20.0",
+          "publishedAt": "2026-08-23T13:39:25Z",
+          "name": "v0.20.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WXVt7",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.370.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.370.0",
+          "publishedAt": "2026-08-23T13:20:23Z",
+          "name": "v0.370.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4WXQVn",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1267,8 +1303,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WXQVn",
-        "lastPublishedAt": "2026-08-23T11:44:15Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WXdrS",
+        "lastPublishedAt": "2026-08-23T15:31:08Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1769,8 +1805,9 @@
         "lastPublishedAt": "2026-05-17T01:38:45Z"
       },
       "foliojs/pdfkit": {
-        "lastReleaseId": "RE_kwDOAB79bM4UHYe6",
-        "lastPublishedAt": "2026-06-10T19:33:13Z"
+        "lastReleaseId": "RE_kwDOAB79bM4WXez9",
+        "lastPublishedAt": "2026-08-23T15:50:51Z",
+        "releaseHistoryCursor": null
       },
       "Mekann2904/obsidian-pdf-mistral-plugin": {
         "lastReleaseId": "RE_kwDOOJRtws4Ulk6T",
