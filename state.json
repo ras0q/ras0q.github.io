@@ -990,6 +990,42 @@
       ],
       "2026-08-23": [
         {
+          "id": "RE_kwDOQvjuaM4WXQVn",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.369.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.369.0",
+          "publishedAt": "2026-08-23T11:44:15Z",
+          "name": "v0.369.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WXNn6",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.368.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.368.0",
+          "publishedAt": "2026-08-23T10:50:14Z",
+          "name": "v0.368.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WXKGh",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.367.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.367.0",
+          "publishedAt": "2026-08-23T09:37:39Z",
+          "name": "v0.367.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WXIhb",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.366.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.366.0",
+          "publishedAt": "2026-08-23T09:06:27Z",
+          "name": "v0.366.0"
+        },
+        {
           "id": "RE_kwDOGNEXps4WW_yQ",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1231,8 +1267,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WWTRx",
-        "lastPublishedAt": "2026-08-22T13:59:01Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WXQVn",
+        "lastPublishedAt": "2026-08-23T11:44:15Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
