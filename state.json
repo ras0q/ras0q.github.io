@@ -1107,6 +1107,33 @@
       ],
       "2026-08-24": [
         {
+          "id": "RE_kwDOLNZwwc4WYn0K",
+          "owner": "e18e",
+          "repo": "module-replacements",
+          "tag": "3.3.0",
+          "url": "https://github.com/e18e/module-replacements/releases/tag/3.3.0",
+          "publishedAt": "2026-08-24T08:36:32Z",
+          "name": "3.3.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WYnL_",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.12",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.12",
+          "publishedAt": "2026-08-24T08:33:55Z",
+          "name": "v2026.8.12: Cleaner diagnostics and a raft of task, config, and tool fixes"
+        },
+        {
+          "id": "RE_kwDOGNEXps4WYa6E",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.18",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.18",
+          "publishedAt": "2026-08-24T06:58:06Z",
+          "name": "1.0.18"
+        },
+        {
           "id": "RE_kwDONrCobc4WYNS3",
           "owner": "antfu",
           "repo": "node-modules-inspector",
@@ -1419,8 +1446,8 @@
         "lastPublishedAt": "2026-03-03T10:16:35Z"
       },
       "e18e/module-replacements": {
-        "lastReleaseId": "RE_kwDOLNZwwc4WLvGd",
-        "lastPublishedAt": "2026-08-18T07:54:52Z",
+        "lastReleaseId": "RE_kwDOLNZwwc4WYn0K",
+        "lastPublishedAt": "2026-08-24T08:36:32Z",
         "releaseHistoryCursor": null
       },
       "fand/ratride": {},
@@ -2207,8 +2234,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WXiAs",
-        "lastPublishedAt": "2026-08-23T16:46:13Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WYnL_",
+        "lastPublishedAt": "2026-08-24T08:33:55Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2760,8 +2787,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4WW_yQ",
-        "lastPublishedAt": "2026-08-23T06:01:47Z",
+        "lastReleaseId": "RE_kwDOGNEXps4WYa6E",
+        "lastPublishedAt": "2026-08-24T06:58:06Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
