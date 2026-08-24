@@ -1107,6 +1107,15 @@
       ],
       "2026-08-24": [
         {
+          "id": "RE_kwDOAZfQX84WYr3O",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.36.5",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.5",
+          "publishedAt": "2026-08-24T09:07:27Z",
+          "name": "v0.36.5"
+        },
+        {
           "id": "RE_kwDOLNZwwc4WYn0K",
           "owner": "e18e",
           "repo": "module-replacements",
@@ -3324,8 +3333,8 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84WHM_6",
-        "lastPublishedAt": "2026-08-15T07:24:35Z",
+        "lastReleaseId": "RE_kwDOAZfQX84WYr3O",
+        "lastPublishedAt": "2026-08-24T09:07:27Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
