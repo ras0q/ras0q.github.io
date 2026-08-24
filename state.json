@@ -1107,6 +1107,60 @@
       ],
       "2026-08-24": [
         {
+          "id": "RE_kwDOHm9BJM4WZjjq",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.40.1",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.1",
+          "publishedAt": "2026-08-24T15:23:08Z",
+          "name": "v0.40.1 Release"
+        },
+        {
+          "id": "RE_kwDOEXrCM84WZe6l",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v138",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v138",
+          "publishedAt": "2026-08-24T14:51:00Z",
+          "name": "Server v138"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WZbz4",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.386.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.386.0",
+          "publishedAt": "2026-08-24T14:34:58Z",
+          "name": "v0.386.0"
+        },
+        {
+          "id": "RE_kwDOLj4zss4WZQjZ",
+          "owner": "obsidianmd",
+          "repo": "eslint-plugin",
+          "tag": "0.4.2",
+          "url": "https://github.com/obsidianmd/eslint-plugin/releases/tag/0.4.2",
+          "publishedAt": "2026-08-24T13:30:47Z",
+          "name": "0.4.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WZPrO",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.385.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.385.0",
+          "publishedAt": "2026-08-24T13:25:46Z",
+          "name": "v0.385.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WZKe9",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.384.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.384.0",
+          "publishedAt": "2026-08-24T12:53:26Z",
+          "name": "v0.384.0"
+        },
+        {
           "id": "RE_kwDOAZfQX84WYr3O",
           "owner": "go-swagger",
           "repo": "go-swagger",
@@ -1421,8 +1475,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WYG7t",
-        "lastPublishedAt": "2026-08-24T03:13:54Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WZbz4",
+        "lastPublishedAt": "2026-08-24T14:34:58Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1711,8 +1765,9 @@
       },
       "taskgenius/taskgenius-plugin": {},
       "obsidianmd/eslint-plugin": {
-        "lastReleaseId": "RE_kwDOLj4zss4UwMW_",
-        "lastPublishedAt": "2026-07-02T16:55:14Z"
+        "lastReleaseId": "RE_kwDOLj4zss4WZQjZ",
+        "lastPublishedAt": "2026-08-24T13:30:47Z",
+        "releaseHistoryCursor": null
       },
       "gocica-go/gocica": {
         "lastReleaseId": "RE_kwDOOAZA_M4NP2qR",
@@ -2206,8 +2261,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84VjVIa",
-        "lastPublishedAt": "2026-07-29T07:51:03Z",
+        "lastReleaseId": "RE_kwDOEXrCM84WZe6l",
+        "lastPublishedAt": "2026-08-24T14:51:00Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -3164,8 +3219,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4WW9VC",
-        "lastPublishedAt": "2026-08-23T04:47:56Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4WZjjq",
+        "lastPublishedAt": "2026-08-24T15:23:08Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
