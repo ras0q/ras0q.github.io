@@ -1107,6 +1107,87 @@
       ],
       "2026-08-24": [
         {
+          "id": "RE_kwDOLFvGAc4WaHuI",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.12",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.12",
+          "publishedAt": "2026-08-24T19:41:37Z",
+          "name": "v0.2.12"
+        },
+        {
+          "id": "RE_kwDOIF_Mq84WaFgg",
+          "owner": "pointfreeco",
+          "repo": "swift-dependencies",
+          "tag": "1.17.0",
+          "url": "https://github.com/pointfreeco/swift-dependencies/releases/tag/1.17.0",
+          "publishedAt": "2026-08-24T19:25:25Z",
+          "name": "1.17.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4WaEuH",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.11",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.11",
+          "publishedAt": "2026-08-24T19:19:38Z",
+          "name": "v0.2.11"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4WaEoF",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.7",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.7",
+          "publishedAt": "2026-08-24T19:18:55Z",
+          "name": "cli-v0.1.7"
+        },
+        {
+          "id": "RE_kwDOOJyWhM4WZ_Dj",
+          "owner": "amatya-aditya",
+          "repo": "obsidian-rss-dashboard",
+          "tag": "2.6.0",
+          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/releases/tag/2.6.0",
+          "publishedAt": "2026-08-24T18:50:50Z",
+          "name": "2.6.0"
+        },
+        {
+          "id": "RE_kwDOK-QCA84WZ8nB",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v19.23.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.23.0",
+          "publishedAt": "2026-08-24T18:18:28Z",
+          "name": "v19.23.0"
+        },
+        {
+          "id": "RE_kwDOJKcikM4WZxrL",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.41.8",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.8",
+          "publishedAt": "2026-08-24T16:56:44Z",
+          "name": "@astrojs/starlight@0.41.8"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4WZvYa",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.6",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.6",
+          "publishedAt": "2026-08-24T16:40:13Z",
+          "name": "v0.15.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WZuIl",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.387.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.387.0",
+          "publishedAt": "2026-08-24T16:30:37Z",
+          "name": "v0.387.0"
+        },
+        {
           "id": "RE_kwDOHm9BJM4WZjjq",
           "owner": "pocketbase",
           "repo": "pocketbase",
@@ -1353,8 +1434,9 @@
       "addtobasic/ignite-website": {},
       "tadashi-aikawa/slidev-preview.nvim": {},
       "amatya-aditya/obsidian-rss-dashboard": {
-        "lastReleaseId": "RE_kwDOOJyWhM4VBJ7I",
-        "lastPublishedAt": "2026-07-11T23:17:35Z"
+        "lastReleaseId": "RE_kwDOOJyWhM4WZ_Dj",
+        "lastPublishedAt": "2026-08-24T18:50:50Z",
+        "releaseHistoryCursor": null
       },
       "FxEmbed/FxEmbed": {},
       "artginzburg/sudo-touchid": {
@@ -1475,8 +1557,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WZbz4",
-        "lastPublishedAt": "2026-08-24T14:34:58Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WZuIl",
+        "lastPublishedAt": "2026-08-24T16:30:37Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1488,8 +1570,8 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4Vlr2F",
-        "lastPublishedAt": "2026-07-30T05:09:19Z",
+        "lastReleaseId": "RE_kwDORQ3jDc4WZvYa",
+        "lastPublishedAt": "2026-08-24T16:40:13Z",
         "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
@@ -1677,8 +1759,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4VyDGD",
-        "lastPublishedAt": "2026-08-05T10:18:34Z",
+        "lastReleaseId": "RE_kwDOJKcikM4WZxrL",
+        "lastPublishedAt": "2026-08-24T16:56:44Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -1794,8 +1876,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84Vpfia",
-        "lastPublishedAt": "2026-07-31T16:29:20Z",
+        "lastReleaseId": "RE_kwDOK-QCA84WZ8nB",
+        "lastPublishedAt": "2026-08-24T18:18:28Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -2352,8 +2434,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4WIzcA",
-        "lastPublishedAt": "2026-08-16T18:55:51Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4WaHuI",
+        "lastPublishedAt": "2026-08-24T19:41:37Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2765,8 +2847,8 @@
         "lastPublishedAt": "2025-09-23T12:26:10Z"
       },
       "pointfreeco/swift-dependencies": {
-        "lastReleaseId": "RE_kwDOIF_Mq84WNxdE",
-        "lastPublishedAt": "2026-08-18T23:18:20Z",
+        "lastReleaseId": "RE_kwDOIF_Mq84WaFgg",
+        "lastPublishedAt": "2026-08-24T19:25:25Z",
         "releaseHistoryCursor": null
       },
       "kalupas226/tca-workshop": {},
