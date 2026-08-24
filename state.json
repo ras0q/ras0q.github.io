@@ -1107,6 +1107,51 @@
       ],
       "2026-08-24": [
         {
+          "id": "RE_kwDONrCobc4WYNS3",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.4.4",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.4",
+          "publishedAt": "2026-08-24T04:19:24Z",
+          "name": "v2.4.4"
+        },
+        {
+          "id": "RE_kwDOOELNJM4WYLQI",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.3.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.3.0",
+          "publishedAt": "2026-08-24T04:01:54Z",
+          "name": "vite-plus v0.3.0"
+        },
+        {
+          "id": "RE_kwDONpzSS84WYKRv",
+          "owner": "open-telemetry",
+          "repo": "opentelemetry-go-compile-instrumentation",
+          "tag": "v1.1.0",
+          "url": "https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/releases/tag/v1.1.0",
+          "publishedAt": "2026-08-24T03:47:44Z",
+          "name": "v1.1.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WYG7t",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.381.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.381.0",
+          "publishedAt": "2026-08-24T03:13:54Z",
+          "name": "v0.381.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WYBvM",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.380.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.380.0",
+          "publishedAt": "2026-08-24T02:10:34Z",
+          "name": "v0.380.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4WX8zt",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1204,8 +1249,9 @@
         "lastPublishedAt": "2026-03-15T02:57:53Z"
       },
       "open-telemetry/opentelemetry-go-compile-instrumentation": {
-        "lastReleaseId": "RE_kwDONpzSS84VFnDQ",
-        "lastPublishedAt": "2026-07-14T12:50:43Z"
+        "lastReleaseId": "RE_kwDONpzSS84WYKRv",
+        "lastPublishedAt": "2026-08-24T03:47:44Z",
+        "releaseHistoryCursor": null
       },
       "pionxzh/wakaru": {
         "lastReleaseId": "RE_kwDOI2v4zc4V5WyV",
@@ -1320,8 +1366,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4V_gdg",
-        "lastPublishedAt": "2026-08-12T03:04:02Z",
+        "lastReleaseId": "RE_kwDOOELNJM4WYLQI",
+        "lastPublishedAt": "2026-08-24T04:01:54Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1339,8 +1385,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WX8zt",
-        "lastPublishedAt": "2026-08-24T00:54:39Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WYG7t",
+        "lastPublishedAt": "2026-08-24T03:13:54Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2084,8 +2130,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4WWwFR",
-        "lastPublishedAt": "2026-08-22T23:11:48Z",
+        "lastReleaseId": "RE_kwDONrCobc4WYNS3",
+        "lastPublishedAt": "2026-08-24T04:19:24Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
