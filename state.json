@@ -1224,6 +1224,60 @@
       ],
       "2026-08-25": [
         {
+          "id": "RE_kwDOOt6mSM4Wc888",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.91.1",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.91.1",
+          "publishedAt": "2026-08-25T20:18:11Z",
+          "name": "v0.91.1"
+        },
+        {
+          "id": "RE_kwDOG034nM4Wc7d3",
+          "owner": "omnivore-app",
+          "repo": "omnivore",
+          "tag": "android-0.227.0",
+          "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.227.0",
+          "publishedAt": "2026-08-25T20:14:16Z",
+          "name": "android-0.227.0"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4Wc22X",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.6",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.6",
+          "publishedAt": "2026-08-25T19:41:07Z",
+          "name": "0.12.6"
+        },
+        {
+          "id": "RE_kwDOI2v4zc4Wcva2",
+          "owner": "pionxzh",
+          "repo": "wakaru",
+          "tag": "v1.10.0",
+          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.10.0",
+          "publishedAt": "2026-08-25T18:51:44Z",
+          "name": "v1.10.0"
+        },
+        {
+          "id": "RE_kwDOObWEYM4WctcJ",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.57.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.57.0",
+          "publishedAt": "2026-08-25T18:37:14Z",
+          "name": "Release v0.57.0"
+        },
+        {
+          "id": "RE_kwDOJKcikM4WcjN9",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.41.9",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.9",
+          "publishedAt": "2026-08-25T17:23:04Z",
+          "name": "@astrojs/starlight@0.41.9"
+        },
+        {
           "id": "RE_kwDOGNEXps4WcMFh",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1434,8 +1488,8 @@
         "releaseHistoryCursor": null
       },
       "pionxzh/wakaru": {
-        "lastReleaseId": "RE_kwDOI2v4zc4V5WyV",
-        "lastPublishedAt": "2026-08-09T02:17:39Z",
+        "lastReleaseId": "RE_kwDOI2v4zc4Wcva2",
+        "lastPublishedAt": "2026-08-25T18:51:44Z",
         "releaseHistoryCursor": null
       },
       "Akifyss/obsidian-border": {},
@@ -1708,8 +1762,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4WWp0o",
-        "lastPublishedAt": "2026-08-22T20:56:04Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4Wc888",
+        "lastPublishedAt": "2026-08-25T20:18:11Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1769,8 +1823,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4WZxrL",
-        "lastPublishedAt": "2026-08-24T16:56:44Z",
+        "lastReleaseId": "RE_kwDOJKcikM4WcjN9",
+        "lastPublishedAt": "2026-08-25T17:23:04Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -2003,8 +2057,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4WQBmx",
-        "lastPublishedAt": "2026-08-19T19:29:38Z",
+        "lastReleaseId": "RE_kwDOObWEYM4WctcJ",
+        "lastPublishedAt": "2026-08-25T18:37:14Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -2714,8 +2768,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4WGd5R",
-        "lastPublishedAt": "2026-08-14T19:57:52Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4Wc22X",
+        "lastPublishedAt": "2026-08-25T19:41:07Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -2813,8 +2867,9 @@
         "lastPublishedAt": "2026-06-27T18:50:19Z"
       },
       "omnivore-app/omnivore": {
-        "lastReleaseId": "RE_kwDOG034nM4JxiCA",
-        "lastPublishedAt": "2024-07-04T10:15:38Z"
+        "lastReleaseId": "RE_kwDOG034nM4Wc7d3",
+        "lastPublishedAt": "2026-08-25T20:14:16Z",
+        "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
         "lastReleaseId": "RE_kwDOH-jzvc4WapHX",
