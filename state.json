@@ -1224,6 +1224,33 @@
       ],
       "2026-08-25": [
         {
+          "id": "RE_kwDOCv6UO84V_viF",
+          "owner": "microsoft",
+          "repo": "PowerToys",
+          "tag": "v0.101.2362.0",
+          "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.101.2362.0",
+          "publishedAt": "2026-08-25T08:34:52Z",
+          "name": "Release v0.101.2362.0"
+        },
+        {
+          "id": "RE_kwDOFv84js4WbIPx",
+          "owner": "go-gorm",
+          "repo": "gen",
+          "tag": "tools/gentool/v0.0.3",
+          "url": "https://github.com/go-gorm/gen/releases/tag/tools/gentool/v0.0.3",
+          "publishedAt": "2026-08-25T07:17:44Z",
+          "name": "tools/gentool v0.0.3"
+        },
+        {
+          "id": "RE_kwDOFv84js4WbHkG",
+          "owner": "go-gorm",
+          "repo": "gen",
+          "tag": "v0.3.29",
+          "url": "https://github.com/go-gorm/gen/releases/tag/v0.3.29",
+          "publishedAt": "2026-08-25T07:12:10Z",
+          "name": "v0.3.29"
+        },
+        {
           "id": "RE_kwDOALIcz84Wa1ev",
           "owner": "rcmdnk",
           "repo": "vim_ahk",
@@ -2548,8 +2575,9 @@
       },
       "H4kor/fedi-games": {},
       "microsoft/PowerToys": {
-        "lastReleaseId": "RE_kwDOCv6UO84Uk_QB",
-        "lastPublishedAt": "2026-06-26T10:12:02Z"
+        "lastReleaseId": "RE_kwDOCv6UO84V_viF",
+        "lastPublishedAt": "2026-08-25T08:34:52Z",
+        "releaseHistoryCursor": null
       },
       "SSlime-s/authjs-traq-sample": {},
       "BasixKOR/awesome-activitypub": {},
@@ -3039,8 +3067,9 @@
         "lastPublishedAt": "2024-12-16T23:07:19Z"
       },
       "go-gorm/gen": {
-        "lastReleaseId": "RE_kwDOFv84js4T1y-O",
-        "lastPublishedAt": "2026-06-02T02:43:39Z"
+        "lastReleaseId": "RE_kwDOFv84js4WbIPx",
+        "lastPublishedAt": "2026-08-25T07:17:44Z",
+        "releaseHistoryCursor": null
       },
       "google/styleguide": {},
       "tsconfig/bases": {},
