@@ -1224,6 +1224,51 @@
       ],
       "2026-08-25": [
         {
+          "id": "RE_kwDOBSXbR84WbyAf",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v9.5.1",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.5.1",
+          "publishedAt": "2026-08-25T12:20:43Z",
+          "name": "v9.5.1"
+        },
+        {
+          "id": "RE_kwDOCPvJPM4Wbqs6",
+          "owner": "loov",
+          "repo": "goda",
+          "tag": "v0.10.1",
+          "url": "https://github.com/loov/goda/releases/tag/v0.10.1",
+          "publishedAt": "2026-08-25T11:28:00Z",
+          "name": "v0.10.1"
+        },
+        {
+          "id": "RE_kwDOCPvJPM4Wbo0L",
+          "owner": "loov",
+          "repo": "goda",
+          "tag": "v0.10.0",
+          "url": "https://github.com/loov/goda/releases/tag/v0.10.0",
+          "publishedAt": "2026-08-25T11:15:01Z",
+          "name": "v0.10.0"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4Wbl41",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.10.1",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.10.1",
+          "publishedAt": "2026-08-25T11:00:13Z",
+          "name": "v2.10.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Wbf4C",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.7.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.7.0",
+          "publishedAt": "2026-08-25T10:07:27Z",
+          "name": "v30.7.0"
+        },
+        {
           "id": "RE_kwDOCv6UO84V_viF",
           "owner": "microsoft",
           "repo": "PowerToys",
@@ -2312,8 +2357,8 @@
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4WQ85O",
-        "lastPublishedAt": "2026-08-20T08:10:25Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4Wbl41",
+        "lastPublishedAt": "2026-08-25T11:00:13Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
@@ -3203,8 +3248,9 @@
         "lastPublishedAt": "2022-05-11T17:34:02Z"
       },
       "loov/goda": {
-        "lastReleaseId": "RE_kwDOCPvJPM4Uwj1-",
-        "lastPublishedAt": "2026-07-02T20:24:31Z"
+        "lastReleaseId": "RE_kwDOCPvJPM4Wbqs6",
+        "lastPublishedAt": "2026-08-25T11:28:00Z",
+        "releaseHistoryCursor": null
       },
       "chromedp/chromedp": {
         "lastReleaseId": "RE_kwDOBMN_y84SHfwz",
@@ -3219,8 +3265,8 @@
         "lastPublishedAt": "2026-05-02T06:00:52Z"
       },
       "elastic/go-elasticsearch": {
-        "lastReleaseId": "RE_kwDOBSXbR84VwXjA",
-        "lastPublishedAt": "2026-08-04T16:16:21Z",
+        "lastReleaseId": "RE_kwDOBSXbR84WbyAf",
+        "lastPublishedAt": "2026-08-25T12:20:43Z",
         "releaseHistoryCursor": null
       },
       "peaks-cc/iOS_architecture_samplecode": {},
@@ -3337,8 +3383,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4WBpJA",
-        "lastPublishedAt": "2026-08-12T21:05:59Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Wbf4C",
+        "lastPublishedAt": "2026-08-25T10:07:27Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
