@@ -1221,6 +1221,35 @@
           "publishedAt": "2026-08-24T00:21:11Z",
           "name": "v0.378.0"
         }
+      ],
+      "2026-08-25": [
+        {
+          "id": "RE_kwDOALIcz84Wa1ev",
+          "owner": "rcmdnk",
+          "repo": "vim_ahk",
+          "tag": "v0.17.0",
+          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.17.0",
+          "publishedAt": "2026-08-25T03:48:57Z",
+          "name": "v0.17.0"
+        },
+        {
+          "id": "RE_kwDOOC1fY84Waxc4",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "3.9.1",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/3.9.1",
+          "publishedAt": "2026-08-25T02:56:22Z",
+          "name": "3.9.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WapHX",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.128",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.128",
+          "publishedAt": "2026-08-25T01:00:30Z",
+          "name": "v8.4.128 - Use synchronous OpenVINO batch inference (#25921)"
+        }
       ]
     }
   },
@@ -1557,8 +1586,8 @@
         "releaseHistoryCursor": null
       },
       "rcmdnk/vim_ahk": {
-        "lastReleaseId": "RE_kwDOALIcz84VrYQx",
-        "lastPublishedAt": "2026-08-02T04:00:19Z",
+        "lastReleaseId": "RE_kwDOALIcz84Wa1ev",
+        "lastPublishedAt": "2026-08-25T03:48:57Z",
         "releaseHistoryCursor": null
       },
       "tonisives/ovim": {
@@ -2149,8 +2178,8 @@
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastReleaseId": "RE_kwDOOC1fY84VpEP_",
-        "lastPublishedAt": "2026-07-31T13:32:02Z",
+        "lastReleaseId": "RE_kwDOOC1fY84Waxc4",
+        "lastPublishedAt": "2026-08-25T02:56:22Z",
         "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
@@ -2687,8 +2716,8 @@
         "lastPublishedAt": "2024-07-04T10:15:38Z"
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WXojP",
-        "lastPublishedAt": "2026-08-23T18:39:34Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WapHX",
+        "lastPublishedAt": "2026-08-25T01:00:30Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
