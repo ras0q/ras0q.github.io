@@ -1224,6 +1224,33 @@
       ],
       "2026-08-25": [
         {
+          "id": "RE_kwDOGNEXps4WcMFh",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.20",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.20",
+          "publishedAt": "2026-08-25T14:57:03Z",
+          "name": "1.0.20"
+        },
+        {
+          "id": "RE_kwDOH0TSTs4WcK-Q",
+          "owner": "Songmu",
+          "repo": "tagpr",
+          "tag": "v1.20.2",
+          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.20.2",
+          "publishedAt": "2026-08-25T14:48:20Z",
+          "name": "v1.20.2"
+        },
+        {
+          "id": "RE_kwDOIqKs2s4Wb4tC",
+          "owner": "azooKey",
+          "repo": "azooKey",
+          "tag": "v3.1",
+          "url": "https://github.com/azooKey/azooKey/releases/tag/v3.1",
+          "publishedAt": "2026-08-25T13:02:21Z",
+          "name": "v3.1"
+        },
+        {
           "id": "RE_kwDOBSXbR84WbyAf",
           "owner": "elastic",
           "repo": "go-elasticsearch",
@@ -1529,8 +1556,9 @@
         "lastPublishedAt": "2026-05-11T09:03:14Z"
       },
       "Songmu/tagpr": {
-        "lastReleaseId": "RE_kwDOH0TSTs4VFUsK",
-        "lastPublishedAt": "2026-07-14T10:28:03Z"
+        "lastReleaseId": "RE_kwDOH0TSTs4WcK-Q",
+        "lastPublishedAt": "2026-08-25T14:48:20Z",
+        "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
         "lastReleaseId": "RE_kwDOQu84n84WElkM",
@@ -2916,8 +2944,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4WYa6E",
-        "lastPublishedAt": "2026-08-24T06:58:06Z",
+        "lastReleaseId": "RE_kwDOGNEXps4WcMFh",
+        "lastPublishedAt": "2026-08-25T14:57:03Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3077,8 +3105,9 @@
         "lastPublishedAt": "2025-10-19T13:47:33Z"
       },
       "azooKey/azooKey": {
-        "lastReleaseId": "RE_kwDOIqKs2s4PKjJp",
-        "lastPublishedAt": "2025-10-14T15:58:07Z"
+        "lastReleaseId": "RE_kwDOIqKs2s4Wb4tC",
+        "lastPublishedAt": "2026-08-25T13:02:21Z",
+        "releaseHistoryCursor": null
       },
       "nilbuild/developer-roadmap": {
         "lastReleaseId": "RE_kwDOBRIuNs4FP3D8",
