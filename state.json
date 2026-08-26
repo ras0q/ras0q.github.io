@@ -1368,6 +1368,42 @@
       ],
       "2026-08-26": [
         {
+          "id": "RE_kwDOFhZBDs4WfFqA",
+          "owner": "bytedance",
+          "repo": "sonic",
+          "tag": "v1.15.3",
+          "url": "https://github.com/bytedance/sonic/releases/tag/v1.15.3",
+          "publishedAt": "2026-08-26T15:46:02Z",
+          "name": "v1.15.3"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4We1bO",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.32.3",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.32.3",
+          "publishedAt": "2026-08-26T13:51:39Z",
+          "name": "Release 6.32.3"
+        },
+        {
+          "id": "RE_kwDOG034nM4Wer9-",
+          "owner": "omnivore-app",
+          "repo": "omnivore",
+          "tag": "android-0.227.0",
+          "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.227.0",
+          "publishedAt": "2026-08-26T13:23:56Z",
+          "name": "android-0.227.0"
+        },
+        {
+          "id": "RE_kwDOFA4JCs4Weqpl",
+          "owner": "tadashi-aikawa",
+          "repo": "obsidian-various-complements-plugin",
+          "tag": "11.4.2",
+          "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/releases/tag/11.4.2",
+          "publishedAt": "2026-08-26T12:53:29Z",
+          "name": "11.4.2"
+        },
+        {
           "id": "RE_kwDON7Gnt84Welkw",
           "owner": "whitphx",
           "repo": "slidev-addon-fancy-arrow",
@@ -1920,8 +1956,8 @@
         "lastPublishedAt": "2025-11-24T03:50:37Z"
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4V_AqG",
-        "lastPublishedAt": "2026-08-11T20:30:55Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4We1bO",
+        "lastPublishedAt": "2026-08-26T13:51:39Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -2876,8 +2912,8 @@
         "releaseHistoryCursor": null
       },
       "tadashi-aikawa/obsidian-various-complements-plugin": {
-        "lastReleaseId": "RE_kwDOFA4JCs4Wd1Op",
-        "lastPublishedAt": "2026-08-26T06:24:39Z",
+        "lastReleaseId": "RE_kwDOFA4JCs4Weqpl",
+        "lastPublishedAt": "2026-08-26T12:53:29Z",
         "releaseHistoryCursor": null
       },
       "eza-community/eza": {
@@ -2905,8 +2941,8 @@
         "lastPublishedAt": "2026-06-27T18:50:19Z"
       },
       "omnivore-app/omnivore": {
-        "lastReleaseId": "RE_kwDOG034nM4Wc7d3",
-        "lastPublishedAt": "2026-08-25T20:14:16Z",
+        "lastReleaseId": "RE_kwDOG034nM4Wer9-",
+        "lastPublishedAt": "2026-08-26T13:23:56Z",
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
@@ -3395,8 +3431,8 @@
       "peaks-cc/iOS_architecture_samplecode": {},
       "craftdocs/craft-extension-inspirations": {},
       "bytedance/sonic": {
-        "lastReleaseId": "RE_kwDOFhZBDs4T68XM",
-        "lastPublishedAt": "2026-06-04T08:55:08Z",
+        "lastReleaseId": "RE_kwDOFhZBDs4WfFqA",
+        "lastPublishedAt": "2026-08-26T15:46:02Z",
         "releaseHistoryCursor": null
       },
       "kaz/pprotein": {
