@@ -1368,6 +1368,33 @@
       ],
       "2026-08-26": [
         {
+          "id": "RE_kwDOA6cUY84Wd9Hb",
+          "owner": "jpki",
+          "repo": "myna",
+          "tag": "v0.7.2",
+          "url": "https://github.com/jpki/myna/releases/tag/v0.7.2",
+          "publishedAt": "2026-08-26T07:33:47Z",
+          "name": "v0.7.2"
+        },
+        {
+          "id": "RE_kwDOFA4JCs4Wd1Op",
+          "owner": "tadashi-aikawa",
+          "repo": "obsidian-various-complements-plugin",
+          "tag": "11.4.1",
+          "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/releases/tag/11.4.1",
+          "publishedAt": "2026-08-26T06:24:39Z",
+          "name": "11.4.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Wd0KB",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.8.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.8.0",
+          "publishedAt": "2026-08-26T06:13:48Z",
+          "name": "v30.8.0"
+        },
+        {
           "id": "RE_kwDODVAw7c4WdduL",
           "owner": "traPtitech",
           "repo": "traQ_S-UI",
@@ -2822,8 +2849,9 @@
         "releaseHistoryCursor": null
       },
       "tadashi-aikawa/obsidian-various-complements-plugin": {
-        "lastReleaseId": "RE_kwDOFA4JCs4UgY6b",
-        "lastPublishedAt": "2026-06-24T10:27:09Z"
+        "lastReleaseId": "RE_kwDOFA4JCs4Wd1Op",
+        "lastPublishedAt": "2026-08-26T06:24:39Z",
+        "releaseHistoryCursor": null
       },
       "eza-community/eza": {
         "lastReleaseId": "RE_kwDOKAtYXM4U8sfO",
@@ -3127,8 +3155,9 @@
         "releaseHistoryCursor": null
       },
       "jpki/myna": {
-        "lastReleaseId": "RE_kwDOA6cUY84TECqR",
-        "lastPublishedAt": "2026-05-09T03:21:53Z"
+        "lastReleaseId": "RE_kwDOA6cUY84Wd9Hb",
+        "lastPublishedAt": "2026-08-26T07:33:47Z",
+        "releaseHistoryCursor": null
       },
       "SvenTiigi/WhatsNewKit": {
         "lastReleaseId": "RE_kwDOCAGCmc4JJqh3",
@@ -3450,8 +3479,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Wbf4C",
-        "lastPublishedAt": "2026-08-25T10:07:27Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Wd0KB",
+        "lastPublishedAt": "2026-08-26T06:13:48Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
