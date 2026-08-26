@@ -1368,6 +1368,60 @@
       ],
       "2026-08-26": [
         {
+          "id": "RE_kwDOLFvGAc4Wf1Ch",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.15",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.15",
+          "publishedAt": "2026-08-26T21:49:54Z",
+          "name": "v0.2.15"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4Wf0eh",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.8",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.8",
+          "publishedAt": "2026-08-26T21:44:19Z",
+          "name": "cli-v0.1.8"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4Wf0Fu",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.11.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.11.0",
+          "publishedAt": "2026-08-26T21:40:26Z",
+          "name": "v1.11.0 - Spec Diffs & Batch Status"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4WfrK4",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.2.1",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.2.1",
+          "publishedAt": "2026-08-26T20:33:56Z",
+          "name": "v0.2.1"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4WfYvx",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.14",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.14",
+          "publishedAt": "2026-08-26T18:12:27Z",
+          "name": "v0.2.14"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4WfOeF",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.91.2",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.91.2",
+          "publishedAt": "2026-08-26T17:03:03Z",
+          "name": "v0.91.2"
+        },
+        {
           "id": "RE_kwDOFhZBDs4WfFqA",
           "owner": "bytedance",
           "repo": "sonic",
@@ -1738,8 +1792,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4WQXSO",
-        "lastPublishedAt": "2026-08-19T22:33:44Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4Wf0Fu",
+        "lastPublishedAt": "2026-08-26T21:40:26Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -1834,8 +1888,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4Wc888",
-        "lastPublishedAt": "2026-08-25T20:18:11Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4WfOeF",
+        "lastPublishedAt": "2026-08-26T17:03:03Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -2571,8 +2625,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4WdPBw",
-        "lastPublishedAt": "2026-08-25T22:47:17Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4Wf1Ch",
+        "lastPublishedAt": "2026-08-26T21:49:54Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -3698,8 +3752,8 @@
       },
       "google/heir": {},
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4WVdKf",
-        "lastPublishedAt": "2026-08-21T23:31:59Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4WfrK4",
+        "lastPublishedAt": "2026-08-26T20:33:56Z",
         "releaseHistoryCursor": null
       }
     }
