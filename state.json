@@ -2,98 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-18",
       "2026-08-19",
       "2026-08-20",
       "2026-08-21",
       "2026-08-22",
       "2026-08-23",
-      "2026-08-24"
+      "2026-08-24",
+      "2026-08-25"
     ],
     "days": {
-      "2026-08-18": [
-        {
-          "id": "RE_kwDOIF_Mq84WNxdE",
-          "owner": "pointfreeco",
-          "repo": "swift-dependencies",
-          "tag": "1.16.0",
-          "url": "https://github.com/pointfreeco/swift-dependencies/releases/tag/1.16.0",
-          "publishedAt": "2026-08-18T23:18:20Z",
-          "name": "1.16.0"
-        },
-        {
-          "id": "RE_kwDOA1DMt84WNWN1",
-          "owner": "microsoft",
-          "repo": "WSL",
-          "tag": "2.7.12",
-          "url": "https://github.com/microsoft/WSL/releases/tag/2.7.12",
-          "publishedAt": "2026-08-18T21:12:01Z",
-          "name": "2.7.12"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4WNfEP",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.126.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.126.0",
-          "publishedAt": "2026-08-18T20:46:55Z",
-          "name": "v1.126.0"
-        },
-        {
-          "id": "RE_kwDORRnees4WNUux",
-          "owner": "kavinsood",
-          "repo": "yaos",
-          "tag": "2.1.0",
-          "url": "https://github.com/kavinsood/yaos/releases/tag/2.1.0",
-          "publishedAt": "2026-08-18T19:28:19Z",
-          "name": "2.1.0"
-        },
-        {
-          "id": "RE_kwDOQ52_2c4WNMP3",
-          "owner": "vercel-labs",
-          "repo": "json-render",
-          "tag": "v0.20.0",
-          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.20.0",
-          "publishedAt": "2026-08-18T18:23:29Z",
-          "name": "v0.20.0"
-        },
-        {
-          "id": "RE_kwDOG-K8R84WMlOQ",
-          "owner": "windingwind",
-          "repo": "zotero-pdf-translate",
-          "tag": "v2.4.7",
-          "url": "https://github.com/windingwind/zotero-pdf-translate/releases/tag/v2.4.7",
-          "publishedAt": "2026-08-18T14:07:07Z",
-          "name": "Release v2.4.7"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4WMazf",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.56.0",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.56.0",
-          "publishedAt": "2026-08-18T13:11:58Z",
-          "name": "0.56.0"
-        },
-        {
-          "id": "RE_kwDORRnees4WL-YI",
-          "owner": "kavinsood",
-          "repo": "yaos",
-          "tag": "2.0.0",
-          "url": "https://github.com/kavinsood/yaos/releases/tag/2.0.0",
-          "publishedAt": "2026-08-18T09:43:28Z",
-          "name": "2.0.0 🎉"
-        },
-        {
-          "id": "RE_kwDOLNZwwc4WLvGd",
-          "owner": "e18e",
-          "repo": "module-replacements",
-          "tag": "3.2.0",
-          "url": "https://github.com/e18e/module-replacements/releases/tag/3.2.0",
-          "publishedAt": "2026-08-18T07:54:52Z",
-          "name": "3.2.0"
-        }
-      ],
       "2026-08-19": [
         {
           "id": "RE_kwDOPYoUTM4WQXSO",
@@ -1224,6 +1141,51 @@
       ],
       "2026-08-25": [
         {
+          "id": "RE_kwDOLFvGAc4WdPBw",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.13",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.13",
+          "publishedAt": "2026-08-25T22:47:17Z",
+          "name": "v0.2.13"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WdNYo",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.13",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.13",
+          "publishedAt": "2026-08-25T22:28:40Z",
+          "name": "v2026.8.13: Task exclusions, visible conf.d fragments, and a broad round of fixes"
+        },
+        {
+          "id": "RE_kwDOFNWFc84WdGS-",
+          "owner": "obsidian-tasks-group",
+          "repo": "obsidian-tasks",
+          "tag": "8.4.0",
+          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.4.0",
+          "publishedAt": "2026-08-25T21:36:58Z",
+          "name": "8.4.0: Quick search, Column view (drag-and-drop tasks to change dates and priorities), group counts, Spanish and French translations"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4Wc-ei",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.129",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.129",
+          "publishedAt": "2026-08-25T20:28:07Z",
+          "name": "v8.4.129 - Delegate multi-dataset tuning to MultiTrainer (#25937)"
+        },
+        {
+          "id": "RE_kwDONvYw484Wc95H",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/vite-plugin@0.1.6",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%400.1.6",
+          "publishedAt": "2026-08-25T20:23:45Z",
+          "name": "@arkenv/vite-plugin@0.1.6"
+        },
+        {
           "id": "RE_kwDOOt6mSM4Wc888",
           "owner": "charmbracelet",
           "repo": "crush",
@@ -1844,8 +1806,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484VmpJa",
-        "lastPublishedAt": "2026-07-30T13:23:46Z",
+        "lastReleaseId": "RE_kwDONvYw484Wc95H",
+        "lastPublishedAt": "2026-08-25T20:23:45Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -2444,8 +2406,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WYnL_",
-        "lastPublishedAt": "2026-08-24T08:33:55Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WdNYo",
+        "lastPublishedAt": "2026-08-25T22:28:40Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2498,8 +2460,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4WaHuI",
-        "lastPublishedAt": "2026-08-24T19:41:37Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4WdPBw",
+        "lastPublishedAt": "2026-08-25T22:47:17Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -2784,8 +2746,8 @@
       "egonelbre/gophers": {},
       "golang/proposal": {},
       "obsidian-tasks-group/obsidian-tasks": {
-        "lastReleaseId": "RE_kwDOFNWFc84VYSjf",
-        "lastPublishedAt": "2026-07-23T13:12:56Z",
+        "lastReleaseId": "RE_kwDOFNWFc84WdGS-",
+        "lastPublishedAt": "2026-08-25T21:36:58Z",
         "releaseHistoryCursor": null
       },
       "utterance/utterances": {},
@@ -2872,8 +2834,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WapHX",
-        "lastPublishedAt": "2026-08-25T01:00:30Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Wc-ei",
+        "lastPublishedAt": "2026-08-25T20:28:07Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
