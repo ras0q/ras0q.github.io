@@ -1368,6 +1368,33 @@
       ],
       "2026-08-26": [
         {
+          "id": "RE_kwDON7Gnt84Welkw",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.18.1",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.18.1",
+          "publishedAt": "2026-08-26T12:24:59Z",
+          "name": "slidev-addon-fancy-arrow@0.18.1"
+        },
+        {
+          "id": "RE_kwDOGNEXps4Webxv",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.21",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.21",
+          "publishedAt": "2026-08-26T11:27:06Z",
+          "name": "1.0.21"
+        },
+        {
+          "id": "RE_kwDOABpTD84WeVrR",
+          "owner": "github-linguist",
+          "repo": "linguist",
+          "tag": "v9.7.0",
+          "url": "https://github.com/github-linguist/linguist/releases/tag/v9.7.0",
+          "publishedAt": "2026-08-26T10:30:59Z",
+          "name": "v9.7.0"
+        },
+        {
           "id": "RE_kwDOA6cUY84Wd9Hb",
           "owner": "jpki",
           "repo": "myna",
@@ -2205,8 +2232,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84WJIfE",
-        "lastPublishedAt": "2026-08-17T02:08:56Z",
+        "lastReleaseId": "RE_kwDON7Gnt84Welkw",
+        "lastPublishedAt": "2026-08-26T12:24:59Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
@@ -3010,8 +3037,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4WcMFh",
-        "lastPublishedAt": "2026-08-25T14:57:03Z",
+        "lastReleaseId": "RE_kwDOGNEXps4Webxv",
+        "lastPublishedAt": "2026-08-26T11:27:06Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3425,8 +3452,9 @@
         "lastPublishedAt": "2022-03-02T23:33:52Z"
       },
       "github-linguist/linguist": {
-        "lastReleaseId": "RE_kwDOABpTD84UBV3j",
-        "lastPublishedAt": "2026-06-08T11:02:58Z"
+        "lastReleaseId": "RE_kwDOABpTD84WeVrR",
+        "lastPublishedAt": "2026-08-26T10:30:59Z",
+        "releaseHistoryCursor": null
       },
       "ikatyang/emoji-cheat-sheet": {},
       "dannyfritz/commit-message-emoji": {
