@@ -1386,6 +1386,78 @@
       ],
       "2026-08-27": [
         {
+          "id": "RE_kwDOH-jzvc4Wh_Gn",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.131",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.131",
+          "publishedAt": "2026-08-27T17:35:43Z",
+          "name": "v8.4.131 - Add Apple Core AI export (#25926)"
+        },
+        {
+          "id": "RE_kwDOB_QrUM4Wh3uT",
+          "owner": "denoland",
+          "repo": "deno",
+          "tag": "v2.9.6",
+          "url": "https://github.com/denoland/deno/releases/tag/v2.9.6",
+          "publishedAt": "2026-08-27T17:29:30Z",
+          "name": "v2.9.6"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4Wh3N8",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.5",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.5",
+          "publishedAt": "2026-08-27T16:37:58Z",
+          "name": "0.16.5"
+        },
+        {
+          "id": "RE_kwDOGiIVa84WhP3c",
+          "owner": "go-webauthn",
+          "repo": "webauthn",
+          "tag": "v0.18.0",
+          "url": "https://github.com/go-webauthn/webauthn/releases/tag/v0.18.0",
+          "publishedAt": "2026-08-27T12:44:02Z",
+          "name": "v0.18.0"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4WhIW9",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.2.3",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.2.3",
+          "publishedAt": "2026-08-27T12:03:10Z",
+          "name": "v0.2.3"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4WhFEr",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.2.2",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.2.2",
+          "publishedAt": "2026-08-27T11:39:47Z",
+          "name": "v0.2.2"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4WgyMB",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.9.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.9.0",
+          "publishedAt": "2026-08-27T09:10:26Z",
+          "name": "v30.9.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4WghTu",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v30.8.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.8.1",
+          "publishedAt": "2026-08-27T07:10:12Z",
+          "name": "v30.8.1"
+        },
+        {
           "id": "RE_kwDOQ63fjM4WgRuQ",
           "owner": "eugenioenko",
           "repo": "ttt",
@@ -2562,8 +2634,8 @@
         "lastPublishedAt": "2026-01-31T11:24:10Z"
       },
       "denoland/deno": {
-        "lastReleaseId": "RE_kwDOB_QrUM4V1BkW",
-        "lastPublishedAt": "2026-08-06T15:05:43Z",
+        "lastReleaseId": "RE_kwDOB_QrUM4Wh3uT",
+        "lastPublishedAt": "2026-08-27T17:29:30Z",
         "releaseHistoryCursor": null
       },
       "go-michi/michi": {},
@@ -2875,8 +2947,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Wf-jc",
-        "lastPublishedAt": "2026-08-26T23:47:20Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Wh_Gn",
+        "lastPublishedAt": "2026-08-27T17:35:43Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2929,8 +3001,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4WSYyP",
-        "lastPublishedAt": "2026-08-20T17:44:56Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4Wh3N8",
+        "lastPublishedAt": "2026-08-27T16:37:58Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -3098,8 +3170,9 @@
         "releaseHistoryCursor": null
       },
       "go-webauthn/webauthn": {
-        "lastReleaseId": "RE_kwDOGiIVa84Tin1a",
-        "lastPublishedAt": "2026-05-22T12:32:17Z"
+        "lastReleaseId": "RE_kwDOGiIVa84WhP3c",
+        "lastPublishedAt": "2026-08-27T12:44:02Z",
+        "releaseHistoryCursor": null
       },
       "rasbt/machine-learning-book": {
         "lastReleaseId": "RE_kwDOGjX0T84Dmw-G",
@@ -3472,8 +3545,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Wd0KB",
-        "lastPublishedAt": "2026-08-26T06:13:48Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4WgyMB",
+        "lastPublishedAt": "2026-08-27T09:10:26Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -3627,13 +3700,13 @@
       },
       "google/heir": {},
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4WfrK4",
-        "lastPublishedAt": "2026-08-26T20:33:56Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4WhIW9",
+        "lastPublishedAt": "2026-08-27T12:03:10Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
-        "lastPublishedAt": "2026-08-11T18:18:29Z",
         "lastReleaseId": "RE_kwDOSAC1Ws4V-uuU",
+        "lastPublishedAt": "2026-08-11T18:18:29Z",
         "releaseHistoryCursor": null
       }
     }
