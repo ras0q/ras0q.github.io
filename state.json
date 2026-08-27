@@ -2,170 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-19",
       "2026-08-20",
       "2026-08-21",
       "2026-08-22",
       "2026-08-23",
       "2026-08-24",
-      "2026-08-25"
+      "2026-08-25",
+      "2026-08-26"
     ],
     "days": {
-      "2026-08-19": [
-        {
-          "id": "RE_kwDOPYoUTM4WQXSO",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.10.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.10.0",
-          "publishedAt": "2026-08-19T22:33:44Z",
-          "name": "v1.10.0 - Zed support, quieter installs"
-        },
-        {
-          "id": "RE_kwDOIvux3s4WQPpJ",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.9",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.9",
-          "publishedAt": "2026-08-19T21:19:31Z",
-          "name": "v2026.8.9: Composable Bootstrap, Environment-Aware conf.d, and Faster Startup"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4WQNnx",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.90.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.90.0",
-          "publishedAt": "2026-08-19T21:01:49Z",
-          "name": "v0.90.0"
-        },
-        {
-          "id": "RE_kwDOCciW1M4WQK6t",
-          "owner": "files-community",
-          "repo": "Files",
-          "tag": "v4.2.9",
-          "url": "https://github.com/files-community/Files/releases/tag/v4.2.9",
-          "publishedAt": "2026-08-19T20:39:26Z",
-          "name": "v4.2.9"
-        },
-        {
-          "id": "RE_kwDOB21G7c4WQD0P",
-          "owner": "cel-expr",
-          "repo": "cel-go",
-          "tag": "v0.32.0",
-          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.32.0",
-          "publishedAt": "2026-08-19T19:43:14Z",
-          "name": "Release v0.32.0"
-        },
-        {
-          "id": "RE_kwDOObWEYM4WQBmx",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.56.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0",
-          "publishedAt": "2026-08-19T19:29:38Z",
-          "name": "Release v0.56.0"
-        },
-        {
-          "id": "RE_kwDORKDUAs4WP1nb",
-          "owner": "alberti42",
-          "repo": "zsh-appearance-control",
-          "tag": "v2.2.1",
-          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.2.1",
-          "publishedAt": "2026-08-19T18:04:47Z",
-          "name": "v2.2.1"
-        },
-        {
-          "id": "RE_kwDORKDUAs4WPvRk",
-          "owner": "alberti42",
-          "repo": "zsh-appearance-control",
-          "tag": "v2.2.0",
-          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.2.0",
-          "publishedAt": "2026-08-19T17:25:10Z",
-          "name": "v2.2.0"
-        },
-        {
-          "id": "RE_kwDODeVIac4WPgS_",
-          "owner": "charmbracelet",
-          "repo": "bubbletea",
-          "tag": "v2.0.9",
-          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.9",
-          "publishedAt": "2026-08-19T15:33:34Z",
-          "name": "v2.0.9"
-        },
-        {
-          "id": "RE_kwDOJFqMhs4WPTkj",
-          "owner": "mattn",
-          "repo": "bsky",
-          "tag": "v0.0.82",
-          "url": "https://github.com/mattn/bsky/releases/tag/v0.0.82",
-          "publishedAt": "2026-08-19T14:18:08Z",
-          "name": "bsky v0.0.82"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WPN-N",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.123",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.123",
-          "publishedAt": "2026-08-19T13:46:52Z",
-          "name": "v8.4.123 - Accept existing depth dataset formats (#25859)"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WPCdc",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.350.2",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.350.2",
-          "publishedAt": "2026-08-19T12:45:11Z",
-          "name": "v0.350.2"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WOreQ",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.122",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.122",
-          "publishedAt": "2026-08-19T10:01:51Z",
-          "name": "v8.4.122 - Use canonical PNG depth maps (#25858)"
-        },
-        {
-          "id": "RE_kwDOGNEXps4WOnaX",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.16",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.16",
-          "publishedAt": "2026-08-19T09:36:37Z",
-          "name": "1.0.16"
-        },
-        {
-          "id": "RE_kwDOFYUYQs4WOQ8x",
-          "owner": "slidevjs",
-          "repo": "slidev",
-          "tag": "v52.19.1",
-          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.19.1",
-          "publishedAt": "2026-08-19T06:24:24Z",
-          "name": "v52.19.1"
-        },
-        {
-          "id": "RE_kwDORSib_s4WOHUO",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.13.1",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.13.1",
-          "publishedAt": "2026-08-19T04:32:27Z",
-          "name": "acpx v0.13.1"
-        },
-        {
-          "id": "RE_kwDOJCIvuc4WN4Mt",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.6",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.6",
-          "publishedAt": "2026-08-19T00:51:31Z",
-          "name": "1.9.6"
-        }
-      ],
       "2026-08-20": [
         {
           "id": "RE_kwDOQvjuaM4WS85F",
@@ -1368,6 +1213,15 @@
       ],
       "2026-08-26": [
         {
+          "id": "RE_kwDOH-jzvc4Wf-jc",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.130",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.130",
+          "publishedAt": "2026-08-26T23:47:20Z",
+          "name": "v8.4.130 - Enable fraction to limit dataset by image counts (#25951)"
+        },
+        {
           "id": "RE_kwDOLFvGAc4Wf1Ch",
           "owner": "sweetpad-dev",
           "repo": "sweetpad",
@@ -1528,6 +1382,26 @@
           "url": "https://github.com/jdx/mise/releases/tag/v2026.8.14",
           "publishedAt": "2026-08-26T01:16:21Z",
           "name": "v2026.8.14: npm/aube install fixes and cleaner temp/prune handling"
+        }
+      ],
+      "2026-08-27": [
+        {
+          "id": "RE_kwDOQ63fjM4WgRuQ",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.4.0",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.4.0",
+          "publishedAt": "2026-08-27T04:13:19Z",
+          "name": "v1.4.0"
+        },
+        {
+          "id": "RE_kwDOAAIHMs4WgH2k",
+          "owner": "keycastr",
+          "repo": "keycastr",
+          "tag": "v0.11.0",
+          "url": "https://github.com/keycastr/keycastr/releases/tag/v0.11.0",
+          "publishedAt": "2026-08-27T01:48:23Z",
+          "name": "New \"Minimal\" Visualizer"
         }
       ]
     }
@@ -2006,8 +1880,9 @@
         "releaseHistoryCursor": null
       },
       "keycastr/keycastr": {
-        "lastReleaseId": "RE_kwDOAAIHMs4Pxprx",
-        "lastPublishedAt": "2025-11-24T03:50:37Z"
+        "lastReleaseId": "RE_kwDOAAIHMs4WgH2k",
+        "lastPublishedAt": "2026-08-27T01:48:23Z",
+        "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
         "lastReleaseId": "RE_kwDOIIPL1M4We1bO",
@@ -3000,8 +2875,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Wc-ei",
-        "lastPublishedAt": "2026-08-25T20:28:07Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Wf-jc",
+        "lastPublishedAt": "2026-08-26T23:47:20Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3746,14 +3621,19 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4WVuep",
-        "lastPublishedAt": "2026-08-22T03:59:21Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4WgRuQ",
+        "lastPublishedAt": "2026-08-27T04:13:19Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {},
       "avante-corp/avante.nvim": {
         "lastReleaseId": "RE_kwDOMjjYJM4WfrK4",
         "lastPublishedAt": "2026-08-26T20:33:56Z",
+        "releaseHistoryCursor": null
+      },
+      "natalie-o-perret/go-functionalish": {
+        "lastPublishedAt": "2026-08-11T18:18:29Z",
+        "lastReleaseId": "RE_kwDOSAC1Ws4V-uuU",
         "releaseHistoryCursor": null
       }
     }
