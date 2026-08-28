@@ -1350,6 +1350,60 @@
       ],
       "2026-08-28": [
         {
+          "id": "RE_kwDOPDzQl84WkMYp",
+          "owner": "yoshiko-pg",
+          "repo": "difit",
+          "tag": "v5.0.12",
+          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.12",
+          "publishedAt": "2026-08-28T15:33:25Z",
+          "name": "v5.0.12"
+        },
+        {
+          "id": "RE_kwDOJKcikM4WkAOy",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.41.10",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.10",
+          "publishedAt": "2026-08-28T14:21:37Z",
+          "name": "@astrojs/starlight@0.41.10"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4Wj20V",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.128.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.128.0",
+          "publishedAt": "2026-08-28T13:19:12Z",
+          "name": "v1.128.0"
+        },
+        {
+          "id": "RE_kwDOG034nM4WjutW",
+          "owner": "omnivore-app",
+          "repo": "omnivore",
+          "tag": "android-0.229.0",
+          "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.229.0",
+          "publishedAt": "2026-08-28T12:21:43Z",
+          "name": "android-0.229.0"
+        },
+        {
+          "id": "RE_kwDON7Gnt84WjNju",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.18.2",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.18.2",
+          "publishedAt": "2026-08-28T07:45:14Z",
+          "name": "slidev-addon-fancy-arrow@0.18.2"
+        },
+        {
+          "id": "RE_kwDOHrOdo84Wi8MN",
+          "owner": "runmedev",
+          "repo": "runme",
+          "tag": "v3.17.5",
+          "url": "https://github.com/runmedev/runme/releases/tag/v3.17.5",
+          "publishedAt": "2026-08-28T04:20:34Z",
+          "name": "v3.17.5"
+        },
+        {
           "id": "RE_kwDOQHjZG84WisTQ",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1778,8 +1832,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4WcjN9",
-        "lastPublishedAt": "2026-08-25T17:23:04Z",
+        "lastReleaseId": "RE_kwDOJKcikM4WkAOy",
+        "lastPublishedAt": "2026-08-28T14:21:37Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -1808,8 +1862,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4WUvUm",
-        "lastPublishedAt": "2026-08-21T16:30:18Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Wj20V",
+        "lastPublishedAt": "2026-08-28T13:19:12Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -1990,8 +2044,8 @@
       },
       "memento-org/memento-lang": {},
       "yoshiko-pg/difit": {
-        "lastReleaseId": "RE_kwDOPDzQl84V5hMu",
-        "lastPublishedAt": "2026-08-09T06:45:41Z",
+        "lastReleaseId": "RE_kwDOPDzQl84WkMYp",
+        "lastPublishedAt": "2026-08-28T15:33:25Z",
         "releaseHistoryCursor": null
       },
       "yknishidate/CalexCodeJP": {},
@@ -2152,8 +2206,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84Welkw",
-        "lastPublishedAt": "2026-08-26T12:24:59Z",
+        "lastReleaseId": "RE_kwDON7Gnt84WjNju",
+        "lastPublishedAt": "2026-08-28T07:45:14Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
@@ -2585,8 +2639,8 @@
         "lastPublishedAt": "2026-04-28T11:38:20Z"
       },
       "runmedev/runme": {
-        "lastReleaseId": "RE_kwDOHrOdo84WEcyL",
-        "lastPublishedAt": "2026-08-13T23:27:53Z",
+        "lastReleaseId": "RE_kwDOHrOdo84Wi8MN",
+        "lastPublishedAt": "2026-08-28T04:20:34Z",
         "releaseHistoryCursor": null
       },
       "joerdav/xc": {
@@ -2825,8 +2879,8 @@
         "lastPublishedAt": "2026-06-27T18:50:19Z"
       },
       "omnivore-app/omnivore": {
-        "lastReleaseId": "RE_kwDOG034nM4Wiolj",
-        "lastPublishedAt": "2026-08-27T23:29:02Z",
+        "lastReleaseId": "RE_kwDOG034nM4WjutW",
+        "lastPublishedAt": "2026-08-28T12:21:43Z",
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
