@@ -1314,6 +1314,15 @@
       ],
       "2026-08-29": [
         {
+          "id": "RE_kwDOH-jzvc4WlteJ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.133",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.133",
+          "publishedAt": "2026-08-29T12:53:59Z",
+          "name": "v8.4.133 - Improve hyperparameter Tuner mutation convergence (#25984)"
+        },
+        {
           "id": "RE_kwDOKMzyM84Wlcuc",
           "owner": "OpenSwiftUIProject",
           "repo": "OpenSwiftUI",
@@ -2812,8 +2821,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WkhBQ",
-        "lastPublishedAt": "2026-08-28T18:05:15Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WlteJ",
+        "lastPublishedAt": "2026-08-29T12:53:59Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
