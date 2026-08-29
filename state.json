@@ -2,179 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-21",
       "2026-08-22",
       "2026-08-23",
       "2026-08-24",
       "2026-08-25",
       "2026-08-26",
-      "2026-08-27"
+      "2026-08-27",
+      "2026-08-28"
     ],
     "days": {
-      "2026-08-21": [
-        {
-          "id": "RE_kwDOMjjYJM4WVdKf",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "release-v0.2",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/release-v0.2",
-          "publishedAt": "2026-08-21T23:31:59Z",
-          "name": "avante-libs release-v0.2"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4WVJrA",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.56.1",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.56.1",
-          "publishedAt": "2026-08-21T19:59:21Z",
-          "name": "0.56.1"
-        },
-        {
-          "id": "RE_kwDOR1G_Qs4WUyzx",
-          "owner": "zonuexe",
-          "repo": "riida",
-          "tag": "v0.8.1",
-          "url": "https://github.com/zonuexe/riida/releases/tag/v0.8.1",
-          "publishedAt": "2026-08-21T16:59:06Z",
-          "name": "[0.8.1] - 2026-08-22"
-        },
-        {
-          "id": "RE_kwDOBbx18s4WUxhl",
-          "owner": "mgechev",
-          "repo": "revive",
-          "tag": "v1.16.0",
-          "url": "https://github.com/mgechev/revive/releases/tag/v1.16.0",
-          "publishedAt": "2026-08-21T16:47:59Z",
-          "name": "v1.16.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4WUvUm",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.127.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.127.0",
-          "publishedAt": "2026-08-21T16:30:18Z",
-          "name": "v1.127.0"
-        },
-        {
-          "id": "RE_kwDOJE7Z-84WUq9B",
-          "owner": "Zxilly",
-          "repo": "go-size-analyzer",
-          "tag": "v1.14.0",
-          "url": "https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.14.0",
-          "publishedAt": "2026-08-21T15:58:15Z",
-          "name": "v1.14.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WUqZk",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.357.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.357.0",
-          "publishedAt": "2026-08-21T15:54:24Z",
-          "name": "v0.357.0"
-        },
-        {
-          "id": "RE_kwDOAaTAks4WToUR",
-          "owner": "ryanoasis",
-          "repo": "nerd-fonts",
-          "tag": "v3.5.1",
-          "url": "https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.5.1",
-          "publishedAt": "2026-08-21T15:21:46Z",
-          "name": "v3.5.1"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WUa4j",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.126",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.126",
-          "publishedAt": "2026-08-21T14:14:00Z",
-          "name": "v8.4.126 - Make restricted checkpoint loading thread-safe and 40% faster, simplify RLE prior (#25885)"
-        },
-        {
-          "id": "RE_kwDOCRgRGs4WUYY6",
-          "owner": "wasmerio",
-          "repo": "wasmer",
-          "tag": "v7.3.0",
-          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.3.0",
-          "publishedAt": "2026-08-21T14:02:02Z",
-          "name": "Release v7.3.0"
-        },
-        {
-          "id": "RE_kwDOD6MHws4WUVeS",
-          "owner": "obsidianmd",
-          "repo": "obsidian-releases",
-          "tag": "v1.13.8",
-          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.13.8",
-          "publishedAt": "2026-08-21T13:53:55Z",
-          "name": "1.13.8"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WT707",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.125",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.125",
-          "publishedAt": "2026-08-21T10:26:05Z",
-          "name": "v8.4.125 - Speed up initial model loading (#25883)"
-        },
-        {
-          "id": "RE_kwDOPf38cc4WT6Ez",
-          "owner": "docker",
-          "repo": "github-builder",
-          "tag": "v1.17.0",
-          "url": "https://github.com/docker/github-builder/releases/tag/v1.17.0",
-          "publishedAt": "2026-08-21T10:11:18Z",
-          "name": "v1.17.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WTagJ",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.354.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.354.0",
-          "publishedAt": "2026-08-21T05:32:55Z",
-          "name": "v0.354.0"
-        },
-        {
-          "id": "RE_kwDOJCIvuc4WTKti",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.7",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.7",
-          "publishedAt": "2026-08-21T01:42:29Z",
-          "name": "1.9.7"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WTJf-",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.353.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.353.0",
-          "publishedAt": "2026-08-21T01:24:15Z",
-          "name": "v0.353.0"
-        },
-        {
-          "id": "RE_kwDONrCobc4WTJHY",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.4.2",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.2",
-          "publishedAt": "2026-08-21T01:18:04Z",
-          "name": "v2.4.2"
-        },
-        {
-          "id": "RE_kwDONrCobc4WTG2g",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.4.1",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.1",
-          "publishedAt": "2026-08-21T00:44:55Z",
-          "name": "v2.4.1"
-        }
-      ],
       "2026-08-22": [
         {
           "id": "RE_kwDOOAhtcs4WWxMn",
@@ -1350,6 +1186,69 @@
       ],
       "2026-08-28": [
         {
+          "id": "RE_kwDOKMzyM84Wk4ET",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.21.0",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.21.0",
+          "publishedAt": "2026-08-28T21:11:29Z",
+          "name": "0.21.0"
+        },
+        {
+          "id": "RE_kwDOD48kk84Wk3-i",
+          "owner": "pointfreeco",
+          "repo": "swift-composable-architecture",
+          "tag": "1.26.2",
+          "url": "https://github.com/pointfreeco/swift-composable-architecture/releases/tag/1.26.2",
+          "publishedAt": "2026-08-28T21:10:35Z",
+          "name": "1.26.2"
+        },
+        {
+          "id": "RE_kwDOIF_Mq84WkzdO",
+          "owner": "pointfreeco",
+          "repo": "swift-dependencies",
+          "tag": "1.17.1",
+          "url": "https://github.com/pointfreeco/swift-dependencies/releases/tag/1.17.1",
+          "publishedAt": "2026-08-28T20:25:16Z",
+          "name": "1.17.1"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84Wkoqo",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.12.5",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.5",
+          "publishedAt": "2026-08-28T19:01:28Z",
+          "name": "4.12.5"
+        },
+        {
+          "id": "RE_kwDORSib_s4WkmyV",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.13.2",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.13.2",
+          "publishedAt": "2026-08-28T18:43:25Z",
+          "name": "acpx v0.13.2"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WkhBQ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.132",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.132",
+          "publishedAt": "2026-08-28T18:05:15Z",
+          "name": "v8.4.132 - Extend fraction to the test split (#25966)"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4WkUFp",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.33.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.33.0",
+          "publishedAt": "2026-08-28T16:31:59Z",
+          "name": "Release 6.33.0"
+        },
+        {
           "id": "RE_kwDOPDzQl84WkMYp",
           "owner": "yoshiko-pg",
           "repo": "difit",
@@ -1411,6 +1310,26 @@
           "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.1",
           "publishedAt": "2026-08-28T00:21:16Z",
           "name": "Release v2.67.1"
+        }
+      ],
+      "2026-08-29": [
+        {
+          "id": "RE_kwDOM9WtiM4WlJgY",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.5.0",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.0",
+          "publishedAt": "2026-08-29T01:19:53Z",
+          "name": "v1.5.0"
+        },
+        {
+          "id": "RE_kwDOOzc9Ss4WlFJN",
+          "owner": "apple",
+          "repo": "container",
+          "tag": "1.3.1",
+          "url": "https://github.com/apple/container/releases/tag/1.3.1",
+          "publishedAt": "2026-08-29T00:24:57Z",
+          "name": "1.3.1"
         }
       ]
     }
@@ -1474,8 +1393,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4WOHUO",
-        "lastPublishedAt": "2026-08-19T04:32:27Z",
+        "lastReleaseId": "RE_kwDORSib_s4WkmyV",
+        "lastPublishedAt": "2026-08-28T18:43:25Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -1817,8 +1736,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84Vu632",
-        "lastPublishedAt": "2026-08-04T04:33:46Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Wk4ET",
+        "lastPublishedAt": "2026-08-28T21:11:29Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -1894,8 +1813,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4We1bO",
-        "lastPublishedAt": "2026-08-26T13:51:39Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4WkUFp",
+        "lastPublishedAt": "2026-08-28T16:31:59Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -1916,8 +1835,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84WX1no",
-        "lastPublishedAt": "2026-08-23T22:50:21Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84Wkoqo",
+        "lastPublishedAt": "2026-08-28T19:01:28Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -2098,8 +2017,8 @@
       },
       "tohutohu/discord-claude-code": {},
       "apple/container": {
-        "lastReleaseId": "RE_kwDOOzc9Ss4WaZhq",
-        "lastPublishedAt": "2026-08-24T22:37:18Z",
+        "lastReleaseId": "RE_kwDOOzc9Ss4WlFJN",
+        "lastPublishedAt": "2026-08-29T00:24:57Z",
         "releaseHistoryCursor": null
       },
       "anaisbetts/mcp-installer": {},
@@ -2173,8 +2092,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4WWaLD",
-        "lastPublishedAt": "2026-08-22T16:01:32Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4WlJgY",
+        "lastPublishedAt": "2026-08-29T01:19:53Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2884,8 +2803,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Wh_Gn",
-        "lastPublishedAt": "2026-08-27T17:35:43Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WkhBQ",
+        "lastPublishedAt": "2026-08-28T18:05:15Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2925,8 +2844,8 @@
         "lastPublishedAt": "2025-09-23T12:26:10Z"
       },
       "pointfreeco/swift-dependencies": {
-        "lastReleaseId": "RE_kwDOIF_Mq84WaFgg",
-        "lastPublishedAt": "2026-08-24T19:25:25Z",
+        "lastReleaseId": "RE_kwDOIF_Mq84WkzdO",
+        "lastPublishedAt": "2026-08-28T20:25:16Z",
         "releaseHistoryCursor": null
       },
       "kalupas226/tca-workshop": {},
@@ -3152,8 +3071,8 @@
         "lastPublishedAt": "2020-12-14T13:39:04Z"
       },
       "pointfreeco/swift-composable-architecture": {
-        "lastReleaseId": "RE_kwDOD48kk84VUHCH",
-        "lastPublishedAt": "2026-07-21T19:40:04Z",
+        "lastReleaseId": "RE_kwDOD48kk84Wk3-i",
+        "lastPublishedAt": "2026-08-28T21:10:35Z",
         "releaseHistoryCursor": null
       },
       "jpki/myna": {
