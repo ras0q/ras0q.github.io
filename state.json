@@ -1314,6 +1314,15 @@
       ],
       "2026-08-29": [
         {
+          "id": "RE_kwDOKMzyM84Wlcuc",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.21.0",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.21.0",
+          "publishedAt": "2026-08-29T07:56:07Z",
+          "name": "0.21.0"
+        },
+        {
           "id": "RE_kwDOM9WtiM4WlJgY",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -1736,8 +1745,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84Wk4ET",
-        "lastPublishedAt": "2026-08-28T21:11:29Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Wlcuc",
+        "lastPublishedAt": "2026-08-29T07:56:07Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
