@@ -1314,6 +1314,114 @@
       ],
       "2026-08-29": [
         {
+          "id": "RE_kwDOQHjZG84WmM9z",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.6",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.6",
+          "publishedAt": "2026-08-29T22:03:32Z",
+          "name": "Release v2.67.6"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4WmL6D",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.8",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.8",
+          "publishedAt": "2026-08-29T21:40:34Z",
+          "name": "1.9.8"
+        },
+        {
+          "id": "RE_kwDOQHjZG84WmJ79",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.5",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.5",
+          "publishedAt": "2026-08-29T21:03:08Z",
+          "name": "Release v2.67.5"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WmIB1",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.135",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.135",
+          "publishedAt": "2026-08-29T20:26:23Z",
+          "name": "v8.4.135 - Respect dataset object counts when selecting max_det (#25993)"
+        },
+        {
+          "id": "RE_kwDOQHjZG84WmH-c",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.4",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.4",
+          "publishedAt": "2026-08-29T20:25:27Z",
+          "name": "Release v2.67.4"
+        },
+        {
+          "id": "RE_kwDOQHjZG84WmEFD",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.3",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.3",
+          "publishedAt": "2026-08-29T19:12:16Z",
+          "name": "Release v2.67.3"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WmAko",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.134",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.134",
+          "publishedAt": "2026-08-29T18:07:00Z",
+          "name": "v8.4.134 - Reduce TaskAlignedAssigner OOM recovery cost (#25990)"
+        },
+        {
+          "id": "RE_kwDOQvKulM4Wl-AG",
+          "owner": "ascorbic",
+          "repo": "cirrus",
+          "tag": "@getcirrus/pds@0.19.0",
+          "url": "https://github.com/ascorbic/cirrus/releases/tag/%40getcirrus/pds%400.19.0",
+          "publishedAt": "2026-08-29T17:25:47Z",
+          "name": "@getcirrus/pds@0.19.0"
+        },
+        {
+          "id": "RE_kwDOQvKulM4Wl9_5",
+          "owner": "ascorbic",
+          "repo": "cirrus",
+          "tag": "@getcirrus/spaces@0.1.0",
+          "url": "https://github.com/ascorbic/cirrus/releases/tag/%40getcirrus/spaces%400.1.0",
+          "publishedAt": "2026-08-29T17:25:44Z",
+          "name": "@getcirrus/spaces@0.1.0"
+        },
+        {
+          "id": "RE_kwDOQvKulM4Wl9_k",
+          "owner": "ascorbic",
+          "repo": "cirrus",
+          "tag": "@getcirrus/oauth-provider@0.6.0",
+          "url": "https://github.com/ascorbic/cirrus/releases/tag/%40getcirrus/oauth-provider%400.6.0",
+          "publishedAt": "2026-08-29T17:25:41Z",
+          "name": "@getcirrus/oauth-provider@0.6.0"
+        },
+        {
+          "id": "RE_kwDOQvKulM4Wl9_X",
+          "owner": "ascorbic",
+          "repo": "cirrus",
+          "tag": "create-pds@0.1.0",
+          "url": "https://github.com/ascorbic/cirrus/releases/tag/create-pds%400.1.0",
+          "publishedAt": "2026-08-29T17:25:38Z",
+          "name": "create-pds@0.1.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Wl6OS",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.2",
+          "publishedAt": "2026-08-29T16:21:39Z",
+          "name": "Release v2.67.2"
+        },
+        {
           "id": "RE_kwDOH-jzvc4WlteJ",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1391,8 +1499,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84WisTQ",
-        "lastPublishedAt": "2026-08-28T00:21:16Z",
+        "lastReleaseId": "RE_kwDOQHjZG84WmM9z",
+        "lastPublishedAt": "2026-08-29T22:03:32Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1402,8 +1510,9 @@
         "releaseHistoryCursor": null
       },
       "ascorbic/cirrus": {
-        "lastReleaseId": "RE_kwDOQvKulM4TzntO",
-        "lastPublishedAt": "2026-06-01T05:36:56Z"
+        "lastReleaseId": "RE_kwDOQvKulM4Wl-AG",
+        "lastPublishedAt": "2026-08-29T17:25:47Z",
+        "releaseHistoryCursor": null
       },
       "tfcace/hash": {
         "lastReleaseId": "RE_kwDOQzKeuM4VcpSL",
@@ -2644,8 +2753,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4WTKti",
-        "lastPublishedAt": "2026-08-21T01:42:29Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4WmL6D",
+        "lastPublishedAt": "2026-08-29T21:40:34Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -2821,8 +2930,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WlteJ",
-        "lastPublishedAt": "2026-08-29T12:53:59Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WmIB1",
+        "lastPublishedAt": "2026-08-29T20:26:23Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
