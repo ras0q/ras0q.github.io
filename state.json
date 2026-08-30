@@ -1251,6 +1251,33 @@
       ],
       "2026-08-30": [
         {
+          "id": "RE_kwDOC3PEAc4WnM4x",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.57.0",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.57.0",
+          "publishedAt": "2026-08-30T21:09:02Z",
+          "name": "0.57.0"
+        },
+        {
+          "id": "RE_kwDOII1H084WnPya",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.27",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.27",
+          "publishedAt": "2026-08-30T19:59:35Z",
+          "name": "v0.5.27"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4WnO1D",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.1.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.1.0",
+          "publishedAt": "2026-08-30T19:41:59Z",
+          "name": "v31.1.0"
+        },
+        {
           "id": "RE_kwDON7Gnt84Wm2qT",
           "owner": "whitphx",
           "repo": "slidev-addon-fancy-arrow",
@@ -1968,8 +1995,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084WXzs8",
-        "lastPublishedAt": "2026-08-23T22:12:01Z",
+        "lastReleaseId": "RE_kwDOII1H084WnPya",
+        "lastPublishedAt": "2026-08-30T19:59:35Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -2460,8 +2487,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4WVJrA",
-        "lastPublishedAt": "2026-08-21T19:59:21Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4WnM4x",
+        "lastPublishedAt": "2026-08-30T21:09:02Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -3420,8 +3447,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4WmtnG",
-        "lastPublishedAt": "2026-08-30T10:22:07Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4WnO1D",
+        "lastPublishedAt": "2026-08-30T19:41:59Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
