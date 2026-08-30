@@ -1251,6 +1251,42 @@
       ],
       "2026-08-30": [
         {
+          "id": "RE_kwDOQHjZG84Wmhbe",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.10",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.10",
+          "publishedAt": "2026-08-30T06:12:00Z",
+          "name": "Release v2.67.10"
+        },
+        {
+          "id": "RE_kwDON7Gnt84WmgVT",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.19.0",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.19.0",
+          "publishedAt": "2026-08-30T05:44:35Z",
+          "name": "slidev-addon-fancy-arrow@0.19.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Wmdxl",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.9",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.9",
+          "publishedAt": "2026-08-30T04:40:02Z",
+          "name": "Release v2.67.9"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Wmb2A",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.67.8",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.8",
+          "publishedAt": "2026-08-30T03:53:45Z",
+          "name": "Release v2.67.8"
+        },
+        {
           "id": "RE_kwDOQHjZG84WmZAj",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1310,8 +1346,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84WmZAj",
-        "lastPublishedAt": "2026-08-30T02:43:58Z",
+        "lastReleaseId": "RE_kwDOQHjZG84Wmhbe",
+        "lastPublishedAt": "2026-08-30T06:12:00Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2063,8 +2099,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84WjNju",
-        "lastPublishedAt": "2026-08-28T07:45:14Z",
+        "lastReleaseId": "RE_kwDON7Gnt84WmgVT",
+        "lastPublishedAt": "2026-08-30T05:44:35Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
