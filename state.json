@@ -1251,6 +1251,51 @@
       ],
       "2026-08-30": [
         {
+          "id": "RE_kwDON7Gnt84Wm2qT",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.20.0",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.20.0",
+          "publishedAt": "2026-08-30T13:05:30Z",
+          "name": "slidev-addon-fancy-arrow@0.20.0"
+        },
+        {
+          "id": "RE_kwDOCN71Oc4WmxB6",
+          "owner": "o2sh",
+          "repo": "onefetch",
+          "tag": "2.28.1",
+          "url": "https://github.com/o2sh/onefetch/releases/tag/2.28.1",
+          "publishedAt": "2026-08-30T11:25:36Z",
+          "name": "2.28.1"
+        },
+        {
+          "id": "RE_kwDOCN71Oc4Wmvin",
+          "owner": "o2sh",
+          "repo": "onefetch",
+          "tag": "2.28.0",
+          "url": "https://github.com/o2sh/onefetch/releases/tag/2.28.0",
+          "publishedAt": "2026-08-30T10:58:03Z",
+          "name": "2.28.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4WmtnG",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.0.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.0.0",
+          "publishedAt": "2026-08-30T10:22:07Z",
+          "name": "v31.0.0"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4WmssD",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.29.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.29.0",
+          "publishedAt": "2026-08-30T10:04:54Z",
+          "name": "v0.29.0"
+        },
+        {
           "id": "RE_kwDOQHjZG84Wmhbe",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1466,8 +1511,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4V0l5e",
-        "lastPublishedAt": "2026-08-06T09:29:03Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4WmssD",
+        "lastPublishedAt": "2026-08-30T10:04:54Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -2099,8 +2144,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84WmgVT",
-        "lastPublishedAt": "2026-08-30T05:44:35Z",
+        "lastReleaseId": "RE_kwDON7Gnt84Wm2qT",
+        "lastPublishedAt": "2026-08-30T13:05:30Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
@@ -3375,8 +3420,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4WgyMB",
-        "lastPublishedAt": "2026-08-27T09:10:26Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4WmtnG",
+        "lastPublishedAt": "2026-08-30T10:22:07Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -3479,8 +3524,9 @@
       "dersvenhesse/awesome-scriptable": {},
       "SSlime-s/afk-animation": {},
       "o2sh/onefetch": {
-        "lastReleaseId": "RE_kwDOCN71Oc4R0Kxx",
-        "lastPublishedAt": "2026-03-19T10:22:47Z"
+        "lastReleaseId": "RE_kwDOCN71Oc4WmxB6",
+        "lastPublishedAt": "2026-08-30T11:25:36Z",
+        "releaseHistoryCursor": null
       },
       "tesso57/WinterHack2020": {},
       "philc/vimium": {},
