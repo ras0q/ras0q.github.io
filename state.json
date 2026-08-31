@@ -1194,6 +1194,35 @@
           "publishedAt": "2026-08-30T01:58:45Z",
           "name": "v0.20.2"
         }
+      ],
+      "2026-08-31": [
+        {
+          "id": "RE_kwDOPn2YWs4WoQLC",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.129.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.129.0",
+          "publishedAt": "2026-08-31T09:51:32Z",
+          "name": "v1.129.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4WoNmo",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.136",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.136",
+          "publishedAt": "2026-08-31T09:32:15Z",
+          "name": "v8.4.136 - Improve Tuner search with confidence-weighted covariance (#25996)"
+        },
+        {
+          "id": "RE_kwDOJOlQSc4WnoDn",
+          "owner": "penpenpng",
+          "repo": "rx-nostr",
+          "tag": "rx-nostr@3.7.6",
+          "url": "https://github.com/penpenpng/rx-nostr/releases/tag/rx-nostr%403.7.6",
+          "publishedAt": "2026-08-31T03:21:58Z",
+          "name": "rx-nostr@3.7.6"
+        }
       ]
     }
   },
@@ -1645,8 +1674,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4Wj20V",
-        "lastPublishedAt": "2026-08-28T13:19:12Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4WoQLC",
+        "lastPublishedAt": "2026-08-31T09:51:32Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2252,8 +2281,9 @@
         "lastPublishedAt": "2026-07-10T11:24:21Z"
       },
       "penpenpng/rx-nostr": {
-        "lastReleaseId": "RE_kwDOJOlQSc4Ukn9p",
-        "lastPublishedAt": "2026-06-26T06:05:48Z"
+        "lastReleaseId": "RE_kwDOJOlQSc4WnoDn",
+        "lastPublishedAt": "2026-08-31T03:21:58Z",
+        "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
         "lastReleaseId": "RE_kwDOMtN2Z84MbuJn",
@@ -2667,8 +2697,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WmIB1",
-        "lastPublishedAt": "2026-08-29T20:26:23Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WoNmo",
+        "lastPublishedAt": "2026-08-31T09:32:15Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
