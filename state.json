@@ -1197,6 +1197,132 @@
       ],
       "2026-08-31": [
         {
+          "id": "RE_kwDOIIPL1M4Wp8aK",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.34.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.34.0",
+          "publishedAt": "2026-08-31T22:35:47Z",
+          "name": "Release 6.34.0"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4Wp63p",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.8",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.8",
+          "publishedAt": "2026-08-31T22:18:57Z",
+          "name": "0.12.8"
+        },
+        {
+          "id": "RE_kwDOAWRolM4Wp52V",
+          "owner": "protocolbuffers",
+          "repo": "protobuf",
+          "tag": "v36.1",
+          "url": "https://github.com/protocolbuffers/protobuf/releases/tag/v36.1",
+          "publishedAt": "2026-08-31T22:10:23Z",
+          "name": "Protocol Buffers v36.1"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4WpwbI",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.92.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.92.0",
+          "publishedAt": "2026-08-31T20:53:04Z",
+          "name": "v0.92.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphXY",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "spa@0.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/spa%400.1.0",
+          "publishedAt": "2026-08-31T18:59:34Z",
+          "name": "spa v0.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphXM",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "render-middleware@0.2.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/render-middleware%400.2.0",
+          "publishedAt": "2026-08-31T18:59:33Z",
+          "name": "render-middleware v0.2.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphXF",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "ui@0.8.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/ui%400.8.0",
+          "publishedAt": "2026-08-31T18:59:32Z",
+          "name": "ui v0.8.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphW9",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cli@0.6.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/cli%400.6.0",
+          "publishedAt": "2026-08-31T18:59:31Z",
+          "name": "cli v0.6.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphWt",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "data-table-sqlite@0.6.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/data-table-sqlite%400.6.1",
+          "publishedAt": "2026-08-31T18:59:30Z",
+          "name": "data-table-sqlite v0.6.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphWk",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "data-table-mysql@0.5.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/data-table-mysql%400.5.1",
+          "publishedAt": "2026-08-31T18:59:29Z",
+          "name": "data-table-mysql v0.5.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphWp",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "data-table-postgres@0.5.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/data-table-postgres%400.5.1",
+          "publishedAt": "2026-08-31T18:59:29Z",
+          "name": "data-table-postgres v0.5.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphWb",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "data-table@0.5.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/data-table%400.5.0",
+          "publishedAt": "2026-08-31T18:59:28Z",
+          "name": "data-table v0.5.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphWS",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "auth@0.3.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/auth%400.3.0",
+          "publishedAt": "2026-08-31T18:59:27Z",
+          "name": "auth v0.3.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4WphWM",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "assets@0.6.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/assets%400.6.0",
+          "publishedAt": "2026-08-31T18:59:26Z",
+          "name": "assets v0.6.0"
+        },
+        {
           "id": "RE_kwDOH-jzvc4WpSux",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1616,8 +1742,8 @@
       },
       "adrian-thurston/ragel": {},
       "remix-run/remix": {
-        "lastReleaseId": "RE_kwDOElPqBM4WLCcd",
-        "lastPublishedAt": "2026-08-17T22:44:58Z",
+        "lastReleaseId": "RE_kwDOElPqBM4WphXY",
+        "lastPublishedAt": "2026-08-31T18:59:34Z",
         "releaseHistoryCursor": null
       },
       "ktnyt/cclsp": {},
@@ -1655,8 +1781,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4WfOeF",
-        "lastPublishedAt": "2026-08-26T17:03:03Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4WpwbI",
+        "lastPublishedAt": "2026-08-31T20:53:04Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1778,8 +1904,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4WkUFp",
-        "lastPublishedAt": "2026-08-28T16:31:59Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4Wp8aK",
+        "lastPublishedAt": "2026-08-31T22:35:47Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -2665,8 +2791,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4WiitV",
-        "lastPublishedAt": "2026-08-27T22:14:06Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4Wp63p",
+        "lastPublishedAt": "2026-08-31T22:18:57Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -2889,8 +3015,8 @@
       "meta-llama/llama": {},
       "bufbuild/buf-examples": {},
       "protocolbuffers/protobuf": {
-        "lastReleaseId": "RE_kwDOAWRolM4WRw9u",
-        "lastPublishedAt": "2026-08-20T15:41:42Z",
+        "lastReleaseId": "RE_kwDOAWRolM4Wp52V",
+        "lastPublishedAt": "2026-08-31T22:10:23Z",
         "releaseHistoryCursor": null
       },
       "hydescarf/Obsidian-Theme-Mado-Miniflow": {
