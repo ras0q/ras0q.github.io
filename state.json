@@ -2,206 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-23",
       "2026-08-24",
       "2026-08-25",
       "2026-08-26",
       "2026-08-27",
       "2026-08-28",
-      "2026-08-29"
+      "2026-08-29",
+      "2026-08-30"
     ],
     "days": {
-      "2026-08-23": [
-        {
-          "id": "RE_kwDOQvjuaM4WX5LJ",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.377.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.377.0",
-          "publishedAt": "2026-08-23T23:48:03Z",
-          "name": "v0.377.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WX2t-",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.376.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.376.0",
-          "publishedAt": "2026-08-23T23:14:05Z",
-          "name": "v0.376.0"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84WX1no",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.12.4",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.4",
-          "publishedAt": "2026-08-23T22:50:21Z",
-          "name": "4.12.4"
-        },
-        {
-          "id": "RE_kwDOII1H084WXzs8",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.26",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.26",
-          "publishedAt": "2026-08-23T22:12:01Z",
-          "name": "v0.5.26"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXzdR",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.375.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.375.0",
-          "publishedAt": "2026-08-23T22:07:11Z",
-          "name": "v0.375.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXtRM",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.374.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.374.0",
-          "publishedAt": "2026-08-23T20:09:02Z",
-          "name": "v0.374.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WXojP",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.127",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.127",
-          "publishedAt": "2026-08-23T18:39:34Z",
-          "name": "v8.4.127 - Load exported YOLO models with the correct task across all 20 formats (#25886)"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXnB1",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.373.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.373.0",
-          "publishedAt": "2026-08-23T18:15:17Z",
-          "name": "v0.373.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4WXiAs",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.11",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.11",
-          "publishedAt": "2026-08-23T16:46:13Z",
-          "name": "v2026.8.11: Automatic updates, remote mise installs, and versioned lockfiles"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXg1j",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.372.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.372.0",
-          "publishedAt": "2026-08-23T16:24:38Z",
-          "name": "v0.372.0"
-        },
-        {
-          "id": "RE_kwDOAB79bM4WXez9",
-          "owner": "foliojs",
-          "repo": "pdfkit",
-          "tag": "v0.20.1",
-          "url": "https://github.com/foliojs/pdfkit/releases/tag/v0.20.1",
-          "publishedAt": "2026-08-23T15:50:51Z",
-          "name": "v0.20.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXdrS",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.371.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.371.0",
-          "publishedAt": "2026-08-23T15:31:08Z",
-          "name": "v0.371.0"
-        },
-        {
-          "id": "RE_kwDOAB79bM4WXThq",
-          "owner": "foliojs",
-          "repo": "pdfkit",
-          "tag": "v0.20.0",
-          "url": "https://github.com/foliojs/pdfkit/releases/tag/v0.20.0",
-          "publishedAt": "2026-08-23T13:39:25Z",
-          "name": "v0.20.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXVt7",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.370.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.370.0",
-          "publishedAt": "2026-08-23T13:20:23Z",
-          "name": "v0.370.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXQVn",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.369.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.369.0",
-          "publishedAt": "2026-08-23T11:44:15Z",
-          "name": "v0.369.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXNn6",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.368.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.368.0",
-          "publishedAt": "2026-08-23T10:50:14Z",
-          "name": "v0.368.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXKGh",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.367.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.367.0",
-          "publishedAt": "2026-08-23T09:37:39Z",
-          "name": "v0.367.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WXIhb",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.366.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.366.0",
-          "publishedAt": "2026-08-23T09:06:27Z",
-          "name": "v0.366.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4WW_yQ",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.17",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.17",
-          "publishedAt": "2026-08-23T06:01:47Z",
-          "name": "1.0.17"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4WW9VC",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.40.0",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.0",
-          "publishedAt": "2026-08-23T04:47:56Z",
-          "name": "v0.40.0 Release"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4WW9Aj",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.22.53",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.53",
-          "publishedAt": "2026-08-23T04:46:51Z",
-          "name": "v0.22.53 Release"
-        }
-      ],
       "2026-08-24": [
         {
           "id": "RE_kwDOOzc9Ss4WaZhq",
@@ -1250,6 +1059,15 @@
         }
       ],
       "2026-08-30": [
+        {
+          "id": "RE_kwDOIvux3s4Wnbb1",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.15",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.15",
+          "publishedAt": "2026-08-30T23:44:38Z",
+          "name": "v2026.8.15: Dotfiles diff and capture, scoped config updates, and per-tool postinstall hooks"
+        },
         {
           "id": "RE_kwDOC3PEAc4WnM4x",
           "owner": "dprint",
@@ -2420,8 +2238,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WddWH",
-        "lastPublishedAt": "2026-08-26T01:16:21Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Wnbb1",
+        "lastPublishedAt": "2026-08-30T23:44:38Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
