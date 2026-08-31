@@ -1197,6 +1197,78 @@
       ],
       "2026-08-31": [
         {
+          "id": "RE_kwDOH-jzvc4WpSux",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.137",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.137",
+          "publishedAt": "2026-08-31T17:09:43Z",
+          "name": "v8.4.137 - Auto-enable channels-last CUDA training (#26007)"
+        },
+        {
+          "id": "RE_kwDOCRgRGs4WpILo",
+          "owner": "wasmerio",
+          "repo": "wasmer",
+          "tag": "v7.4.0",
+          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.4.0",
+          "publishedAt": "2026-08-31T16:52:22Z",
+          "name": "Release v7.4.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WpFSz",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.8.16",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.16",
+          "publishedAt": "2026-08-31T15:42:58Z",
+          "name": "v2026.8.16: Command wrappers and Windows shell fixes"
+        },
+        {
+          "id": "RE_kwDOE4c3is4WpDcu",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.6.0",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.6.0",
+          "publishedAt": "2026-08-31T15:31:03Z",
+          "name": "9.6.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4WowTt",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.1.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.1.1",
+          "publishedAt": "2026-08-31T13:36:20Z",
+          "name": "v31.1.1"
+        },
+        {
+          "id": "RE_kwDOBq4KM84Wos2e",
+          "owner": "EnixCoda",
+          "repo": "Gitako",
+          "tag": "v3.16.0",
+          "url": "https://github.com/EnixCoda/Gitako/releases/tag/v3.16.0",
+          "publishedAt": "2026-08-31T13:14:34Z",
+          "name": "v3.16.0"
+        },
+        {
+          "id": "RE_kwDON7Gnt84WogKC",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.20.1",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.20.1",
+          "publishedAt": "2026-08-31T11:58:28Z",
+          "name": "slidev-addon-fancy-arrow@0.20.1"
+        },
+        {
+          "id": "RE_kwDOAL8HTc4WoaMv",
+          "owner": "kaelzhang",
+          "repo": "node-ignore",
+          "tag": "7.0.8",
+          "url": "https://github.com/kaelzhang/node-ignore/releases/tag/7.0.8",
+          "publishedAt": "2026-08-31T11:11:26Z",
+          "name": "7.0.8"
+        },
+        {
           "id": "RE_kwDOPn2YWs4WoQLC",
           "owner": "docker",
           "repo": "docker-agent",
@@ -2018,8 +2090,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84Wm2qT",
-        "lastPublishedAt": "2026-08-30T13:05:30Z",
+        "lastReleaseId": "RE_kwDON7Gnt84WogKC",
+        "lastPublishedAt": "2026-08-31T11:58:28Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
@@ -2134,8 +2206,8 @@
         "lastPublishedAt": "2026-07-08T15:58:56Z"
       },
       "wasmerio/wasmer": {
-        "lastReleaseId": "RE_kwDOCRgRGs4WUYY6",
-        "lastPublishedAt": "2026-08-21T14:02:02Z",
+        "lastReleaseId": "RE_kwDOCRgRGs4WpILo",
+        "lastPublishedAt": "2026-08-31T16:52:22Z",
         "releaseHistoryCursor": null
       },
       "yui540/css-animations": {},
@@ -2267,8 +2339,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Wnbb1",
-        "lastPublishedAt": "2026-08-30T23:44:38Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WpFSz",
+        "lastPublishedAt": "2026-08-31T15:42:58Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2491,8 +2563,9 @@
         "lastPublishedAt": "2025-12-06T13:07:48Z"
       },
       "kaelzhang/node-ignore": {
-        "lastReleaseId": "RE_kwDOAL8HTc4My7Ui",
-        "lastPublishedAt": "2025-04-25T02:34:51Z"
+        "lastReleaseId": "RE_kwDOAL8HTc4WoaMv",
+        "lastPublishedAt": "2026-08-31T11:11:26Z",
+        "releaseHistoryCursor": null
       },
       "motoki317/mini-k8s-hands-on": {},
       "nucleuscloud/neosync": {
@@ -2697,8 +2770,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WoNmo",
-        "lastPublishedAt": "2026-08-31T09:32:15Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4WpSux",
+        "lastPublishedAt": "2026-08-31T17:09:43Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2744,8 +2817,9 @@
       },
       "kalupas226/tca-workshop": {},
       "EnixCoda/Gitako": {
-        "lastReleaseId": "RE_kwDOBq4KM84QjYQ4",
-        "lastPublishedAt": "2026-01-18T12:41:28Z"
+        "lastReleaseId": "RE_kwDOBq4KM84Wos2e",
+        "lastPublishedAt": "2026-08-31T13:14:34Z",
+        "releaseHistoryCursor": null
       },
       "python/typeshed": {},
       "hustvl/4DGaussians": {},
@@ -2937,8 +3011,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4WWeON",
-        "lastPublishedAt": "2026-08-22T17:15:59Z",
+        "lastReleaseId": "RE_kwDOE4c3is4WpDcu",
+        "lastPublishedAt": "2026-08-31T15:31:03Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
@@ -3295,8 +3369,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4WnO1D",
-        "lastPublishedAt": "2026-08-30T19:41:59Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4WowTt",
+        "lastPublishedAt": "2026-08-31T13:36:20Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
