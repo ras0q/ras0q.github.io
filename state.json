@@ -1170,6 +1170,24 @@
       ],
       "2026-09-01": [
         {
+          "id": "RE_kwDOKbIFZc4Ws0iV",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.9",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.9",
+          "publishedAt": "2026-09-01T21:58:26Z",
+          "name": "0.12.9"
+        },
+        {
+          "id": "RE_kwDOObWEYM4WssJ6",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.58.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.58.0",
+          "publishedAt": "2026-09-01T20:51:17Z",
+          "name": "Release v0.58.0"
+        },
+        {
           "id": "RE_kwDOCnR4Zc4WsbxG",
           "owner": "JanDeDobbeleer",
           "repo": "oh-my-posh",
@@ -1923,8 +1941,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4WctcJ",
-        "lastPublishedAt": "2026-08-25T18:37:14Z",
+        "lastReleaseId": "RE_kwDOObWEYM4WssJ6",
+        "lastPublishedAt": "2026-09-01T20:51:17Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -2636,8 +2654,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4Wp63p",
-        "lastPublishedAt": "2026-08-31T22:18:57Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4Ws0iV",
+        "lastPublishedAt": "2026-09-01T21:58:26Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
