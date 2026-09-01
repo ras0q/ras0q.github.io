@@ -1170,6 +1170,15 @@
       ],
       "2026-09-01": [
         {
+          "id": "RE_kwDOJEKgss4WpWgy",
+          "owner": "DataDog",
+          "repo": "orchestrion",
+          "tag": "v1.13.0",
+          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.13.0",
+          "publishedAt": "2026-09-01T08:00:20Z",
+          "name": "v1.13.0"
+        },
+        {
           "id": "RE_kwDOJYD24s4WqOCt",
           "owner": "google",
           "repo": "heir",
@@ -2694,8 +2703,8 @@
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
       "DataDog/orchestrion": {
-        "lastReleaseId": "RE_kwDOJEKgss4WRAp0",
-        "lastPublishedAt": "2026-08-20T07:36:11Z",
+        "lastReleaseId": "RE_kwDOJEKgss4WpWgy",
+        "lastPublishedAt": "2026-09-01T08:00:20Z",
         "releaseHistoryCursor": null
       },
       "spotify/voyager": {
