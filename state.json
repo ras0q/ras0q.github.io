@@ -1170,6 +1170,33 @@
       ],
       "2026-09-01": [
         {
+          "id": "RE_kwDOPn2YWs4Wr7Ue",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.130.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.130.0",
+          "publishedAt": "2026-09-01T15:16:27Z",
+          "name": "v1.130.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4WrP_i",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.0",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.0",
+          "publishedAt": "2026-09-01T11:26:00Z",
+          "name": "v2026.9.0: Lazy Tool Shims"
+        },
+        {
+          "id": "RE_kwDOBSXbR84WrEsz",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v9.5.2",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.5.2",
+          "publishedAt": "2026-09-01T10:04:09Z",
+          "name": "v9.5.2"
+        },
+        {
           "id": "RE_kwDOJEKgss4WpWgy",
           "owner": "DataDog",
           "repo": "orchestrion",
@@ -1647,8 +1674,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4WoQLC",
-        "lastPublishedAt": "2026-08-31T09:51:32Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Wr7Ue",
+        "lastPublishedAt": "2026-09-01T15:16:27Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2240,8 +2267,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WpFSz",
-        "lastPublishedAt": "2026-08-31T15:42:58Z",
+        "lastReleaseId": "RE_kwDOIvux3s4WrP_i",
+        "lastPublishedAt": "2026-09-01T11:26:00Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3151,8 +3178,8 @@
         "lastPublishedAt": "2026-05-02T06:00:52Z"
       },
       "elastic/go-elasticsearch": {
-        "lastReleaseId": "RE_kwDOBSXbR84WbyAf",
-        "lastPublishedAt": "2026-08-25T12:20:43Z",
+        "lastReleaseId": "RE_kwDOBSXbR84WrEsz",
+        "lastPublishedAt": "2026-09-01T10:04:09Z",
         "releaseHistoryCursor": null
       },
       "peaks-cc/iOS_architecture_samplecode": {},
