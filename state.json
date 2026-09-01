@@ -1170,6 +1170,49 @@
       ],
       "2026-09-01": [
         {
+          "id": "RE_kwDOCnR4Zc4WsbxG",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.1.2",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.1.2",
+          "publishedAt": "2026-09-01T18:53:22Z",
+          "name": "v31.1.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WsQDw",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.388.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.388.0",
+          "publishedAt": "2026-09-01T17:32:41Z",
+          "name": "v0.388.0"
+        },
+        {
+          "id": "RE_kwDOEE38qM4WsOS-",
+          "owner": "foambubble",
+          "repo": "foam",
+          "tag": "vscode@0.44.6",
+          "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.44.6",
+          "publishedAt": "2026-09-01T17:19:47Z"
+        },
+        {
+          "id": "RE_kwDOEE38qM4WsMnv",
+          "owner": "foambubble",
+          "repo": "foam",
+          "tag": "vscode@0.44.5",
+          "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.44.5",
+          "publishedAt": "2026-09-01T17:07:59Z"
+        },
+        {
+          "id": "RE_kwDOJKcikM4WsK4N",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.41.11",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.11",
+          "publishedAt": "2026-09-01T16:55:51Z",
+          "name": "@astrojs/starlight@0.41.11"
+        },
+        {
           "id": "RE_kwDOPn2YWs4Wr7Ue",
           "owner": "docker",
           "repo": "docker-agent",
@@ -1442,8 +1485,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WZuIl",
-        "lastPublishedAt": "2026-08-24T16:30:37Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WsQDw",
+        "lastPublishedAt": "2026-09-01T17:32:41Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1644,8 +1687,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4WkAOy",
-        "lastPublishedAt": "2026-08-28T14:21:37Z",
+        "lastReleaseId": "RE_kwDOJKcikM4WsK4N",
+        "lastPublishedAt": "2026-09-01T16:55:51Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -3073,8 +3116,9 @@
         "lastPublishedAt": "2025-06-18T21:21:40Z"
       },
       "foambubble/foam": {
-        "lastReleaseId": "RE_kwDOEE38qM4TPLzM",
-        "lastPublishedAt": "2026-05-14T19:08:40Z"
+        "lastReleaseId": "RE_kwDOEE38qM4WsOS-",
+        "lastPublishedAt": "2026-09-01T17:19:47Z",
+        "releaseHistoryCursor": null
       },
       "maruel/panicparse": {
         "lastReleaseId": "RE_kwDOAcxRo84LNm_6",
@@ -3297,8 +3341,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4WowTt",
-        "lastPublishedAt": "2026-08-31T13:36:20Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4WsbxG",
+        "lastPublishedAt": "2026-09-01T18:53:22Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
