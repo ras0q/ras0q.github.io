@@ -1069,6 +1069,69 @@
       ],
       "2026-09-02": [
         {
+          "id": "RE_kwDOIvux3s4Wuiol",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.1",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.1",
+          "publishedAt": "2026-09-02T13:48:24Z",
+          "name": "v2026.9.1: Bootstrap firewall limiting, scoped locked mode, and lazy tools in tasks"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4WucxU",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.40.2",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.2",
+          "publishedAt": "2026-09-02T13:18:16Z",
+          "name": "v0.40.2 Release"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4WuaSn",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.22.54",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.54",
+          "publishedAt": "2026-09-02T13:17:38Z",
+          "name": "v0.22.54 Release"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4WuSDl",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.389.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.389.0",
+          "publishedAt": "2026-09-02T12:20:58Z",
+          "name": "v0.389.0"
+        },
+        {
+          "id": "RE_kwDOJKcikM4WuHec",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight-docsearch@0.8.0",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight-docsearch%400.8.0",
+          "publishedAt": "2026-09-02T11:13:58Z",
+          "name": "@astrojs/starlight-docsearch@0.8.0"
+        },
+        {
+          "id": "RE_kwDOJKcikM4WuHd7",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.0",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.0",
+          "publishedAt": "2026-09-02T11:13:55Z",
+          "name": "@astrojs/starlight@0.42.0"
+        },
+        {
+          "id": "RE_kwDOAyHt9s4Wtvj5",
+          "owner": "pressly",
+          "repo": "goose",
+          "tag": "v3.28.0",
+          "url": "https://github.com/pressly/goose/releases/tag/v3.28.0",
+          "publishedAt": "2026-09-02T08:34:11Z",
+          "name": "v3.28.0"
+        },
+        {
           "id": "RE_kwDOGNEXps4Wtbjn",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1305,8 +1368,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WsQDw",
-        "lastPublishedAt": "2026-09-01T17:32:41Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4WuSDl",
+        "lastPublishedAt": "2026-09-02T12:20:58Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1507,8 +1570,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4WsK4N",
-        "lastPublishedAt": "2026-09-01T16:55:51Z",
+        "lastReleaseId": "RE_kwDOJKcikM4WuHec",
+        "lastPublishedAt": "2026-09-02T11:13:58Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -2130,8 +2193,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4WrP_i",
-        "lastPublishedAt": "2026-09-01T11:26:00Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Wuiol",
+        "lastPublishedAt": "2026-09-02T13:48:24Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2741,8 +2804,8 @@
         "lastPublishedAt": "2025-03-12T16:38:48Z"
       },
       "pressly/goose": {
-        "lastReleaseId": "RE_kwDOAyHt9s4VVv9k",
-        "lastPublishedAt": "2026-07-22T12:50:22Z",
+        "lastReleaseId": "RE_kwDOAyHt9s4Wtvj5",
+        "lastPublishedAt": "2026-09-02T08:34:11Z",
         "releaseHistoryCursor": null
       },
       "mantinedev/ui.mantine.dev": {},
@@ -3063,8 +3126,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4WZjjq",
-        "lastPublishedAt": "2026-08-24T15:23:08Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4WucxU",
+        "lastPublishedAt": "2026-09-02T13:18:16Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
