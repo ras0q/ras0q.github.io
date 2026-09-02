@@ -2,242 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-25",
       "2026-08-26",
       "2026-08-27",
       "2026-08-28",
       "2026-08-29",
       "2026-08-30",
-      "2026-08-31"
+      "2026-08-31",
+      "2026-09-01"
     ],
     "days": {
-      "2026-08-25": [
-        {
-          "id": "RE_kwDOLFvGAc4WdPBw",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "v0.2.13",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.13",
-          "publishedAt": "2026-08-25T22:47:17Z",
-          "name": "v0.2.13"
-        },
-        {
-          "id": "RE_kwDOIvux3s4WdNYo",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.13",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.13",
-          "publishedAt": "2026-08-25T22:28:40Z",
-          "name": "v2026.8.13: Task exclusions, visible conf.d fragments, and a broad round of fixes"
-        },
-        {
-          "id": "RE_kwDOFNWFc84WdGS-",
-          "owner": "obsidian-tasks-group",
-          "repo": "obsidian-tasks",
-          "tag": "8.4.0",
-          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.4.0",
-          "publishedAt": "2026-08-25T21:36:58Z",
-          "name": "8.4.0: Quick search, Column view (drag-and-drop tasks to change dates and priorities), group counts, Spanish and French translations"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Wc-ei",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.129",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.129",
-          "publishedAt": "2026-08-25T20:28:07Z",
-          "name": "v8.4.129 - Delegate multi-dataset tuning to MultiTrainer (#25937)"
-        },
-        {
-          "id": "RE_kwDONvYw484Wc95H",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/vite-plugin@0.1.6",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%400.1.6",
-          "publishedAt": "2026-08-25T20:23:45Z",
-          "name": "@arkenv/vite-plugin@0.1.6"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4Wc888",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.91.1",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.91.1",
-          "publishedAt": "2026-08-25T20:18:11Z",
-          "name": "v0.91.1"
-        },
-        {
-          "id": "RE_kwDOG034nM4Wc7d3",
-          "owner": "omnivore-app",
-          "repo": "omnivore",
-          "tag": "android-0.227.0",
-          "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.227.0",
-          "publishedAt": "2026-08-25T20:14:16Z",
-          "name": "android-0.227.0"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4Wc22X",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.6",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.6",
-          "publishedAt": "2026-08-25T19:41:07Z",
-          "name": "0.12.6"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4Wcva2",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.10.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.10.0",
-          "publishedAt": "2026-08-25T18:51:44Z",
-          "name": "v1.10.0"
-        },
-        {
-          "id": "RE_kwDOObWEYM4WctcJ",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.57.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.57.0",
-          "publishedAt": "2026-08-25T18:37:14Z",
-          "name": "Release v0.57.0"
-        },
-        {
-          "id": "RE_kwDOJKcikM4WcjN9",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.41.9",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.9",
-          "publishedAt": "2026-08-25T17:23:04Z",
-          "name": "@astrojs/starlight@0.41.9"
-        },
-        {
-          "id": "RE_kwDOGNEXps4WcMFh",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.20",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.20",
-          "publishedAt": "2026-08-25T14:57:03Z",
-          "name": "1.0.20"
-        },
-        {
-          "id": "RE_kwDOH0TSTs4WcK-Q",
-          "owner": "Songmu",
-          "repo": "tagpr",
-          "tag": "v1.20.2",
-          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.20.2",
-          "publishedAt": "2026-08-25T14:48:20Z",
-          "name": "v1.20.2"
-        },
-        {
-          "id": "RE_kwDOIqKs2s4Wb4tC",
-          "owner": "azooKey",
-          "repo": "azooKey",
-          "tag": "v3.1",
-          "url": "https://github.com/azooKey/azooKey/releases/tag/v3.1",
-          "publishedAt": "2026-08-25T13:02:21Z",
-          "name": "v3.1"
-        },
-        {
-          "id": "RE_kwDOBSXbR84WbyAf",
-          "owner": "elastic",
-          "repo": "go-elasticsearch",
-          "tag": "v9.5.1",
-          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.5.1",
-          "publishedAt": "2026-08-25T12:20:43Z",
-          "name": "v9.5.1"
-        },
-        {
-          "id": "RE_kwDOCPvJPM4Wbqs6",
-          "owner": "loov",
-          "repo": "goda",
-          "tag": "v0.10.1",
-          "url": "https://github.com/loov/goda/releases/tag/v0.10.1",
-          "publishedAt": "2026-08-25T11:28:00Z",
-          "name": "v0.10.1"
-        },
-        {
-          "id": "RE_kwDOCPvJPM4Wbo0L",
-          "owner": "loov",
-          "repo": "goda",
-          "tag": "v0.10.0",
-          "url": "https://github.com/loov/goda/releases/tag/v0.10.0",
-          "publishedAt": "2026-08-25T11:15:01Z",
-          "name": "v0.10.0"
-        },
-        {
-          "id": "RE_kwDOD6wJuM4Wbl41",
-          "owner": "47ng",
-          "repo": "nuqs",
-          "tag": "v2.10.1",
-          "url": "https://github.com/47ng/nuqs/releases/tag/v2.10.1",
-          "publishedAt": "2026-08-25T11:00:13Z",
-          "name": "v2.10.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Wbf4C",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.7.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.7.0",
-          "publishedAt": "2026-08-25T10:07:27Z",
-          "name": "v30.7.0"
-        },
-        {
-          "id": "RE_kwDOCv6UO84V_viF",
-          "owner": "microsoft",
-          "repo": "PowerToys",
-          "tag": "v0.101.2362.0",
-          "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.101.2362.0",
-          "publishedAt": "2026-08-25T08:34:52Z",
-          "name": "Release v0.101.2362.0"
-        },
-        {
-          "id": "RE_kwDOFv84js4WbIPx",
-          "owner": "go-gorm",
-          "repo": "gen",
-          "tag": "tools/gentool/v0.0.3",
-          "url": "https://github.com/go-gorm/gen/releases/tag/tools/gentool/v0.0.3",
-          "publishedAt": "2026-08-25T07:17:44Z",
-          "name": "tools/gentool v0.0.3"
-        },
-        {
-          "id": "RE_kwDOFv84js4WbHkG",
-          "owner": "go-gorm",
-          "repo": "gen",
-          "tag": "v0.3.29",
-          "url": "https://github.com/go-gorm/gen/releases/tag/v0.3.29",
-          "publishedAt": "2026-08-25T07:12:10Z",
-          "name": "v0.3.29"
-        },
-        {
-          "id": "RE_kwDOALIcz84Wa1ev",
-          "owner": "rcmdnk",
-          "repo": "vim_ahk",
-          "tag": "v0.17.0",
-          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.17.0",
-          "publishedAt": "2026-08-25T03:48:57Z",
-          "name": "v0.17.0"
-        },
-        {
-          "id": "RE_kwDOOC1fY84Waxc4",
-          "owner": "lynx-family",
-          "repo": "lynx",
-          "tag": "3.9.1",
-          "url": "https://github.com/lynx-family/lynx/releases/tag/3.9.1",
-          "publishedAt": "2026-08-25T02:56:22Z",
-          "name": "3.9.1"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WapHX",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.128",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.128",
-          "publishedAt": "2026-08-25T01:00:30Z",
-          "name": "v8.4.128 - Use synchronous OpenVINO batch inference (#25921)"
-        }
-      ],
       "2026-08-26": [
         {
           "id": "RE_kwDOH-jzvc4Wf-jc",
@@ -1170,6 +943,15 @@
       ],
       "2026-09-01": [
         {
+          "id": "RE_kwDOH-jzvc4Ws7lT",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.138",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.138",
+          "publishedAt": "2026-09-01T23:01:20Z",
+          "name": "v8.4.138 - Fix legacy checkpoint and YOLO-World loading (#26032)"
+        },
+        {
           "id": "RE_kwDOKbIFZc4Ws0iV",
           "owner": "astral-sh",
           "repo": "uv",
@@ -1284,6 +1066,17 @@
           "publishedAt": "2026-09-01T01:08:41Z",
           "name": "v1.10.0"
         }
+      ],
+      "2026-09-02": [
+        {
+          "id": "RE_kwDOA4rpZM4WtAn-",
+          "owner": "outline",
+          "repo": "outline",
+          "tag": "v1.10.0",
+          "url": "https://github.com/outline/outline/releases/tag/v1.10.0",
+          "publishedAt": "2026-09-02T00:05:15Z",
+          "name": "v1.10.0"
+        }
       ]
     }
   },
@@ -1321,8 +1114,8 @@
         "lastPublishedAt": "2026-07-03T11:47:42Z"
       },
       "outline/outline": {
-        "lastReleaseId": "RE_kwDOA4rpZM4VSHEy",
-        "lastPublishedAt": "2026-07-21T01:34:44Z",
+        "lastReleaseId": "RE_kwDOA4rpZM4WtAn-",
+        "lastPublishedAt": "2026-09-02T00:05:15Z",
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
@@ -2759,8 +2552,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4WpSux",
-        "lastPublishedAt": "2026-08-31T17:09:43Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Ws7lT",
+        "lastPublishedAt": "2026-09-01T23:01:20Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
