@@ -1069,6 +1069,15 @@
       ],
       "2026-09-02": [
         {
+          "id": "RE_kwDOGNEXps4Wtbjn",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.23",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.23",
+          "publishedAt": "2026-09-02T06:43:38Z",
+          "name": "1.0.23"
+        },
+        {
           "id": "RE_kwDOA4rpZM4WtAn-",
           "owner": "outline",
           "repo": "outline",
@@ -2680,8 +2689,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Webxv",
-        "lastPublishedAt": "2026-08-26T11:27:06Z",
+        "lastReleaseId": "RE_kwDOGNEXps4Wtbjn",
+        "lastPublishedAt": "2026-09-02T06:43:38Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
