@@ -2,188 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-26",
       "2026-08-27",
       "2026-08-28",
       "2026-08-29",
       "2026-08-30",
       "2026-08-31",
-      "2026-09-01"
+      "2026-09-01",
+      "2026-09-02"
     ],
     "days": {
-      "2026-08-26": [
-        {
-          "id": "RE_kwDOH-jzvc4Wf-jc",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.130",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.130",
-          "publishedAt": "2026-08-26T23:47:20Z",
-          "name": "v8.4.130 - Enable fraction to limit dataset by image counts (#25951)"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4Wf1Ch",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "v0.2.15",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.15",
-          "publishedAt": "2026-08-26T21:49:54Z",
-          "name": "v0.2.15"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4Wf0eh",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.8",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.8",
-          "publishedAt": "2026-08-26T21:44:19Z",
-          "name": "cli-v0.1.8"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4Wf0Fu",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.11.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.11.0",
-          "publishedAt": "2026-08-26T21:40:26Z",
-          "name": "v1.11.0 - Spec Diffs & Batch Status"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4WfrK4",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.2.1",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.2.1",
-          "publishedAt": "2026-08-26T20:33:56Z",
-          "name": "v0.2.1"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4WfYvx",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "v0.2.14",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.14",
-          "publishedAt": "2026-08-26T18:12:27Z",
-          "name": "v0.2.14"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4WfOeF",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.91.2",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.91.2",
-          "publishedAt": "2026-08-26T17:03:03Z",
-          "name": "v0.91.2"
-        },
-        {
-          "id": "RE_kwDOFhZBDs4WfFqA",
-          "owner": "bytedance",
-          "repo": "sonic",
-          "tag": "v1.15.3",
-          "url": "https://github.com/bytedance/sonic/releases/tag/v1.15.3",
-          "publishedAt": "2026-08-26T15:46:02Z",
-          "name": "v1.15.3"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4We1bO",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.32.3",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.32.3",
-          "publishedAt": "2026-08-26T13:51:39Z",
-          "name": "Release 6.32.3"
-        },
-        {
-          "id": "RE_kwDOG034nM4Wer9-",
-          "owner": "omnivore-app",
-          "repo": "omnivore",
-          "tag": "android-0.227.0",
-          "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.227.0",
-          "publishedAt": "2026-08-26T13:23:56Z",
-          "name": "android-0.227.0"
-        },
-        {
-          "id": "RE_kwDOFA4JCs4Weqpl",
-          "owner": "tadashi-aikawa",
-          "repo": "obsidian-various-complements-plugin",
-          "tag": "11.4.2",
-          "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/releases/tag/11.4.2",
-          "publishedAt": "2026-08-26T12:53:29Z",
-          "name": "11.4.2"
-        },
-        {
-          "id": "RE_kwDON7Gnt84Welkw",
-          "owner": "whitphx",
-          "repo": "slidev-addon-fancy-arrow",
-          "tag": "slidev-addon-fancy-arrow@0.18.1",
-          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.18.1",
-          "publishedAt": "2026-08-26T12:24:59Z",
-          "name": "slidev-addon-fancy-arrow@0.18.1"
-        },
-        {
-          "id": "RE_kwDOGNEXps4Webxv",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.21",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.21",
-          "publishedAt": "2026-08-26T11:27:06Z",
-          "name": "1.0.21"
-        },
-        {
-          "id": "RE_kwDOABpTD84WeVrR",
-          "owner": "github-linguist",
-          "repo": "linguist",
-          "tag": "v9.7.0",
-          "url": "https://github.com/github-linguist/linguist/releases/tag/v9.7.0",
-          "publishedAt": "2026-08-26T10:30:59Z",
-          "name": "v9.7.0"
-        },
-        {
-          "id": "RE_kwDOA6cUY84Wd9Hb",
-          "owner": "jpki",
-          "repo": "myna",
-          "tag": "v0.7.2",
-          "url": "https://github.com/jpki/myna/releases/tag/v0.7.2",
-          "publishedAt": "2026-08-26T07:33:47Z",
-          "name": "v0.7.2"
-        },
-        {
-          "id": "RE_kwDOFA4JCs4Wd1Op",
-          "owner": "tadashi-aikawa",
-          "repo": "obsidian-various-complements-plugin",
-          "tag": "11.4.1",
-          "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin/releases/tag/11.4.1",
-          "publishedAt": "2026-08-26T06:24:39Z",
-          "name": "11.4.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4Wd0KB",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.8.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.8.0",
-          "publishedAt": "2026-08-26T06:13:48Z",
-          "name": "v30.8.0"
-        },
-        {
-          "id": "RE_kwDODVAw7c4WdduL",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.0",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.0",
-          "publishedAt": "2026-08-26T01:20:14Z",
-          "name": "v3.33.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4WddWH",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.14",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.14",
-          "publishedAt": "2026-08-26T01:16:21Z",
-          "name": "v2026.8.14: npm/aube install fixes and cleaner temp/prune handling"
-        }
-      ],
       "2026-08-27": [
         {
           "id": "RE_kwDOG034nM4Wiolj",
@@ -1158,6 +985,26 @@
           "publishedAt": "2026-09-02T00:05:15Z",
           "name": "v1.10.0"
         }
+      ],
+      "2026-09-03": [
+        {
+          "id": "RE_kwDOQHjZG84WwBgo",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.68.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.68.0",
+          "publishedAt": "2026-09-03T02:31:40Z",
+          "name": "Release v2.68.0"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4Wv289",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.12.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.12.0",
+          "publishedAt": "2026-09-03T00:09:15Z",
+          "name": "v1.12.0 - Findings Reports, SourceCraft"
+        }
       ]
     }
   },
@@ -1200,8 +1047,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84Wmhbe",
-        "lastPublishedAt": "2026-08-30T06:12:00Z",
+        "lastReleaseId": "RE_kwDOQHjZG84WwBgo",
+        "lastPublishedAt": "2026-09-03T02:31:40Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1422,8 +1269,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4Wf0Fu",
-        "lastPublishedAt": "2026-08-26T21:40:26Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4Wv289",
+        "lastPublishedAt": "2026-09-03T00:09:15Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
