@@ -988,6 +988,42 @@
       ],
       "2026-09-03": [
         {
+          "id": "RE_kwDOC3PEAc4WyICR",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.57.1",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.57.1",
+          "publishedAt": "2026-09-03T18:26:14Z",
+          "name": "0.57.1"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4Wx_aD",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.6",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.6",
+          "publishedAt": "2026-09-03T17:20:13Z",
+          "name": "0.16.6"
+        },
+        {
+          "id": "RE_kwDOAEFNgs4Wx44x",
+          "owner": "fish-shell",
+          "repo": "fish-shell",
+          "tag": "4.9.0",
+          "url": "https://github.com/fish-shell/fish-shell/releases/tag/4.9.0",
+          "publishedAt": "2026-09-03T16:51:16Z",
+          "name": "fish 4.9.0"
+        },
+        {
+          "id": "RE_kwDODVAw7c4Wx4IL",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.1",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.1",
+          "publishedAt": "2026-09-03T16:29:38Z",
+          "name": "v3.33.1"
+        },
+        {
           "id": "RE_kwDOGkmMps4WxunG",
           "owner": "Quorafind",
           "repo": "Obsidian-Thino",
@@ -1579,8 +1615,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4WdduL",
-        "lastPublishedAt": "2026-08-26T01:20:14Z",
+        "lastReleaseId": "RE_kwDODVAw7c4Wx4IL",
+        "lastPublishedAt": "2026-09-03T16:29:38Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2199,8 +2235,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4WnM4x",
-        "lastPublishedAt": "2026-08-30T21:09:02Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4WyICR",
+        "lastPublishedAt": "2026-09-03T18:26:14Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -2618,8 +2654,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4Wh3N8",
-        "lastPublishedAt": "2026-08-27T16:37:58Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4Wx_aD",
+        "lastPublishedAt": "2026-09-03T17:20:13Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -2973,8 +3009,9 @@
         "lastPublishedAt": "2026-03-03T14:34:57Z"
       },
       "fish-shell/fish-shell": {
-        "lastReleaseId": "RE_kwDOAEFNgs4VEdjN",
-        "lastPublishedAt": "2026-07-13T23:48:39Z"
+        "lastReleaseId": "RE_kwDOAEFNgs4Wx44x",
+        "lastPublishedAt": "2026-09-03T16:51:16Z",
+        "releaseHistoryCursor": null
       },
       "ichitaro/carla-trail": {},
       "oliverschwendener/ueli": {
