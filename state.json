@@ -988,6 +988,42 @@
       ],
       "2026-09-03": [
         {
+          "id": "RE_kwDOQHjZG84Wwl7u",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v3.0.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.0.0",
+          "publishedAt": "2026-09-03T07:55:32Z",
+          "name": "Release v3.0.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Wwh-_",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v2.68.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.68.1",
+          "publishedAt": "2026-09-03T07:30:56Z",
+          "name": "Release v2.68.1"
+        },
+        {
+          "id": "RE_kwDOGNEXps4WwSAI",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.24",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.24",
+          "publishedAt": "2026-09-03T05:22:04Z",
+          "name": "1.0.24"
+        },
+        {
+          "id": "RE_kwDONQkKUc4WwJGV",
+          "owner": "xtool-org",
+          "repo": "xtool",
+          "tag": "1.18.1",
+          "url": "https://github.com/xtool-org/xtool/releases/tag/1.18.1",
+          "publishedAt": "2026-09-03T04:10:26Z",
+          "name": "v1.18.1"
+        },
+        {
           "id": "RE_kwDOQHjZG84WwBgo",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1047,8 +1083,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84WwBgo",
-        "lastPublishedAt": "2026-09-03T02:31:40Z",
+        "lastReleaseId": "RE_kwDOQHjZG84Wwl7u",
+        "lastPublishedAt": "2026-09-03T07:55:32Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1725,8 +1761,9 @@
         "releaseHistoryCursor": null
       },
       "xtool-org/xtool": {
-        "lastReleaseId": "RE_kwDONQkKUc4TTNPA",
-        "lastPublishedAt": "2026-05-17T01:38:45Z"
+        "lastReleaseId": "RE_kwDONQkKUc4WwJGV",
+        "lastPublishedAt": "2026-09-03T04:10:26Z",
+        "releaseHistoryCursor": null
       },
       "foliojs/pdfkit": {
         "lastReleaseId": "RE_kwDOAB79bM4WmXNb",
@@ -2608,8 +2645,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Wtbjn",
-        "lastPublishedAt": "2026-09-02T06:43:38Z",
+        "lastReleaseId": "RE_kwDOGNEXps4WwSAI",
+        "lastPublishedAt": "2026-09-03T05:22:04Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
