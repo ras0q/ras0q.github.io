@@ -1024,6 +1024,33 @@
       ],
       "2026-09-04": [
         {
+          "id": "RE_kwDODVAw7c4W0uA8",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.2",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.2",
+          "publishedAt": "2026-09-04T17:56:05Z",
+          "name": "v3.33.2"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4W0noq",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.139",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.139",
+          "publishedAt": "2026-09-04T17:06:01Z",
+          "name": "v8.4.139 - Reduce validation dataloader memory with prefetch 2 per worker (#26057)"
+        },
+        {
+          "id": "RE_kwDOA1DMt84W0MQZ",
+          "owner": "microsoft",
+          "repo": "WSL",
+          "tag": "2.7.13",
+          "url": "https://github.com/microsoft/WSL/releases/tag/2.7.13",
+          "publishedAt": "2026-09-04T15:41:02Z",
+          "name": "2.7.13"
+        },
+        {
           "id": "RE_kwDOPn2YWs4W0DxY",
           "owner": "docker",
           "repo": "docker-agent",
@@ -1841,8 +1868,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4Wx4IL",
-        "lastPublishedAt": "2026-09-03T16:29:38Z",
+        "lastReleaseId": "RE_kwDODVAw7c4W0uA8",
+        "lastPublishedAt": "2026-09-04T17:56:05Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2094,8 +2121,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/WSL": {
-        "lastReleaseId": "RE_kwDOA1DMt84WNWN1",
-        "lastPublishedAt": "2026-08-18T21:12:01Z",
+        "lastReleaseId": "RE_kwDOA1DMt84W0MQZ",
+        "lastPublishedAt": "2026-09-04T15:41:02Z",
         "releaseHistoryCursor": null
       },
       "traPtitech/naro-text": {
@@ -2825,8 +2852,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Ws7lT",
-        "lastPublishedAt": "2026-09-01T23:01:20Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W0noq",
+        "lastPublishedAt": "2026-09-04T17:06:01Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
