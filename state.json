@@ -1024,6 +1024,42 @@
       ],
       "2026-09-04": [
         {
+          "id": "RE_kwDOPn2YWs4W0DxY",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.133.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.133.0",
+          "publishedAt": "2026-09-04T13:26:45Z",
+          "name": "v1.133.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4Wz2ge",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.132.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.132.0",
+          "publishedAt": "2026-09-04T12:00:03Z",
+          "name": "v1.132.0"
+        },
+        {
+          "id": "RE_kwDOAEFNgs4Wz0Nu",
+          "owner": "fish-shell",
+          "repo": "fish-shell",
+          "tag": "4.9.1",
+          "url": "https://github.com/fish-shell/fish-shell/releases/tag/4.9.1",
+          "publishedAt": "2026-09-04T11:42:57Z",
+          "name": "fish 4.9.1"
+        },
+        {
+          "id": "RE_kwDOFVKCyc4WzN-7",
+          "owner": "oven-sh",
+          "repo": "bun",
+          "tag": "bun-v1.4.1",
+          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.1",
+          "publishedAt": "2026-09-04T08:33:19Z",
+          "name": "Bun v1.4.1"
+        },
+        {
           "id": "RE_kwDOHuVHqM4WzQ-n",
           "owner": "chakra-ui",
           "repo": "panda",
@@ -1763,8 +1799,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4WxT_3",
-        "lastPublishedAt": "2026-09-03T13:02:26Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4W0DxY",
+        "lastPublishedAt": "2026-09-04T13:26:45Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3200,8 +3236,8 @@
         "lastPublishedAt": "2026-03-03T14:34:57Z"
       },
       "fish-shell/fish-shell": {
-        "lastReleaseId": "RE_kwDOAEFNgs4Wx44x",
-        "lastPublishedAt": "2026-09-03T16:51:16Z",
+        "lastReleaseId": "RE_kwDOAEFNgs4Wz0Nu",
+        "lastPublishedAt": "2026-09-04T11:42:57Z",
         "releaseHistoryCursor": null
       },
       "ichitaro/carla-trail": {},
@@ -3227,8 +3263,8 @@
       },
       "pointfreeco/isowords": {},
       "oven-sh/bun": {
-        "lastReleaseId": "RE_kwDOFVKCyc4WQjWH",
-        "lastPublishedAt": "2026-08-20T14:07:21Z",
+        "lastReleaseId": "RE_kwDOFVKCyc4WzN-7",
+        "lastPublishedAt": "2026-09-04T08:33:19Z",
         "releaseHistoryCursor": null
       },
       "YusukeHosonuma/SwiftUI-Simulator": {
