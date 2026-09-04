@@ -2,134 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-27",
       "2026-08-28",
       "2026-08-29",
       "2026-08-30",
       "2026-08-31",
       "2026-09-01",
-      "2026-09-02"
+      "2026-09-02",
+      "2026-09-03"
     ],
     "days": {
-      "2026-08-27": [
-        {
-          "id": "RE_kwDOG034nM4Wiolj",
-          "owner": "omnivore-app",
-          "repo": "omnivore",
-          "tag": "android-0.228.0",
-          "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.228.0",
-          "publishedAt": "2026-08-27T23:29:02Z",
-          "name": "android-0.228.0"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4WiitV",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.7",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.7",
-          "publishedAt": "2026-08-27T22:14:06Z",
-          "name": "0.12.7"
-        },
-        {
-          "id": "RE_kwDORRnees4WiRse",
-          "owner": "kavinsood",
-          "repo": "yaos",
-          "tag": "2.1.1",
-          "url": "https://github.com/kavinsood/yaos/releases/tag/2.1.1",
-          "publishedAt": "2026-08-27T19:50:25Z",
-          "name": "2.1.1"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Wh_Gn",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.131",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.131",
-          "publishedAt": "2026-08-27T17:35:43Z",
-          "name": "v8.4.131 - Add Apple Core AI export (#25926)"
-        },
-        {
-          "id": "RE_kwDOB_QrUM4Wh3uT",
-          "owner": "denoland",
-          "repo": "deno",
-          "tag": "v2.9.6",
-          "url": "https://github.com/denoland/deno/releases/tag/v2.9.6",
-          "publishedAt": "2026-08-27T17:29:30Z",
-          "name": "v2.9.6"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4Wh3N8",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.5",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.5",
-          "publishedAt": "2026-08-27T16:37:58Z",
-          "name": "0.16.5"
-        },
-        {
-          "id": "RE_kwDOGiIVa84WhP3c",
-          "owner": "go-webauthn",
-          "repo": "webauthn",
-          "tag": "v0.18.0",
-          "url": "https://github.com/go-webauthn/webauthn/releases/tag/v0.18.0",
-          "publishedAt": "2026-08-27T12:44:02Z",
-          "name": "v0.18.0"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4WhIW9",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.2.3",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.2.3",
-          "publishedAt": "2026-08-27T12:03:10Z",
-          "name": "v0.2.3"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4WhFEr",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.2.2",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.2.2",
-          "publishedAt": "2026-08-27T11:39:47Z",
-          "name": "v0.2.2"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4WgyMB",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.9.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.9.0",
-          "publishedAt": "2026-08-27T09:10:26Z",
-          "name": "v30.9.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4WghTu",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v30.8.1",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v30.8.1",
-          "publishedAt": "2026-08-27T07:10:12Z",
-          "name": "v30.8.1"
-        },
-        {
-          "id": "RE_kwDOQ63fjM4WgRuQ",
-          "owner": "eugenioenko",
-          "repo": "ttt",
-          "tag": "v1.4.0",
-          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.4.0",
-          "publishedAt": "2026-08-27T04:13:19Z",
-          "name": "v1.4.0"
-        },
-        {
-          "id": "RE_kwDOAAIHMs4WgH2k",
-          "owner": "keycastr",
-          "repo": "keycastr",
-          "tag": "v0.11.0",
-          "url": "https://github.com/keycastr/keycastr/releases/tag/v0.11.0",
-          "publishedAt": "2026-08-27T01:48:23Z",
-          "name": "New \"Minimal\" Visualizer"
-        }
-      ],
       "2026-08-28": [
         {
           "id": "RE_kwDOKMzyM84Wk4ET",
@@ -988,6 +869,24 @@
       ],
       "2026-09-03": [
         {
+          "id": "RE_kwDOGvUVTs4Wypzq",
+          "owner": "nitrojs",
+          "repo": "nitro",
+          "tag": "v3.0.260903-beta",
+          "url": "https://github.com/nitrojs/nitro/releases/tag/v3.0.260903-beta",
+          "publishedAt": "2026-09-03T22:55:43Z",
+          "name": "v3.0.260903-beta"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Wymx2",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v3.0.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.0.1",
+          "publishedAt": "2026-09-03T22:20:25Z",
+          "name": "Release v3.0.1"
+        },
+        {
           "id": "RE_kwDOC3PEAc4WyICR",
           "owner": "dprint",
           "repo": "dprint",
@@ -1122,6 +1021,44 @@
           "publishedAt": "2026-09-03T00:09:15Z",
           "name": "v1.12.0 - Findings Reports, SourceCraft"
         }
+      ],
+      "2026-09-04": [
+        {
+          "id": "RE_kwDOOC1fY84Wy2_K",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "4.0.2",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/4.0.2",
+          "publishedAt": "2026-09-04T01:57:27Z",
+          "name": "4.0.2"
+        },
+        {
+          "id": "RE_kwDOQHjZG84Wy26w",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v3.0.3",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.0.3",
+          "publishedAt": "2026-09-04T01:56:33Z",
+          "name": "Release v3.0.3"
+        },
+        {
+          "id": "RE_kwDOFO5EPM4Wvo-Q",
+          "owner": "google",
+          "repo": "GoogleSignIn-iOS",
+          "tag": "10.0.0",
+          "url": "https://github.com/google/GoogleSignIn-iOS/releases/tag/10.0.0",
+          "publishedAt": "2026-09-04T00:11:03Z",
+          "name": "GoogleSignIn-iOS 10.0.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84WyvTi",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v3.0.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.0.2",
+          "publishedAt": "2026-09-04T00:07:08Z",
+          "name": "Release v3.0.2"
+        }
       ]
     }
   },
@@ -1164,8 +1101,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84Wwl7u",
-        "lastPublishedAt": "2026-09-03T07:55:32Z",
+        "lastReleaseId": "RE_kwDOQHjZG84Wy26w",
+        "lastPublishedAt": "2026-09-04T01:56:33Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1406,8 +1343,9 @@
         "lastPublishedAt": "2025-12-14T06:08:52Z"
       },
       "nitrojs/nitro": {
-        "lastReleaseId": "RE_kwDOGvUVTs4UHo_q",
-        "lastPublishedAt": "2026-06-10T22:00:40Z"
+        "lastReleaseId": "RE_kwDOGvUVTs4Wypzq",
+        "lastPublishedAt": "2026-09-03T22:55:43Z",
+        "releaseHistoryCursor": null
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
@@ -2055,8 +1993,8 @@
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastReleaseId": "RE_kwDOOC1fY84Waxc4",
-        "lastPublishedAt": "2026-08-25T02:56:22Z",
+        "lastReleaseId": "RE_kwDOOC1fY84Wy2_K",
+        "lastPublishedAt": "2026-09-04T01:57:27Z",
         "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
@@ -2918,8 +2856,9 @@
       },
       "YusukeHosonuma/Effective-SwiftUI": {},
       "google/GoogleSignIn-iOS": {
-        "lastReleaseId": "RE_kwDOFO5EPM4UMNTM",
-        "lastPublishedAt": "2026-06-15T18:34:31Z"
+        "lastReleaseId": "RE_kwDOFO5EPM4Wvo-Q",
+        "lastPublishedAt": "2026-09-04T00:11:03Z",
+        "releaseHistoryCursor": null
       },
       "akawashiro/jendeley": {
         "lastReleaseId": "RE_kwDOIfNY4s4LY0WM",
