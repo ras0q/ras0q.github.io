@@ -1024,6 +1024,42 @@
       ],
       "2026-09-04": [
         {
+          "id": "RE_kwDOQ5Wxys4W1Inf",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.13",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.13",
+          "publishedAt": "2026-09-04T21:38:12Z",
+          "name": "v1.0.13"
+        },
+        {
+          "id": "RE_kwDOHojuL84W1H09",
+          "owner": "dsherret",
+          "repo": "dax",
+          "tag": "0.50.0",
+          "url": "https://github.com/dsherret/dax/releases/tag/0.50.0",
+          "publishedAt": "2026-09-04T21:30:08Z",
+          "name": "0.50.0"
+        },
+        {
+          "id": "RE_kwDODGtc284W08R5",
+          "owner": "adobe",
+          "repo": "react-spectrum",
+          "tag": "react-aria-components@1.21.0",
+          "url": "https://github.com/adobe/react-spectrum/releases/tag/react-aria-components%401.21.0",
+          "publishedAt": "2026-09-04T19:44:19Z",
+          "name": "React Aria Components v1.21.0"
+        },
+        {
+          "id": "RE_kwDODGtc284W08BP",
+          "owner": "adobe",
+          "repo": "react-spectrum",
+          "tag": "@react-spectrum/s2@1.7.0",
+          "url": "https://github.com/adobe/react-spectrum/releases/tag/%40react-spectrum/s2%401.7.0",
+          "publishedAt": "2026-09-04T19:42:15Z",
+          "name": "React Spectrum S2 v1.7.0"
+        },
+        {
           "id": "RE_kwDODVAw7c4W0uA8",
           "owner": "traPtitech",
           "repo": "traQ_S-UI",
@@ -1669,8 +1705,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4WGD6I",
-        "lastPublishedAt": "2026-08-14T16:14:52Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4W1Inf",
+        "lastPublishedAt": "2026-09-04T21:38:12Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2916,8 +2952,9 @@
         "lastPublishedAt": "2025-02-26T23:56:38Z"
       },
       "dsherret/dax": {
-        "lastReleaseId": "RE_kwDOHojuL84VBGk_",
-        "lastPublishedAt": "2026-07-11T21:25:38Z"
+        "lastReleaseId": "RE_kwDOHojuL84W1H09",
+        "lastPublishedAt": "2026-09-04T21:30:08Z",
+        "releaseHistoryCursor": null
       },
       "kaityo256/yaml_cv": {},
       "usememos/memos": {
@@ -3071,8 +3108,8 @@
         "lastPublishedAt": "2021-10-27T01:17:08Z"
       },
       "adobe/react-spectrum": {
-        "lastReleaseId": "RE_kwDODGtc284Vpk0G",
-        "lastPublishedAt": "2026-07-31T17:11:02Z",
+        "lastReleaseId": "RE_kwDODGtc284W08R5",
+        "lastPublishedAt": "2026-09-04T19:44:19Z",
         "releaseHistoryCursor": null
       },
       "go-webauthn/webauthn": {
@@ -3621,6 +3658,11 @@
       "natalie-o-perret/go-functionalish": {
         "lastReleaseId": "RE_kwDOSAC1Ws4V-uuU",
         "lastPublishedAt": "2026-08-11T18:18:29Z",
+        "releaseHistoryCursor": null
+      },
+      "sue445/gitpanda": {
+        "lastPublishedAt": "2026-08-21T15:30:08Z",
+        "lastReleaseId": "RE_kwDOC1Nn4M4WUnBC",
         "releaseHistoryCursor": null
       }
     }
