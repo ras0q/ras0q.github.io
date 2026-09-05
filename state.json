@@ -1312,6 +1312,33 @@
       ],
       "2026-09-05": [
         {
+          "id": "RE_kwDOC3PEAc4W2Otj",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.57.2",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.57.2",
+          "publishedAt": "2026-09-05T17:26:38Z",
+          "name": "0.57.2"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4W2OZu",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.141",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.141",
+          "publishedAt": "2026-09-05T17:08:17Z",
+          "name": "v8.4.141 - Update Axelera SDK to 1.8.0 and support batched inference (#26065)"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4W2NxK",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.23.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.23.0",
+          "publishedAt": "2026-09-05T17:00:05Z",
+          "name": "v1.23.0"
+        },
+        {
           "id": "RE_kwDOEyYzbs4W2CRX",
           "owner": "cargo-bins",
           "repo": "cargo-binstall",
@@ -2359,8 +2386,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4W2CRX",
-        "lastPublishedAt": "2026-09-05T14:04:29Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4W2NxK",
+        "lastPublishedAt": "2026-09-05T17:00:05Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -2533,8 +2560,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4WyICR",
-        "lastPublishedAt": "2026-09-03T18:26:14Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4W2Otj",
+        "lastPublishedAt": "2026-09-05T17:26:38Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -2897,8 +2924,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W1Oz4",
-        "lastPublishedAt": "2026-09-04T22:51:25Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W2OZu",
+        "lastPublishedAt": "2026-09-05T17:08:17Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
