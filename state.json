@@ -2,143 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-28",
       "2026-08-29",
       "2026-08-30",
       "2026-08-31",
       "2026-09-01",
       "2026-09-02",
-      "2026-09-03"
+      "2026-09-03",
+      "2026-09-04"
     ],
     "days": {
-      "2026-08-28": [
-        {
-          "id": "RE_kwDOKMzyM84Wk4ET",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.21.0",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.21.0",
-          "publishedAt": "2026-08-28T21:11:29Z",
-          "name": "0.21.0"
-        },
-        {
-          "id": "RE_kwDOD48kk84Wk3-i",
-          "owner": "pointfreeco",
-          "repo": "swift-composable-architecture",
-          "tag": "1.26.2",
-          "url": "https://github.com/pointfreeco/swift-composable-architecture/releases/tag/1.26.2",
-          "publishedAt": "2026-08-28T21:10:35Z",
-          "name": "1.26.2"
-        },
-        {
-          "id": "RE_kwDOIF_Mq84WkzdO",
-          "owner": "pointfreeco",
-          "repo": "swift-dependencies",
-          "tag": "1.17.1",
-          "url": "https://github.com/pointfreeco/swift-dependencies/releases/tag/1.17.1",
-          "publishedAt": "2026-08-28T20:25:16Z",
-          "name": "1.17.1"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84Wkoqo",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.12.5",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.12.5",
-          "publishedAt": "2026-08-28T19:01:28Z",
-          "name": "4.12.5"
-        },
-        {
-          "id": "RE_kwDORSib_s4WkmyV",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.13.2",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.13.2",
-          "publishedAt": "2026-08-28T18:43:25Z",
-          "name": "acpx v0.13.2"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WkhBQ",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.132",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.132",
-          "publishedAt": "2026-08-28T18:05:15Z",
-          "name": "v8.4.132 - Extend fraction to the test split (#25966)"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4WkUFp",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.33.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.33.0",
-          "publishedAt": "2026-08-28T16:31:59Z",
-          "name": "Release 6.33.0"
-        },
-        {
-          "id": "RE_kwDOPDzQl84WkMYp",
-          "owner": "yoshiko-pg",
-          "repo": "difit",
-          "tag": "v5.0.12",
-          "url": "https://github.com/yoshiko-pg/difit/releases/tag/v5.0.12",
-          "publishedAt": "2026-08-28T15:33:25Z",
-          "name": "v5.0.12"
-        },
-        {
-          "id": "RE_kwDOJKcikM4WkAOy",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.41.10",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.41.10",
-          "publishedAt": "2026-08-28T14:21:37Z",
-          "name": "@astrojs/starlight@0.41.10"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Wj20V",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.128.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.128.0",
-          "publishedAt": "2026-08-28T13:19:12Z",
-          "name": "v1.128.0"
-        },
-        {
-          "id": "RE_kwDOG034nM4WjutW",
-          "owner": "omnivore-app",
-          "repo": "omnivore",
-          "tag": "android-0.229.0",
-          "url": "https://github.com/omnivore-app/omnivore/releases/tag/android-0.229.0",
-          "publishedAt": "2026-08-28T12:21:43Z",
-          "name": "android-0.229.0"
-        },
-        {
-          "id": "RE_kwDON7Gnt84WjNju",
-          "owner": "whitphx",
-          "repo": "slidev-addon-fancy-arrow",
-          "tag": "slidev-addon-fancy-arrow@0.18.2",
-          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.18.2",
-          "publishedAt": "2026-08-28T07:45:14Z",
-          "name": "slidev-addon-fancy-arrow@0.18.2"
-        },
-        {
-          "id": "RE_kwDOHrOdo84Wi8MN",
-          "owner": "runmedev",
-          "repo": "runme",
-          "tag": "v3.17.5",
-          "url": "https://github.com/runmedev/runme/releases/tag/v3.17.5",
-          "publishedAt": "2026-08-28T04:20:34Z",
-          "name": "v3.17.5"
-        },
-        {
-          "id": "RE_kwDOQHjZG84WisTQ",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.1",
-          "publishedAt": "2026-08-28T00:21:16Z",
-          "name": "Release v2.67.1"
-        }
-      ],
       "2026-08-29": [
         {
           "id": "RE_kwDOQHjZG84WmM9z",
@@ -1023,6 +895,33 @@
         }
       ],
       "2026-09-04": [
+        {
+          "id": "RE_kwDOKbIFZc4W1QZE",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.10",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.10",
+          "publishedAt": "2026-09-04T23:15:57Z",
+          "name": "0.12.10"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4W1Oz4",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.140",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.140",
+          "publishedAt": "2026-09-04T22:51:25Z",
+          "name": "v8.4.140 - Fix grayscale TIFF training channel mismatch (#26061)"
+        },
+        {
+          "id": "RE_kwDONQkKUc4W1N9H",
+          "owner": "xtool-org",
+          "repo": "xtool",
+          "tag": "1.19.0",
+          "url": "https://github.com/xtool-org/xtool/releases/tag/1.19.0",
+          "publishedAt": "2026-09-04T22:41:41Z",
+          "name": "v1.19.0"
+        },
         {
           "id": "RE_kwDOQ5Wxys4W1Inf",
           "owner": "github",
@@ -2131,8 +2030,8 @@
         "releaseHistoryCursor": null
       },
       "xtool-org/xtool": {
-        "lastReleaseId": "RE_kwDONQkKUc4WwJGV",
-        "lastPublishedAt": "2026-09-03T04:10:26Z",
+        "lastReleaseId": "RE_kwDONQkKUc4W1N9H",
+        "lastPublishedAt": "2026-09-04T22:41:41Z",
         "releaseHistoryCursor": null
       },
       "foliojs/pdfkit": {
@@ -2783,8 +2682,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4Ws0iV",
-        "lastPublishedAt": "2026-09-01T21:58:26Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4W1QZE",
+        "lastPublishedAt": "2026-09-04T23:15:57Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -2888,8 +2787,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W0noq",
-        "lastPublishedAt": "2026-09-04T17:06:01Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W1Oz4",
+        "lastPublishedAt": "2026-09-04T22:51:25Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3661,8 +3560,8 @@
         "releaseHistoryCursor": null
       },
       "sue445/gitpanda": {
-        "lastPublishedAt": "2026-08-21T15:30:08Z",
         "lastReleaseId": "RE_kwDOC1Nn4M4WUnBC",
+        "lastPublishedAt": "2026-08-21T15:30:08Z",
         "releaseHistoryCursor": null
       }
     }
