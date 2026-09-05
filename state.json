@@ -1309,6 +1309,26 @@
           "publishedAt": "2026-09-04T00:07:08Z",
           "name": "Release v3.0.2"
         }
+      ],
+      "2026-09-05": [
+        {
+          "id": "RE_kwDOFVKCyc4W1dtR",
+          "owner": "oven-sh",
+          "repo": "bun",
+          "tag": "bun-v1.4.2",
+          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
+          "publishedAt": "2026-09-05T05:55:48Z",
+          "name": "Bun v1.4.2"
+        },
+        {
+          "id": "RE_kwDOAcjBfM4W1giV",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v5.1.2",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.2",
+          "publishedAt": "2026-09-05T03:54:50Z",
+          "name": "Fluent Bit 5.1.2"
+        }
       ]
     }
   },
@@ -3226,8 +3246,8 @@
       },
       "pointfreeco/isowords": {},
       "oven-sh/bun": {
-        "lastReleaseId": "RE_kwDOFVKCyc4WzN-7",
-        "lastPublishedAt": "2026-09-04T08:33:19Z",
+        "lastReleaseId": "RE_kwDOFVKCyc4W1dtR",
+        "lastPublishedAt": "2026-09-05T05:55:48Z",
         "releaseHistoryCursor": null
       },
       "YusukeHosonuma/SwiftUI-Simulator": {
@@ -3326,8 +3346,8 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4Wy_Ob",
-        "lastPublishedAt": "2026-09-04T03:46:41Z",
+        "lastReleaseId": "RE_kwDOAcjBfM4W1giV",
+        "lastPublishedAt": "2026-09-05T03:54:50Z",
         "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
