@@ -1312,6 +1312,69 @@
       ],
       "2026-09-05": [
         {
+          "id": "RE_kwDOEyYzbs4W2CRX",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-manifests-v0.19.6",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.6",
+          "publishedAt": "2026-09-05T14:04:29Z",
+          "name": "binstalk-manifests-v0.19.6"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4W2CQd",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.28.81",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.28.81",
+          "publishedAt": "2026-09-05T14:04:16Z",
+          "name": "binstalk-v0.28.81"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4W2CMO",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-targets-v0.1.91",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.91",
+          "publishedAt": "2026-09-05T14:03:10Z",
+          "name": "detect-targets-v0.1.91"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4W2CL2",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-registry-v0.12.8",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.8",
+          "publishedAt": "2026-09-05T14:03:04Z",
+          "name": "binstalk-registry-v0.12.8"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4W2CK8",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-fetchers-v0.10.48",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.48",
+          "publishedAt": "2026-09-05T14:02:52Z",
+          "name": "binstalk-fetchers-v0.10.48"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4W2CKf",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-git-repo-api-v0.5.48",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.48",
+          "publishedAt": "2026-09-05T14:02:44Z",
+          "name": "binstalk-git-repo-api-v0.5.48"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4W2CJo",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-downloader-v0.13.46",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.13.46",
+          "publishedAt": "2026-09-05T14:02:33Z",
+          "name": "binstalk-downloader-v0.13.46"
+        },
+        {
           "id": "RE_kwDOAEFNgs4W12Y1",
           "owner": "fish-shell",
           "repo": "fish-shell",
@@ -2296,8 +2359,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4WWYEU",
-        "lastPublishedAt": "2026-08-22T15:24:58Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4W2CRX",
+        "lastPublishedAt": "2026-09-05T14:04:29Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
