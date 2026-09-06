@@ -1339,6 +1339,15 @@
       ],
       "2026-09-06": [
         {
+          "id": "RE_kwDOA6cUY84W3K5L",
+          "owner": "jpki",
+          "repo": "myna",
+          "tag": "v0.8.1",
+          "url": "https://github.com/jpki/myna/releases/tag/v0.8.1",
+          "publishedAt": "2026-09-06T11:34:48Z",
+          "name": "v0.8.1"
+        },
+        {
           "id": "RE_kwDOPyZEpc4W29Iw",
           "owner": "microsoft",
           "repo": "apm",
@@ -3154,8 +3163,8 @@
         "releaseHistoryCursor": null
       },
       "jpki/myna": {
-        "lastReleaseId": "RE_kwDOA6cUY84Wd9Hb",
-        "lastPublishedAt": "2026-08-26T07:33:47Z",
+        "lastReleaseId": "RE_kwDOA6cUY84W3K5L",
+        "lastPublishedAt": "2026-09-06T11:34:48Z",
         "releaseHistoryCursor": null
       },
       "SvenTiigi/WhatsNewKit": {
