@@ -1339,6 +1339,51 @@
       ],
       "2026-09-06": [
         {
+          "id": "RE_kwDOPyZEpc4W29Iw",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.29.1",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.29.1",
+          "publishedAt": "2026-09-06T07:47:16Z",
+          "name": "v0.29.1"
+        },
+        {
+          "id": "RE_kwDOQHjZG84W2xY4",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.1",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.1",
+          "publishedAt": "2026-09-06T03:50:05Z",
+          "name": "Release v4.0.1"
+        },
+        {
+          "id": "RE_kwDOQHjZG84W2vuj",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.0",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.0",
+          "publishedAt": "2026-09-06T03:12:13Z",
+          "name": "Release v4.0.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4W2vBQ",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.14.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.14.0",
+          "publishedAt": "2026-09-06T02:57:28Z",
+          "name": "acpx v0.14.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84W2sl9",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v3.1.4",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.1.4",
+          "publishedAt": "2026-09-06T02:27:46Z",
+          "name": "Release v3.1.4"
+        },
+        {
           "id": "RE_kwDOGNEXps4W2q--",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1398,8 +1443,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84W2pyc",
-        "lastPublishedAt": "2026-09-06T01:25:02Z",
+        "lastReleaseId": "RE_kwDOQHjZG84W2xY4",
+        "lastPublishedAt": "2026-09-06T03:50:05Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1419,8 +1464,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4WkmyV",
-        "lastPublishedAt": "2026-08-28T18:43:25Z",
+        "lastReleaseId": "RE_kwDORSib_s4W2vBQ",
+        "lastPublishedAt": "2026-09-06T02:57:28Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -1518,8 +1563,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4WmssD",
-        "lastPublishedAt": "2026-08-30T10:04:54Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4W29Iw",
+        "lastPublishedAt": "2026-09-06T07:47:16Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
