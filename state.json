@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-29",
       "2026-08-30",
       "2026-08-31",
       "2026-09-01",
       "2026-09-02",
       "2026-09-03",
-      "2026-09-04"
+      "2026-09-04",
+      "2026-09-05"
     ],
     "days": {
-      "2026-08-29": [
-        {
-          "id": "RE_kwDOQHjZG84WmM9z",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.6",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.6",
-          "publishedAt": "2026-08-29T22:03:32Z",
-          "name": "Release v2.67.6"
-        },
-        {
-          "id": "RE_kwDOJCIvuc4WmL6D",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.8",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.8",
-          "publishedAt": "2026-08-29T21:40:34Z",
-          "name": "1.9.8"
-        },
-        {
-          "id": "RE_kwDOQHjZG84WmJ79",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.5",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.5",
-          "publishedAt": "2026-08-29T21:03:08Z",
-          "name": "Release v2.67.5"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WmIB1",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.135",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.135",
-          "publishedAt": "2026-08-29T20:26:23Z",
-          "name": "v8.4.135 - Respect dataset object counts when selecting max_det (#25993)"
-        },
-        {
-          "id": "RE_kwDOQHjZG84WmH-c",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.4",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.4",
-          "publishedAt": "2026-08-29T20:25:27Z",
-          "name": "Release v2.67.4"
-        },
-        {
-          "id": "RE_kwDOQHjZG84WmEFD",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.3",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.3",
-          "publishedAt": "2026-08-29T19:12:16Z",
-          "name": "Release v2.67.3"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WmAko",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.134",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.134",
-          "publishedAt": "2026-08-29T18:07:00Z",
-          "name": "v8.4.134 - Reduce TaskAlignedAssigner OOM recovery cost (#25990)"
-        },
-        {
-          "id": "RE_kwDOQvKulM4Wl-AG",
-          "owner": "ascorbic",
-          "repo": "cirrus",
-          "tag": "@getcirrus/pds@0.19.0",
-          "url": "https://github.com/ascorbic/cirrus/releases/tag/%40getcirrus/pds%400.19.0",
-          "publishedAt": "2026-08-29T17:25:47Z",
-          "name": "@getcirrus/pds@0.19.0"
-        },
-        {
-          "id": "RE_kwDOQvKulM4Wl9_5",
-          "owner": "ascorbic",
-          "repo": "cirrus",
-          "tag": "@getcirrus/spaces@0.1.0",
-          "url": "https://github.com/ascorbic/cirrus/releases/tag/%40getcirrus/spaces%400.1.0",
-          "publishedAt": "2026-08-29T17:25:44Z",
-          "name": "@getcirrus/spaces@0.1.0"
-        },
-        {
-          "id": "RE_kwDOQvKulM4Wl9_k",
-          "owner": "ascorbic",
-          "repo": "cirrus",
-          "tag": "@getcirrus/oauth-provider@0.6.0",
-          "url": "https://github.com/ascorbic/cirrus/releases/tag/%40getcirrus/oauth-provider%400.6.0",
-          "publishedAt": "2026-08-29T17:25:41Z",
-          "name": "@getcirrus/oauth-provider@0.6.0"
-        },
-        {
-          "id": "RE_kwDOQvKulM4Wl9_X",
-          "owner": "ascorbic",
-          "repo": "cirrus",
-          "tag": "create-pds@0.1.0",
-          "url": "https://github.com/ascorbic/cirrus/releases/tag/create-pds%400.1.0",
-          "publishedAt": "2026-08-29T17:25:38Z",
-          "name": "create-pds@0.1.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Wl6OS",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.2",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.2",
-          "publishedAt": "2026-08-29T16:21:39Z",
-          "name": "Release v2.67.2"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4WlteJ",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.133",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.133",
-          "publishedAt": "2026-08-29T12:53:59Z",
-          "name": "v8.4.133 - Improve hyperparameter Tuner mutation convergence (#25984)"
-        },
-        {
-          "id": "RE_kwDOKMzyM84Wlcuc",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.21.0",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.21.0",
-          "publishedAt": "2026-08-29T07:56:07Z",
-          "name": "0.21.0"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4WlJgY",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.5.0",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.0",
-          "publishedAt": "2026-08-29T01:19:53Z",
-          "name": "v1.5.0"
-        },
-        {
-          "id": "RE_kwDOOzc9Ss4WlFJN",
-          "owner": "apple",
-          "repo": "container",
-          "tag": "1.3.1",
-          "url": "https://github.com/apple/container/releases/tag/1.3.1",
-          "publishedAt": "2026-08-29T00:24:57Z",
-          "name": "1.3.1"
-        }
-      ],
       "2026-08-30": [
         {
           "id": "RE_kwDOIvux3s4Wnbb1",
@@ -1312,6 +1166,33 @@
       ],
       "2026-09-05": [
         {
+          "id": "RE_kwDOH-jzvc4W2ke3",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.142",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.142",
+          "publishedAt": "2026-09-05T23:27:21Z",
+          "name": "v8.4.142 - Unify `end2end` under `nms=True|False|None` (#26066)"
+        },
+        {
+          "id": "RE_kwDOQHjZG84W2g0F",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v3.1.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.1.2",
+          "publishedAt": "2026-09-05T22:12:02Z",
+          "name": "Release v3.1.2"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4W2ft-",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.57.4",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.57.4",
+          "publishedAt": "2026-09-05T22:02:39Z",
+          "name": "0.57.4"
+        },
+        {
           "id": "RE_kwDOC3PEAc4W2ZQS",
           "owner": "dprint",
           "repo": "dprint",
@@ -1455,6 +1336,26 @@
           "publishedAt": "2026-09-05T03:54:50Z",
           "name": "Fluent Bit 5.1.2"
         }
+      ],
+      "2026-09-06": [
+        {
+          "id": "RE_kwDOGNEXps4W2q--",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.26",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.26",
+          "publishedAt": "2026-09-06T01:58:18Z",
+          "name": "1.0.26"
+        },
+        {
+          "id": "RE_kwDOQHjZG84W2pyc",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v3.1.3",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.1.3",
+          "publishedAt": "2026-09-06T01:25:02Z",
+          "name": "Release v3.1.3"
+        }
       ]
     }
   },
@@ -1497,8 +1398,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84WzGJt",
-        "lastPublishedAt": "2026-09-04T05:17:22Z",
+        "lastReleaseId": "RE_kwDOQHjZG84W2pyc",
+        "lastPublishedAt": "2026-09-06T01:25:02Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2569,8 +2470,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4W2ZQS",
-        "lastPublishedAt": "2026-09-05T20:00:32Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4W2ft-",
+        "lastPublishedAt": "2026-09-05T22:02:39Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -2933,8 +2834,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W2OZu",
-        "lastPublishedAt": "2026-09-05T17:08:17Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W2ke3",
+        "lastPublishedAt": "2026-09-05T23:27:21Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3062,8 +2963,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4WwSAI",
-        "lastPublishedAt": "2026-09-03T05:22:04Z",
+        "lastReleaseId": "RE_kwDOGNEXps4W2q--",
+        "lastPublishedAt": "2026-09-06T01:58:18Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
