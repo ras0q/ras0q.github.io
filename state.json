@@ -1339,6 +1339,24 @@
       ],
       "2026-09-06": [
         {
+          "id": "RE_kwDOHm9BJM4W3j1E",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.40.3",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.3",
+          "publishedAt": "2026-09-06T17:33:10Z",
+          "name": "v0.40.3 Release"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4W3eMD",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.22.55",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.55",
+          "publishedAt": "2026-09-06T17:32:24Z",
+          "name": "v0.22.55 Release"
+        },
+        {
           "id": "RE_kwDOA6cUY84W3K5L",
           "owner": "jpki",
           "repo": "myna",
@@ -3393,8 +3411,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4WucxU",
-        "lastPublishedAt": "2026-09-02T13:18:16Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4W3j1E",
+        "lastPublishedAt": "2026-09-06T17:33:10Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
