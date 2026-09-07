@@ -1294,6 +1294,51 @@
       ],
       "2026-09-07": [
         {
+          "id": "RE_kwDOIvux3s4W6Gjm",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.2",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.2",
+          "publishedAt": "2026-09-07T22:25:21Z",
+          "name": "v2026.9.2: Packslip Backend, SSH Relay, and Reimagined Install Progress"
+        },
+        {
+          "id": "RE_kwDOO2B60c4W5-eH",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.0",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.0",
+          "publishedAt": "2026-09-07T20:09:13Z",
+          "name": "2.0.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4W53sW",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.2.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.2.0",
+          "publishedAt": "2026-09-07T18:52:11Z",
+          "name": "v31.2.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4W5yIe",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.143",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.143",
+          "publishedAt": "2026-09-07T17:49:27Z",
+          "name": "v8.4.143 - Add INT8 quantization-aware training via quantize=8 in train mode (#26083)"
+        },
+        {
+          "id": "RE_kwDODVAw7c4W5t2j",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.3",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.3",
+          "publishedAt": "2026-09-07T17:05:34Z",
+          "name": "v3.33.3"
+        },
+        {
           "id": "RE_kwDOGNEXps4W5aiO",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1739,8 +1784,9 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4Tu1ay",
-        "lastPublishedAt": "2026-05-28T18:23:21Z"
+        "lastReleaseId": "RE_kwDOO2B60c4W5-eH",
+        "lastPublishedAt": "2026-09-07T20:09:13Z",
+        "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
         "lastReleaseId": "RE_kwDOPw6uc84RZAOb",
@@ -1841,8 +1887,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4W0uA8",
-        "lastPublishedAt": "2026-09-04T17:56:05Z",
+        "lastReleaseId": "RE_kwDODVAw7c4W5t2j",
+        "lastPublishedAt": "2026-09-07T17:05:34Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2393,8 +2439,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Wuiol",
-        "lastPublishedAt": "2026-09-02T13:48:24Z",
+        "lastReleaseId": "RE_kwDOIvux3s4W6Gjm",
+        "lastPublishedAt": "2026-09-07T22:25:21Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2825,8 +2871,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W2ke3",
-        "lastPublishedAt": "2026-09-05T23:27:21Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W5yIe",
+        "lastPublishedAt": "2026-09-07T17:49:27Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3428,8 +3474,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4W1y9b",
-        "lastPublishedAt": "2026-09-05T09:36:27Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4W53sW",
+        "lastPublishedAt": "2026-09-07T18:52:11Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
