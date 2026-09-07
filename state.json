@@ -2,152 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-08-30",
       "2026-08-31",
       "2026-09-01",
       "2026-09-02",
       "2026-09-03",
       "2026-09-04",
-      "2026-09-05"
+      "2026-09-05",
+      "2026-09-06"
     ],
     "days": {
-      "2026-08-30": [
-        {
-          "id": "RE_kwDOIvux3s4Wnbb1",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.8.15",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.8.15",
-          "publishedAt": "2026-08-30T23:44:38Z",
-          "name": "v2026.8.15: Dotfiles diff and capture, scoped config updates, and per-tool postinstall hooks"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4WnM4x",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.57.0",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.57.0",
-          "publishedAt": "2026-08-30T21:09:02Z",
-          "name": "0.57.0"
-        },
-        {
-          "id": "RE_kwDOII1H084WnPya",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.27",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.27",
-          "publishedAt": "2026-08-30T19:59:35Z",
-          "name": "v0.5.27"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4WnO1D",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v31.1.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.1.0",
-          "publishedAt": "2026-08-30T19:41:59Z",
-          "name": "v31.1.0"
-        },
-        {
-          "id": "RE_kwDON7Gnt84Wm2qT",
-          "owner": "whitphx",
-          "repo": "slidev-addon-fancy-arrow",
-          "tag": "slidev-addon-fancy-arrow@0.20.0",
-          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.20.0",
-          "publishedAt": "2026-08-30T13:05:30Z",
-          "name": "slidev-addon-fancy-arrow@0.20.0"
-        },
-        {
-          "id": "RE_kwDOCN71Oc4WmxB6",
-          "owner": "o2sh",
-          "repo": "onefetch",
-          "tag": "2.28.1",
-          "url": "https://github.com/o2sh/onefetch/releases/tag/2.28.1",
-          "publishedAt": "2026-08-30T11:25:36Z",
-          "name": "2.28.1"
-        },
-        {
-          "id": "RE_kwDOCN71Oc4Wmvin",
-          "owner": "o2sh",
-          "repo": "onefetch",
-          "tag": "2.28.0",
-          "url": "https://github.com/o2sh/onefetch/releases/tag/2.28.0",
-          "publishedAt": "2026-08-30T10:58:03Z",
-          "name": "2.28.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4WmtnG",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v31.0.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.0.0",
-          "publishedAt": "2026-08-30T10:22:07Z",
-          "name": "v31.0.0"
-        },
-        {
-          "id": "RE_kwDOPyZEpc4WmssD",
-          "owner": "microsoft",
-          "repo": "apm",
-          "tag": "v0.29.0",
-          "url": "https://github.com/microsoft/apm/releases/tag/v0.29.0",
-          "publishedAt": "2026-08-30T10:04:54Z",
-          "name": "v0.29.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Wmhbe",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.10",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.10",
-          "publishedAt": "2026-08-30T06:12:00Z",
-          "name": "Release v2.67.10"
-        },
-        {
-          "id": "RE_kwDON7Gnt84WmgVT",
-          "owner": "whitphx",
-          "repo": "slidev-addon-fancy-arrow",
-          "tag": "slidev-addon-fancy-arrow@0.19.0",
-          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.19.0",
-          "publishedAt": "2026-08-30T05:44:35Z",
-          "name": "slidev-addon-fancy-arrow@0.19.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Wmdxl",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.9",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.9",
-          "publishedAt": "2026-08-30T04:40:02Z",
-          "name": "Release v2.67.9"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Wmb2A",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.8",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.8",
-          "publishedAt": "2026-08-30T03:53:45Z",
-          "name": "Release v2.67.8"
-        },
-        {
-          "id": "RE_kwDOQHjZG84WmZAj",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.67.7",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.67.7",
-          "publishedAt": "2026-08-30T02:43:58Z",
-          "name": "Release v2.67.7"
-        },
-        {
-          "id": "RE_kwDOAB79bM4WmXNb",
-          "owner": "foliojs",
-          "repo": "pdfkit",
-          "tag": "v0.20.2",
-          "url": "https://github.com/foliojs/pdfkit/releases/tag/v0.20.2",
-          "publishedAt": "2026-08-30T01:58:45Z",
-          "name": "v0.20.2"
-        }
-      ],
       "2026-08-31": [
         {
           "id": "RE_kwDOIIPL1M4Wp8aK",
@@ -1428,6 +1291,17 @@
           "publishedAt": "2026-09-06T01:25:02Z",
           "name": "Release v3.1.3"
         }
+      ],
+      "2026-09-07": [
+        {
+          "id": "RE_kwDOAAIHMs4W4CiO",
+          "owner": "keycastr",
+          "repo": "keycastr",
+          "tag": "v0.11.1",
+          "url": "https://github.com/keycastr/keycastr/releases/tag/v0.11.1",
+          "publishedAt": "2026-09-07T02:02:43Z",
+          "name": "v0.11.1"
+        }
       ]
     }
   },
@@ -1907,8 +1781,8 @@
         "releaseHistoryCursor": null
       },
       "keycastr/keycastr": {
-        "lastReleaseId": "RE_kwDOAAIHMs4WgH2k",
-        "lastPublishedAt": "2026-08-27T01:48:23Z",
+        "lastReleaseId": "RE_kwDOAAIHMs4W4CiO",
+        "lastPublishedAt": "2026-09-07T02:02:43Z",
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
@@ -3681,6 +3555,11 @@
       "sue445/gitpanda": {
         "lastReleaseId": "RE_kwDOC1Nn4M4WUnBC",
         "lastPublishedAt": "2026-08-21T15:30:08Z",
+        "releaseHistoryCursor": null
+      },
+      "smart-splits-nvim/smart-splits.nvim": {
+        "lastPublishedAt": "2026-04-14T23:31:11Z",
+        "lastReleaseId": "RE_kwDOHB7d2c4SbGqb",
         "releaseHistoryCursor": null
       }
     }
