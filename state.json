@@ -1294,6 +1294,15 @@
       ],
       "2026-09-07": [
         {
+          "id": "RE_kwDOQHjZG84W4WNX",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.2",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.2",
+          "publishedAt": "2026-09-07T06:27:43Z",
+          "name": "Release v4.0.2"
+        },
+        {
           "id": "RE_kwDOAAIHMs4W4CiO",
           "owner": "keycastr",
           "repo": "keycastr",
@@ -1344,8 +1353,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84W2xY4",
-        "lastPublishedAt": "2026-09-06T03:50:05Z",
+        "lastReleaseId": "RE_kwDOQHjZG84W4WNX",
+        "lastPublishedAt": "2026-09-07T06:27:43Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -3558,8 +3567,8 @@
         "releaseHistoryCursor": null
       },
       "smart-splits-nvim/smart-splits.nvim": {
-        "lastPublishedAt": "2026-04-14T23:31:11Z",
         "lastReleaseId": "RE_kwDOHB7d2c4SbGqb",
+        "lastPublishedAt": "2026-04-14T23:31:11Z",
         "releaseHistoryCursor": null
       }
     }
