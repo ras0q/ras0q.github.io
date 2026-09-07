@@ -1294,6 +1294,42 @@
       ],
       "2026-09-07": [
         {
+          "id": "RE_kwDOGNEXps4W5aiO",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.27",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.27",
+          "publishedAt": "2026-09-07T14:33:50Z",
+          "name": "1.0.27"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4W4991",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.134.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.134.0",
+          "publishedAt": "2026-09-07T11:17:44Z",
+          "name": "v1.134.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4W47g4",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.15.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.15.0",
+          "publishedAt": "2026-09-07T10:59:45Z",
+          "name": "acpx v0.15.0"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4W4yG6",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.30.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.30.0",
+          "publishedAt": "2026-09-07T09:51:28Z",
+          "name": "v0.30.0"
+        },
+        {
           "id": "RE_kwDOQHjZG84W4WNX",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1374,8 +1410,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4W2vBQ",
-        "lastPublishedAt": "2026-09-06T02:57:28Z",
+        "lastReleaseId": "RE_kwDORSib_s4W47g4",
+        "lastPublishedAt": "2026-09-07T10:59:45Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -1473,8 +1509,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4W29Iw",
-        "lastPublishedAt": "2026-09-06T07:47:16Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4W4yG6",
+        "lastPublishedAt": "2026-09-07T09:51:28Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -1763,8 +1799,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4W0DxY",
-        "lastPublishedAt": "2026-09-04T13:26:45Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4W4991",
+        "lastPublishedAt": "2026-09-07T11:17:44Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2918,8 +2954,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4W2q--",
-        "lastPublishedAt": "2026-09-06T01:58:18Z",
+        "lastReleaseId": "RE_kwDOGNEXps4W5aiO",
+        "lastPublishedAt": "2026-09-07T14:33:50Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
