@@ -1168,6 +1168,69 @@
       ],
       "2026-09-08": [
         {
+          "id": "RE_kwDOCd2s284W8GNe",
+          "owner": "emilk",
+          "repo": "egui",
+          "tag": "0.36.2",
+          "url": "https://github.com/emilk/egui/releases/tag/0.36.2",
+          "publishedAt": "2026-09-08T15:26:00Z",
+          "name": "0.36.2 - `TextEdit::event_filter` and bugfixes"
+        },
+        {
+          "id": "RE_kwDOKDDt4c4W2BQr",
+          "owner": "docmost",
+          "repo": "docmost",
+          "tag": "v0.96.0",
+          "url": "https://github.com/docmost/docmost/releases/tag/v0.96.0",
+          "publishedAt": "2026-09-08T14:18:03Z",
+          "name": "v0.96.0"
+        },
+        {
+          "id": "RE_kwDOCRgRGs4W7whp",
+          "owner": "wasmerio",
+          "repo": "wasmer",
+          "tag": "v7.4.1",
+          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.4.1",
+          "publishedAt": "2026-09-08T14:01:19Z",
+          "name": "Release v7.4.1"
+        },
+        {
+          "id": "RE_kwDOOELNJM4W7ziT",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.3.1",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.3.1",
+          "publishedAt": "2026-09-08T13:57:40Z",
+          "name": "vite-plus v0.3.1: manage package-manager versions with vp env"
+        },
+        {
+          "id": "RE_kwDOIvux3s4W69hM",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.3",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.3",
+          "publishedAt": "2026-09-08T13:55:29Z",
+          "name": "v2026.9.3: Winget bootstrap, signed vfox plugins, and faster inline commands"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4W7XCu",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.136.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.136.0",
+          "publishedAt": "2026-09-08T11:08:00Z",
+          "name": "v1.136.0"
+        },
+        {
+          "id": "RE_kwDODVAw7c4W7HR0",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.4",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.4",
+          "publishedAt": "2026-09-08T09:25:53Z",
+          "name": "v3.33.4"
+        },
+        {
           "id": "RE_kwDOPn2YWs4W6udb",
           "owner": "docker",
           "repo": "docker-agent",
@@ -1218,8 +1281,9 @@
         "releaseHistoryCursor": null
       },
       "docmost/docmost": {
-        "lastReleaseId": "RE_kwDOKDDt4c4UuNGR",
-        "lastPublishedAt": "2026-07-03T11:47:42Z"
+        "lastReleaseId": "RE_kwDOKDDt4c4W2BQr",
+        "lastPublishedAt": "2026-09-08T14:18:03Z",
+        "releaseHistoryCursor": null
       },
       "outline/outline": {
         "lastReleaseId": "RE_kwDOA4rpZM4WtAn-",
@@ -1384,8 +1448,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4WYLQI",
-        "lastPublishedAt": "2026-08-24T04:01:54Z",
+        "lastReleaseId": "RE_kwDOOELNJM4W7ziT",
+        "lastPublishedAt": "2026-09-08T13:57:40Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1638,8 +1702,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4W6udb",
-        "lastPublishedAt": "2026-09-08T06:36:43Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4W7XCu",
+        "lastPublishedAt": "2026-09-08T11:08:00Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -1680,8 +1744,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4W5t2j",
-        "lastPublishedAt": "2026-09-07T17:05:34Z",
+        "lastReleaseId": "RE_kwDODVAw7c4W7HR0",
+        "lastPublishedAt": "2026-09-08T09:25:53Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2099,8 +2163,8 @@
         "lastPublishedAt": "2026-07-08T15:58:56Z"
       },
       "wasmerio/wasmer": {
-        "lastReleaseId": "RE_kwDOCRgRGs4WpILo",
-        "lastPublishedAt": "2026-08-31T16:52:22Z",
+        "lastReleaseId": "RE_kwDOCRgRGs4W7whp",
+        "lastPublishedAt": "2026-09-08T14:01:19Z",
         "releaseHistoryCursor": null
       },
       "yui540/css-animations": {},
@@ -2232,8 +2296,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4W6Gjm",
-        "lastPublishedAt": "2026-09-07T22:25:21Z",
+        "lastReleaseId": "RE_kwDOIvux3s4W69hM",
+        "lastPublishedAt": "2026-09-08T13:55:29Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2969,8 +3033,8 @@
         "lastPublishedAt": "2024-01-19T05:36:48Z"
       },
       "emilk/egui": {
-        "lastReleaseId": "RE_kwDOCd2s284V3GAx",
-        "lastPublishedAt": "2026-08-07T13:24:07Z",
+        "lastReleaseId": "RE_kwDOCd2s284W8GNe",
+        "lastPublishedAt": "2026-09-08T15:26:00Z",
         "releaseHistoryCursor": null
       },
       "pmndrs/react-three-fiber": {
