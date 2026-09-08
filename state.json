@@ -1168,6 +1168,69 @@
       ],
       "2026-09-08": [
         {
+          "id": "RE_kwDOCnR4Zc4W8gZu",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.2.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.2.1",
+          "publishedAt": "2026-09-08T18:15:16Z",
+          "name": "v31.2.1"
+        },
+        {
+          "id": "RE_kwDOO2B60c4W8b-E",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.1",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.1",
+          "publishedAt": "2026-09-08T17:47:20Z",
+          "name": "2.0.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4W8W1s",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.144",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.144",
+          "publishedAt": "2026-09-08T17:11:50Z",
+          "name": "v8.4.144 - Fix model loading, numerical edge cases, and CI setup (#26106)"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4W8SSF",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.5.3",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.3",
+          "publishedAt": "2026-09-08T16:40:15Z",
+          "name": "v1.5.3"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4W8RJh",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.35.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.35.0",
+          "publishedAt": "2026-09-08T16:32:20Z",
+          "name": "Release 6.35.0"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4W8Oir",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.3.1",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.3.1",
+          "publishedAt": "2026-09-08T16:15:15Z",
+          "name": "v2.3.1"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4W8OXu",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.2.2",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.2.2",
+          "publishedAt": "2026-09-08T16:14:15Z",
+          "name": "v2.2.2"
+        },
+        {
           "id": "RE_kwDOCd2s284W8GNe",
           "owner": "emilk",
           "repo": "egui",
@@ -1641,8 +1704,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4W5-eH",
-        "lastPublishedAt": "2026-09-07T20:09:13Z",
+        "lastReleaseId": "RE_kwDOO2B60c4W8b-E",
+        "lastPublishedAt": "2026-09-08T17:47:20Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -1734,8 +1797,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4Wp8aK",
-        "lastPublishedAt": "2026-08-31T22:35:47Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4W8RJh",
+        "lastPublishedAt": "2026-09-08T16:32:20Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -2014,8 +2077,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4W11Hf",
-        "lastPublishedAt": "2026-09-05T10:15:12Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4W8SSF",
+        "lastPublishedAt": "2026-09-08T16:40:15Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2728,8 +2791,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W5yIe",
-        "lastPublishedAt": "2026-09-07T17:49:27Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W8W1s",
+        "lastPublishedAt": "2026-09-08T17:11:50Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2739,8 +2802,8 @@
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastReleaseId": "RE_kwDOE2oqQs4Wacf-",
-        "lastPublishedAt": "2026-08-24T22:35:47Z",
+        "lastReleaseId": "RE_kwDOE2oqQs4W8Oir",
+        "lastPublishedAt": "2026-09-08T16:15:15Z",
         "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
@@ -3331,8 +3394,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4W53sW",
-        "lastPublishedAt": "2026-09-07T18:52:11Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4W8gZu",
+        "lastPublishedAt": "2026-09-08T18:15:16Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
