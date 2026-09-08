@@ -1165,6 +1165,26 @@
           "publishedAt": "2026-09-07T02:02:43Z",
           "name": "v0.11.1"
         }
+      ],
+      "2026-09-08": [
+        {
+          "id": "RE_kwDOPn2YWs4W6udb",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.135.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.135.0",
+          "publishedAt": "2026-09-08T06:36:43Z",
+          "name": "v1.135.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4W6caC",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.15.1",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.15.1",
+          "publishedAt": "2026-09-08T03:01:16Z",
+          "name": "acpx v0.15.1"
+        }
       ]
     }
   },
@@ -1228,8 +1248,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4W47g4",
-        "lastPublishedAt": "2026-09-07T10:59:45Z",
+        "lastReleaseId": "RE_kwDORSib_s4W6caC",
+        "lastPublishedAt": "2026-09-08T03:01:16Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -1618,8 +1638,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4W4991",
-        "lastPublishedAt": "2026-09-07T11:17:44Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4W6udb",
+        "lastPublishedAt": "2026-09-08T06:36:43Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
