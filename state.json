@@ -1168,6 +1168,51 @@
       ],
       "2026-09-08": [
         {
+          "id": "RE_kwDOObWEYM4W86e8",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.59.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.59.0",
+          "publishedAt": "2026-09-08T21:13:43Z",
+          "name": "Release v0.59.0"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4W82sN",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.11",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.11",
+          "publishedAt": "2026-09-08T20:45:27Z",
+          "name": "0.12.11"
+        },
+        {
+          "id": "RE_kwDOR1G_Qs4W8188",
+          "owner": "zonuexe",
+          "repo": "riida",
+          "tag": "v0.9.0",
+          "url": "https://github.com/zonuexe/riida/releases/tag/v0.9.0",
+          "publishedAt": "2026-09-08T20:39:51Z",
+          "name": "[0.9.0] - 2026-09-09"
+        },
+        {
+          "id": "RE_kwDOO2B60c4W8z4d",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.2",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.2",
+          "publishedAt": "2026-09-08T20:26:31Z",
+          "name": "2.0.2"
+        },
+        {
+          "id": "RE_kwDOAEFNgs4W8nRA",
+          "owner": "fish-shell",
+          "repo": "fish-shell",
+          "tag": "4.9.3",
+          "url": "https://github.com/fish-shell/fish-shell/releases/tag/4.9.3",
+          "publishedAt": "2026-09-08T19:27:08Z",
+          "name": "fish 4.9.3"
+        },
+        {
           "id": "RE_kwDOCnR4Zc4W8gZu",
           "owner": "JanDeDobbeleer",
           "repo": "oh-my-posh",
@@ -1469,8 +1514,8 @@
       "parsimonhi/animCJK": {},
       "pirosiki197/nvim-config": {},
       "zonuexe/riida": {
-        "lastReleaseId": "RE_kwDOR1G_Qs4WVp9t",
-        "lastPublishedAt": "2026-08-22T02:29:33Z",
+        "lastReleaseId": "RE_kwDOR1G_Qs4W8188",
+        "lastPublishedAt": "2026-09-08T20:39:51Z",
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
@@ -1704,8 +1749,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4W8b-E",
-        "lastPublishedAt": "2026-09-08T17:47:20Z",
+        "lastReleaseId": "RE_kwDOO2B60c4W8z4d",
+        "lastPublishedAt": "2026-09-08T20:26:31Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -1971,8 +2016,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4WssJ6",
-        "lastPublishedAt": "2026-09-01T20:51:17Z",
+        "lastReleaseId": "RE_kwDOObWEYM4W86e8",
+        "lastPublishedAt": "2026-09-08T21:13:43Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -2686,8 +2731,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4W1QZE",
-        "lastPublishedAt": "2026-09-04T23:15:57Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4W82sN",
+        "lastPublishedAt": "2026-09-08T20:45:27Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3203,8 +3248,8 @@
         "lastPublishedAt": "2026-03-03T14:34:57Z"
       },
       "fish-shell/fish-shell": {
-        "lastReleaseId": "RE_kwDOAEFNgs4W12Y1",
-        "lastPublishedAt": "2026-09-05T11:15:05Z",
+        "lastReleaseId": "RE_kwDOAEFNgs4W8nRA",
+        "lastPublishedAt": "2026-09-08T19:27:08Z",
         "releaseHistoryCursor": null
       },
       "ichitaro/carla-trail": {},
