@@ -1449,6 +1449,60 @@
       ],
       "2026-09-09": [
         {
+          "id": "RE_kwDOQu84n84W_C3W",
+          "owner": "k1LoW",
+          "repo": "git-wt",
+          "tag": "v0.29.2",
+          "url": "https://github.com/k1LoW/git-wt/releases/tag/v0.29.2",
+          "publishedAt": "2026-09-09T15:14:35Z",
+          "name": "v0.29.2"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4W-9bD",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.5.4",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.4",
+          "publishedAt": "2026-09-09T14:45:53Z",
+          "name": "v1.5.4"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4W-5X1",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.137.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.137.0",
+          "publishedAt": "2026-09-09T14:24:40Z",
+          "name": "v1.137.0"
+        },
+        {
+          "id": "RE_kwDOE4c3is4W-s3l",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.6.1",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.6.1",
+          "publishedAt": "2026-09-09T13:22:40Z",
+          "name": "9.6.1"
+        },
+        {
+          "id": "RE_kwDOA4rpZM4W-rUS",
+          "owner": "outline",
+          "repo": "outline",
+          "tag": "v1.10.1",
+          "url": "https://github.com/outline/outline/releases/tag/v1.10.1",
+          "publishedAt": "2026-09-09T13:14:41Z",
+          "name": "v1.10.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4W-g6s",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.145",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.145",
+          "publishedAt": "2026-09-09T12:16:01Z",
+          "name": "v8.4.145 - Bump to 8.4.145 for login failure exit status (#26117)"
+        },
+        {
           "id": "RE_kwDOR1G_Qs4W9v4R",
           "owner": "zonuexe",
           "repo": "riida",
@@ -1522,8 +1576,8 @@
         "releaseHistoryCursor": null
       },
       "outline/outline": {
-        "lastReleaseId": "RE_kwDOA4rpZM4WtAn-",
-        "lastPublishedAt": "2026-09-02T00:05:15Z",
+        "lastReleaseId": "RE_kwDOA4rpZM4W-rUS",
+        "lastPublishedAt": "2026-09-09T13:14:41Z",
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
@@ -1698,8 +1752,8 @@
         "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
-        "lastReleaseId": "RE_kwDOQu84n84WElkM",
-        "lastPublishedAt": "2026-08-14T01:44:04Z",
+        "lastReleaseId": "RE_kwDOQu84n84W_C3W",
+        "lastPublishedAt": "2026-09-09T15:14:35Z",
         "releaseHistoryCursor": null
       },
       "UsUsStudios/manimvim.nvim": {},
@@ -1938,8 +1992,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4W7XCu",
-        "lastPublishedAt": "2026-09-08T11:08:00Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4W-5X1",
+        "lastPublishedAt": "2026-09-09T14:24:40Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2250,8 +2304,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4W8SSF",
-        "lastPublishedAt": "2026-09-08T16:40:15Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4W-9bD",
+        "lastPublishedAt": "2026-09-09T14:45:53Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2964,8 +3018,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W8W1s",
-        "lastPublishedAt": "2026-09-08T17:11:50Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W-g6s",
+        "lastPublishedAt": "2026-09-09T12:16:01Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3206,8 +3260,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4WpDcu",
-        "lastPublishedAt": "2026-08-31T15:31:03Z",
+        "lastReleaseId": "RE_kwDOE4c3is4W-s3l",
+        "lastPublishedAt": "2026-09-09T13:22:40Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
