@@ -1449,6 +1449,51 @@
       ],
       "2026-09-09": [
         {
+          "id": "RE_kwDOIvux3s4W_8-p",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.4",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.4",
+          "publishedAt": "2026-09-09T21:41:36Z",
+          "name": "v2026.9.4: Nix Bootstrap, Environment Selectors, and Man Pages"
+        },
+        {
+          "id": "RE_kwDOI2v4zc4W_6B5",
+          "owner": "pionxzh",
+          "repo": "wakaru",
+          "tag": "v1.11.0",
+          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.11.0",
+          "publishedAt": "2026-09-09T21:15:00Z",
+          "name": "v1.11.0"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4W_5a0",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.13.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.13.0",
+          "publishedAt": "2026-09-09T21:10:23Z",
+          "name": "v1.13.0 - Apply warnings, safer archives"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4W_5PJ",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.93.1",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.93.1",
+          "publishedAt": "2026-09-09T21:08:58Z",
+          "name": "v0.93.1"
+        },
+        {
+          "id": "RE_kwDOO2B60c4W_yW0",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.4",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.4",
+          "publishedAt": "2026-09-09T20:23:12Z",
+          "name": "2.0.4"
+        },
+        {
           "id": "RE_kwDOO2B60c4W_Xub",
           "owner": "anareaty",
           "repo": "pretty-properties",
@@ -1652,8 +1697,8 @@
         "releaseHistoryCursor": null
       },
       "pionxzh/wakaru": {
-        "lastReleaseId": "RE_kwDOI2v4zc4Wcva2",
-        "lastPublishedAt": "2026-08-25T18:51:44Z",
+        "lastReleaseId": "RE_kwDOI2v4zc4W_6B5",
+        "lastPublishedAt": "2026-09-09T21:15:00Z",
         "releaseHistoryCursor": null
       },
       "Akifyss/obsidian-border": {},
@@ -1830,8 +1875,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4Wv289",
-        "lastPublishedAt": "2026-09-03T00:09:15Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4W_5a0",
+        "lastPublishedAt": "2026-09-09T21:10:23Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -1927,8 +1972,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4WpwbI",
-        "lastPublishedAt": "2026-08-31T20:53:04Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4W_5PJ",
+        "lastPublishedAt": "2026-09-09T21:08:58Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1958,8 +2003,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4W_Xub",
-        "lastPublishedAt": "2026-09-09T17:46:29Z",
+        "lastReleaseId": "RE_kwDOO2B60c4W_yW0",
+        "lastPublishedAt": "2026-09-09T20:23:12Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2613,8 +2658,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4W69hM",
-        "lastPublishedAt": "2026-09-08T13:55:29Z",
+        "lastReleaseId": "RE_kwDOIvux3s4W_8-p",
+        "lastPublishedAt": "2026-09-09T21:41:36Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
