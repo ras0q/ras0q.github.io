@@ -1449,6 +1449,33 @@
       ],
       "2026-09-09": [
         {
+          "id": "RE_kwDOO2B60c4W_Xub",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.3",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.3",
+          "publishedAt": "2026-09-09T17:46:29Z",
+          "name": "2.0.3"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4W_aoN",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.146",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.146",
+          "publishedAt": "2026-09-09T17:37:43Z",
+          "name": "v8.4.146 - Fix RT-DETR inference for small and dynamic inputs (#26120)"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4W_Sua",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.12",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.12",
+          "publishedAt": "2026-09-09T16:45:15Z",
+          "name": "0.12.12"
+        },
+        {
           "id": "RE_kwDOQu84n84W_C3W",
           "owner": "k1LoW",
           "repo": "git-wt",
@@ -1931,8 +1958,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4W8z4d",
-        "lastPublishedAt": "2026-09-08T20:26:31Z",
+        "lastReleaseId": "RE_kwDOO2B60c4W_Xub",
+        "lastPublishedAt": "2026-09-09T17:46:29Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2913,8 +2940,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4W82sN",
-        "lastPublishedAt": "2026-09-08T20:45:27Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4W_Sua",
+        "lastPublishedAt": "2026-09-09T16:45:15Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3018,8 +3045,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W-g6s",
-        "lastPublishedAt": "2026-09-09T12:16:01Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4W_aoN",
+        "lastPublishedAt": "2026-09-09T17:37:43Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
