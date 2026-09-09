@@ -1449,6 +1449,24 @@
       ],
       "2026-09-09": [
         {
+          "id": "RE_kwDOR1G_Qs4W9v4R",
+          "owner": "zonuexe",
+          "repo": "riida",
+          "tag": "v0.9.1",
+          "url": "https://github.com/zonuexe/riida/releases/tag/v0.9.1",
+          "publishedAt": "2026-09-09T06:56:26Z",
+          "name": "[0.9.1] - 2026-09-09"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4W9t9a",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.35.1",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.35.1",
+          "publishedAt": "2026-09-09T06:40:37Z",
+          "name": "Release 6.35.1"
+        },
+        {
           "id": "RE_kwDOGNEXps4W9TPr",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1624,8 +1642,8 @@
       "parsimonhi/animCJK": {},
       "pirosiki197/nvim-config": {},
       "zonuexe/riida": {
-        "lastReleaseId": "RE_kwDOR1G_Qs4W8188",
-        "lastPublishedAt": "2026-09-08T20:39:51Z",
+        "lastReleaseId": "RE_kwDOR1G_Qs4W9v4R",
+        "lastPublishedAt": "2026-09-09T06:56:26Z",
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
@@ -1952,8 +1970,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4W8RJh",
-        "lastPublishedAt": "2026-09-08T16:32:20Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4W9t9a",
+        "lastPublishedAt": "2026-09-09T06:40:37Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
