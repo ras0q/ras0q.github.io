@@ -1530,6 +1530,33 @@
       ],
       "2026-09-10": [
         {
+          "id": "RE_kwDOKHF8zM4XC1dx",
+          "owner": "marimo-team",
+          "repo": "marimo",
+          "tag": "0.24.1",
+          "url": "https://github.com/marimo-team/marimo/releases/tag/0.24.1",
+          "publishedAt": "2026-09-10T21:45:54Z",
+          "name": "0.24.1"
+        },
+        {
+          "id": "RE_kwDOK-QCA84XC2qj",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v19.24.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.24.0",
+          "publishedAt": "2026-09-10T21:07:54Z",
+          "name": "v19.24.0"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4XCnvI",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.13",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.13",
+          "publishedAt": "2026-09-10T19:27:24Z",
+          "name": "0.12.13"
+        },
+        {
           "id": "RE_kwDOQ63fjM4XCeEy",
           "owner": "eugenioenko",
           "repo": "ttt",
@@ -2180,8 +2207,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84WZ8nB",
-        "lastPublishedAt": "2026-08-24T18:18:28Z",
+        "lastReleaseId": "RE_kwDOK-QCA84XC2qj",
+        "lastPublishedAt": "2026-09-10T21:07:54Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -2445,8 +2472,8 @@
         "lastPublishedAt": "2024-03-07T15:12:05Z"
       },
       "marimo-team/marimo": {
-        "lastReleaseId": "RE_kwDOKHF8zM4WK7ZA",
-        "lastPublishedAt": "2026-08-17T21:32:47Z",
+        "lastReleaseId": "RE_kwDOKHF8zM4XC1dx",
+        "lastPublishedAt": "2026-09-10T21:45:54Z",
         "releaseHistoryCursor": null
       },
       "8byt/gox": {},
@@ -3012,8 +3039,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4W_Sua",
-        "lastPublishedAt": "2026-09-09T16:45:15Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4XCnvI",
+        "lastPublishedAt": "2026-09-10T19:27:24Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
