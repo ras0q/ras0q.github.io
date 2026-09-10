@@ -1530,6 +1530,51 @@
       ],
       "2026-09-10": [
         {
+          "id": "RE_kwDOAZfQX84XA1mv",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.36.6",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.6",
+          "publishedAt": "2026-09-10T07:58:01Z",
+          "name": "v0.36.6"
+        },
+        {
+          "id": "RE_kwDONrCobc4XAqIj",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.4.5",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.5",
+          "publishedAt": "2026-09-10T06:26:48Z",
+          "name": "v2.4.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XAgDe",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.404.14",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.404.14",
+          "publishedAt": "2026-09-10T04:32:19Z",
+          "name": "v0.404.14"
+        },
+        {
+          "id": "RE_kwDOGiIVa84XAe1a",
+          "owner": "go-webauthn",
+          "repo": "webauthn",
+          "tag": "v0.18.1",
+          "url": "https://github.com/go-webauthn/webauthn/releases/tag/v0.18.1",
+          "publishedAt": "2026-09-10T04:15:49Z",
+          "name": "v0.18.1"
+        },
+        {
+          "id": "RE_kwDOQHjZG84XAXKI",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.4",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.4",
+          "publishedAt": "2026-09-10T02:46:02Z",
+          "name": "Release v4.0.4"
+        },
+        {
           "id": "RE_kwDOQHjZG84XAUvK",
           "owner": "esmuellert",
           "repo": "codediff.nvim",
@@ -1581,8 +1626,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84XAUvK",
-        "lastPublishedAt": "2026-09-10T02:16:02Z",
+        "lastReleaseId": "RE_kwDOQHjZG84XAXKI",
+        "lastPublishedAt": "2026-09-10T02:46:02Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1758,8 +1803,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XABiN",
-        "lastPublishedAt": "2026-09-09T22:19:16Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XAgDe",
+        "lastPublishedAt": "2026-09-10T04:32:19Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2509,8 +2554,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4WYNS3",
-        "lastPublishedAt": "2026-08-24T04:19:24Z",
+        "lastReleaseId": "RE_kwDONrCobc4XAqIj",
+        "lastPublishedAt": "2026-09-10T06:26:48Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -3243,8 +3288,8 @@
         "releaseHistoryCursor": null
       },
       "go-webauthn/webauthn": {
-        "lastReleaseId": "RE_kwDOGiIVa84WhP3c",
-        "lastPublishedAt": "2026-08-27T12:44:02Z",
+        "lastReleaseId": "RE_kwDOGiIVa84XAe1a",
+        "lastPublishedAt": "2026-09-10T04:15:49Z",
         "releaseHistoryCursor": null
       },
       "rasbt/machine-learning-book": {
@@ -3693,8 +3738,8 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84WYr3O",
-        "lastPublishedAt": "2026-08-24T09:07:27Z",
+        "lastReleaseId": "RE_kwDOAZfQX84XA1mv",
+        "lastPublishedAt": "2026-09-10T07:58:01Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
