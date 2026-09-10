@@ -2,107 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-02",
       "2026-09-03",
       "2026-09-04",
       "2026-09-05",
       "2026-09-06",
       "2026-09-07",
-      "2026-09-08"
+      "2026-09-08",
+      "2026-09-09"
     ],
     "days": {
-      "2026-09-02": [
-        {
-          "id": "RE_kwDOQvjuaM4WvDBB",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.390.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.390.0",
-          "publishedAt": "2026-09-02T17:00:09Z",
-          "name": "v0.390.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Wuiol",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.1",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.1",
-          "publishedAt": "2026-09-02T13:48:24Z",
-          "name": "v2026.9.1: Bootstrap firewall limiting, scoped locked mode, and lazy tools in tasks"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4WucxU",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.40.2",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.2",
-          "publishedAt": "2026-09-02T13:18:16Z",
-          "name": "v0.40.2 Release"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4WuaSn",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.22.54",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.54",
-          "publishedAt": "2026-09-02T13:17:38Z",
-          "name": "v0.22.54 Release"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4WuSDl",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.389.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.389.0",
-          "publishedAt": "2026-09-02T12:20:58Z",
-          "name": "v0.389.0"
-        },
-        {
-          "id": "RE_kwDOJKcikM4WuHec",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight-docsearch@0.8.0",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight-docsearch%400.8.0",
-          "publishedAt": "2026-09-02T11:13:58Z",
-          "name": "@astrojs/starlight-docsearch@0.8.0"
-        },
-        {
-          "id": "RE_kwDOJKcikM4WuHd7",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.0",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.0",
-          "publishedAt": "2026-09-02T11:13:55Z",
-          "name": "@astrojs/starlight@0.42.0"
-        },
-        {
-          "id": "RE_kwDOAyHt9s4Wtvj5",
-          "owner": "pressly",
-          "repo": "goose",
-          "tag": "v3.28.0",
-          "url": "https://github.com/pressly/goose/releases/tag/v3.28.0",
-          "publishedAt": "2026-09-02T08:34:11Z",
-          "name": "v3.28.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4Wtbjn",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.23",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.23",
-          "publishedAt": "2026-09-02T06:43:38Z",
-          "name": "1.0.23"
-        },
-        {
-          "id": "RE_kwDOA4rpZM4WtAn-",
-          "owner": "outline",
-          "repo": "outline",
-          "tag": "v1.10.0",
-          "url": "https://github.com/outline/outline/releases/tag/v1.10.0",
-          "publishedAt": "2026-09-02T00:05:15Z",
-          "name": "v1.10.0"
-        }
-      ],
       "2026-09-03": [
         {
           "id": "RE_kwDOGvUVTs4Wypzq",
@@ -1449,6 +1357,15 @@
       ],
       "2026-09-09": [
         {
+          "id": "RE_kwDOQvjuaM4XABiN",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.404.13",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.404.13",
+          "publishedAt": "2026-09-09T22:19:16Z",
+          "name": "v0.404.13"
+        },
+        {
           "id": "RE_kwDOIvux3s4W_8-p",
           "owner": "jdx",
           "repo": "mise",
@@ -1610,6 +1527,17 @@
           "publishedAt": "2026-09-09T01:28:43Z",
           "name": "1.4.1"
         }
+      ],
+      "2026-09-10": [
+        {
+          "id": "RE_kwDOQHjZG84XAUvK",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.3",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.3",
+          "publishedAt": "2026-09-10T02:16:02Z",
+          "name": "Release v4.0.3"
+        }
       ]
     }
   },
@@ -1653,8 +1581,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84W4WNX",
-        "lastPublishedAt": "2026-09-07T06:27:43Z",
+        "lastReleaseId": "RE_kwDOQHjZG84XAUvK",
+        "lastPublishedAt": "2026-09-10T02:16:02Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1830,8 +1758,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4WzDgy",
-        "lastPublishedAt": "2026-09-04T04:46:40Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XABiN",
+        "lastPublishedAt": "2026-09-09T22:19:16Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
