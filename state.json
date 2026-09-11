@@ -1521,6 +1521,60 @@
       ],
       "2026-09-11": [
         {
+          "id": "RE_kwDOPn2YWs4XE1kS",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.138.1",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.138.1",
+          "publishedAt": "2026-09-11T15:27:22Z",
+          "name": "v1.138.1"
+        },
+        {
+          "id": "RE_kwDOBLlNSM4XEvt6",
+          "owner": "lingui",
+          "repo": "js-lingui",
+          "tag": "v6.7.0",
+          "url": "https://github.com/lingui/js-lingui/releases/tag/v6.7.0",
+          "publishedAt": "2026-09-11T14:51:12Z",
+          "name": "v6.7.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XEiQ9",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.409.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.409.0",
+          "publishedAt": "2026-09-11T13:36:24Z",
+          "name": "v0.409.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XELIJ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.408.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.408.0",
+          "publishedAt": "2026-09-11T10:56:30Z",
+          "name": "v0.408.0"
+        },
+        {
+          "id": "RE_kwDOSP9SeM4XD3Ty",
+          "owner": "abap34",
+          "repo": "ss",
+          "tag": "v0.8.1",
+          "url": "https://github.com/abap34/ss/releases/tag/v0.8.1",
+          "publishedAt": "2026-09-11T08:33:33Z",
+          "name": "ss v0.8.1"
+        },
+        {
+          "id": "RE_kwDOOC1fY84XD3J3",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "4.0.3",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/4.0.3",
+          "publishedAt": "2026-09-11T08:32:18Z",
+          "name": "4.0.3"
+        },
+        {
           "id": "RE_kwDOSP9SeM4XDtH8",
           "owner": "abap34",
           "repo": "ss",
@@ -1629,8 +1683,8 @@
       },
       "nikitabobko/AeroSpace": {},
       "lingui/js-lingui": {
-        "lastReleaseId": "RE_kwDOBLlNSM4VayJC",
-        "lastPublishedAt": "2026-07-24T14:01:12Z",
+        "lastReleaseId": "RE_kwDOBLlNSM4XEvt6",
+        "lastPublishedAt": "2026-09-11T14:51:12Z",
         "releaseHistoryCursor": null
       },
       "docmost/docmost": {
@@ -1723,8 +1777,8 @@
         "releaseHistoryCursor": null
       },
       "abap34/ss": {
-        "lastReleaseId": "RE_kwDOSP9SeM4XDtH8",
-        "lastPublishedAt": "2026-09-11T07:16:54Z",
+        "lastReleaseId": "RE_kwDOSP9SeM4XD3Ty",
+        "lastPublishedAt": "2026-09-11T08:33:33Z",
         "releaseHistoryCursor": null
       },
       "kavinsood/yaos": {
@@ -1822,8 +1876,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XDn4P",
-        "lastPublishedAt": "2026-09-11T06:27:55Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XEiQ9",
+        "lastPublishedAt": "2026-09-11T13:36:24Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2056,8 +2110,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4XBz57",
-        "lastPublishedAt": "2026-09-10T14:21:14Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4XE1kS",
+        "lastPublishedAt": "2026-09-11T15:27:22Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2538,8 +2592,8 @@
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastReleaseId": "RE_kwDOOC1fY84Wy2_K",
-        "lastPublishedAt": "2026-09-04T01:57:27Z",
+        "lastReleaseId": "RE_kwDOOC1fY84XD3J3",
+        "lastPublishedAt": "2026-09-11T08:32:18Z",
         "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
