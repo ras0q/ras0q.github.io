@@ -2,170 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-03",
       "2026-09-04",
       "2026-09-05",
       "2026-09-06",
       "2026-09-07",
       "2026-09-08",
-      "2026-09-09"
+      "2026-09-09",
+      "2026-09-10"
     ],
     "days": {
-      "2026-09-03": [
-        {
-          "id": "RE_kwDOGvUVTs4Wypzq",
-          "owner": "nitrojs",
-          "repo": "nitro",
-          "tag": "v3.0.260903-beta",
-          "url": "https://github.com/nitrojs/nitro/releases/tag/v3.0.260903-beta",
-          "publishedAt": "2026-09-03T22:55:43Z",
-          "name": "v3.0.260903-beta"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Wymx2",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v3.0.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.0.1",
-          "publishedAt": "2026-09-03T22:20:25Z",
-          "name": "Release v3.0.1"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4WyICR",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.57.1",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.57.1",
-          "publishedAt": "2026-09-03T18:26:14Z",
-          "name": "0.57.1"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4Wx_aD",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.6",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.6",
-          "publishedAt": "2026-09-03T17:20:13Z",
-          "name": "0.16.6"
-        },
-        {
-          "id": "RE_kwDOAEFNgs4Wx44x",
-          "owner": "fish-shell",
-          "repo": "fish-shell",
-          "tag": "4.9.0",
-          "url": "https://github.com/fish-shell/fish-shell/releases/tag/4.9.0",
-          "publishedAt": "2026-09-03T16:51:16Z",
-          "name": "fish 4.9.0"
-        },
-        {
-          "id": "RE_kwDODVAw7c4Wx4IL",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.1",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.1",
-          "publishedAt": "2026-09-03T16:29:38Z",
-          "name": "v3.33.1"
-        },
-        {
-          "id": "RE_kwDOGkmMps4WxunG",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.0.31",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.0.31",
-          "publishedAt": "2026-09-03T15:30:55Z",
-          "name": "3.0.31"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4Wxpfn",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.5.1",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.1",
-          "publishedAt": "2026-09-03T15:00:47Z",
-          "name": "v1.5.1"
-        },
-        {
-          "id": "RE_kwDOH0TSTs4Wxot5",
-          "owner": "Songmu",
-          "repo": "tagpr",
-          "tag": "v1.20.3",
-          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.20.3",
-          "publishedAt": "2026-09-03T14:58:05Z",
-          "name": "v1.20.3"
-        },
-        {
-          "id": "RE_kwDOL0IZ084WxhD3",
-          "owner": "glanceapp",
-          "repo": "glance",
-          "tag": "v0.8.6",
-          "url": "https://github.com/glanceapp/glance/releases/tag/v0.8.6",
-          "publishedAt": "2026-09-03T14:13:46Z",
-          "name": "v0.8.6"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4WxT_3",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.131.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.131.0",
-          "publishedAt": "2026-09-03T13:02:26Z",
-          "name": "v1.131.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Wwl7u",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v3.0.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.0.0",
-          "publishedAt": "2026-09-03T07:55:32Z",
-          "name": "Release v3.0.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84Wwh-_",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.68.1",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.68.1",
-          "publishedAt": "2026-09-03T07:30:56Z",
-          "name": "Release v2.68.1"
-        },
-        {
-          "id": "RE_kwDOGNEXps4WwSAI",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.24",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.24",
-          "publishedAt": "2026-09-03T05:22:04Z",
-          "name": "1.0.24"
-        },
-        {
-          "id": "RE_kwDONQkKUc4WwJGV",
-          "owner": "xtool-org",
-          "repo": "xtool",
-          "tag": "1.18.1",
-          "url": "https://github.com/xtool-org/xtool/releases/tag/1.18.1",
-          "publishedAt": "2026-09-03T04:10:26Z",
-          "name": "v1.18.1"
-        },
-        {
-          "id": "RE_kwDOQHjZG84WwBgo",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v2.68.0",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v2.68.0",
-          "publishedAt": "2026-09-03T02:31:40Z",
-          "name": "Release v2.68.0"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4Wv289",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.12.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.12.0",
-          "publishedAt": "2026-09-03T00:09:15Z",
-          "name": "v1.12.0 - Findings Reports, SourceCraft"
-        }
-      ],
       "2026-09-04": [
         {
           "id": "RE_kwDOKbIFZc4W1QZE",
@@ -1530,6 +1375,15 @@
       ],
       "2026-09-10": [
         {
+          "id": "RE_kwDOIvux3s4XDHLQ",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.5",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.5",
+          "publishedAt": "2026-09-10T23:44:04Z",
+          "name": "v2026.9.5: macOS defaults, per-platform dotfiles, and complete lockfiles"
+        },
+        {
           "id": "RE_kwDOKHF8zM4XC1dx",
           "owner": "marimo-team",
           "repo": "marimo",
@@ -1664,6 +1518,35 @@
           "publishedAt": "2026-09-10T02:16:02Z",
           "name": "Release v4.0.3"
         }
+      ],
+      "2026-09-11": [
+        {
+          "id": "RE_kwDOQu84n84XDRyZ",
+          "owner": "k1LoW",
+          "repo": "git-wt",
+          "tag": "v0.29.3",
+          "url": "https://github.com/k1LoW/git-wt/releases/tag/v0.29.3",
+          "publishedAt": "2026-09-11T01:53:30Z",
+          "name": "v0.29.3"
+        },
+        {
+          "id": "RE_kwDOQHjZG84XDNg1",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.5",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.5",
+          "publishedAt": "2026-09-11T00:57:19Z",
+          "name": "Release v4.0.5"
+        },
+        {
+          "id": "RE_kwDONQkKUc4XDIgn",
+          "owner": "xtool-org",
+          "repo": "xtool",
+          "tag": "1.19.2",
+          "url": "https://github.com/xtool-org/xtool/releases/tag/1.19.2",
+          "publishedAt": "2026-09-11T00:04:29Z",
+          "name": "v1.19.2"
+        }
       ]
     }
   },
@@ -1707,8 +1590,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84XAXKI",
-        "lastPublishedAt": "2026-09-10T02:46:02Z",
+        "lastReleaseId": "RE_kwDOQHjZG84XDNg1",
+        "lastPublishedAt": "2026-09-11T00:57:19Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -1878,8 +1761,8 @@
         "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
-        "lastReleaseId": "RE_kwDOQu84n84W_C3W",
-        "lastPublishedAt": "2026-09-09T15:14:35Z",
+        "lastReleaseId": "RE_kwDOQu84n84XDRyZ",
+        "lastPublishedAt": "2026-09-11T01:53:30Z",
         "releaseHistoryCursor": null
       },
       "UsUsStudios/manimvim.nvim": {},
@@ -2387,8 +2270,8 @@
         "releaseHistoryCursor": null
       },
       "xtool-org/xtool": {
-        "lastReleaseId": "RE_kwDONQkKUc4W1N9H",
-        "lastPublishedAt": "2026-09-04T22:41:41Z",
+        "lastReleaseId": "RE_kwDONQkKUc4XDIgn",
+        "lastPublishedAt": "2026-09-11T00:04:29Z",
         "releaseHistoryCursor": null
       },
       "foliojs/pdfkit": {
@@ -2712,8 +2595,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4W_8-p",
-        "lastPublishedAt": "2026-09-09T21:41:36Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XDHLQ",
+        "lastPublishedAt": "2026-09-10T23:44:04Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
