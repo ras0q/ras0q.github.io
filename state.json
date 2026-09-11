@@ -1521,6 +1521,60 @@
       ],
       "2026-09-11": [
         {
+          "id": "RE_kwDOSP9SeM4XDtH8",
+          "owner": "abap34",
+          "repo": "ss",
+          "tag": "v0.8.0",
+          "url": "https://github.com/abap34/ss/releases/tag/v0.8.0",
+          "publishedAt": "2026-09-11T07:16:54Z",
+          "name": "ss v0.8.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XDn4P",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.407.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.407.0",
+          "publishedAt": "2026-09-11T06:27:55Z",
+          "name": "v0.407.0"
+        },
+        {
+          "id": "RE_kwDOHe7bmc4XDi5U",
+          "owner": "charmbracelet",
+          "repo": "gum",
+          "tag": "v2.0.1",
+          "url": "https://github.com/charmbracelet/gum/releases/tag/v2.0.1",
+          "publishedAt": "2026-09-11T05:30:35Z",
+          "name": "v2.0.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XDfj2",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.147",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.147",
+          "publishedAt": "2026-09-11T04:46:38Z",
+          "name": "v8.4.147 - Apply Albumentations to grayscale images (#26133)"
+        },
+        {
+          "id": "RE_kwDONrCobc4XDZLA",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.5.0",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.5.0",
+          "publishedAt": "2026-09-11T03:23:32Z",
+          "name": "v2.5.0"
+        },
+        {
+          "id": "RE_kwDOFhZBDs4XDWVC",
+          "owner": "bytedance",
+          "repo": "sonic",
+          "tag": "v1.15.4",
+          "url": "https://github.com/bytedance/sonic/releases/tag/v1.15.4",
+          "publishedAt": "2026-09-11T02:48:13Z",
+          "name": "v1.15.4"
+        },
+        {
           "id": "RE_kwDOQu84n84XDRyZ",
           "owner": "k1LoW",
           "repo": "git-wt",
@@ -1669,8 +1723,9 @@
         "releaseHistoryCursor": null
       },
       "abap34/ss": {
-        "lastReleaseId": "RE_kwDOSP9SeM4VBo_1",
-        "lastPublishedAt": "2026-07-12T12:54:15Z"
+        "lastReleaseId": "RE_kwDOSP9SeM4XDtH8",
+        "lastPublishedAt": "2026-09-11T07:16:54Z",
+        "releaseHistoryCursor": null
       },
       "kavinsood/yaos": {
         "lastReleaseId": "RE_kwDORRnees4WiRse",
@@ -1767,8 +1822,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XBlIX",
-        "lastPublishedAt": "2026-09-10T13:04:46Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XDn4P",
+        "lastPublishedAt": "2026-09-11T06:27:55Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2518,8 +2573,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4XAqIj",
-        "lastPublishedAt": "2026-09-10T06:26:48Z",
+        "lastReleaseId": "RE_kwDONrCobc4XDZLA",
+        "lastPublishedAt": "2026-09-11T03:23:32Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -3027,8 +3082,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4W_aoN",
-        "lastPublishedAt": "2026-09-09T17:37:43Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XDfj2",
+        "lastPublishedAt": "2026-09-11T04:46:38Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3481,8 +3536,8 @@
       "gohandson/accountbook-ja": {},
       "vugu/vugu": {},
       "charmbracelet/gum": {
-        "lastReleaseId": "RE_kwDOHe7bmc4WRFOO",
-        "lastPublishedAt": "2026-08-20T08:13:46Z",
+        "lastReleaseId": "RE_kwDOHe7bmc4XDi5U",
+        "lastPublishedAt": "2026-09-11T05:30:35Z",
         "releaseHistoryCursor": null
       },
       "podhmo/flagstruct": {
@@ -3518,8 +3573,8 @@
       "peaks-cc/iOS_architecture_samplecode": {},
       "craftdocs/craft-extension-inspirations": {},
       "bytedance/sonic": {
-        "lastReleaseId": "RE_kwDOFhZBDs4WfFqA",
-        "lastPublishedAt": "2026-08-26T15:46:02Z",
+        "lastReleaseId": "RE_kwDOFhZBDs4XDWVC",
+        "lastPublishedAt": "2026-09-11T02:48:13Z",
         "releaseHistoryCursor": null
       },
       "kaz/pprotein": {
