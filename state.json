@@ -1521,6 +1521,42 @@
       ],
       "2026-09-11": [
         {
+          "id": "RE_kwDOO2B60c4XFlEM",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.6",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.6",
+          "publishedAt": "2026-09-11T21:14:40Z",
+          "name": "2.0.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XFkbD",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.414.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.414.0",
+          "publishedAt": "2026-09-11T21:07:54Z",
+          "name": "v0.414.0"
+        },
+        {
+          "id": "RE_kwDONvYw484XFjKN",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nextjs@0.1.6",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%400.1.6",
+          "publishedAt": "2026-09-11T20:56:59Z",
+          "name": "@arkenv/nextjs@0.1.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XFVkF",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.413.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.413.0",
+          "publishedAt": "2026-09-11T19:09:23Z",
+          "name": "v0.413.0"
+        },
+        {
           "id": "RE_kwDOO2B60c4XFJo0",
           "owner": "anareaty",
           "repo": "pretty-properties",
@@ -1938,8 +1974,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XFHRM",
-        "lastPublishedAt": "2026-09-11T17:21:40Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XFkbD",
+        "lastPublishedAt": "2026-09-11T21:07:54Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2111,8 +2147,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XFJo0",
-        "lastPublishedAt": "2026-09-11T17:40:00Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XFlEM",
+        "lastPublishedAt": "2026-09-11T21:14:40Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2163,8 +2199,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484Wc95H",
-        "lastPublishedAt": "2026-08-25T20:23:45Z",
+        "lastReleaseId": "RE_kwDONvYw484XFjKN",
+        "lastPublishedAt": "2026-09-11T20:56:59Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
