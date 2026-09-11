@@ -1521,6 +1521,68 @@
       ],
       "2026-09-11": [
         {
+          "id": "RE_kwDOO2B60c4XFJo0",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.5",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.5",
+          "publishedAt": "2026-09-11T17:40:00Z",
+          "name": "2.0.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XFHRM",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.412.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.412.0",
+          "publishedAt": "2026-09-11T17:21:40Z",
+          "name": "v0.412.0"
+        },
+        {
+          "id": "RE_kwDONRQKHs4XFGQV",
+          "owner": "pfrankov",
+          "repo": "obsidian-ai-providers",
+          "tag": "1.11.0",
+          "url": "https://github.com/pfrankov/obsidian-ai-providers/releases/tag/1.11.0",
+          "publishedAt": "2026-09-11T17:15:09Z",
+          "name": "1.11.0"
+        },
+        {
+          "id": "RE_kwDOMRmaUs4XFEW1",
+          "owner": "amnweb",
+          "repo": "yasb",
+          "tag": "v2.0.7",
+          "url": "https://github.com/amnweb/yasb/releases/tag/v2.0.7",
+          "publishedAt": "2026-09-11T17:03:25Z",
+          "name": "v2.0.7"
+        },
+        {
+          "id": "RE_kwDOKHF8zM4XFDlE",
+          "owner": "marimo-team",
+          "repo": "marimo",
+          "tag": "0.24.2",
+          "url": "https://github.com/marimo-team/marimo/releases/tag/0.24.2",
+          "publishedAt": "2026-09-11T16:55:21Z"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XFDGK",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.148",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.148",
+          "publishedAt": "2026-09-11T16:52:02Z",
+          "name": "v8.4.148 - Load SAM 3.1 checkpoints into the SAM 3 image predictors (#26144)"
+        },
+        {
+          "id": "RE_kwDOK-QCA84XE8pZ",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v19.24.1",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.24.1",
+          "publishedAt": "2026-09-11T16:10:31Z",
+          "name": "v19.24.1"
+        },
+        {
           "id": "RE_kwDOPn2YWs4XE1kS",
           "owner": "docker",
           "repo": "docker-agent",
@@ -1876,8 +1938,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XEiQ9",
-        "lastPublishedAt": "2026-09-11T13:36:24Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XFHRM",
+        "lastPublishedAt": "2026-09-11T17:21:40Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2049,8 +2111,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4W_yW0",
-        "lastPublishedAt": "2026-09-09T20:23:12Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XFJo0",
+        "lastPublishedAt": "2026-09-11T17:40:00Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2199,8 +2261,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84XC2qj",
-        "lastPublishedAt": "2026-09-10T21:07:54Z",
+        "lastReleaseId": "RE_kwDOK-QCA84XE8pZ",
+        "lastPublishedAt": "2026-09-11T16:10:31Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -2464,8 +2526,8 @@
         "lastPublishedAt": "2024-03-07T15:12:05Z"
       },
       "marimo-team/marimo": {
-        "lastReleaseId": "RE_kwDOKHF8zM4XC1dx",
-        "lastPublishedAt": "2026-09-10T21:45:54Z",
+        "lastReleaseId": "RE_kwDOKHF8zM4XFDlE",
+        "lastPublishedAt": "2026-09-11T16:55:21Z",
         "releaseHistoryCursor": null
       },
       "8byt/gox": {},
@@ -2539,8 +2601,9 @@
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
-        "lastReleaseId": "RE_kwDONRQKHs4ShcP-",
-        "lastPublishedAt": "2026-04-18T19:48:43Z"
+        "lastReleaseId": "RE_kwDONRQKHs4XFGQV",
+        "lastPublishedAt": "2026-09-11T17:15:09Z",
+        "releaseHistoryCursor": null
       },
       "k1LoW/deck": {
         "lastReleaseId": "RE_kwDOOIl6Q84U36Br",
@@ -2783,8 +2846,8 @@
       },
       "WinterTC55/proposal-minimum-common-api": {},
       "amnweb/yasb": {
-        "lastReleaseId": "RE_kwDOMRmaUs4V16Na",
-        "lastPublishedAt": "2026-08-07T00:44:27Z",
+        "lastReleaseId": "RE_kwDOMRmaUs4XFEW1",
+        "lastPublishedAt": "2026-09-11T17:03:25Z",
         "releaseHistoryCursor": null
       },
       "3b1b/manim": {
@@ -3136,8 +3199,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XDfj2",
-        "lastPublishedAt": "2026-09-11T04:46:38Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XFDGK",
+        "lastPublishedAt": "2026-09-11T16:52:02Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
