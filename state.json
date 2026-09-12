@@ -1358,6 +1358,42 @@
       ],
       "2026-09-12": [
         {
+          "id": "RE_kwDOQvjuaM4XGJF1",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.420.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.420.0",
+          "publishedAt": "2026-09-12T07:07:08Z",
+          "name": "v0.420.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XGGnp",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.149",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.149",
+          "publishedAt": "2026-09-12T06:20:24Z",
+          "name": "v8.4.149 - Fix resume, ONNX CUDA fallback, Ray Tune and W&B training crashes (#26148)"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XGEhM",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.419.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.419.0",
+          "publishedAt": "2026-09-12T05:36:23Z",
+          "name": "v0.419.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XGAHy",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.418.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.418.0",
+          "publishedAt": "2026-09-12T04:07:26Z",
+          "name": "v0.418.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4XF59c",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1605,8 +1641,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XF59c",
-        "lastPublishedAt": "2026-09-12T02:07:00Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XGJF1",
+        "lastPublishedAt": "2026-09-12T07:07:08Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2866,8 +2902,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XFDGK",
-        "lastPublishedAt": "2026-09-11T16:52:02Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XGGnp",
+        "lastPublishedAt": "2026-09-12T06:20:24Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
