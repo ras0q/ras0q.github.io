@@ -1358,6 +1358,15 @@
       ],
       "2026-09-12": [
         {
+          "id": "RE_kwDOQvjuaM4XG6LC",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.0",
+          "publishedAt": "2026-09-12T19:57:15Z",
+          "name": "v0.424.0"
+        },
+        {
           "id": "RE_kwDOO2B60c4XGwt_",
           "owner": "anareaty",
           "repo": "pretty-properties",
@@ -1740,8 +1749,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XGnlI",
-        "lastPublishedAt": "2026-09-12T15:19:19Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XG6LC",
+        "lastPublishedAt": "2026-09-12T19:57:15Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
