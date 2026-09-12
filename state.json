@@ -1358,6 +1358,78 @@
       ],
       "2026-09-12": [
         {
+          "id": "RE_kwDOHm9BJM4XGkYD",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.40.4",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.4",
+          "publishedAt": "2026-09-12T14:35:16Z",
+          "name": "v0.40.4 Release"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XGhWg",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.423.1",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.423.1",
+          "publishedAt": "2026-09-12T13:49:23Z",
+          "name": "v0.423.1"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4XGgCv",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.5.5",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.5",
+          "publishedAt": "2026-09-12T13:29:28Z",
+          "name": "v1.5.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XGdlb",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.423.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.423.0",
+          "publishedAt": "2026-09-12T12:51:03Z",
+          "name": "v0.423.0"
+        },
+        {
+          "id": "RE_kwDODhPY784XGapX",
+          "owner": "OpenMined",
+          "repo": "TenSEAL",
+          "tag": "v0.3.18",
+          "url": "https://github.com/OpenMined/TenSEAL/releases/tag/v0.3.18",
+          "publishedAt": "2026-09-12T12:03:40Z",
+          "name": "v0.3.18"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XGX_J",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.422.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.422.0",
+          "publishedAt": "2026-09-12T11:19:34Z",
+          "name": "v0.422.0"
+        },
+        {
+          "id": "RE_kwDOLk0b284XGVED",
+          "owner": "ymtdzzz",
+          "repo": "otel-tui",
+          "tag": "v0.7.5",
+          "url": "https://github.com/ymtdzzz/otel-tui/releases/tag/v0.7.5",
+          "publishedAt": "2026-09-12T10:28:45Z",
+          "name": "v0.7.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XGOnW",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.421.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.421.0",
+          "publishedAt": "2026-09-12T08:45:15Z",
+          "name": "v0.421.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4XGJF1",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1641,8 +1713,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XGJF1",
-        "lastPublishedAt": "2026-09-12T07:07:08Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XGhWg",
+        "lastPublishedAt": "2026-09-12T13:49:23Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1984,8 +2056,8 @@
       },
       "Deep-ai-inc/ch.at": {},
       "ymtdzzz/otel-tui": {
-        "lastReleaseId": "RE_kwDOLk0b284V6nS8",
-        "lastPublishedAt": "2026-08-10T05:03:36Z",
+        "lastReleaseId": "RE_kwDOLk0b284XGVED",
+        "lastPublishedAt": "2026-09-12T10:28:45Z",
         "releaseHistoryCursor": null
       },
       "kaakaa/slidev-resources-template": {
@@ -2187,8 +2259,8 @@
         "lastPublishedAt": "2025-05-19T05:15:11Z"
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4W-9bD",
-        "lastPublishedAt": "2026-09-09T14:45:53Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4XGgCv",
+        "lastPublishedAt": "2026-09-12T13:29:28Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2408,8 +2480,8 @@
       "kumoridai/obsidian-bookmark-bookmarklet": {},
       "trasta298/bot-itika-v2": {},
       "OpenMined/TenSEAL": {
-        "lastReleaseId": "RE_kwDODhPY784VuzJf",
-        "lastPublishedAt": "2026-08-04T02:33:50Z",
+        "lastReleaseId": "RE_kwDODhPY784XGapX",
+        "lastPublishedAt": "2026-09-12T12:03:40Z",
         "releaseHistoryCursor": null
       },
       "wavetermdev/waveterm": {
@@ -3407,8 +3479,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4W3j1E",
-        "lastPublishedAt": "2026-09-06T17:33:10Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4XGkYD",
+        "lastPublishedAt": "2026-09-12T14:35:16Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
