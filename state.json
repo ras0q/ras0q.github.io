@@ -1358,6 +1358,33 @@
       ],
       "2026-09-12": [
         {
+          "id": "RE_kwDOO2B60c4XGwt_",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.7",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.7",
+          "publishedAt": "2026-09-12T17:32:30Z",
+          "name": "2.0.7"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XGnlI",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.423.2",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.423.2",
+          "publishedAt": "2026-09-12T15:19:19Z",
+          "name": "v0.423.2"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XGm_V",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.150",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.150",
+          "publishedAt": "2026-09-12T15:11:19Z",
+          "name": "v8.4.150 - Speed up restricted loading and restore fused checkpoints (#26155)"
+        },
+        {
           "id": "RE_kwDOHm9BJM4XGkYD",
           "owner": "pocketbase",
           "repo": "pocketbase",
@@ -1713,8 +1740,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XGhWg",
-        "lastPublishedAt": "2026-09-12T13:49:23Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XGnlI",
+        "lastPublishedAt": "2026-09-12T15:19:19Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1886,8 +1913,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XFlEM",
-        "lastPublishedAt": "2026-09-11T21:14:40Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XGwt_",
+        "lastPublishedAt": "2026-09-12T17:32:30Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2974,8 +3001,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XGGnp",
-        "lastPublishedAt": "2026-09-12T06:20:24Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XGm_V",
+        "lastPublishedAt": "2026-09-12T15:11:19Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
