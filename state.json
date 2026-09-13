@@ -1385,6 +1385,51 @@
       ],
       "2026-09-13": [
         {
+          "id": "RE_kwDOCnR4Zc4XH4fq",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.3.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.3.0",
+          "publishedAt": "2026-09-13T15:27:58Z",
+          "name": "v31.3.0"
+        },
+        {
+          "id": "RE_kwDOO2B60c4XHumH",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.9",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.9",
+          "publishedAt": "2026-09-13T13:04:53Z",
+          "name": "2.0.9"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84XHqO3",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.0",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.0",
+          "publishedAt": "2026-09-13T11:57:46Z",
+          "name": "4.13.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHmfq",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.10",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.10",
+          "publishedAt": "2026-09-13T10:48:06Z",
+          "name": "v0.424.10"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHgtl",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.9",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.9",
+          "publishedAt": "2026-09-13T09:00:11Z",
+          "name": "v0.424.9"
+        },
+        {
           "id": "RE_kwDOO2B60c4XHeAj",
           "owner": "anareaty",
           "repo": "pretty-properties",
@@ -1677,8 +1722,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XHac9",
-        "lastPublishedAt": "2026-09-13T06:58:26Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XHmfq",
+        "lastPublishedAt": "2026-09-13T10:48:06Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1850,8 +1895,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XHeAj",
-        "lastPublishedAt": "2026-09-13T08:04:55Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XHumH",
+        "lastPublishedAt": "2026-09-13T13:04:53Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -1965,8 +2010,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84Wkoqo",
-        "lastPublishedAt": "2026-08-28T19:01:28Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84XHqO3",
+        "lastPublishedAt": "2026-09-13T11:57:46Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -3541,8 +3586,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4W8gZu",
-        "lastPublishedAt": "2026-09-08T18:15:16Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4XH4fq",
+        "lastPublishedAt": "2026-09-13T15:27:58Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
