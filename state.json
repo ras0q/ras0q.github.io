@@ -2,188 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-05",
       "2026-09-06",
       "2026-09-07",
       "2026-09-08",
       "2026-09-09",
       "2026-09-10",
-      "2026-09-11"
+      "2026-09-11",
+      "2026-09-12"
     ],
     "days": {
-      "2026-09-05": [
-        {
-          "id": "RE_kwDOH-jzvc4W2ke3",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.142",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.142",
-          "publishedAt": "2026-09-05T23:27:21Z",
-          "name": "v8.4.142 - Unify `end2end` under `nms=True|False|None` (#26066)"
-        },
-        {
-          "id": "RE_kwDOQHjZG84W2g0F",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v3.1.2",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v3.1.2",
-          "publishedAt": "2026-09-05T22:12:02Z",
-          "name": "Release v3.1.2"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4W2ft-",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.57.4",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.57.4",
-          "publishedAt": "2026-09-05T22:02:39Z",
-          "name": "0.57.4"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4W2ZQS",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.57.3",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.57.3",
-          "publishedAt": "2026-09-05T20:00:32Z",
-          "name": "0.57.3"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4W2Otj",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.57.2",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.57.2",
-          "publishedAt": "2026-09-05T17:26:38Z",
-          "name": "0.57.2"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4W2OZu",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.141",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.141",
-          "publishedAt": "2026-09-05T17:08:17Z",
-          "name": "v8.4.141 - Update Axelera SDK to 1.8.0 and support batched inference (#26065)"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2NxK",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "v1.23.0",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.23.0",
-          "publishedAt": "2026-09-05T17:00:05Z",
-          "name": "v1.23.0"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2CRX",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-manifests-v0.19.6",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.6",
-          "publishedAt": "2026-09-05T14:04:29Z",
-          "name": "binstalk-manifests-v0.19.6"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2CQd",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-v0.28.81",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.28.81",
-          "publishedAt": "2026-09-05T14:04:16Z",
-          "name": "binstalk-v0.28.81"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2CMO",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "detect-targets-v0.1.91",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.91",
-          "publishedAt": "2026-09-05T14:03:10Z",
-          "name": "detect-targets-v0.1.91"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2CL2",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-registry-v0.12.8",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.8",
-          "publishedAt": "2026-09-05T14:03:04Z",
-          "name": "binstalk-registry-v0.12.8"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2CK8",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-fetchers-v0.10.48",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.48",
-          "publishedAt": "2026-09-05T14:02:52Z",
-          "name": "binstalk-fetchers-v0.10.48"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2CKf",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-git-repo-api-v0.5.48",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.48",
-          "publishedAt": "2026-09-05T14:02:44Z",
-          "name": "binstalk-git-repo-api-v0.5.48"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4W2CJo",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-downloader-v0.13.46",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.13.46",
-          "publishedAt": "2026-09-05T14:02:33Z",
-          "name": "binstalk-downloader-v0.13.46"
-        },
-        {
-          "id": "RE_kwDOAEFNgs4W12Y1",
-          "owner": "fish-shell",
-          "repo": "fish-shell",
-          "tag": "4.9.2",
-          "url": "https://github.com/fish-shell/fish-shell/releases/tag/4.9.2",
-          "publishedAt": "2026-09-05T11:15:05Z",
-          "name": "fish 4.9.2"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4W11Hf",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.5.2",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.2",
-          "publishedAt": "2026-09-05T10:15:12Z",
-          "name": "v1.5.2"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4W1y9b",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v31.1.3",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.1.3",
-          "publishedAt": "2026-09-05T09:36:27Z",
-          "name": "v31.1.3"
-        },
-        {
-          "id": "RE_kwDOFVKCyc4W1dtR",
-          "owner": "oven-sh",
-          "repo": "bun",
-          "tag": "bun-v1.4.2",
-          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.2",
-          "publishedAt": "2026-09-05T05:55:48Z",
-          "name": "Bun v1.4.2"
-        },
-        {
-          "id": "RE_kwDOAcjBfM4W1giV",
-          "owner": "fluent",
-          "repo": "fluent-bit",
-          "tag": "v5.1.2",
-          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.2",
-          "publishedAt": "2026-09-05T03:54:50Z",
-          "name": "Fluent Bit 5.1.2"
-        }
-      ],
       "2026-09-06": [
         {
           "id": "RE_kwDOHm9BJM4W3j1E",
@@ -1358,6 +1185,33 @@
       ],
       "2026-09-12": [
         {
+          "id": "RE_kwDOIvux3s4XHG_-",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.6",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.6",
+          "publishedAt": "2026-09-12T23:58:09Z",
+          "name": "v2026.9.6: Project daemons, mise doctor project, and vfox backend tool discovery"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHFxB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.2",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.2",
+          "publishedAt": "2026-09-12T23:27:56Z",
+          "name": "v0.424.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHB3X",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.1",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.1",
+          "publishedAt": "2026-09-12T22:10:38Z",
+          "name": "v0.424.1"
+        },
+        {
           "id": "RE_kwDOQvjuaM4XG6LC",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1527,6 +1381,35 @@
           "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.416.0",
           "publishedAt": "2026-09-12T00:18:46Z",
           "name": "v0.416.0"
+        }
+      ],
+      "2026-09-13": [
+        {
+          "id": "RE_kwDOQvjuaM4XHODt",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.4",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.4",
+          "publishedAt": "2026-09-13T02:22:15Z",
+          "name": "v0.424.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHLmB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.3",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.3",
+          "publishedAt": "2026-09-13T01:29:04Z",
+          "name": "v0.424.3"
+        },
+        {
+          "id": "RE_kwDOBDf5XM4XHLfS",
+          "owner": "Foundry376",
+          "repo": "Mailspring",
+          "tag": "1.24.0",
+          "url": "https://github.com/Foundry376/Mailspring/releases/tag/1.24.0",
+          "publishedAt": "2026-09-13T01:27:57Z",
+          "name": "1.24.0"
         }
       ]
     }
@@ -1749,8 +1632,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XG6LC",
-        "lastPublishedAt": "2026-09-12T19:57:15Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XHODt",
+        "lastPublishedAt": "2026-09-13T02:22:15Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2578,8 +2461,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XDHLQ",
-        "lastPublishedAt": "2026-09-10T23:44:04Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XHG_-",
+        "lastPublishedAt": "2026-09-12T23:58:09Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2866,8 +2749,8 @@
         "lastPublishedAt": "2026-01-10T23:21:01Z"
       },
       "Foundry376/Mailspring": {
-        "lastReleaseId": "RE_kwDOBDf5XM4VUxN_",
-        "lastPublishedAt": "2026-07-22T03:45:22Z",
+        "lastReleaseId": "RE_kwDOBDf5XM4XHLfS",
+        "lastPublishedAt": "2026-09-13T01:27:57Z",
         "releaseHistoryCursor": null
       },
       "a5chin/python-uv": {
