@@ -1385,6 +1385,51 @@
       ],
       "2026-09-13": [
         {
+          "id": "RE_kwDOO2B60c4XHeAj",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.8",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.8",
+          "publishedAt": "2026-09-13T08:04:55Z",
+          "name": "2.0.8"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHac9",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.8",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.8",
+          "publishedAt": "2026-09-13T06:58:26Z",
+          "name": "v0.424.8"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHX7C",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.7",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.7",
+          "publishedAt": "2026-09-13T06:04:31Z",
+          "name": "v0.424.7"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHUt7",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.6",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.6",
+          "publishedAt": "2026-09-13T04:54:16Z",
+          "name": "v0.424.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XHRj5",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.424.5",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.5",
+          "publishedAt": "2026-09-13T03:38:19Z",
+          "name": "v0.424.5"
+        },
+        {
           "id": "RE_kwDOQvjuaM4XHODt",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1632,8 +1677,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XHODt",
-        "lastPublishedAt": "2026-09-13T02:22:15Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XHac9",
+        "lastPublishedAt": "2026-09-13T06:58:26Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1805,8 +1850,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XGwt_",
-        "lastPublishedAt": "2026-09-12T17:32:30Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XHeAj",
+        "lastPublishedAt": "2026-09-13T08:04:55Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
