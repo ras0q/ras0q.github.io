@@ -1439,6 +1439,15 @@
       ],
       "2026-09-14": [
         {
+          "id": "RE_kwDOIvux3s4XKcH3",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.8",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.8",
+          "publishedAt": "2026-09-14T18:20:23Z",
+          "name": "v2026.9.8: Top-level `mise dot` command, faster brew bootstrap installs, and npm safety-check fixes"
+        },
+        {
           "id": "RE_kwDOOELNJM4XJ_SG",
           "owner": "voidzero-dev",
           "repo": "vite-plus",
@@ -2551,8 +2560,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XIXgK",
-        "lastPublishedAt": "2026-09-13T23:42:17Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XKcH3",
+        "lastPublishedAt": "2026-09-14T18:20:23Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
