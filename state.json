@@ -1439,6 +1439,42 @@
       ],
       "2026-09-14": [
         {
+          "id": "RE_kwDOOELNJM4XJ_SG",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.3.2",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.3.2",
+          "publishedAt": "2026-09-14T15:11:09Z",
+          "name": "vite-plus v0.3.2: independent package-manager versions and Oxlint plugin APIs"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4XJp-f",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.94.2",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.94.2",
+          "publishedAt": "2026-09-14T13:11:45Z",
+          "name": "v0.94.2"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XJSKV",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.152",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.152",
+          "publishedAt": "2026-09-14T10:24:59Z",
+          "name": "v8.4.152 - Report NVIDIA driver and CUDA versions in SystemLogger (#26173)"
+        },
+        {
+          "id": "RE_kwDOEXrCM84XJLz2",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v139",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v139",
+          "publishedAt": "2026-09-14T09:38:20Z",
+          "name": "Server v139"
+        },
+        {
           "id": "RE_kwDOH-jzvc4XJKHn",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1666,8 +1702,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4W7ziT",
-        "lastPublishedAt": "2026-09-08T13:57:40Z",
+        "lastReleaseId": "RE_kwDOOELNJM4XJ_SG",
+        "lastPublishedAt": "2026-09-14T15:11:09Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1828,8 +1864,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4XF5Rp",
-        "lastPublishedAt": "2026-09-12T01:53:28Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4XJp-f",
+        "lastPublishedAt": "2026-09-14T13:11:45Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -2478,8 +2514,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84WZe6l",
-        "lastPublishedAt": "2026-08-24T14:51:00Z",
+        "lastReleaseId": "RE_kwDOEXrCM84XJLz2",
+        "lastPublishedAt": "2026-09-14T09:38:20Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -2947,8 +2983,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XJKHn",
-        "lastPublishedAt": "2026-09-14T09:26:15Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XJSKV",
+        "lastPublishedAt": "2026-09-14T10:24:59Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
