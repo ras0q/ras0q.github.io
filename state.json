@@ -1436,6 +1436,35 @@
           "publishedAt": "2026-09-13T01:27:57Z",
           "name": "1.24.0"
         }
+      ],
+      "2026-09-14": [
+        {
+          "id": "RE_kwDOH-jzvc4XJKHn",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.151",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.151",
+          "publishedAt": "2026-09-14T09:26:15Z",
+          "name": "v8.4.151 - Preserve conf=0.0 in nms=True exports instead of baking 0.25 into the graph (#26163)"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4XJIds",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.139.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.139.0",
+          "publishedAt": "2026-09-14T09:14:31Z",
+          "name": "v1.139.0"
+        },
+        {
+          "id": "RE_kwDOOeTgGM4XI-2e",
+          "owner": "modelcontextprotocol",
+          "repo": "go-sdk",
+          "tag": "v1.8.0",
+          "url": "https://github.com/modelcontextprotocol/go-sdk/releases/tag/v1.8.0",
+          "publishedAt": "2026-09-14T08:05:46Z",
+          "name": "v1.8.0"
+        }
       ]
     }
   },
@@ -1891,8 +1920,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4XE1kS",
-        "lastPublishedAt": "2026-09-11T15:27:22Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4XJIds",
+        "lastPublishedAt": "2026-09-14T09:14:31Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2087,8 +2116,8 @@
         "lastPublishedAt": "2025-12-04T04:49:44Z"
       },
       "modelcontextprotocol/go-sdk": {
-        "lastReleaseId": "RE_kwDOOeTgGM4VheUS",
-        "lastPublishedAt": "2026-07-28T13:09:53Z",
+        "lastReleaseId": "RE_kwDOOeTgGM4XI-2e",
+        "lastPublishedAt": "2026-09-14T08:05:46Z",
         "releaseHistoryCursor": null
       },
       "charmbracelet/glow": {
@@ -2918,8 +2947,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XGm_V",
-        "lastPublishedAt": "2026-09-12T15:11:19Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XJKHn",
+        "lastPublishedAt": "2026-09-14T09:26:15Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
