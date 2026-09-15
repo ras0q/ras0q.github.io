@@ -1412,6 +1412,42 @@
       ],
       "2026-09-15": [
         {
+          "id": "RE_kwDOO2B60c4XNq1d",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.10",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.10",
+          "publishedAt": "2026-09-15T20:31:19Z",
+          "name": "2.0.10"
+        },
+        {
+          "id": "RE_kwDOObWEYM4XNq2J",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.60.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0",
+          "publishedAt": "2026-09-15T20:31:02Z",
+          "name": "Release v0.60.0"
+        },
+        {
+          "id": "RE_kwDOH1-qgs4XNbW7",
+          "owner": "jetify-com",
+          "repo": "devbox",
+          "tag": "0.18.2",
+          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.2",
+          "publishedAt": "2026-09-15T19:15:41Z",
+          "name": "0.18.2"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4XNRWZ",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.31.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.31.0",
+          "publishedAt": "2026-09-15T17:48:53Z",
+          "name": "v0.31.0"
+        },
+        {
           "id": "RE_kwDOH-jzvc4XMouS",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1709,8 +1745,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4W4yG6",
-        "lastPublishedAt": "2026-09-07T09:51:28Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4XNRWZ",
+        "lastPublishedAt": "2026-09-15T17:48:53Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -1939,8 +1975,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XHumH",
-        "lastPublishedAt": "2026-09-13T13:04:53Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XNq1d",
+        "lastPublishedAt": "2026-09-15T20:31:19Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2206,8 +2242,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4W86e8",
-        "lastPublishedAt": "2026-09-08T21:13:43Z",
+        "lastReleaseId": "RE_kwDOObWEYM4XNq2J",
+        "lastPublishedAt": "2026-09-15T20:31:02Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -3392,8 +3428,8 @@
         "releaseHistoryCursor": null
       },
       "jetify-com/devbox": {
-        "lastReleaseId": "RE_kwDOH1-qgs4XIFff",
-        "lastPublishedAt": "2026-09-13T23:36:48Z",
+        "lastReleaseId": "RE_kwDOH1-qgs4XNbW7",
+        "lastPublishedAt": "2026-09-15T19:15:41Z",
         "releaseHistoryCursor": null
       },
       "fedibird/mastodon": {},
