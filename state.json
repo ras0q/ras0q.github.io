@@ -1412,6 +1412,42 @@
       ],
       "2026-09-15": [
         {
+          "id": "RE_kwDONrCobc4XL0iI",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.6.0",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.6.0",
+          "publishedAt": "2026-09-15T08:22:15Z",
+          "name": "v2.6.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4XLzLq",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.140.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.140.0",
+          "publishedAt": "2026-09-15T08:13:31Z",
+          "name": "v1.140.0"
+        },
+        {
+          "id": "RE_kwDONw8d0M4XLptz",
+          "owner": "swiftlang",
+          "repo": "swift-build",
+          "tag": "swift-6.4.0-RELEASE",
+          "url": "https://github.com/swiftlang/swift-build/releases/tag/swift-6.4.0-RELEASE",
+          "publishedAt": "2026-09-15T07:11:23Z",
+          "name": "Swift 6.4.0 Release"
+        },
+        {
+          "id": "RE_kwDOIvux3s4XLoRX",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.9",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.9",
+          "publishedAt": "2026-09-15T07:00:26Z",
+          "name": "v2026.9.9: Dotfiles false-deletion fix, encrypted `mise dot track`, semantic uv options for PyPI tools"
+        },
+        {
           "id": "RE_kwDOKbIFZc4XLQUv",
           "owner": "astral-sh",
           "repo": "uv",
@@ -1902,8 +1938,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4XJIds",
-        "lastPublishedAt": "2026-09-14T09:14:31Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4XLzLq",
+        "lastPublishedAt": "2026-09-15T08:13:31Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2420,13 +2456,14 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4XDZLA",
-        "lastPublishedAt": "2026-09-11T03:23:32Z",
+        "lastReleaseId": "RE_kwDONrCobc4XL0iI",
+        "lastPublishedAt": "2026-09-15T08:22:15Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
-        "lastReleaseId": "RE_kwDONw8d0M4SrWdI",
-        "lastPublishedAt": "2026-04-24T18:07:19Z"
+        "lastReleaseId": "RE_kwDONw8d0M4XLptz",
+        "lastPublishedAt": "2026-09-15T07:11:23Z",
+        "releaseHistoryCursor": null
       },
       "yassinebenaid/bunster": {
         "lastReleaseId": "RE_kwDOMY56Es4OY_QX",
@@ -2497,8 +2534,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XKcH3",
-        "lastPublishedAt": "2026-09-14T18:20:23Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XLoRX",
+        "lastPublishedAt": "2026-09-15T07:00:26Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
