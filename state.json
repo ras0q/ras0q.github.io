@@ -1412,6 +1412,68 @@
       ],
       "2026-09-15": [
         {
+          "id": "RE_kwDOH-jzvc4XMouS",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.153",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.153",
+          "publishedAt": "2026-09-15T13:53:32Z",
+          "name": "v8.4.153 - Fix SAM3 compile=False handling and release 8.4.153 (#26189)"
+        },
+        {
+          "id": "RE_kwDOALIcz84XMkFz",
+          "owner": "rcmdnk",
+          "repo": "vim_ahk",
+          "tag": "v0.17.1",
+          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.17.1",
+          "publishedAt": "2026-09-15T13:29:08Z",
+          "name": "v0.17.1"
+        },
+        {
+          "id": "RE_kwDOJKcikM4XMX4x",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.1",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.1",
+          "publishedAt": "2026-09-15T12:20:11Z",
+          "name": "@astrojs/starlight@0.42.1"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4XMWIa",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.15",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.15",
+          "publishedAt": "2026-09-15T12:09:40Z",
+          "name": "0.12.15"
+        },
+        {
+          "id": "RE_kwDOF9Sih84XMQjN",
+          "owner": "aquaproj",
+          "repo": "aqua",
+          "tag": "v2.63.0",
+          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.63.0",
+          "publishedAt": "2026-09-15T11:31:38Z"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84XMNXI",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.1",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.1",
+          "publishedAt": "2026-09-15T11:14:03Z",
+          "name": "4.13.1"
+        },
+        {
+          "id": "RE_kwDOFYUYQs4XML1q",
+          "owner": "slidevjs",
+          "repo": "slidev",
+          "tag": "v52.19.2",
+          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.19.2",
+          "publishedAt": "2026-09-15T10:58:48Z",
+          "name": "v52.19.2"
+        },
+        {
           "id": "RE_kwDONrCobc4XL0iI",
           "owner": "antfu",
           "repo": "node-modules-inspector",
@@ -1824,8 +1886,8 @@
         "releaseHistoryCursor": null
       },
       "rcmdnk/vim_ahk": {
-        "lastReleaseId": "RE_kwDOALIcz84Wa1ev",
-        "lastPublishedAt": "2026-08-25T03:48:57Z",
+        "lastReleaseId": "RE_kwDOALIcz84XMkFz",
+        "lastPublishedAt": "2026-09-15T13:29:08Z",
         "releaseHistoryCursor": null
       },
       "tonisives/ovim": {
@@ -1908,8 +1970,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4WuHec",
-        "lastPublishedAt": "2026-09-02T11:13:58Z",
+        "lastReleaseId": "RE_kwDOJKcikM4XMX4x",
+        "lastPublishedAt": "2026-09-15T12:20:11Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -1992,8 +2054,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84XHqO3",
-        "lastPublishedAt": "2026-09-13T11:57:46Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84XMNXI",
+        "lastPublishedAt": "2026-09-15T11:14:03Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -2813,8 +2875,8 @@
       },
       "kyosu-1/passkey-go-example": {},
       "slidevjs/slidev": {
-        "lastReleaseId": "RE_kwDOFYUYQs4WOQ8x",
-        "lastPublishedAt": "2026-08-19T06:24:24Z",
+        "lastReleaseId": "RE_kwDOFYUYQs4XML1q",
+        "lastPublishedAt": "2026-09-15T10:58:48Z",
         "releaseHistoryCursor": null
       },
       "Striffly/mailspring-avatars": {
@@ -2861,8 +2923,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4XLQUv",
-        "lastPublishedAt": "2026-09-15T02:19:30Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4XMWIa",
+        "lastPublishedAt": "2026-09-15T12:09:40Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -2966,8 +3028,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XJSKV",
-        "lastPublishedAt": "2026-09-14T10:24:59Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XMouS",
+        "lastPublishedAt": "2026-09-15T13:53:32Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2991,8 +3053,8 @@
         "lastPublishedAt": "2025-12-31T12:07:55Z"
       },
       "aquaproj/aqua": {
-        "lastReleaseId": "RE_kwDOF9Sih84VrYiv",
-        "lastPublishedAt": "2026-08-02T04:08:24Z",
+        "lastReleaseId": "RE_kwDOF9Sih84XMQjN",
+        "lastPublishedAt": "2026-09-15T11:31:38Z",
         "releaseHistoryCursor": null
       },
       "ikasam/yaml_cv": {},
