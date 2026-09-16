@@ -1177,6 +1177,42 @@
       ],
       "2026-09-16": [
         {
+          "id": "RE_kwDOIvux3s4XQNNb",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.10",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.10",
+          "publishedAt": "2026-09-16T17:25:25Z",
+          "name": "v2026.9.10: shims.exclude, npm allow_exotic_deps, bulk dotfiles conflict resolution, and Windows Ctrl-C handling for tasks"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4XQNKK",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.141.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.141.0",
+          "publishedAt": "2026-09-16T17:20:13Z",
+          "name": "v1.141.0"
+        },
+        {
+          "id": "RE_kwDOH1-qgs4XQIfh",
+          "owner": "jetify-com",
+          "repo": "devbox",
+          "tag": "0.18.3",
+          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.3",
+          "publishedAt": "2026-09-16T17:19:23Z",
+          "name": "0.18.3"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XQLsL",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.154",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.154",
+          "publishedAt": "2026-09-16T17:10:20Z",
+          "name": "v8.4.154 - Fix CoreML dynamic anchor export and static multi-image inference, release 8.4.154 (#26199)"
+        },
+        {
           "id": "RE_kwDOHy0Bzc4XP_iH",
           "owner": "astral-sh",
           "repo": "ruff",
@@ -1766,8 +1802,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4XLzLq",
-        "lastPublishedAt": "2026-09-15T08:13:31Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4XQNKK",
+        "lastPublishedAt": "2026-09-16T17:20:13Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2362,8 +2398,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XLoRX",
-        "lastPublishedAt": "2026-09-15T07:00:26Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XQNNb",
+        "lastPublishedAt": "2026-09-16T17:25:25Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2794,8 +2830,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XMouS",
-        "lastPublishedAt": "2026-09-15T13:53:32Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XQLsL",
+        "lastPublishedAt": "2026-09-16T17:10:20Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3158,8 +3194,8 @@
         "releaseHistoryCursor": null
       },
       "jetify-com/devbox": {
-        "lastReleaseId": "RE_kwDOH1-qgs4XNbW7",
-        "lastPublishedAt": "2026-09-15T19:15:41Z",
+        "lastReleaseId": "RE_kwDOH1-qgs4XQIfh",
+        "lastPublishedAt": "2026-09-16T17:19:23Z",
         "releaseHistoryCursor": null
       },
       "fedibird/mastodon": {},
