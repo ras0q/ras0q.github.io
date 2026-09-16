@@ -1177,6 +1177,69 @@
       ],
       "2026-09-16": [
         {
+          "id": "RE_kwDOHy0Bzc4XP_iH",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.8",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.8",
+          "publishedAt": "2026-09-16T15:56:22Z",
+          "name": "0.16.8"
+        },
+        {
+          "id": "RE_kwDOK-QCA84XP4l3",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v19.25.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.25.0",
+          "publishedAt": "2026-09-16T15:17:19Z",
+          "name": "v19.25.0"
+        },
+        {
+          "id": "RE_kwDOCRgRGs4XO3nT",
+          "owner": "wasmerio",
+          "repo": "wasmer",
+          "tag": "v7.4.2",
+          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.4.2",
+          "publishedAt": "2026-09-16T14:49:23Z",
+          "name": "Release v7.4.2"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4XPqPy",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.36.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.36.0",
+          "publishedAt": "2026-09-16T14:02:32Z",
+          "name": "Release 6.36.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4XPkAA",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.16.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.16.0",
+          "publishedAt": "2026-09-16T13:31:34Z",
+          "name": "acpx 0.16.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4XPIBL",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.29",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.29",
+          "publishedAt": "2026-09-16T10:54:47Z",
+          "name": "1.0.29"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4XPAsy",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.95.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.95.0",
+          "publishedAt": "2026-09-16T10:04:08Z",
+          "name": "v0.95.0"
+        },
+        {
           "id": "RE_kwDONrCobc4XO1LJ",
           "owner": "antfu",
           "repo": "node-modules-inspector",
@@ -1312,8 +1375,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4W6caC",
-        "lastPublishedAt": "2026-09-08T03:01:16Z",
+        "lastReleaseId": "RE_kwDORSib_s4XPkAA",
+        "lastPublishedAt": "2026-09-16T13:31:34Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -1611,8 +1674,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4XJp-f",
-        "lastPublishedAt": "2026-09-14T13:11:45Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4XPAsy",
+        "lastPublishedAt": "2026-09-16T10:04:08Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1735,8 +1798,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4W9t9a",
-        "lastPublishedAt": "2026-09-09T06:40:37Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4XPqPy",
+        "lastPublishedAt": "2026-09-16T14:02:32Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -1792,8 +1855,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84XE8pZ",
-        "lastPublishedAt": "2026-09-11T16:10:31Z",
+        "lastReleaseId": "RE_kwDOK-QCA84XP4l3",
+        "lastPublishedAt": "2026-09-16T15:17:19Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -2165,8 +2228,8 @@
         "lastPublishedAt": "2026-07-08T15:58:56Z"
       },
       "wasmerio/wasmer": {
-        "lastReleaseId": "RE_kwDOCRgRGs4W7whp",
-        "lastPublishedAt": "2026-09-08T14:01:19Z",
+        "lastReleaseId": "RE_kwDOCRgRGs4XO3nT",
+        "lastPublishedAt": "2026-09-16T14:49:23Z",
         "releaseHistoryCursor": null
       },
       "yui540/css-animations": {},
@@ -2786,8 +2849,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4XCbNd",
-        "lastPublishedAt": "2026-09-10T18:05:06Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4XP_iH",
+        "lastPublishedAt": "2026-09-16T15:56:22Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -2860,8 +2923,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4W9TPr",
-        "lastPublishedAt": "2026-09-09T01:46:07Z",
+        "lastReleaseId": "RE_kwDOGNEXps4XPIBL",
+        "lastPublishedAt": "2026-09-16T10:54:47Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3514,8 +3577,8 @@
         "releaseHistoryCursor": null
       },
       "mazrean/odjson": {
-        "lastPublishedAt": "2026-09-15T17:57:11Z",
         "lastReleaseId": "RE_kwDOUSRXps4XNSkI",
+        "lastPublishedAt": "2026-09-15T17:57:11Z",
         "releaseHistoryCursor": null
       }
     }
