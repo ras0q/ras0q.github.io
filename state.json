@@ -1177,6 +1177,51 @@
       ],
       "2026-09-16": [
         {
+          "id": "RE_kwDONrCobc4XO1LJ",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.7.0",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.7.0",
+          "publishedAt": "2026-09-16T08:54:03Z",
+          "name": "v2.7.0"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4XOfVP",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.9",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.9",
+          "publishedAt": "2026-09-16T06:10:39Z",
+          "name": "1.9.9"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4XOait",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.14",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.14",
+          "publishedAt": "2026-09-16T05:17:39Z",
+          "name": "v1.0.14"
+        },
+        {
+          "id": "RE_kwDONrCobc4XOX3_",
+          "owner": "antfu",
+          "repo": "node-modules-inspector",
+          "tag": "v2.6.2",
+          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.6.2",
+          "publishedAt": "2026-09-16T04:45:05Z",
+          "name": "v2.6.2"
+        },
+        {
+          "id": "RE_kwDOFYUYQs4XOV2F",
+          "owner": "slidevjs",
+          "repo": "slidev",
+          "tag": "v53.0.0",
+          "url": "https://github.com/slidevjs/slidev/releases/tag/v53.0.0",
+          "publishedAt": "2026-09-16T04:21:11Z",
+          "name": "v53.0.0"
+        },
+        {
           "id": "RE_kwDOFYUYQs4XOK2i",
           "owner": "slidevjs",
           "repo": "slidev",
@@ -1500,8 +1545,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4W1Inf",
-        "lastPublishedAt": "2026-09-04T21:38:12Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4XOait",
+        "lastPublishedAt": "2026-09-16T05:17:39Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2176,8 +2221,8 @@
       },
       "kaitoyama/kaitoyama-server-template": {},
       "antfu/node-modules-inspector": {
-        "lastReleaseId": "RE_kwDONrCobc4XOJG0",
-        "lastPublishedAt": "2026-09-16T01:42:46Z",
+        "lastReleaseId": "RE_kwDONrCobc4XO1LJ",
+        "lastPublishedAt": "2026-09-16T08:54:03Z",
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
@@ -2509,8 +2554,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4WmL6D",
-        "lastPublishedAt": "2026-08-29T21:40:34Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4XOfVP",
+        "lastPublishedAt": "2026-09-16T06:10:39Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -2533,8 +2578,8 @@
       },
       "kyosu-1/passkey-go-example": {},
       "slidevjs/slidev": {
-        "lastReleaseId": "RE_kwDOFYUYQs4XOK2i",
-        "lastPublishedAt": "2026-09-16T02:05:27Z",
+        "lastReleaseId": "RE_kwDOFYUYQs4XOV2F",
+        "lastPublishedAt": "2026-09-16T04:21:11Z",
         "releaseHistoryCursor": null
       },
       "Striffly/mailspring-avatars": {
@@ -3466,6 +3511,11 @@
       "smart-splits-nvim/smart-splits.nvim": {
         "lastReleaseId": "RE_kwDOHB7d2c4SbGqb",
         "lastPublishedAt": "2026-04-14T23:31:11Z",
+        "releaseHistoryCursor": null
+      },
+      "mazrean/odjson": {
+        "lastPublishedAt": "2026-09-15T17:57:11Z",
+        "lastReleaseId": "RE_kwDOUSRXps4XNSkI",
         "releaseHistoryCursor": null
       }
     }
