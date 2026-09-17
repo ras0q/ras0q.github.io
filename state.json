@@ -1177,6 +1177,60 @@
       ],
       "2026-09-17": [
         {
+          "id": "RE_kwDOA4xPTM4XT1EE",
+          "owner": "uber-go",
+          "repo": "atomic",
+          "tag": "v1.12.0",
+          "url": "https://github.com/uber-go/atomic/releases/tag/v1.12.0",
+          "publishedAt": "2026-09-17T21:32:09Z",
+          "name": "v1.12.0"
+        },
+        {
+          "id": "RE_kwDOII1H084XTwER",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.28",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.28",
+          "publishedAt": "2026-09-17T20:54:58Z",
+          "name": "v0.5.28"
+        },
+        {
+          "id": "RE_kwDOOAhtcs4XTqbV",
+          "owner": "kepano",
+          "repo": "defuddle",
+          "tag": "0.19.4",
+          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.4",
+          "publishedAt": "2026-09-17T20:23:54Z",
+          "name": "0.19.4"
+        },
+        {
+          "id": "RE_kwDOAWRolM4XTQBD",
+          "owner": "protocolbuffers",
+          "repo": "protobuf",
+          "tag": "v36.2",
+          "url": "https://github.com/protocolbuffers/protobuf/releases/tag/v36.2",
+          "publishedAt": "2026-09-17T17:33:01Z",
+          "name": "Protocol Buffers v36.2"
+        },
+        {
+          "id": "RE_kwDOO2B60c4XTF4A",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.11",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.11",
+          "publishedAt": "2026-09-17T17:31:09Z",
+          "name": "2.0.11"
+        },
+        {
+          "id": "RE_kwDOJcq7QM4XTDue",
+          "owner": "modular",
+          "repo": "modular",
+          "tag": "max/v26.6.0",
+          "url": "https://github.com/modular/modular/releases/tag/max/v26.6.0",
+          "publishedAt": "2026-09-17T16:14:51Z",
+          "name": "MAX 26.6 / Mojo 1.1.0"
+        },
+        {
           "id": "RE_kwDOPAlvYM4XS141",
           "owner": "agentclientprotocol",
           "repo": "agent-client-protocol",
@@ -1715,8 +1769,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XNq1d",
-        "lastPublishedAt": "2026-09-15T20:31:19Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XTF4A",
+        "lastPublishedAt": "2026-09-17T17:31:09Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -1944,8 +1998,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084WnPya",
-        "lastPublishedAt": "2026-08-30T19:59:35Z",
+        "lastReleaseId": "RE_kwDOII1H084XTwER",
+        "lastPublishedAt": "2026-09-17T20:54:58Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -2215,8 +2269,8 @@
       },
       "typedgrammar/typed-japanese": {},
       "kepano/defuddle": {
-        "lastReleaseId": "RE_kwDOOAhtcs4WWxMn",
-        "lastPublishedAt": "2026-08-22T23:41:19Z",
+        "lastReleaseId": "RE_kwDOOAhtcs4XTqbV",
+        "lastPublishedAt": "2026-09-17T20:23:54Z",
         "releaseHistoryCursor": null
       },
       "tmc/nlm": {},
@@ -2733,8 +2787,8 @@
       },
       "youta-t/its": {},
       "modular/modular": {
-        "lastReleaseId": "RE_kwDOJcq7QM4V-cq6",
-        "lastPublishedAt": "2026-08-11T16:05:56Z",
+        "lastReleaseId": "RE_kwDOJcq7QM4XTDue",
+        "lastPublishedAt": "2026-09-17T16:14:51Z",
         "releaseHistoryCursor": null
       },
       "bluesky-social/indigo": {},
@@ -2924,8 +2978,8 @@
       "meta-llama/llama": {},
       "bufbuild/buf-examples": {},
       "protocolbuffers/protobuf": {
-        "lastReleaseId": "RE_kwDOAWRolM4Wp52V",
-        "lastPublishedAt": "2026-08-31T22:10:23Z",
+        "lastReleaseId": "RE_kwDOAWRolM4XTQBD",
+        "lastPublishedAt": "2026-09-17T17:33:01Z",
         "releaseHistoryCursor": null
       },
       "hydescarf/Obsidian-Theme-Mado-Miniflow": {
@@ -3328,8 +3382,9 @@
         "lastPublishedAt": "2023-05-09T18:28:17Z"
       },
       "uber-go/atomic": {
-        "lastReleaseId": "RE_kwDOA4xPTM4GESA7",
-        "lastPublishedAt": "2023-05-03T21:29:59Z"
+        "lastReleaseId": "RE_kwDOA4xPTM4XT1EE",
+        "lastPublishedAt": "2026-09-17T21:32:09Z",
+        "releaseHistoryCursor": null
       },
       "charmbracelet/lipgloss": {
         "lastReleaseId": "RE_kwDOFHnna84V-mgZ",
