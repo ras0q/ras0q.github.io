@@ -2,188 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-09",
       "2026-09-10",
       "2026-09-11",
       "2026-09-12",
       "2026-09-13",
       "2026-09-14",
-      "2026-09-15"
+      "2026-09-15",
+      "2026-09-16"
     ],
     "days": {
-      "2026-09-09": [
-        {
-          "id": "RE_kwDOQvjuaM4XABiN",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.404.13",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.404.13",
-          "publishedAt": "2026-09-09T22:19:16Z",
-          "name": "v0.404.13"
-        },
-        {
-          "id": "RE_kwDOIvux3s4W_8-p",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.4",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.4",
-          "publishedAt": "2026-09-09T21:41:36Z",
-          "name": "v2026.9.4: Nix Bootstrap, Environment Selectors, and Man Pages"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4W_6B5",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.11.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.11.0",
-          "publishedAt": "2026-09-09T21:15:00Z",
-          "name": "v1.11.0"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4W_5a0",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.13.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.13.0",
-          "publishedAt": "2026-09-09T21:10:23Z",
-          "name": "v1.13.0 - Apply warnings, safer archives"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4W_5PJ",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.93.1",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.93.1",
-          "publishedAt": "2026-09-09T21:08:58Z",
-          "name": "v0.93.1"
-        },
-        {
-          "id": "RE_kwDOO2B60c4W_yW0",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.4",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.4",
-          "publishedAt": "2026-09-09T20:23:12Z",
-          "name": "2.0.4"
-        },
-        {
-          "id": "RE_kwDOO2B60c4W_Xub",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.3",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.3",
-          "publishedAt": "2026-09-09T17:46:29Z",
-          "name": "2.0.3"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4W_aoN",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.146",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.146",
-          "publishedAt": "2026-09-09T17:37:43Z",
-          "name": "v8.4.146 - Fix RT-DETR inference for small and dynamic inputs (#26120)"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4W_Sua",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.12",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.12",
-          "publishedAt": "2026-09-09T16:45:15Z",
-          "name": "0.12.12"
-        },
-        {
-          "id": "RE_kwDOQu84n84W_C3W",
-          "owner": "k1LoW",
-          "repo": "git-wt",
-          "tag": "v0.29.2",
-          "url": "https://github.com/k1LoW/git-wt/releases/tag/v0.29.2",
-          "publishedAt": "2026-09-09T15:14:35Z",
-          "name": "v0.29.2"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4W-9bD",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.5.4",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.4",
-          "publishedAt": "2026-09-09T14:45:53Z",
-          "name": "v1.5.4"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4W-5X1",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.137.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.137.0",
-          "publishedAt": "2026-09-09T14:24:40Z",
-          "name": "v1.137.0"
-        },
-        {
-          "id": "RE_kwDOE4c3is4W-s3l",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.6.1",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.6.1",
-          "publishedAt": "2026-09-09T13:22:40Z",
-          "name": "9.6.1"
-        },
-        {
-          "id": "RE_kwDOA4rpZM4W-rUS",
-          "owner": "outline",
-          "repo": "outline",
-          "tag": "v1.10.1",
-          "url": "https://github.com/outline/outline/releases/tag/v1.10.1",
-          "publishedAt": "2026-09-09T13:14:41Z",
-          "name": "v1.10.1"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4W-g6s",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.145",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.145",
-          "publishedAt": "2026-09-09T12:16:01Z",
-          "name": "v8.4.145 - Bump to 8.4.145 for login failure exit status (#26117)"
-        },
-        {
-          "id": "RE_kwDOR1G_Qs4W9v4R",
-          "owner": "zonuexe",
-          "repo": "riida",
-          "tag": "v0.9.1",
-          "url": "https://github.com/zonuexe/riida/releases/tag/v0.9.1",
-          "publishedAt": "2026-09-09T06:56:26Z",
-          "name": "[0.9.1] - 2026-09-09"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4W9t9a",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.35.1",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.35.1",
-          "publishedAt": "2026-09-09T06:40:37Z",
-          "name": "Release 6.35.1"
-        },
-        {
-          "id": "RE_kwDOGNEXps4W9TPr",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.28",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.28",
-          "publishedAt": "2026-09-09T01:46:07Z",
-          "name": "1.0.28"
-        },
-        {
-          "id": "RE_kwDOOzc9Ss4W9QA5",
-          "owner": "apple",
-          "repo": "container",
-          "tag": "1.4.1",
-          "url": "https://github.com/apple/container/releases/tag/1.4.1",
-          "publishedAt": "2026-09-09T01:28:43Z",
-          "name": "1.4.1"
-        }
-      ],
       "2026-09-10": [
         {
           "id": "RE_kwDOIvux3s4XDHLQ",
@@ -1347,6 +1174,35 @@
           "publishedAt": "2026-09-16T00:24:34Z",
           "name": "v52.20.0"
         }
+      ],
+      "2026-09-17": [
+        {
+          "id": "RE_kwDOPYoUTM4XRJLX",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.13.1",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.13.1",
+          "publishedAt": "2026-09-17T01:11:07Z",
+          "name": "v1.13.1 - Hardened CLI, safer archives"
+        },
+        {
+          "id": "RE_kwDOEXrCM84XRG1x",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v139_1",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v139_1",
+          "publishedAt": "2026-09-17T00:42:44Z",
+          "name": "Server v139_1"
+        },
+        {
+          "id": "RE_kwDOElf8_c4XRDhu",
+          "owner": "Vinzent03",
+          "repo": "obsidian-git",
+          "tag": "2.40.0",
+          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.40.0",
+          "publishedAt": "2026-09-17T00:01:29Z",
+          "name": "2.40.0"
+        }
       ]
     }
   },
@@ -1613,8 +1469,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4W_5a0",
-        "lastPublishedAt": "2026-09-09T21:10:23Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4XRJLX",
+        "lastPublishedAt": "2026-09-17T01:11:07Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -2361,8 +2217,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84XJLz2",
-        "lastPublishedAt": "2026-09-14T09:38:20Z",
+        "lastReleaseId": "RE_kwDOEXrCM84XRG1x",
+        "lastPublishedAt": "2026-09-17T00:42:44Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -2770,8 +2626,8 @@
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
-        "lastReleaseId": "RE_kwDOElf8_c4WBqRL",
-        "lastPublishedAt": "2026-08-12T21:16:32Z",
+        "lastReleaseId": "RE_kwDOElf8_c4XRDhu",
+        "lastPublishedAt": "2026-09-17T00:01:29Z",
         "releaseHistoryCursor": null
       },
       "ish-app/ish": {
