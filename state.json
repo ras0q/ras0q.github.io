@@ -1177,6 +1177,69 @@
       ],
       "2026-09-17": [
         {
+          "id": "RE_kwDOPAlvYM4XS141",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.22.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.22.0",
+          "publishedAt": "2026-09-17T14:57:01Z",
+          "name": "Schema v1.22.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4XS14D",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.8.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.8.0",
+          "publishedAt": "2026-09-17T14:56:58Z",
+          "name": "Rust Crate v1.8.0"
+        },
+        {
+          "id": "RE_kwDOGkmMps4XSwVc",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.1.0",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.1.0",
+          "publishedAt": "2026-09-17T14:29:21Z",
+          "name": "3.1.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XSrXv",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.155",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.155",
+          "publishedAt": "2026-09-17T14:05:11Z",
+          "name": "v8.4.155 - Fix stale labels.cache reuse after data.yaml semantic edits (#26207)"
+        },
+        {
+          "id": "RE_kwDOJEKgss4XP2Wl",
+          "owner": "DataDog",
+          "repo": "orchestrion",
+          "tag": "v1.13.1",
+          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.13.1",
+          "publishedAt": "2026-09-17T13:40:46Z",
+          "name": "v1.13.1"
+        },
+        {
+          "id": "RE_kwDOSU62XM4XSLIH",
+          "owner": "pkgdeps",
+          "repo": "automerge-gate",
+          "tag": "v5.0.1",
+          "url": "https://github.com/pkgdeps/automerge-gate/releases/tag/v5.0.1",
+          "publishedAt": "2026-09-17T11:03:05Z",
+          "name": "v5.0.1"
+        },
+        {
+          "id": "RE_kwDOBoRDs84XSE4t",
+          "owner": "traPtitech",
+          "repo": "traQ",
+          "tag": "v3.29.0",
+          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.29.0",
+          "publishedAt": "2026-09-17T10:20:37Z",
+          "name": "v3.29.0"
+        },
+        {
           "id": "RE_kwDOB_QrUM4XQLa_",
           "owner": "denoland",
           "repo": "deno",
@@ -1368,8 +1431,9 @@
         "releaseHistoryCursor": null
       },
       "pkgdeps/automerge-gate": {
-        "lastReleaseId": "RE_kwDOSU62XM4TWkjE",
-        "lastPublishedAt": "2026-05-19T02:56:50Z"
+        "lastReleaseId": "RE_kwDOSU62XM4XSLIH",
+        "lastPublishedAt": "2026-09-17T11:03:05Z",
+        "releaseHistoryCursor": null
       },
       "ikura-hamu/ooo": {},
       "n-ari/decomd": {},
@@ -1761,8 +1825,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4WSpk2",
-        "lastPublishedAt": "2026-08-20T19:43:13Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4XS141",
+        "lastPublishedAt": "2026-09-17T14:57:01Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -2740,8 +2804,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XQLsL",
-        "lastPublishedAt": "2026-09-16T17:10:20Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XSrXv",
+        "lastPublishedAt": "2026-09-17T14:05:11Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -2772,8 +2836,8 @@
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
       "DataDog/orchestrion": {
-        "lastReleaseId": "RE_kwDOJEKgss4WpWgy",
-        "lastPublishedAt": "2026-09-01T08:00:20Z",
+        "lastReleaseId": "RE_kwDOJEKgss4XP2Wl",
+        "lastPublishedAt": "2026-09-17T13:40:46Z",
         "releaseHistoryCursor": null
       },
       "spotify/voyager": {
@@ -2875,8 +2939,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4WxunG",
-        "lastPublishedAt": "2026-09-03T15:30:55Z",
+        "lastReleaseId": "RE_kwDOGkmMps4XSwVc",
+        "lastPublishedAt": "2026-09-17T14:29:21Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
@@ -3354,8 +3418,8 @@
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastReleaseId": "RE_kwDOBoRDs84VSLp2",
-        "lastPublishedAt": "2026-07-21T02:49:54Z",
+        "lastReleaseId": "RE_kwDOBoRDs84XSE4t",
+        "lastPublishedAt": "2026-09-17T10:20:37Z",
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
