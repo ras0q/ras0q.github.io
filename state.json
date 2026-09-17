@@ -1177,6 +1177,60 @@
       ],
       "2026-09-17": [
         {
+          "id": "RE_kwDOB_QrUM4XQLa_",
+          "owner": "denoland",
+          "repo": "deno",
+          "tag": "v2.9.7",
+          "url": "https://github.com/denoland/deno/releases/tag/v2.9.7",
+          "publishedAt": "2026-09-17T09:04:55Z",
+          "name": "v2.9.7"
+        },
+        {
+          "id": "RE_kwDORSib_s4XR4lJ",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.17.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.17.0",
+          "publishedAt": "2026-09-17T09:00:11Z",
+          "name": "acpx 0.17.0"
+        },
+        {
+          "id": "RE_kwDOINPdOM4XRs_y",
+          "owner": "zama-ai",
+          "repo": "tfhe-rs",
+          "tag": "tfhe-rs-1.8.1",
+          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.8.1",
+          "publishedAt": "2026-09-17T07:42:37Z",
+          "name": "TFHE-rs 1.8.1"
+        },
+        {
+          "id": "RE_kwDOINPdOM4XB8Sy",
+          "owner": "zama-ai",
+          "repo": "tfhe-rs",
+          "tag": "tfhe-rs-1.8.0",
+          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.8.0",
+          "publishedAt": "2026-09-17T07:40:16Z",
+          "name": "TFHE-rs 1.8.0, tfhe-cuda-backend 0.16.0 and tfhe-hpu-backend 0.7.0"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4XRYOB",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.28",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.28",
+          "publishedAt": "2026-09-17T04:22:04Z",
+          "name": "v1.10.28"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4XRStJ",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.10",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.10",
+          "publishedAt": "2026-09-17T03:12:10Z",
+          "name": "1.9.10"
+        },
+        {
           "id": "RE_kwDOPYoUTM4XRJLX",
           "owner": "Fission-AI",
           "repo": "OpenSpec",
@@ -1267,8 +1321,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4XPkAA",
-        "lastPublishedAt": "2026-09-16T13:31:34Z",
+        "lastReleaseId": "RE_kwDORSib_s4XR4lJ",
+        "lastPublishedAt": "2026-09-17T09:00:11Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2295,8 +2349,8 @@
         "lastPublishedAt": "2026-05-09T01:38:29Z"
       },
       "zama-ai/tfhe-rs": {
-        "lastReleaseId": "RE_kwDOINPdOM4VRLvF",
-        "lastPublishedAt": "2026-07-21T16:40:02Z",
+        "lastReleaseId": "RE_kwDOINPdOM4XRs_y",
+        "lastPublishedAt": "2026-09-17T07:42:37Z",
         "releaseHistoryCursor": null
       },
       "obsidianmd/obsidian-clipper": {
@@ -2371,8 +2425,8 @@
         "lastPublishedAt": "2026-01-31T11:24:10Z"
       },
       "denoland/deno": {
-        "lastReleaseId": "RE_kwDOB_QrUM4Wh3uT",
-        "lastPublishedAt": "2026-08-27T17:29:30Z",
+        "lastReleaseId": "RE_kwDOB_QrUM4XQLa_",
+        "lastPublishedAt": "2026-09-17T09:04:55Z",
         "releaseHistoryCursor": null
       },
       "go-michi/michi": {},
@@ -2509,8 +2563,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4XOfVP",
-        "lastPublishedAt": "2026-09-16T06:10:39Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4XRStJ",
+        "lastPublishedAt": "2026-09-17T03:12:10Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -2921,8 +2975,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4WIJjD",
-        "lastPublishedAt": "2026-08-16T04:57:14Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4XRYOB",
+        "lastPublishedAt": "2026-09-17T04:22:04Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
