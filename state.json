@@ -1231,6 +1231,69 @@
       ],
       "2026-09-18": [
         {
+          "id": "RE_kwDOPAlvYM4XViOF",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.9.1",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.9.1",
+          "publishedAt": "2026-09-18T14:02:29Z",
+          "name": "Rust Crate v1.9.1"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4XVQf3",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.1.1",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.1.1",
+          "publishedAt": "2026-09-18T12:14:18Z",
+          "name": "v0.1.1"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4XVDu3",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.23.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.23.0",
+          "publishedAt": "2026-09-18T10:43:39Z",
+          "name": "Schema v1.23.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4XVDup",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.9.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.9.0",
+          "publishedAt": "2026-09-18T10:43:37Z",
+          "name": "Rust Crate v1.9.0"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4XU_h7",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.1.0",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.1.0",
+          "publishedAt": "2026-09-18T10:13:04Z",
+          "name": "v0.1.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4XU-E4",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.30",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.30",
+          "publishedAt": "2026-09-18T10:07:10Z",
+          "name": "1.0.30"
+        },
+        {
+          "id": "RE_kwDOJKcikM4XU98K",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.2",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.2",
+          "publishedAt": "2026-09-18T10:01:56Z",
+          "name": "@astrojs/starlight@0.42.2"
+        },
+        {
           "id": "RE_kwDOG9R6-M4XUse-",
           "owner": "k1LoW",
           "repo": "runn",
@@ -1719,8 +1782,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4XMX4x",
-        "lastPublishedAt": "2026-09-15T12:20:11Z",
+        "lastReleaseId": "RE_kwDOJKcikM4XU98K",
+        "lastPublishedAt": "2026-09-18T10:01:56Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -1798,8 +1861,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4XS141",
-        "lastPublishedAt": "2026-09-17T14:57:01Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4XViOF",
+        "lastPublishedAt": "2026-09-18T14:02:29Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -2118,8 +2181,8 @@
       "microsoft/winget-dsc": {},
       "traPtitech/portal-oidc": {},
       "traPtitech/piscon-portal-v2": {
-        "lastReleaseId": "RE_kwDONcE2Ic4VO8-r",
-        "lastPublishedAt": "2026-07-19T02:36:32Z",
+        "lastReleaseId": "RE_kwDONcE2Ic4XVQf3",
+        "lastPublishedAt": "2026-09-18T12:14:18Z",
         "releaseHistoryCursor": null
       },
       "lorenzorovida/LowMemoryFHEResNet20": {},
@@ -2906,8 +2969,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4XPIBL",
-        "lastPublishedAt": "2026-09-16T10:54:47Z",
+        "lastReleaseId": "RE_kwDOGNEXps4XU-E4",
+        "lastPublishedAt": "2026-09-18T10:07:10Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
