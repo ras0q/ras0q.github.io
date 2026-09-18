@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-10",
       "2026-09-11",
       "2026-09-12",
       "2026-09-13",
       "2026-09-14",
       "2026-09-15",
-      "2026-09-16"
+      "2026-09-16",
+      "2026-09-17"
     ],
     "days": {
-      "2026-09-10": [
-        {
-          "id": "RE_kwDOIvux3s4XDHLQ",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.5",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.5",
-          "publishedAt": "2026-09-10T23:44:04Z",
-          "name": "v2026.9.5: macOS defaults, per-platform dotfiles, and complete lockfiles"
-        },
-        {
-          "id": "RE_kwDOKHF8zM4XC1dx",
-          "owner": "marimo-team",
-          "repo": "marimo",
-          "tag": "0.24.1",
-          "url": "https://github.com/marimo-team/marimo/releases/tag/0.24.1",
-          "publishedAt": "2026-09-10T21:45:54Z",
-          "name": "0.24.1"
-        },
-        {
-          "id": "RE_kwDOK-QCA84XC2qj",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v19.24.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.24.0",
-          "publishedAt": "2026-09-10T21:07:54Z",
-          "name": "v19.24.0"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4XCnvI",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.13",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.13",
-          "publishedAt": "2026-09-10T19:27:24Z",
-          "name": "0.12.13"
-        },
-        {
-          "id": "RE_kwDOQ63fjM4XCeEy",
-          "owner": "eugenioenko",
-          "repo": "ttt",
-          "tag": "v1.5.0",
-          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.5.0",
-          "publishedAt": "2026-09-10T18:21:36Z",
-          "name": "v1.5.0"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4XCbNd",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.7",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.7",
-          "publishedAt": "2026-09-10T18:05:06Z",
-          "name": "0.16.7"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4XBz57",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.138.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.138.0",
-          "publishedAt": "2026-09-10T14:21:14Z",
-          "name": "v1.138.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XBlIX",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.406.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.406.0",
-          "publishedAt": "2026-09-10T13:04:46Z",
-          "name": "v0.406.0"
-        },
-        {
-          "id": "RE_kwDODVAw7c4XBdcI",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.5",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.5",
-          "publishedAt": "2026-09-10T12:21:43Z",
-          "name": "v3.33.5"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XBYHp",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.405.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.405.0",
-          "publishedAt": "2026-09-10T11:48:52Z",
-          "name": "v0.405.0"
-        },
-        {
-          "id": "RE_kwDOAZfQX84XA1mv",
-          "owner": "go-swagger",
-          "repo": "go-swagger",
-          "tag": "v0.36.6",
-          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.6",
-          "publishedAt": "2026-09-10T07:58:01Z",
-          "name": "v0.36.6"
-        },
-        {
-          "id": "RE_kwDONrCobc4XAqIj",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.4.5",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.4.5",
-          "publishedAt": "2026-09-10T06:26:48Z",
-          "name": "v2.4.5"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XAgDe",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.404.14",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.404.14",
-          "publishedAt": "2026-09-10T04:32:19Z",
-          "name": "v0.404.14"
-        },
-        {
-          "id": "RE_kwDOGiIVa84XAe1a",
-          "owner": "go-webauthn",
-          "repo": "webauthn",
-          "tag": "v0.18.1",
-          "url": "https://github.com/go-webauthn/webauthn/releases/tag/v0.18.1",
-          "publishedAt": "2026-09-10T04:15:49Z",
-          "name": "v0.18.1"
-        },
-        {
-          "id": "RE_kwDOQHjZG84XAXKI",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v4.0.4",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.4",
-          "publishedAt": "2026-09-10T02:46:02Z",
-          "name": "Release v4.0.4"
-        },
-        {
-          "id": "RE_kwDOQHjZG84XAUvK",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v4.0.3",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.3",
-          "publishedAt": "2026-09-10T02:16:02Z",
-          "name": "Release v4.0.3"
-        }
-      ],
       "2026-09-11": [
         {
           "id": "RE_kwDOQvjuaM4XFun5",
@@ -1374,6 +1228,35 @@
           "publishedAt": "2026-09-17T00:01:29Z",
           "name": "2.40.0"
         }
+      ],
+      "2026-09-18": [
+        {
+          "id": "RE_kwDOGkmMps4XUNpi",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.1.1",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.1.1",
+          "publishedAt": "2026-09-18T02:28:25Z",
+          "name": "3.1.1"
+        },
+        {
+          "id": "RE_kwDOIvux3s4XT2pr",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.11",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.11",
+          "publishedAt": "2026-09-18T01:05:52Z",
+          "name": "v2026.9.11: macos-app bootstrap packages, task template inheritance for flags and file tasks, and Swift on Linux fixes"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4XUHJN",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.16",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.16",
+          "publishedAt": "2026-09-18T01:01:42Z",
+          "name": "0.12.16"
+        }
       ]
     }
   },
@@ -2426,8 +2309,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XQNNb",
-        "lastPublishedAt": "2026-09-16T17:25:25Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XT2pr",
+        "lastPublishedAt": "2026-09-18T01:05:52Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2753,8 +2636,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4XMWIa",
-        "lastPublishedAt": "2026-09-15T12:09:40Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4XUHJN",
+        "lastPublishedAt": "2026-09-18T01:01:42Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -2993,8 +2876,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4XSwVc",
-        "lastPublishedAt": "2026-09-17T14:29:21Z",
+        "lastReleaseId": "RE_kwDOGkmMps4XUNpi",
+        "lastPublishedAt": "2026-09-18T02:28:25Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
