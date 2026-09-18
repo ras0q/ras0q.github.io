@@ -1231,6 +1231,42 @@
       ],
       "2026-09-18": [
         {
+          "id": "RE_kwDOG9R6-M4XUse-",
+          "owner": "k1LoW",
+          "repo": "runn",
+          "tag": "v1.11.0",
+          "url": "https://github.com/k1LoW/runn/releases/tag/v1.11.0",
+          "publishedAt": "2026-09-18T08:17:25Z",
+          "name": "v1.11.0"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4XUl5h",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.37.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.37.0",
+          "publishedAt": "2026-09-18T07:03:53Z",
+          "name": "Release 6.37.0"
+        },
+        {
+          "id": "RE_kwDOSP9SeM4XUYq-",
+          "owner": "abap34",
+          "repo": "ss",
+          "tag": "v0.8.2",
+          "url": "https://github.com/abap34/ss/releases/tag/v0.8.2",
+          "publishedAt": "2026-09-18T04:38:31Z",
+          "name": "ss v0.8.2"
+        },
+        {
+          "id": "RE_kwDOOELNJM4XURKa",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v0.3.3",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v0.3.3",
+          "publishedAt": "2026-09-18T03:11:45Z",
+          "name": "vite-plus v0.3.3: Homebrew setup and workspace dependency fixes"
+        },
+        {
           "id": "RE_kwDOGkmMps4XUNpi",
           "owner": "Quorafind",
           "repo": "Obsidian-Thino",
@@ -1380,8 +1416,8 @@
         "releaseHistoryCursor": null
       },
       "abap34/ss": {
-        "lastReleaseId": "RE_kwDOSP9SeM4XD3Ty",
-        "lastPublishedAt": "2026-09-11T08:33:33Z",
+        "lastReleaseId": "RE_kwDOSP9SeM4XUYq-",
+        "lastPublishedAt": "2026-09-18T04:38:31Z",
         "releaseHistoryCursor": null
       },
       "kavinsood/yaos": {
@@ -1459,8 +1495,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4XJ_SG",
-        "lastPublishedAt": "2026-09-14T15:11:09Z",
+        "lastReleaseId": "RE_kwDOOELNJM4XURKa",
+        "lastPublishedAt": "2026-09-18T03:11:45Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1745,8 +1781,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4XPqPy",
-        "lastPublishedAt": "2026-09-16T14:02:32Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4XUl5h",
+        "lastPublishedAt": "2026-09-18T07:03:53Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -1943,8 +1979,8 @@
         "lastPublishedAt": "2026-02-11T16:02:36Z"
       },
       "k1LoW/runn": {
-        "lastReleaseId": "RE_kwDOG9R6-M4WqHeM",
-        "lastPublishedAt": "2026-09-01T01:08:41Z",
+        "lastReleaseId": "RE_kwDOG9R6-M4XUse-",
+        "lastPublishedAt": "2026-09-18T08:17:25Z",
         "releaseHistoryCursor": null
       },
       "tohutohu/discord-claude-code": {},
