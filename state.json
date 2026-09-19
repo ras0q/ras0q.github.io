@@ -1445,6 +1445,17 @@
           "publishedAt": "2026-09-18T01:01:42Z",
           "name": "0.12.16"
         }
+      ],
+      "2026-09-19": [
+        {
+          "id": "RE_kwDOOr4uZ84XXHht",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.2",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.2",
+          "publishedAt": "2026-09-19T06:11:57Z",
+          "name": "4.13.2"
+        }
       ]
     }
   },
@@ -1955,8 +1966,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84XMNXI",
-        "lastPublishedAt": "2026-09-15T11:14:03Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84XXHht",
+        "lastPublishedAt": "2026-09-19T06:11:57Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
