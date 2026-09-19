@@ -1448,6 +1448,24 @@
       ],
       "2026-09-19": [
         {
+          "id": "RE_kwDOJCIvuc4XYM3c",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.11",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.11",
+          "publishedAt": "2026-09-19T21:32:13Z",
+          "name": "1.9.11"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XYLhR",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.156",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.156",
+          "publishedAt": "2026-09-19T21:08:32Z",
+          "name": "v8.4.156 - Refresh remote NDJSON at the conversion owner (#26242)"
+        },
+        {
           "id": "RE_kwDONRQKHs4XX9o7",
           "owner": "pfrankov",
           "repo": "obsidian-ai-providers",
@@ -2836,8 +2854,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4XRStJ",
-        "lastPublishedAt": "2026-09-17T03:12:10Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4XYM3c",
+        "lastPublishedAt": "2026-09-19T21:32:13Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -3013,8 +3031,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XSrXv",
-        "lastPublishedAt": "2026-09-17T14:05:11Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XYLhR",
+        "lastPublishedAt": "2026-09-19T21:08:32Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
