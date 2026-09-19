@@ -1448,6 +1448,33 @@
       ],
       "2026-09-19": [
         {
+          "id": "RE_kwDONRQKHs4XX9o7",
+          "owner": "pfrankov",
+          "repo": "obsidian-ai-providers",
+          "tag": "1.11.1",
+          "url": "https://github.com/pfrankov/obsidian-ai-providers/releases/tag/1.11.1",
+          "publishedAt": "2026-09-19T17:27:17Z",
+          "name": "1.11.1"
+        },
+        {
+          "id": "RE_kwDOGgFgVM4XX55h",
+          "owner": "usememos",
+          "repo": "memos",
+          "tag": "v0.31.0",
+          "url": "https://github.com/usememos/memos/releases/tag/v0.31.0",
+          "publishedAt": "2026-09-19T16:50:57Z",
+          "name": "v0.31.0"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4XXyoZ",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.1.2",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.1.2",
+          "publishedAt": "2026-09-19T15:15:28Z",
+          "name": "v0.1.2"
+        },
+        {
           "id": "RE_kwDOGiIVa84XXnSg",
           "owner": "go-webauthn",
           "repo": "webauthn",
@@ -2327,8 +2354,8 @@
       "microsoft/winget-dsc": {},
       "traPtitech/portal-oidc": {},
       "traPtitech/piscon-portal-v2": {
-        "lastReleaseId": "RE_kwDONcE2Ic4XVQf3",
-        "lastPublishedAt": "2026-09-18T12:14:18Z",
+        "lastReleaseId": "RE_kwDONcE2Ic4XXyoZ",
+        "lastPublishedAt": "2026-09-19T15:15:28Z",
         "releaseHistoryCursor": null
       },
       "lorenzorovida/LowMemoryFHEResNet20": {},
@@ -2387,8 +2414,8 @@
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
-        "lastReleaseId": "RE_kwDONRQKHs4XFGQV",
-        "lastPublishedAt": "2026-09-11T17:15:09Z",
+        "lastReleaseId": "RE_kwDONRQKHs4XX9o7",
+        "lastPublishedAt": "2026-09-19T17:27:17Z",
         "releaseHistoryCursor": null
       },
       "k1LoW/deck": {
@@ -3056,8 +3083,8 @@
       },
       "kaityo256/yaml_cv": {},
       "usememos/memos": {
-        "lastReleaseId": "RE_kwDOGgFgVM4VdgBM",
-        "lastPublishedAt": "2026-07-26T15:46:00Z",
+        "lastReleaseId": "RE_kwDOGgFgVM4XX55h",
+        "lastPublishedAt": "2026-09-19T16:50:57Z",
         "releaseHistoryCursor": null
       },
       "antimatter15/splat": {},
