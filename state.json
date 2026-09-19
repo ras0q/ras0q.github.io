@@ -1448,6 +1448,51 @@
       ],
       "2026-09-19": [
         {
+          "id": "RE_kwDOGiIVa84XXnSg",
+          "owner": "go-webauthn",
+          "repo": "webauthn",
+          "tag": "v0.18.2",
+          "url": "https://github.com/go-webauthn/webauthn/releases/tag/v0.18.2",
+          "publishedAt": "2026-09-19T12:33:42Z",
+          "name": "v0.18.2"
+        },
+        {
+          "id": "RE_kwDOE7TOLM4XXlng",
+          "owner": "evrone",
+          "repo": "go-clean-template",
+          "tag": "v1.19.0",
+          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.19.0",
+          "publishedAt": "2026-09-19T12:10:48Z",
+          "name": "v1.19.0"
+        },
+        {
+          "id": "RE_kwDOGkmMps4XXe39",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.1.2",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.1.2",
+          "publishedAt": "2026-09-19T10:39:20Z",
+          "name": "3.1.2"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4XXd0J",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.16",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.16",
+          "publishedAt": "2026-09-19T10:23:30Z",
+          "name": "v0.2.16"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4XXdzs",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.9",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.9",
+          "publishedAt": "2026-09-19T10:23:25Z",
+          "name": "cli-v0.1.9"
+        },
+        {
           "id": "RE_kwDOOr4uZ84XXHht",
           "owner": "callumalpass",
           "repo": "tasknotes",
@@ -2564,8 +2609,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4Wf1Ch",
-        "lastPublishedAt": "2026-08-26T21:49:54Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4XXd0J",
+        "lastPublishedAt": "2026-09-19T10:23:30Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -3076,8 +3121,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4XUNpi",
-        "lastPublishedAt": "2026-09-18T02:28:25Z",
+        "lastReleaseId": "RE_kwDOGkmMps4XXe39",
+        "lastPublishedAt": "2026-09-19T10:39:20Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
@@ -3166,8 +3211,8 @@
         "releaseHistoryCursor": null
       },
       "go-webauthn/webauthn": {
-        "lastReleaseId": "RE_kwDOGiIVa84XAe1a",
-        "lastPublishedAt": "2026-09-10T04:15:49Z",
+        "lastReleaseId": "RE_kwDOGiIVa84XXnSg",
+        "lastPublishedAt": "2026-09-19T12:33:42Z",
         "releaseHistoryCursor": null
       },
       "rasbt/machine-learning-book": {
@@ -3456,8 +3501,8 @@
         "releaseHistoryCursor": null
       },
       "evrone/go-clean-template": {
-        "lastReleaseId": "RE_kwDOE7TOLM4WWLLb",
-        "lastPublishedAt": "2026-08-22T11:28:55Z",
+        "lastReleaseId": "RE_kwDOE7TOLM4XXlng",
+        "lastPublishedAt": "2026-09-19T12:10:48Z",
         "releaseHistoryCursor": null
       },
       "uber-go/guide": {
