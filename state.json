@@ -1355,6 +1355,17 @@
           "publishedAt": "2026-09-19T06:11:57Z",
           "name": "4.13.2"
         }
+      ],
+      "2026-09-20": [
+        {
+          "id": "RE_kwDORSib_s4XYiB9",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.17.1",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.17.1",
+          "publishedAt": "2026-09-20T04:06:32Z",
+          "name": "acpx 0.17.1"
+        }
       ]
     }
   },
@@ -1419,8 +1430,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4XR4lJ",
-        "lastPublishedAt": "2026-09-17T09:00:11Z",
+        "lastReleaseId": "RE_kwDORSib_s4XYiB9",
+        "lastPublishedAt": "2026-09-20T04:06:32Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
