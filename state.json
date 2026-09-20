@@ -1358,6 +1358,24 @@
       ],
       "2026-09-20": [
         {
+          "id": "RE_kwDORSib_s4XZiyN",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.18.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.18.0",
+          "publishedAt": "2026-09-20T20:58:00Z",
+          "name": "acpx 0.18.0"
+        },
+        {
+          "id": "RE_kwDOO2B60c4XZiD7",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.12",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.12",
+          "publishedAt": "2026-09-20T20:46:42Z",
+          "name": "2.0.12"
+        },
+        {
           "id": "RE_kwDOBoRDs84XZHDA",
           "owner": "traPtitech",
           "repo": "traQ",
@@ -1475,8 +1493,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4XYiB9",
-        "lastPublishedAt": "2026-09-20T04:06:32Z",
+        "lastReleaseId": "RE_kwDORSib_s4XZiyN",
+        "lastPublishedAt": "2026-09-20T20:58:00Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -1806,8 +1824,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XTF4A",
-        "lastPublishedAt": "2026-09-17T17:31:09Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XZiD7",
+        "lastPublishedAt": "2026-09-20T20:46:42Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
