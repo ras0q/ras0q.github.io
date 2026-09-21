@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-13",
       "2026-09-14",
       "2026-09-15",
       "2026-09-16",
       "2026-09-17",
       "2026-09-18",
-      "2026-09-19"
+      "2026-09-19",
+      "2026-09-20"
     ],
     "days": {
-      "2026-09-13": [
-        {
-          "id": "RE_kwDOIvux3s4XIXgK",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.7",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.7",
-          "publishedAt": "2026-09-13T23:42:17Z",
-          "name": "v2026.9.7: Lockfile revision 2 with npm and Python dependency graphs, dotfile conflict inspection"
-        },
-        {
-          "id": "RE_kwDOH1-qgs4XIFff",
-          "owner": "jetify-com",
-          "repo": "devbox",
-          "tag": "0.18.1",
-          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.1",
-          "publishedAt": "2026-09-13T23:36:48Z",
-          "name": "0.18.1"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4XIBiD",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.12.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.12.0",
-          "publishedAt": "2026-09-13T17:39:45Z",
-          "name": "v1.12.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4XH4fq",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v31.3.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.3.0",
-          "publishedAt": "2026-09-13T15:27:58Z",
-          "name": "v31.3.0"
-        },
-        {
-          "id": "RE_kwDOO2B60c4XHumH",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.9",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.9",
-          "publishedAt": "2026-09-13T13:04:53Z",
-          "name": "2.0.9"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84XHqO3",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.13.0",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.0",
-          "publishedAt": "2026-09-13T11:57:46Z",
-          "name": "4.13.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHmfq",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.10",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.10",
-          "publishedAt": "2026-09-13T10:48:06Z",
-          "name": "v0.424.10"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHgtl",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.9",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.9",
-          "publishedAt": "2026-09-13T09:00:11Z",
-          "name": "v0.424.9"
-        },
-        {
-          "id": "RE_kwDOO2B60c4XHeAj",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.8",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.8",
-          "publishedAt": "2026-09-13T08:04:55Z",
-          "name": "2.0.8"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHac9",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.8",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.8",
-          "publishedAt": "2026-09-13T06:58:26Z",
-          "name": "v0.424.8"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHX7C",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.7",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.7",
-          "publishedAt": "2026-09-13T06:04:31Z",
-          "name": "v0.424.7"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHUt7",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.6",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.6",
-          "publishedAt": "2026-09-13T04:54:16Z",
-          "name": "v0.424.6"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHRj5",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.5",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.5",
-          "publishedAt": "2026-09-13T03:38:19Z",
-          "name": "v0.424.5"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHODt",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.4",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.4",
-          "publishedAt": "2026-09-13T02:22:15Z",
-          "name": "v0.424.4"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XHLmB",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.424.3",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.424.3",
-          "publishedAt": "2026-09-13T01:29:04Z",
-          "name": "v0.424.3"
-        },
-        {
-          "id": "RE_kwDOBDf5XM4XHLfS",
-          "owner": "Foundry376",
-          "repo": "Mailspring",
-          "tag": "1.24.0",
-          "url": "https://github.com/Foundry376/Mailspring/releases/tag/1.24.0",
-          "publishedAt": "2026-09-13T01:27:57Z",
-          "name": "1.24.0"
-        }
-      ],
       "2026-09-14": [
         {
           "id": "RE_kwDOIvux3s4XKcH3",
@@ -1429,6 +1283,17 @@
           "publishedAt": "2026-09-20T04:06:32Z",
           "name": "acpx 0.17.1"
         }
+      ],
+      "2026-09-21": [
+        {
+          "id": "RE_kwDONQkKUc4XYtCf",
+          "owner": "xtool-org",
+          "repo": "xtool",
+          "tag": "1.20.0",
+          "url": "https://github.com/xtool-org/xtool/releases/tag/1.20.0",
+          "publishedAt": "2026-09-21T01:33:14Z",
+          "name": "v1.20.0"
+        }
       ]
     }
   },
@@ -2154,8 +2019,8 @@
         "releaseHistoryCursor": null
       },
       "xtool-org/xtool": {
-        "lastReleaseId": "RE_kwDONQkKUc4XDIgn",
-        "lastPublishedAt": "2026-09-11T00:04:29Z",
+        "lastReleaseId": "RE_kwDONQkKUc4XYtCf",
+        "lastPublishedAt": "2026-09-21T01:33:14Z",
         "releaseHistoryCursor": null
       },
       "foliojs/pdfkit": {
