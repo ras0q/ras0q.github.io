@@ -1286,6 +1286,60 @@
       ],
       "2026-09-21": [
         {
+          "id": "RE_kwDOOt6mSM4Xbm9U",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.96.1",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.96.1",
+          "publishedAt": "2026-09-21T16:22:02Z",
+          "name": "v0.96.1"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4XXzaI",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.3-rc",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.3-rc",
+          "publishedAt": "2026-09-21T14:21:51Z",
+          "name": "v0.3-rc"
+        },
+        {
+          "id": "RE_kwDOGN5wJc4XbLNw",
+          "owner": "dlvhdr",
+          "repo": "gh-dash",
+          "tag": "v4.26.0",
+          "url": "https://github.com/dlvhdr/gh-dash/releases/tag/v4.26.0",
+          "publishedAt": "2026-09-21T13:50:28Z",
+          "name": "v4.26.0"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4XbBrs",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.3.1",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.3.1",
+          "publishedAt": "2026-09-21T13:33:46Z",
+          "name": "v0.3.1"
+        },
+        {
+          "id": "RE_kwDOE4ox_c4XbH4h",
+          "owner": "hummingbird-project",
+          "repo": "hummingbird",
+          "tag": "2.27.0",
+          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.27.0",
+          "publishedAt": "2026-09-21T13:31:14Z",
+          "name": "v2.27.0"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84Xaopp",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.3",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.3",
+          "publishedAt": "2026-09-21T10:13:59Z",
+          "name": "4.13.3"
+        },
+        {
           "id": "RE_kwDOOt6mSM4Xae4D",
           "owner": "charmbracelet",
           "repo": "crush",
@@ -1712,8 +1766,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4Xae4D",
-        "lastPublishedAt": "2026-09-21T09:07:11Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4Xbm9U",
+        "lastPublishedAt": "2026-09-21T16:22:02Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1858,8 +1912,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84XXHht",
-        "lastPublishedAt": "2026-09-19T06:11:57Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84Xaopp",
+        "lastPublishedAt": "2026-09-21T10:13:59Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -2553,8 +2607,8 @@
       },
       "nerdsupremacist/memes": {},
       "hummingbird-project/hummingbird": {
-        "lastReleaseId": "RE_kwDOE4ox_c4Vjglt",
-        "lastPublishedAt": "2026-07-29T09:21:04Z",
+        "lastReleaseId": "RE_kwDOE4ox_c4XbH4h",
+        "lastPublishedAt": "2026-09-21T13:31:14Z",
         "releaseHistoryCursor": null
       },
       "darlinghq/darling": {
@@ -2603,8 +2657,9 @@
         "lastPublishedAt": "2025-04-05T13:50:09Z"
       },
       "dlvhdr/gh-dash": {
-        "lastReleaseId": "RE_kwDOGN5wJc4U-5nL",
-        "lastPublishedAt": "2026-07-10T10:35:26Z"
+        "lastReleaseId": "RE_kwDOGN5wJc4XbLNw",
+        "lastPublishedAt": "2026-09-21T13:50:28Z",
+        "releaseHistoryCursor": null
       },
       "zama-ai/concrete": {
         "lastReleaseId": "RE_kwDOEeTG584MgcuM",
@@ -3597,8 +3652,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4WhIW9",
-        "lastPublishedAt": "2026-08-27T12:03:10Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4XXzaI",
+        "lastPublishedAt": "2026-09-21T14:21:51Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
