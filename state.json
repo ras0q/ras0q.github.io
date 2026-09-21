@@ -1286,6 +1286,24 @@
       ],
       "2026-09-21": [
         {
+          "id": "RE_kwDOH-jzvc4XcSL7",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.158",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.158",
+          "publishedAt": "2026-09-21T20:52:46Z",
+          "name": "v8.4.158 - `ultralytics 8.4.158` Keep mosaic closed after an OOM batch auto-reduction (#26257)"
+        },
+        {
+          "id": "RE_kwDOJOlQSc4Xb-2m",
+          "owner": "penpenpng",
+          "repo": "rx-nostr",
+          "tag": "rx-nostr@3.7.7",
+          "url": "https://github.com/penpenpng/rx-nostr/releases/tag/rx-nostr%403.7.7",
+          "publishedAt": "2026-09-21T19:02:04Z",
+          "name": "rx-nostr@3.7.7"
+        },
+        {
           "id": "RE_kwDOOt6mSM4Xbm9U",
           "owner": "charmbracelet",
           "repo": "crush",
@@ -2469,8 +2487,8 @@
         "lastPublishedAt": "2026-07-10T11:24:21Z"
       },
       "penpenpng/rx-nostr": {
-        "lastReleaseId": "RE_kwDOJOlQSc4WnoDn",
-        "lastPublishedAt": "2026-08-31T03:21:58Z",
+        "lastReleaseId": "RE_kwDOJOlQSc4Xb-2m",
+        "lastPublishedAt": "2026-09-21T19:02:04Z",
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
@@ -2888,8 +2906,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XZE6Q",
-        "lastPublishedAt": "2026-09-20T13:58:01Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XcSL7",
+        "lastPublishedAt": "2026-09-21T20:52:46Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
