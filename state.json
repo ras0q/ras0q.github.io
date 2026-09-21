@@ -1286,6 +1286,60 @@
       ],
       "2026-09-21": [
         {
+          "id": "RE_kwDOOt6mSM4Xae4D",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.96.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.96.0",
+          "publishedAt": "2026-09-21T09:07:11Z",
+          "name": "v0.96.0"
+        },
+        {
+          "id": "RE_kwDOEXrCM84XaeSD",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v139_2",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v139_2",
+          "publishedAt": "2026-09-21T09:03:19Z",
+          "name": "Server v139_2"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4XaWoI",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.142.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.142.0",
+          "publishedAt": "2026-09-21T08:09:17Z",
+          "name": "v1.142.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XaT_e",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.425.1",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.425.1",
+          "publishedAt": "2026-09-21T07:49:10Z",
+          "name": "v0.425.1"
+        },
+        {
+          "id": "RE_kwDOE4c3is4XaNOE",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.6.2",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.6.2",
+          "publishedAt": "2026-09-21T06:54:29Z",
+          "name": "9.6.2"
+        },
+        {
+          "id": "RE_kwDONQkKUc4XaIRw",
+          "owner": "xtool-org",
+          "repo": "xtool",
+          "tag": "1.20.1",
+          "url": "https://github.com/xtool-org/xtool/releases/tag/1.20.1",
+          "publishedAt": "2026-09-21T06:05:38Z",
+          "name": "v1.20.1"
+        },
+        {
           "id": "RE_kwDONQkKUc4XYtCf",
           "owner": "xtool-org",
           "repo": "xtool",
@@ -1516,8 +1570,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XHmfq",
-        "lastPublishedAt": "2026-09-13T10:48:06Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XaT_e",
+        "lastPublishedAt": "2026-09-21T07:49:10Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1658,8 +1712,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4XPAsy",
-        "lastPublishedAt": "2026-09-16T10:04:08Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4Xae4D",
+        "lastPublishedAt": "2026-09-21T09:07:11Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -1750,8 +1804,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4XQNKK",
-        "lastPublishedAt": "2026-09-16T17:20:13Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4XaWoI",
+        "lastPublishedAt": "2026-09-21T08:09:17Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2019,8 +2073,8 @@
         "releaseHistoryCursor": null
       },
       "xtool-org/xtool": {
-        "lastReleaseId": "RE_kwDONQkKUc4XYtCf",
-        "lastPublishedAt": "2026-09-21T01:33:14Z",
+        "lastReleaseId": "RE_kwDONQkKUc4XaIRw",
+        "lastPublishedAt": "2026-09-21T06:05:38Z",
         "releaseHistoryCursor": null
       },
       "foliojs/pdfkit": {
@@ -2310,8 +2364,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84XRG1x",
-        "lastPublishedAt": "2026-09-17T00:42:44Z",
+        "lastReleaseId": "RE_kwDOEXrCM84XaeSD",
+        "lastPublishedAt": "2026-09-21T09:03:19Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -3021,8 +3075,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4W-s3l",
-        "lastPublishedAt": "2026-09-09T13:22:40Z",
+        "lastReleaseId": "RE_kwDOE4c3is4XaNOE",
+        "lastPublishedAt": "2026-09-21T06:54:29Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
