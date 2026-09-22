@@ -1349,6 +1349,51 @@
       ],
       "2026-09-22": [
         {
+          "id": "RE_kwDOH-jzvc4XfkqI",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.160",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.160",
+          "publishedAt": "2026-09-22T22:00:06Z",
+          "name": "v8.4.160 - `ultralytics 8.4.160` Invalidate dataset caches when files are edited in place (#26283)"
+        },
+        {
+          "id": "RE_kwDOCkh5xs4XfP6D",
+          "owner": "pmndrs",
+          "repo": "react-three-fiber",
+          "tag": "v9.8.0",
+          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.0",
+          "publishedAt": "2026-09-22T19:46:16Z",
+          "name": "v9.8.0"
+        },
+        {
+          "id": "RE_kwDOEYAvFc4XfIVn",
+          "owner": "lumeland",
+          "repo": "lume",
+          "tag": "v3.3.2",
+          "url": "https://github.com/lumeland/lume/releases/tag/v3.3.2",
+          "publishedAt": "2026-09-22T19:04:12Z",
+          "name": "v3.3.2"
+        },
+        {
+          "id": "RE_kwDOH0TSTs4Xe0ng",
+          "owner": "Songmu",
+          "repo": "tagpr",
+          "tag": "v1.20.4",
+          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.20.4",
+          "publishedAt": "2026-09-22T17:04:02Z",
+          "name": "v1.20.4"
+        },
+        {
+          "id": "RE_kwDOJKcikM4XezNT",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.3",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.3",
+          "publishedAt": "2026-09-22T16:53:15Z",
+          "name": "@astrojs/starlight@0.42.3"
+        },
+        {
           "id": "RE_kwDOCGKeh84Xebrc",
           "owner": "git-bug",
           "repo": "git-bug",
@@ -1640,8 +1685,8 @@
         "lastPublishedAt": "2026-05-11T09:03:14Z"
       },
       "Songmu/tagpr": {
-        "lastReleaseId": "RE_kwDOH0TSTs4Wxot5",
-        "lastPublishedAt": "2026-09-03T14:58:05Z",
+        "lastReleaseId": "RE_kwDOH0TSTs4Xe0ng",
+        "lastPublishedAt": "2026-09-22T17:04:02Z",
         "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
@@ -1856,8 +1901,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4XU98K",
-        "lastPublishedAt": "2026-09-18T10:01:56Z",
+        "lastReleaseId": "RE_kwDOJKcikM4XezNT",
+        "lastPublishedAt": "2026-09-22T16:53:15Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -2592,8 +2637,8 @@
       },
       "lumeland/cms": {},
       "lumeland/lume": {
-        "lastReleaseId": "RE_kwDOEYAvFc4V8olu",
-        "lastPublishedAt": "2026-08-10T21:51:43Z",
+        "lastReleaseId": "RE_kwDOEYAvFc4XfIVn",
+        "lastPublishedAt": "2026-09-22T19:04:12Z",
         "releaseHistoryCursor": null
       },
       "asyncapi/spec": {
@@ -2917,8 +2962,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Xdruz",
-        "lastPublishedAt": "2026-09-22T11:05:26Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XfkqI",
+        "lastPublishedAt": "2026-09-22T22:00:06Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3227,8 +3272,8 @@
         "releaseHistoryCursor": null
       },
       "pmndrs/react-three-fiber": {
-        "lastReleaseId": "RE_kwDOCkh5xs4Vpedr",
-        "lastPublishedAt": "2026-07-31T16:19:29Z",
+        "lastReleaseId": "RE_kwDOCkh5xs4XfP6D",
+        "lastPublishedAt": "2026-09-22T19:46:16Z",
         "releaseHistoryCursor": null
       },
       "jdecked/twemoji": {
@@ -3707,8 +3752,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastPublishedAt": "2026-09-09T14:51:37Z",
         "lastReleaseId": "RE_kwDOUNMECc4W--c-",
+        "lastPublishedAt": "2026-09-09T14:51:37Z",
         "releaseHistoryCursor": null
       }
     }
