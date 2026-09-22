@@ -1349,6 +1349,24 @@
       ],
       "2026-09-22": [
         {
+          "id": "RE_kwDOOr4uZ84XdQTZ",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.4",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.4",
+          "publishedAt": "2026-09-22T08:01:44Z",
+          "name": "4.13.4"
+        },
+        {
+          "id": "RE_kwDOQo4rcs4Xc-8-",
+          "owner": "tonisives",
+          "repo": "ovim",
+          "tag": "v0.0.33",
+          "url": "https://github.com/tonisives/ovim/releases/tag/v0.0.33",
+          "publishedAt": "2026-09-22T05:26:49Z",
+          "name": "v0.0.33"
+        },
+        {
           "id": "RE_kwDOAaBvc84XcviG",
           "owner": "asdf-vm",
           "repo": "asdf",
@@ -1713,8 +1731,9 @@
         "releaseHistoryCursor": null
       },
       "tonisives/ovim": {
-        "lastReleaseId": "RE_kwDOQo4rcs4SWQ-W",
-        "lastPublishedAt": "2026-04-11T08:33:01Z"
+        "lastReleaseId": "RE_kwDOQo4rcs4Xc-8-",
+        "lastPublishedAt": "2026-09-22T05:26:49Z",
+        "releaseHistoryCursor": null
       },
       "akatsuki105/dawngba": {},
       "f-person/auto-dark-mode.nvim": {},
@@ -1876,8 +1895,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84Xaopp",
-        "lastPublishedAt": "2026-09-21T10:13:59Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84XdQTZ",
+        "lastPublishedAt": "2026-09-22T08:01:44Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
