@@ -1314,6 +1314,78 @@
       ],
       "2026-09-23": [
         {
+          "id": "RE_kwDOH-jzvc4XjOPP",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.161",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.161",
+          "publishedAt": "2026-09-23T22:22:23Z",
+          "name": "v8.4.161 - Fix RT-DETR device moves, fused resume, empty images, bracket paths, odd plot grids and save=False uploads (#26301)"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84XjN8f",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.0.3",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.0.3",
+          "publishedAt": "2026-09-23T22:19:58Z",
+          "name": "v1.0.3"
+        },
+        {
+          "id": "RE_kwDOKHF8zM4Xi_ow",
+          "owner": "marimo-team",
+          "repo": "marimo",
+          "tag": "0.25.0",
+          "url": "https://github.com/marimo-team/marimo/releases/tag/0.25.0",
+          "publishedAt": "2026-09-23T21:57:18Z",
+          "name": "0.25.0"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4XjIGs",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.13.2",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.13.2",
+          "publishedAt": "2026-09-23T21:44:30Z",
+          "name": "v1.13.2 - Verify and Windows archive fixes"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84XjFmH",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.5",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.5",
+          "publishedAt": "2026-09-23T21:31:44Z",
+          "name": "4.13.5"
+        },
+        {
+          "id": "RE_kwDODH8YWs4XjAyH",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.09.23",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.23",
+          "publishedAt": "2026-09-23T21:20:07Z",
+          "name": "v2026.09.23"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XjBc7",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.426.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.426.0",
+          "publishedAt": "2026-09-23T21:03:07Z",
+          "name": "v0.426.0"
+        },
+        {
+          "id": "RE_kwDOOFv4Ac4Xi52_",
+          "owner": "getsentry",
+          "repo": "MobileBuildMCP",
+          "tag": "v2.7.1",
+          "url": "https://github.com/getsentry/MobileBuildMCP/releases/tag/v2.7.1",
+          "publishedAt": "2026-09-23T20:18:31Z",
+          "name": "Release v2.7.1"
+        },
+        {
           "id": "RE_kwDONvYw484Xin45",
           "owner": "yamcodes",
           "repo": "arkenv",
@@ -1715,8 +1787,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XaT_e",
-        "lastPublishedAt": "2026-09-21T07:49:10Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XjBc7",
+        "lastPublishedAt": "2026-09-23T21:03:07Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1760,8 +1832,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4XRJLX",
-        "lastPublishedAt": "2026-09-17T01:11:07Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4XjIGs",
+        "lastPublishedAt": "2026-09-23T21:44:30Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -2004,8 +2076,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84XdQTZ",
-        "lastPublishedAt": "2026-09-22T08:01:44Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84XjFmH",
+        "lastPublishedAt": "2026-09-23T21:31:44Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -2306,8 +2378,8 @@
         "lastPublishedAt": "2024-03-07T15:12:05Z"
       },
       "marimo-team/marimo": {
-        "lastReleaseId": "RE_kwDOKHF8zM4XFDlE",
-        "lastPublishedAt": "2026-09-11T16:55:21Z",
+        "lastReleaseId": "RE_kwDOKHF8zM4Xi_ow",
+        "lastPublishedAt": "2026-09-23T21:57:18Z",
         "releaseHistoryCursor": null
       },
       "8byt/gox": {},
@@ -2425,8 +2497,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4VpPji",
-        "lastPublishedAt": "2026-07-31T14:48:49Z",
+        "lastReleaseId": "RE_kwDODH8YWs4XjAyH",
+        "lastPublishedAt": "2026-09-23T21:20:07Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -2567,8 +2639,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84Xh3v9",
-        "lastPublishedAt": "2026-09-23T14:38:36Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84XjN8f",
+        "lastPublishedAt": "2026-09-23T22:19:58Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -2982,8 +3054,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XfkqI",
-        "lastPublishedAt": "2026-09-22T22:00:06Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XjOPP",
+        "lastPublishedAt": "2026-09-23T22:22:23Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3774,6 +3846,16 @@
       "jdx/packslip": {
         "lastReleaseId": "RE_kwDOUNMECc4XiV2K",
         "lastPublishedAt": "2026-09-23T17:02:10Z",
+        "releaseHistoryCursor": null
+      },
+      "getsentry/MobileBuildMCP": {
+        "lastPublishedAt": "2026-09-23T20:18:31Z",
+        "lastReleaseId": "RE_kwDOOFv4Ac4Xi52_",
+        "releaseHistoryCursor": null
+      },
+      "revive-lint/revive": {
+        "lastPublishedAt": "2026-09-23T15:38:25Z",
+        "lastReleaseId": "RE_kwDOBbx18s4XiE6b",
         "releaseHistoryCursor": null
       }
     }
