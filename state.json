@@ -1314,6 +1314,105 @@
       ],
       "2026-09-23": [
         {
+          "id": "RE_kwDONvYw484Xin45",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/vite-plugin@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:39:15Z",
+          "name": "@arkenv/vite-plugin@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin4a",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/standard@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/standard%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:39:12Z",
+          "name": "@arkenv/standard@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin3z",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/rsbuild-plugin@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/rsbuild-plugin%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:39:09Z",
+          "name": "@arkenv/rsbuild-plugin@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin3V",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nuxt@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:39:06Z",
+          "name": "@arkenv/nuxt@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin20",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nextjs@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:39:03Z",
+          "name": "@arkenv/nextjs@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin2K",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/core@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/core%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:39:00Z",
+          "name": "@arkenv/core@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin1m",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/bun-plugin@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:38:57Z",
+          "name": "@arkenv/bun-plugin@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin1C",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/build@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/build%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:38:54Z",
+          "name": "@arkenv/build@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484Xin0c",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "arkenv@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/arkenv%401.0.0-rc.2",
+          "publishedAt": "2026-09-23T18:38:51Z",
+          "name": "arkenv@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDODVAw7c4XiYNM",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.7",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.7",
+          "publishedAt": "2026-09-23T17:13:44Z",
+          "name": "v3.33.7"
+        },
+        {
+          "id": "RE_kwDOUNMECc4XiV2K",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.3.0",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.3.0",
+          "publishedAt": "2026-09-23T17:02:10Z",
+          "name": "v1.3.0: Action can record a source commit other than the workflow's"
+        },
+        {
           "id": "RE_kwDOBbx18s4XiE6b",
           "owner": "mgechev",
           "repo": "revive",
@@ -1842,8 +1941,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484XFjKN",
-        "lastPublishedAt": "2026-09-11T20:56:59Z",
+        "lastReleaseId": "RE_kwDONvYw484Xin45",
+        "lastPublishedAt": "2026-09-23T18:39:15Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -1893,8 +1992,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4XLKf8",
-        "lastPublishedAt": "2026-09-15T01:04:06Z",
+        "lastReleaseId": "RE_kwDODVAw7c4XiYNM",
+        "lastPublishedAt": "2026-09-23T17:13:44Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -3673,8 +3772,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4W--c-",
-        "lastPublishedAt": "2026-09-09T14:51:37Z",
+        "lastReleaseId": "RE_kwDOUNMECc4XiV2K",
+        "lastPublishedAt": "2026-09-23T17:02:10Z",
         "releaseHistoryCursor": null
       }
     }
