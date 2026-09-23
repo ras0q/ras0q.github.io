@@ -2,187 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-15",
       "2026-09-16",
       "2026-09-17",
       "2026-09-18",
       "2026-09-19",
       "2026-09-20",
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-22"
     ],
     "days": {
-      "2026-09-15": [
-        {
-          "id": "RE_kwDOO2B60c4XNq1d",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.10",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.10",
-          "publishedAt": "2026-09-15T20:31:19Z",
-          "name": "2.0.10"
-        },
-        {
-          "id": "RE_kwDOObWEYM4XNq2J",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.60.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0",
-          "publishedAt": "2026-09-15T20:31:02Z",
-          "name": "Release v0.60.0"
-        },
-        {
-          "id": "RE_kwDOH1-qgs4XNbW7",
-          "owner": "jetify-com",
-          "repo": "devbox",
-          "tag": "0.18.2",
-          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.2",
-          "publishedAt": "2026-09-15T19:15:41Z",
-          "name": "0.18.2"
-        },
-        {
-          "id": "RE_kwDOPyZEpc4XNRWZ",
-          "owner": "microsoft",
-          "repo": "apm",
-          "tag": "v0.31.0",
-          "url": "https://github.com/microsoft/apm/releases/tag/v0.31.0",
-          "publishedAt": "2026-09-15T17:48:53Z",
-          "name": "v0.31.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4XMouS",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.153",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.153",
-          "publishedAt": "2026-09-15T13:53:32Z",
-          "name": "v8.4.153 - Fix SAM3 compile=False handling and release 8.4.153 (#26189)"
-        },
-        {
-          "id": "RE_kwDOALIcz84XMkFz",
-          "owner": "rcmdnk",
-          "repo": "vim_ahk",
-          "tag": "v0.17.1",
-          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.17.1",
-          "publishedAt": "2026-09-15T13:29:08Z",
-          "name": "v0.17.1"
-        },
-        {
-          "id": "RE_kwDOJKcikM4XMX4x",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.1",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.1",
-          "publishedAt": "2026-09-15T12:20:11Z",
-          "name": "@astrojs/starlight@0.42.1"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4XMWIa",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.15",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.15",
-          "publishedAt": "2026-09-15T12:09:40Z",
-          "name": "0.12.15"
-        },
-        {
-          "id": "RE_kwDOF9Sih84XMQjN",
-          "owner": "aquaproj",
-          "repo": "aqua",
-          "tag": "v2.63.0",
-          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.63.0",
-          "publishedAt": "2026-09-15T11:31:38Z"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84XMNXI",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.13.1",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.1",
-          "publishedAt": "2026-09-15T11:14:03Z",
-          "name": "4.13.1"
-        },
-        {
-          "id": "RE_kwDOFYUYQs4XML1q",
-          "owner": "slidevjs",
-          "repo": "slidev",
-          "tag": "v52.19.2",
-          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.19.2",
-          "publishedAt": "2026-09-15T10:58:48Z",
-          "name": "v52.19.2"
-        },
-        {
-          "id": "RE_kwDONrCobc4XL0iI",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.6.0",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.6.0",
-          "publishedAt": "2026-09-15T08:22:15Z",
-          "name": "v2.6.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4XLzLq",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.140.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.140.0",
-          "publishedAt": "2026-09-15T08:13:31Z",
-          "name": "v1.140.0"
-        },
-        {
-          "id": "RE_kwDONw8d0M4XLptz",
-          "owner": "swiftlang",
-          "repo": "swift-build",
-          "tag": "swift-6.4.0-RELEASE",
-          "url": "https://github.com/swiftlang/swift-build/releases/tag/swift-6.4.0-RELEASE",
-          "publishedAt": "2026-09-15T07:11:23Z",
-          "name": "Swift 6.4.0 Release"
-        },
-        {
-          "id": "RE_kwDOIvux3s4XLoRX",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.9",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.9",
-          "publishedAt": "2026-09-15T07:00:26Z",
-          "name": "v2026.9.9: Dotfiles false-deletion fix, encrypted `mise dot track`, semantic uv options for PyPI tools"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4XLQUv",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.14",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.14",
-          "publishedAt": "2026-09-15T02:19:30Z",
-          "name": "0.12.14"
-        },
-        {
-          "id": "RE_kwDOBDf5XM4XLPkQ",
-          "owner": "Foundry376",
-          "repo": "Mailspring",
-          "tag": "1.24.1",
-          "url": "https://github.com/Foundry376/Mailspring/releases/tag/1.24.1",
-          "publishedAt": "2026-09-15T02:13:24Z",
-          "name": "1.24.1"
-        },
-        {
-          "id": "RE_kwDODVAw7c4XLKf8",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.6",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.6",
-          "publishedAt": "2026-09-15T01:04:06Z",
-          "name": "v3.33.6"
-        },
-        {
-          "id": "RE_kwDOQHjZG84XLFr0",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v4.0.6",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.6",
-          "publishedAt": "2026-09-15T00:03:53Z",
-          "name": "Release v4.0.6"
-        }
-      ],
       "2026-09-16": [
         {
           "id": "RE_kwDOIvux3s4XQNNb",
@@ -1348,6 +1176,15 @@
         }
       ],
       "2026-09-22": [
+        {
+          "id": "RE_kwDOKbIFZc4Xfq3Q",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.18",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.18",
+          "publishedAt": "2026-09-22T23:00:51Z",
+          "name": "0.12.18"
+        },
         {
           "id": "RE_kwDOH-jzvc4XfkqI",
           "owner": "ultralytics",
@@ -2857,8 +2694,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4XWR_z",
-        "lastPublishedAt": "2026-09-18T18:59:24Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4Xfq3Q",
+        "lastPublishedAt": "2026-09-22T23:00:51Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
