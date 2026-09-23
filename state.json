@@ -1314,6 +1314,69 @@
       ],
       "2026-09-23": [
         {
+          "id": "RE_kwDOBbx18s4XiE6b",
+          "owner": "mgechev",
+          "repo": "revive",
+          "tag": "v1.17.0",
+          "url": "https://github.com/mgechev/revive/releases/tag/v1.17.0",
+          "publishedAt": "2026-09-23T15:38:25Z",
+          "name": "v1.17.0"
+        },
+        {
+          "id": "RE_kwDOBLlNSM4Xh57E",
+          "owner": "lingui",
+          "repo": "js-lingui",
+          "tag": "v6.8.0",
+          "url": "https://github.com/lingui/js-lingui/releases/tag/v6.8.0",
+          "publishedAt": "2026-09-23T14:48:17Z",
+          "name": "v6.8.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84Xh3v9",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.0.2",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.0.2",
+          "publishedAt": "2026-09-23T14:38:36Z",
+          "name": "v1.0.2"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84Xhv0L",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.0.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.0.1",
+          "publishedAt": "2026-09-23T14:03:46Z",
+          "name": "v1.0.1"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84Xhq8n",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.0.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.0.0",
+          "publishedAt": "2026-09-23T13:41:51Z",
+          "name": "v1.0.0"
+        },
+        {
+          "id": "RE_kwDOFJ5a6s4XhQ6R",
+          "owner": "Milkdown",
+          "repo": "milkdown",
+          "tag": "v7.22.2",
+          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.2",
+          "publishedAt": "2026-09-23T11:38:24Z",
+          "name": "v7.22.2"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4XhFaG",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.38.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.38.0",
+          "publishedAt": "2026-09-23T10:32:43Z",
+          "name": "Release 6.38.0"
+        },
+        {
           "id": "RE_kwDORSib_s4XgN0D",
           "owner": "openclaw",
           "repo": "acpx",
@@ -1359,8 +1422,8 @@
       },
       "nikitabobko/AeroSpace": {},
       "lingui/js-lingui": {
-        "lastReleaseId": "RE_kwDOBLlNSM4XEvt6",
-        "lastPublishedAt": "2026-09-11T14:51:12Z",
+        "lastReleaseId": "RE_kwDOBLlNSM4Xh57E",
+        "lastPublishedAt": "2026-09-23T14:48:17Z",
         "releaseHistoryCursor": null
       },
       "docmost/docmost": {
@@ -1820,8 +1883,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4XUl5h",
-        "lastPublishedAt": "2026-09-18T07:03:53Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4XhFaG",
+        "lastPublishedAt": "2026-09-23T10:32:43Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -2405,8 +2468,9 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84MbuJn",
-        "lastPublishedAt": "2025-03-27T07:30:43Z"
+        "lastReleaseId": "RE_kwDOMtN2Z84Xh3v9",
+        "lastPublishedAt": "2026-09-23T14:38:36Z",
+        "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
         "lastReleaseId": "RE_kwDOHDRJGs4MnGTk",
@@ -3066,8 +3130,8 @@
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
-        "lastReleaseId": "RE_kwDOBbx18s4WUxhl",
-        "lastPublishedAt": "2026-08-21T16:47:59Z",
+        "lastReleaseId": "RE_kwDOBbx18s4XiE6b",
+        "lastPublishedAt": "2026-09-23T15:38:25Z",
         "releaseHistoryCursor": null
       },
       "wakatime/macos-wakatime": {
@@ -3468,8 +3532,8 @@
         "lastPublishedAt": "2022-01-06T05:22:02Z"
       },
       "Milkdown/milkdown": {
-        "lastReleaseId": "RE_kwDOFJ5a6s4WAdT6",
-        "lastPublishedAt": "2026-08-12T12:22:05Z",
+        "lastReleaseId": "RE_kwDOFJ5a6s4XhQ6R",
+        "lastPublishedAt": "2026-09-23T11:38:24Z",
         "releaseHistoryCursor": null
       },
       "remarkjs/remark": {
