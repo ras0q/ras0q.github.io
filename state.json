@@ -2,188 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-16",
       "2026-09-17",
       "2026-09-18",
       "2026-09-19",
       "2026-09-20",
       "2026-09-21",
-      "2026-09-22"
+      "2026-09-22",
+      "2026-09-23"
     ],
     "days": {
-      "2026-09-16": [
-        {
-          "id": "RE_kwDOIvux3s4XQNNb",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.10",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.10",
-          "publishedAt": "2026-09-16T17:25:25Z",
-          "name": "v2026.9.10: shims.exclude, npm allow_exotic_deps, bulk dotfiles conflict resolution, and Windows Ctrl-C handling for tasks"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4XQNKK",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.141.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.141.0",
-          "publishedAt": "2026-09-16T17:20:13Z",
-          "name": "v1.141.0"
-        },
-        {
-          "id": "RE_kwDOH1-qgs4XQIfh",
-          "owner": "jetify-com",
-          "repo": "devbox",
-          "tag": "0.18.3",
-          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.3",
-          "publishedAt": "2026-09-16T17:19:23Z",
-          "name": "0.18.3"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4XQLsL",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.154",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.154",
-          "publishedAt": "2026-09-16T17:10:20Z",
-          "name": "v8.4.154 - Fix CoreML dynamic anchor export and static multi-image inference, release 8.4.154 (#26199)"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4XP_iH",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.8",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.8",
-          "publishedAt": "2026-09-16T15:56:22Z",
-          "name": "0.16.8"
-        },
-        {
-          "id": "RE_kwDOK-QCA84XP4l3",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v19.25.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v19.25.0",
-          "publishedAt": "2026-09-16T15:17:19Z",
-          "name": "v19.25.0"
-        },
-        {
-          "id": "RE_kwDOCRgRGs4XO3nT",
-          "owner": "wasmerio",
-          "repo": "wasmer",
-          "tag": "v7.4.2",
-          "url": "https://github.com/wasmerio/wasmer/releases/tag/v7.4.2",
-          "publishedAt": "2026-09-16T14:49:23Z",
-          "name": "Release v7.4.2"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4XPqPy",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.36.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.36.0",
-          "publishedAt": "2026-09-16T14:02:32Z",
-          "name": "Release 6.36.0"
-        },
-        {
-          "id": "RE_kwDORSib_s4XPkAA",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.16.0",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.16.0",
-          "publishedAt": "2026-09-16T13:31:34Z",
-          "name": "acpx 0.16.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4XPIBL",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.29",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.29",
-          "publishedAt": "2026-09-16T10:54:47Z",
-          "name": "1.0.29"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4XPAsy",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.95.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.95.0",
-          "publishedAt": "2026-09-16T10:04:08Z",
-          "name": "v0.95.0"
-        },
-        {
-          "id": "RE_kwDONrCobc4XO1LJ",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.7.0",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.7.0",
-          "publishedAt": "2026-09-16T08:54:03Z",
-          "name": "v2.7.0"
-        },
-        {
-          "id": "RE_kwDOJCIvuc4XOfVP",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.9",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.9",
-          "publishedAt": "2026-09-16T06:10:39Z",
-          "name": "1.9.9"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4XOait",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.14",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.14",
-          "publishedAt": "2026-09-16T05:17:39Z",
-          "name": "v1.0.14"
-        },
-        {
-          "id": "RE_kwDONrCobc4XOX3_",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.6.2",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.6.2",
-          "publishedAt": "2026-09-16T04:45:05Z",
-          "name": "v2.6.2"
-        },
-        {
-          "id": "RE_kwDOFYUYQs4XOV2F",
-          "owner": "slidevjs",
-          "repo": "slidev",
-          "tag": "v53.0.0",
-          "url": "https://github.com/slidevjs/slidev/releases/tag/v53.0.0",
-          "publishedAt": "2026-09-16T04:21:11Z",
-          "name": "v53.0.0"
-        },
-        {
-          "id": "RE_kwDOFYUYQs4XOK2i",
-          "owner": "slidevjs",
-          "repo": "slidev",
-          "tag": "v52.20.1",
-          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.20.1",
-          "publishedAt": "2026-09-16T02:05:27Z",
-          "name": "v52.20.1"
-        },
-        {
-          "id": "RE_kwDONrCobc4XOJG0",
-          "owner": "antfu",
-          "repo": "node-modules-inspector",
-          "tag": "v2.6.1",
-          "url": "https://github.com/antfu/node-modules-inspector/releases/tag/v2.6.1",
-          "publishedAt": "2026-09-16T01:42:46Z",
-          "name": "v2.6.1"
-        },
-        {
-          "id": "RE_kwDOFYUYQs4XOC_r",
-          "owner": "slidevjs",
-          "repo": "slidev",
-          "tag": "v52.20.0",
-          "url": "https://github.com/slidevjs/slidev/releases/tag/v52.20.0",
-          "publishedAt": "2026-09-16T00:24:34Z",
-          "name": "v52.20.0"
-        }
-      ],
       "2026-09-17": [
         {
           "id": "RE_kwDOA4xPTM4XT1EE",
@@ -1314,6 +1141,15 @@
       ],
       "2026-09-23": [
         {
+          "id": "RE_kwDOObWEYM4XjZuL",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.61.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.61.0",
+          "publishedAt": "2026-09-23T23:59:15Z",
+          "name": "Release v0.61.0"
+        },
+        {
           "id": "RE_kwDOH-jzvc4XjOPP",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -1565,6 +1401,17 @@
           "publishedAt": "2026-09-23T03:56:51Z",
           "name": "v1.21.0"
         }
+      ],
+      "2026-09-24": [
+        {
+          "id": "RE_kwDOQvjuaM4XjkTR",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.426.1",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.426.1",
+          "publishedAt": "2026-09-24T00:53:11Z",
+          "name": "v0.426.1"
+        }
       ]
     }
   },
@@ -1787,8 +1634,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XjBc7",
-        "lastPublishedAt": "2026-09-23T21:03:07Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XjkTR",
+        "lastPublishedAt": "2026-09-24T00:53:11Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2228,8 +2075,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4XNq2J",
-        "lastPublishedAt": "2026-09-15T20:31:02Z",
+        "lastReleaseId": "RE_kwDOObWEYM4XjZuL",
+        "lastPublishedAt": "2026-09-23T23:59:15Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -3849,13 +3696,13 @@
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
-        "lastPublishedAt": "2026-09-23T20:18:31Z",
         "lastReleaseId": "RE_kwDOOFv4Ac4Xi52_",
+        "lastPublishedAt": "2026-09-23T20:18:31Z",
         "releaseHistoryCursor": null
       },
       "revive-lint/revive": {
-        "lastPublishedAt": "2026-09-23T15:38:25Z",
         "lastReleaseId": "RE_kwDOBbx18s4XiE6b",
+        "lastPublishedAt": "2026-09-23T15:38:25Z",
         "releaseHistoryCursor": null
       }
     }
