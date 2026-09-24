@@ -1404,6 +1404,42 @@
       ],
       "2026-09-24": [
         {
+          "id": "RE_kwDOHe7bmc4XkpmM",
+          "owner": "charmbracelet",
+          "repo": "gum",
+          "tag": "v2.0.2",
+          "url": "https://github.com/charmbracelet/gum/releases/tag/v2.0.2",
+          "publishedAt": "2026-09-24T08:33:33Z",
+          "name": "v2.0.2"
+        },
+        {
+          "id": "RE_kwDODeVIac4XklcS",
+          "owner": "charmbracelet",
+          "repo": "bubbletea",
+          "tag": "v2.0.10",
+          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.10",
+          "publishedAt": "2026-09-24T08:08:55Z",
+          "name": "v2.0.10"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XkQjH",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.426.2",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.426.2",
+          "publishedAt": "2026-09-24T06:06:24Z",
+          "name": "v0.426.2"
+        },
+        {
+          "id": "RE_kwDODH8YWs4Xj6t6",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.09.24",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.24",
+          "publishedAt": "2026-09-24T03:29:39Z",
+          "name": "v2026.09.24"
+        },
+        {
           "id": "RE_kwDOQvjuaM4XjkTR",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1634,8 +1670,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XjkTR",
-        "lastPublishedAt": "2026-09-24T00:53:11Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XkQjH",
+        "lastPublishedAt": "2026-09-24T06:06:24Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2344,8 +2380,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4XjAyH",
-        "lastPublishedAt": "2026-09-23T21:20:07Z",
+        "lastReleaseId": "RE_kwDODH8YWs4Xj6t6",
+        "lastPublishedAt": "2026-09-24T03:29:39Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -3355,8 +3391,8 @@
       "gohandson/accountbook-ja": {},
       "vugu/vugu": {},
       "charmbracelet/gum": {
-        "lastReleaseId": "RE_kwDOHe7bmc4XDi5U",
-        "lastPublishedAt": "2026-09-11T05:30:35Z",
+        "lastReleaseId": "RE_kwDOHe7bmc4XkpmM",
+        "lastPublishedAt": "2026-09-24T08:33:33Z",
         "releaseHistoryCursor": null
       },
       "podhmo/flagstruct": {
@@ -3435,8 +3471,8 @@
         "releaseHistoryCursor": null
       },
       "charmbracelet/bubbletea": {
-        "lastReleaseId": "RE_kwDODeVIac4WPgS_",
-        "lastPublishedAt": "2026-08-19T15:33:34Z",
+        "lastReleaseId": "RE_kwDODeVIac4XklcS",
+        "lastPublishedAt": "2026-09-24T08:08:55Z",
         "releaseHistoryCursor": null
       },
       "viraptor/reverse-interview": {},
