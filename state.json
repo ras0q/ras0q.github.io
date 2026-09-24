@@ -1404,6 +1404,231 @@
       ],
       "2026-09-24": [
         {
+          "id": "RE_kwDOM0jxcs4XnGjh",
+          "owner": "denoland",
+          "repo": "deno-vite-plugin",
+          "tag": "2.0.4",
+          "url": "https://github.com/denoland/deno-vite-plugin/releases/tag/2.0.4",
+          "publishedAt": "2026-09-24T22:29:37Z",
+          "name": "2.0.4"
+        },
+        {
+          "id": "RE_kwDONr2kws4XnBG6",
+          "owner": "denoland",
+          "repo": "svelte-adapter",
+          "tag": "v0.2.2",
+          "url": "https://github.com/denoland/svelte-adapter/releases/tag/v0.2.2",
+          "publishedAt": "2026-09-24T21:46:24Z",
+          "name": "v0.2.2"
+        },
+        {
+          "id": "RE_kwDOCkh5xs4XnAqm",
+          "owner": "pmndrs",
+          "repo": "react-three-fiber",
+          "tag": "v9.8.1",
+          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.1",
+          "publishedAt": "2026-09-24T21:42:50Z",
+          "name": "v9.8.1"
+        },
+        {
+          "id": "RE_kwDOFknhgc4Xm-FG",
+          "owner": "open-horizon-labs",
+          "repo": "obsidian-ics",
+          "tag": "1.15.3",
+          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.15.3",
+          "publishedAt": "2026-09-24T21:25:31Z",
+          "name": "1.15.3"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm94I",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/util@0.56.4",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/util%400.56.4",
+          "publishedAt": "2026-09-24T21:23:30Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm94B",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/util@0.56.4",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/util%400.56.4",
+          "publishedAt": "2026-09-24T21:23:29Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm932",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/type@2.2.5",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/type%402.2.5",
+          "publishedAt": "2026-09-24T21:23:28Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm93p",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/type@2.2.5",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/type%402.2.5",
+          "publishedAt": "2026-09-24T21:23:27Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm93h",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "arktype@2.2.5",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/arktype%402.2.5",
+          "publishedAt": "2026-09-24T21:23:26Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm93U",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/schema@0.56.4",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/schema%400.56.4",
+          "publishedAt": "2026-09-24T21:23:25Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm93L",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/schema@0.56.4",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/schema%400.56.4",
+          "publishedAt": "2026-09-24T21:23:24Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm93A",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/regex@0.0.10",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/regex%400.0.10",
+          "publishedAt": "2026-09-24T21:23:23Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm922",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/regex@0.0.10",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/regex%400.0.10",
+          "publishedAt": "2026-09-24T21:23:22Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm92s",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "arkregex@0.0.10",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/arkregex%400.0.10",
+          "publishedAt": "2026-09-24T21:23:21Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm92j",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/json-schema@0.0.9",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/json-schema%400.0.9",
+          "publishedAt": "2026-09-24T21:23:20Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm92Z",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/json-schema@0.0.9",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/json-schema%400.0.9",
+          "publishedAt": "2026-09-24T21:23:19Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm92I",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/fs@0.56.4",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fs%400.56.4",
+          "publishedAt": "2026-09-24T21:23:18Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm919",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/fs@0.56.4",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fs%400.56.4",
+          "publishedAt": "2026-09-24T21:23:17Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm91v",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/fast-check@0.0.16",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fast-check%400.0.16",
+          "publishedAt": "2026-09-24T21:23:16Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm91m",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/fast-check@0.0.16",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fast-check%400.0.16",
+          "publishedAt": "2026-09-24T21:23:15Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm91c",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/attest@0.56.5",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/attest%400.56.5",
+          "publishedAt": "2026-09-24T21:23:14Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Xm91V",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/attest@0.56.5",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/attest%400.56.5",
+          "publishedAt": "2026-09-24T21:23:13Z"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4Xm2vi",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.16.9",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.9",
+          "publishedAt": "2026-09-24T20:38:52Z",
+          "name": "0.16.9"
+        },
+        {
+          "id": "RE_kwDOIvux3s4XmkvQ",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.13",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.13",
+          "publishedAt": "2026-09-24T19:10:32Z",
+          "name": "v2026.9.13: OpenTelemetry for tasks, shared daemon providers, `mise backends switch`, and declarative dotfile removal"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XmfE_",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.162",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.162",
+          "publishedAt": "2026-09-24T18:34:43Z",
+          "name": "v8.4.162 - ultralytics 8.4.162 Prefetch the next image batch during CUDA prediction (#26319)"
+        },
+        {
+          "id": "RE_kwDOO2B60c4XmM6D",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.13",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.13",
+          "publishedAt": "2026-09-24T16:57:16Z",
+          "name": "2.0.13"
+        },
+        {
+          "id": "RE_kwDODH8YWs4XmH2C",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.09.25",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.25",
+          "publishedAt": "2026-09-24T16:29:17Z",
+          "name": "v2026.09.25"
+        },
+        {
           "id": "RE_kwDOJKcikM4Xl2r9",
           "owner": "withastro",
           "repo": "starlight",
@@ -1889,8 +2114,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XZiD7",
-        "lastPublishedAt": "2026-09-20T20:46:42Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XmM6D",
+        "lastPublishedAt": "2026-09-24T16:57:16Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2045,8 +2270,9 @@
       },
       "agentsmd/agents.md": {},
       "arktypeio/arktype": {
-        "lastReleaseId": "RE_kwDOC4NVf84U5P5H",
-        "lastPublishedAt": "2026-07-07T20:08:06Z"
+        "lastReleaseId": "RE_kwDOC4NVf84Xm94I",
+        "lastPublishedAt": "2026-09-24T21:23:30Z",
+        "releaseHistoryCursor": null
       },
       "ericc-ch/copilot-api": {
         "lastReleaseId": "RE_kwDONot0Ic4PCLZ9",
@@ -2210,8 +2436,9 @@
         "lastPublishedAt": "2026-04-05T19:13:42Z"
       },
       "denoland/svelte-adapter": {
-        "lastReleaseId": "RE_kwDONr2kws4Tv-40",
-        "lastPublishedAt": "2026-05-29T07:22:44Z"
+        "lastReleaseId": "RE_kwDONr2kws4XnBG6",
+        "lastPublishedAt": "2026-09-24T21:46:24Z",
+        "releaseHistoryCursor": null
       },
       "joerick/pyinstrument": {
         "lastReleaseId": "RE_kwDOAQ5kSs4VkoHg",
@@ -2425,8 +2652,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4Xj6t6",
-        "lastPublishedAt": "2026-09-24T03:29:39Z",
+        "lastReleaseId": "RE_kwDODH8YWs4XmH2C",
+        "lastPublishedAt": "2026-09-24T16:29:17Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -2459,8 +2686,8 @@
         "lastPublishedAt": "2026-06-01T19:43:16Z"
       },
       "open-horizon-labs/obsidian-ics": {
-        "lastReleaseId": "RE_kwDOFknhgc4VuPZV",
-        "lastPublishedAt": "2026-08-03T19:17:04Z",
+        "lastReleaseId": "RE_kwDOFknhgc4Xm-FG",
+        "lastPublishedAt": "2026-09-24T21:25:31Z",
         "releaseHistoryCursor": null
       },
       "alecthomas/kong": {},
@@ -2548,8 +2775,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XY76S",
-        "lastPublishedAt": "2026-09-20T11:47:12Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XmkvQ",
+        "lastPublishedAt": "2026-09-24T19:10:32Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2651,8 +2878,8 @@
         "lastPublishedAt": "2026-06-24T04:15:57Z"
       },
       "denoland/deno-vite-plugin": {
-        "lastReleaseId": "RE_kwDOM0jxcs4VeYjw",
-        "lastPublishedAt": "2026-07-27T08:16:43Z",
+        "lastReleaseId": "RE_kwDOM0jxcs4XnGjh",
+        "lastPublishedAt": "2026-09-24T22:29:37Z",
         "releaseHistoryCursor": null
       },
       "lumeland/cms": {},
@@ -2982,8 +3209,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XjOPP",
-        "lastPublishedAt": "2026-09-23T22:22:23Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XmfE_",
+        "lastPublishedAt": "2026-09-24T18:34:43Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3037,8 +3264,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4XP_iH",
-        "lastPublishedAt": "2026-09-16T15:56:22Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4Xm2vi",
+        "lastPublishedAt": "2026-09-24T20:38:52Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -3292,8 +3519,8 @@
         "releaseHistoryCursor": null
       },
       "pmndrs/react-three-fiber": {
-        "lastReleaseId": "RE_kwDOCkh5xs4XfP6D",
-        "lastPublishedAt": "2026-09-22T19:46:16Z",
+        "lastReleaseId": "RE_kwDOCkh5xs4XnAqm",
+        "lastPublishedAt": "2026-09-24T21:42:50Z",
         "releaseHistoryCursor": null
       },
       "jdecked/twemoji": {
