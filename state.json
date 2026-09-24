@@ -1404,6 +1404,51 @@
       ],
       "2026-09-24": [
         {
+          "id": "RE_kwDOJKcikM4Xl2r9",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.4",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.4",
+          "publishedAt": "2026-09-24T14:59:57Z",
+          "name": "@astrojs/starlight@0.42.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Xl1Af",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.426.3",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.426.3",
+          "publishedAt": "2026-09-24T14:52:12Z",
+          "name": "v0.426.3"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84XlwBJ",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.1.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.1.1",
+          "publishedAt": "2026-09-24T14:27:07Z",
+          "name": "v1.1.1"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84Xlnod",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.1.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.1.0",
+          "publishedAt": "2026-09-24T13:47:52Z",
+          "name": "v1.1.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4XlTIn",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.143.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.143.0",
+          "publishedAt": "2026-09-24T12:22:00Z",
+          "name": "v1.143.0"
+        },
+        {
           "id": "RE_kwDOHe7bmc4XkpmM",
           "owner": "charmbracelet",
           "repo": "gum",
@@ -1670,8 +1715,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XkQjH",
-        "lastPublishedAt": "2026-09-24T06:06:24Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Xl1Af",
+        "lastPublishedAt": "2026-09-24T14:52:12Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1875,8 +1920,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4XezNT",
-        "lastPublishedAt": "2026-09-22T16:53:15Z",
+        "lastReleaseId": "RE_kwDOJKcikM4Xl2r9",
+        "lastPublishedAt": "2026-09-24T14:59:57Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -1905,8 +1950,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4XaWoI",
-        "lastPublishedAt": "2026-09-21T08:09:17Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4XlTIn",
+        "lastPublishedAt": "2026-09-24T12:22:00Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2522,8 +2567,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84XjN8f",
-        "lastPublishedAt": "2026-09-23T22:19:58Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84XlwBJ",
+        "lastPublishedAt": "2026-09-24T14:27:07Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
