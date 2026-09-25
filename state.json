@@ -2,215 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-17",
       "2026-09-18",
       "2026-09-19",
       "2026-09-20",
       "2026-09-21",
       "2026-09-22",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-24"
     ],
     "days": {
-      "2026-09-17": [
-        {
-          "id": "RE_kwDOA4xPTM4XT1EE",
-          "owner": "uber-go",
-          "repo": "atomic",
-          "tag": "v1.12.0",
-          "url": "https://github.com/uber-go/atomic/releases/tag/v1.12.0",
-          "publishedAt": "2026-09-17T21:32:09Z",
-          "name": "v1.12.0"
-        },
-        {
-          "id": "RE_kwDOII1H084XTwER",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.28",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.28",
-          "publishedAt": "2026-09-17T20:54:58Z",
-          "name": "v0.5.28"
-        },
-        {
-          "id": "RE_kwDOOAhtcs4XTqbV",
-          "owner": "kepano",
-          "repo": "defuddle",
-          "tag": "0.19.4",
-          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.4",
-          "publishedAt": "2026-09-17T20:23:54Z",
-          "name": "0.19.4"
-        },
-        {
-          "id": "RE_kwDOAWRolM4XTQBD",
-          "owner": "protocolbuffers",
-          "repo": "protobuf",
-          "tag": "v36.2",
-          "url": "https://github.com/protocolbuffers/protobuf/releases/tag/v36.2",
-          "publishedAt": "2026-09-17T17:33:01Z",
-          "name": "Protocol Buffers v36.2"
-        },
-        {
-          "id": "RE_kwDOO2B60c4XTF4A",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.11",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.11",
-          "publishedAt": "2026-09-17T17:31:09Z",
-          "name": "2.0.11"
-        },
-        {
-          "id": "RE_kwDOJcq7QM4XTDue",
-          "owner": "modular",
-          "repo": "modular",
-          "tag": "max/v26.6.0",
-          "url": "https://github.com/modular/modular/releases/tag/max/v26.6.0",
-          "publishedAt": "2026-09-17T16:14:51Z",
-          "name": "MAX 26.6 / Mojo 1.1.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4XS141",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "schema-v1.22.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.22.0",
-          "publishedAt": "2026-09-17T14:57:01Z",
-          "name": "Schema v1.22.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4XS14D",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "v1.8.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.8.0",
-          "publishedAt": "2026-09-17T14:56:58Z",
-          "name": "Rust Crate v1.8.0"
-        },
-        {
-          "id": "RE_kwDOGkmMps4XSwVc",
-          "owner": "Quorafind",
-          "repo": "Obsidian-Thino",
-          "tag": "3.1.0",
-          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.1.0",
-          "publishedAt": "2026-09-17T14:29:21Z",
-          "name": "3.1.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4XSrXv",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.155",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.155",
-          "publishedAt": "2026-09-17T14:05:11Z",
-          "name": "v8.4.155 - Fix stale labels.cache reuse after data.yaml semantic edits (#26207)"
-        },
-        {
-          "id": "RE_kwDOJEKgss4XP2Wl",
-          "owner": "DataDog",
-          "repo": "orchestrion",
-          "tag": "v1.13.1",
-          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.13.1",
-          "publishedAt": "2026-09-17T13:40:46Z",
-          "name": "v1.13.1"
-        },
-        {
-          "id": "RE_kwDOSU62XM4XSLIH",
-          "owner": "pkgdeps",
-          "repo": "automerge-gate",
-          "tag": "v5.0.1",
-          "url": "https://github.com/pkgdeps/automerge-gate/releases/tag/v5.0.1",
-          "publishedAt": "2026-09-17T11:03:05Z",
-          "name": "v5.0.1"
-        },
-        {
-          "id": "RE_kwDOBoRDs84XSE4t",
-          "owner": "traPtitech",
-          "repo": "traQ",
-          "tag": "v3.29.0",
-          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.29.0",
-          "publishedAt": "2026-09-17T10:20:37Z",
-          "name": "v3.29.0"
-        },
-        {
-          "id": "RE_kwDOB_QrUM4XQLa_",
-          "owner": "denoland",
-          "repo": "deno",
-          "tag": "v2.9.7",
-          "url": "https://github.com/denoland/deno/releases/tag/v2.9.7",
-          "publishedAt": "2026-09-17T09:04:55Z",
-          "name": "v2.9.7"
-        },
-        {
-          "id": "RE_kwDORSib_s4XR4lJ",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.17.0",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.17.0",
-          "publishedAt": "2026-09-17T09:00:11Z",
-          "name": "acpx 0.17.0"
-        },
-        {
-          "id": "RE_kwDOINPdOM4XRs_y",
-          "owner": "zama-ai",
-          "repo": "tfhe-rs",
-          "tag": "tfhe-rs-1.8.1",
-          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.8.1",
-          "publishedAt": "2026-09-17T07:42:37Z",
-          "name": "TFHE-rs 1.8.1"
-        },
-        {
-          "id": "RE_kwDOINPdOM4XB8Sy",
-          "owner": "zama-ai",
-          "repo": "tfhe-rs",
-          "tag": "tfhe-rs-1.8.0",
-          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.8.0",
-          "publishedAt": "2026-09-17T07:40:16Z",
-          "name": "TFHE-rs 1.8.0, tfhe-cuda-backend 0.16.0 and tfhe-hpu-backend 0.7.0"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4XRYOB",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.28",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.28",
-          "publishedAt": "2026-09-17T04:22:04Z",
-          "name": "v1.10.28"
-        },
-        {
-          "id": "RE_kwDOJCIvuc4XRStJ",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.10",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.10",
-          "publishedAt": "2026-09-17T03:12:10Z",
-          "name": "1.9.10"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4XRJLX",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.13.1",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.13.1",
-          "publishedAt": "2026-09-17T01:11:07Z",
-          "name": "v1.13.1 - Hardened CLI, safer archives"
-        },
-        {
-          "id": "RE_kwDOEXrCM84XRG1x",
-          "owner": "esm-dev",
-          "repo": "esm.sh",
-          "tag": "v139_1",
-          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v139_1",
-          "publishedAt": "2026-09-17T00:42:44Z",
-          "name": "Server v139_1"
-        },
-        {
-          "id": "RE_kwDOElf8_c4XRDhu",
-          "owner": "Vinzent03",
-          "repo": "obsidian-git",
-          "tag": "2.40.0",
-          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.40.0",
-          "publishedAt": "2026-09-17T00:01:29Z",
-          "name": "2.40.0"
-        }
-      ],
       "2026-09-18": [
         {
           "id": "RE_kwDOCawmHs4XWoUM",
@@ -1718,6 +1518,44 @@
           "publishedAt": "2026-09-24T00:53:11Z",
           "name": "v0.426.1"
         }
+      ],
+      "2026-09-25": [
+        {
+          "id": "RE_kwDOSU62XM4XngY7",
+          "owner": "pkgdeps",
+          "repo": "automerge-gate",
+          "tag": "v5.0.3",
+          "url": "https://github.com/pkgdeps/automerge-gate/releases/tag/v5.0.3",
+          "publishedAt": "2026-09-25T02:20:23Z",
+          "name": "v5.0.3"
+        },
+        {
+          "id": "RE_kwDOSU62XM4XnbXj",
+          "owner": "pkgdeps",
+          "repo": "automerge-gate",
+          "tag": "v5.0.2",
+          "url": "https://github.com/pkgdeps/automerge-gate/releases/tag/v5.0.2",
+          "publishedAt": "2026-09-25T01:41:38Z",
+          "name": "v5.0.2"
+        },
+        {
+          "id": "RE_kwDOGkmMps4XnZ-x",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.2.0",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.2.0",
+          "publishedAt": "2026-09-25T01:28:53Z",
+          "name": "3.2.0"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4XnUwW",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.19",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.19",
+          "publishedAt": "2026-09-25T00:33:02Z",
+          "name": "0.12.19"
+        }
       ]
     }
   },
@@ -1829,8 +1667,8 @@
         "releaseHistoryCursor": null
       },
       "pkgdeps/automerge-gate": {
-        "lastReleaseId": "RE_kwDOSU62XM4XSLIH",
-        "lastPublishedAt": "2026-09-17T11:03:05Z",
+        "lastReleaseId": "RE_kwDOSU62XM4XngY7",
+        "lastPublishedAt": "2026-09-25T02:20:23Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/ooo": {},
@@ -3104,8 +2942,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4Xfq3Q",
-        "lastPublishedAt": "2026-09-22T23:00:51Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4XnUwW",
+        "lastPublishedAt": "2026-09-25T00:33:02Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3344,8 +3182,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4XXe39",
-        "lastPublishedAt": "2026-09-19T10:39:20Z",
+        "lastReleaseId": "RE_kwDOGkmMps4XnZ-x",
+        "lastPublishedAt": "2026-09-25T01:28:53Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
