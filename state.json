@@ -1521,6 +1521,60 @@
       ],
       "2026-09-25": [
         {
+          "id": "RE_kwDOGkmMps4XpTjJ",
+          "owner": "Quorafind",
+          "repo": "Obsidian-Thino",
+          "tag": "3.2.1",
+          "url": "https://github.com/Quorafind/Obsidian-Thino/releases/tag/3.2.1",
+          "publishedAt": "2026-09-25T15:02:28Z",
+          "name": "3.2.1"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4XpRWx",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.144.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.144.0",
+          "publishedAt": "2026-09-25T14:50:44Z",
+          "name": "v1.144.0"
+        },
+        {
+          "id": "RE_kwDOKMzyM84Xo2cc",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.22.0",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.22.0",
+          "publishedAt": "2026-09-25T12:58:23Z",
+          "name": "0.22.0"
+        },
+        {
+          "id": "RE_kwDOSU62XM4Xo0QW",
+          "owner": "pkgdeps",
+          "repo": "automerge-gate",
+          "tag": "v5.0.4",
+          "url": "https://github.com/pkgdeps/automerge-gate/releases/tag/v5.0.4",
+          "publishedAt": "2026-09-25T12:14:32Z",
+          "name": "v5.0.4"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4Xoykp",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.1.0",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.1.0",
+          "publishedAt": "2026-09-25T12:03:52Z",
+          "name": "v5.1.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XolVk",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.163",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.163",
+          "publishedAt": "2026-09-25T10:32:09Z",
+          "name": "v8.4.163 - `ultralytics 8.4.163` Export Apple Core AI models on Linux (#26333)"
+        },
+        {
           "id": "RE_kwDORSib_s4XoJfJ",
           "owner": "openclaw",
           "repo": "acpx",
@@ -1685,8 +1739,8 @@
         "releaseHistoryCursor": null
       },
       "pkgdeps/automerge-gate": {
-        "lastReleaseId": "RE_kwDOSU62XM4XngY7",
-        "lastPublishedAt": "2026-09-25T02:20:23Z",
+        "lastReleaseId": "RE_kwDOSU62XM4Xo0QW",
+        "lastPublishedAt": "2026-09-25T12:14:32Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/ooo": {},
@@ -1986,8 +2040,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84Wlcuc",
-        "lastPublishedAt": "2026-08-29T07:56:07Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Xo2cc",
+        "lastPublishedAt": "2026-09-25T12:58:23Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -2031,8 +2085,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4XlTIn",
-        "lastPublishedAt": "2026-09-24T12:22:00Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4XpRWx",
+        "lastPublishedAt": "2026-09-25T14:50:44Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3065,8 +3119,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XmfE_",
-        "lastPublishedAt": "2026-09-24T18:34:43Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XolVk",
+        "lastPublishedAt": "2026-09-25T10:32:09Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3200,8 +3254,8 @@
       },
       "gtjamesa/obsidian-livesync": {},
       "Quorafind/Obsidian-Thino": {
-        "lastReleaseId": "RE_kwDOGkmMps4XnZ-x",
-        "lastPublishedAt": "2026-09-25T01:28:53Z",
+        "lastReleaseId": "RE_kwDOGkmMps4XpTjJ",
+        "lastPublishedAt": "2026-09-25T15:02:28Z",
         "releaseHistoryCursor": null
       },
       "halostatue/fish-direnv": {},
@@ -3645,8 +3699,9 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4U-YH5",
-        "lastPublishedAt": "2026-07-10T04:24:51Z"
+        "lastReleaseId": "RE_kwDOF0rAvc4Xoykp",
+        "lastPublishedAt": "2026-09-25T12:03:52Z",
+        "releaseHistoryCursor": null
       },
       "magefile/mage": {
         "lastReleaseId": "RE_kwDOBjbmhc4SoHqx",
