@@ -1521,6 +1521,240 @@
       ],
       "2026-09-25": [
         {
+          "id": "RE_kwDONvYw484XqRc-",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/vite-plugin@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:15:07Z",
+          "name": "@arkenv/vite-plugin@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDONvYw484XqRcs",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/standard@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/standard%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:15:04Z",
+          "name": "@arkenv/standard@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDONvYw484XqRcZ",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/rsbuild-plugin@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/rsbuild-plugin%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:15:01Z",
+          "name": "@arkenv/rsbuild-plugin@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDONvYw484XqRcC",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nuxt@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:14:58Z",
+          "name": "@arkenv/nuxt@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDONvYw484XqRbw",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nextjs@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:14:55Z",
+          "name": "@arkenv/nextjs@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDONvYw484XqRbd",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/core@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/core%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:14:52Z",
+          "name": "@arkenv/core@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDONvYw484XqRbQ",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/bun-plugin@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:14:49Z",
+          "name": "@arkenv/bun-plugin@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDONvYw484XqRbC",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/build@1.0.0-rc.4",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/build%401.0.0-rc.4",
+          "publishedAt": "2026-09-25T22:14:46Z",
+          "name": "@arkenv/build@1.0.0-rc.4"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84XqQMh",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.2.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.2.0",
+          "publishedAt": "2026-09-25T22:02:23Z",
+          "name": "v1.2.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XqMkq",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.428.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.428.0",
+          "publishedAt": "2026-09-25T21:28:30Z",
+          "name": "v0.428.0"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIjl",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/vite-plugin@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:59Z",
+          "name": "@arkenv/vite-plugin@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIjC",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/tanstack-addon@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/tanstack-addon%401.0.0-rc.2",
+          "publishedAt": "2026-09-25T20:55:56Z",
+          "name": "@arkenv/tanstack-addon@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIin",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/standard@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/standard%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:53Z",
+          "name": "@arkenv/standard@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIiA",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/rsbuild-plugin@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/rsbuild-plugin%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:50Z",
+          "name": "@arkenv/rsbuild-plugin@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIhn",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nuxt@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:47Z",
+          "name": "@arkenv/nuxt@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIhP",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nextjs@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:44Z",
+          "name": "@arkenv/nextjs@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIg7",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/core@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/core%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:41Z",
+          "name": "@arkenv/core@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIgj",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/bun-plugin@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:38Z",
+          "name": "@arkenv/bun-plugin@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIgN",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/build@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/build%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:35Z",
+          "name": "@arkenv/build@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIfz",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "arkenv@1.0.0-rc.3",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/arkenv%401.0.0-rc.3",
+          "publishedAt": "2026-09-25T20:55:32Z",
+          "name": "arkenv@1.0.0-rc.3"
+        },
+        {
+          "id": "RE_kwDONvYw484XqIfL",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/agent-plugin@1.0.0-rc.2",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/agent-plugin%401.0.0-rc.2",
+          "publishedAt": "2026-09-25T20:55:29Z",
+          "name": "@arkenv/agent-plugin@1.0.0-rc.2"
+        },
+        {
+          "id": "RE_kwDODH8YWs4XqEc3",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.09.26",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.26",
+          "publishedAt": "2026-09-25T20:25:50Z",
+          "name": "v2026.09.26"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Xp6pT",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.14",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.14",
+          "publishedAt": "2026-09-25T19:20:06Z",
+          "name": "v2026.9.14: conf.d folder fragments, Stow-style dotfiles options, and mise-versions for any public GitHub repo"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Xp1Ha",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.427.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.427.0",
+          "publishedAt": "2026-09-25T18:36:00Z",
+          "name": "v0.427.0"
+        },
+        {
+          "id": "RE_kwDOH1-qgs4Xpt6M",
+          "owner": "jetify-com",
+          "repo": "devbox",
+          "tag": "0.18.4",
+          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.4",
+          "publishedAt": "2026-09-25T18:11:02Z",
+          "name": "0.18.4"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4XpsVt",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.32.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.32.0",
+          "publishedAt": "2026-09-25T17:38:32Z",
+          "name": "v0.32.0"
+        },
+        {
           "id": "RE_kwDOGkmMps4XpTjJ",
           "owner": "Quorafind",
           "repo": "Obsidian-Thino",
@@ -1793,8 +2027,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4XNRWZ",
-        "lastPublishedAt": "2026-09-15T17:48:53Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4XpsVt",
+        "lastPublishedAt": "2026-09-25T17:38:32Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -1850,8 +2084,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Xl1Af",
-        "lastPublishedAt": "2026-09-24T14:52:12Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4XqMkq",
+        "lastPublishedAt": "2026-09-25T21:28:30Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2076,8 +2310,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484Xin45",
-        "lastPublishedAt": "2026-09-23T18:39:15Z",
+        "lastReleaseId": "RE_kwDONvYw484XqRc-",
+        "lastPublishedAt": "2026-09-25T22:15:07Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -2562,8 +2796,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4XmH2C",
-        "lastPublishedAt": "2026-09-24T16:29:17Z",
+        "lastReleaseId": "RE_kwDODH8YWs4XqEc3",
+        "lastPublishedAt": "2026-09-25T20:25:50Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -2685,8 +2919,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XmkvQ",
-        "lastPublishedAt": "2026-09-24T19:10:32Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Xp6pT",
+        "lastPublishedAt": "2026-09-25T19:20:06Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2704,8 +2938,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84XlwBJ",
-        "lastPublishedAt": "2026-09-24T14:27:07Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84XqQMh",
+        "lastPublishedAt": "2026-09-25T22:02:23Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3483,8 +3717,8 @@
         "releaseHistoryCursor": null
       },
       "jetify-com/devbox": {
-        "lastReleaseId": "RE_kwDOH1-qgs4XQIfh",
-        "lastPublishedAt": "2026-09-16T17:19:23Z",
+        "lastReleaseId": "RE_kwDOH1-qgs4Xpt6M",
+        "lastPublishedAt": "2026-09-25T18:11:02Z",
         "releaseHistoryCursor": null
       },
       "fedibird/mastodon": {},
