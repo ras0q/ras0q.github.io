@@ -1521,6 +1521,24 @@
       ],
       "2026-09-25": [
         {
+          "id": "RE_kwDORSib_s4XoJfJ",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.19.3",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.19.3",
+          "publishedAt": "2026-09-25T07:33:39Z",
+          "name": "v0.19.3"
+        },
+        {
+          "id": "RE_kwDOQ63fjM4Xnp39",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.6.0",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.6.0",
+          "publishedAt": "2026-09-25T03:31:20Z",
+          "name": "v1.6.0"
+        },
+        {
           "id": "RE_kwDOSU62XM4XngY7",
           "owner": "pkgdeps",
           "repo": "automerge-gate",
@@ -1620,8 +1638,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4XgN0D",
-        "lastPublishedAt": "2026-09-23T05:31:18Z",
+        "lastReleaseId": "RE_kwDORSib_s4XoJfJ",
+        "lastPublishedAt": "2026-09-25T07:33:39Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -3802,8 +3820,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4XCeEy",
-        "lastPublishedAt": "2026-09-10T18:21:36Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4Xnp39",
+        "lastPublishedAt": "2026-09-25T03:31:20Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {
