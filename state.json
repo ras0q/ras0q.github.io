@@ -1404,6 +1404,33 @@
       ],
       "2026-09-26": [
         {
+          "id": "RE_kwDOLFvGAc4Xrwkr",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.17",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.17",
+          "publishedAt": "2026-09-26T18:22:15Z",
+          "name": "v0.2.17"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4XrwMm",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.10",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.10",
+          "publishedAt": "2026-09-26T18:17:17Z",
+          "name": "cli-v0.1.10"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4XrjIV",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.0",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.0",
+          "publishedAt": "2026-09-26T15:46:45Z",
+          "name": "v0.4.0"
+        },
+        {
           "id": "RE_kwDOK-QCA84XrV2J",
           "owner": "olimorris",
           "repo": "codecompanion.nvim",
@@ -2662,8 +2689,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4XXd0J",
-        "lastPublishedAt": "2026-09-19T10:23:30Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4Xrwkr",
+        "lastPublishedAt": "2026-09-26T18:22:15Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -3806,8 +3833,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4XXzaI",
-        "lastPublishedAt": "2026-09-21T14:21:51Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4XrjIV",
+        "lastPublishedAt": "2026-09-26T15:46:45Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
