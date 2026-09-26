@@ -1404,6 +1404,24 @@
       ],
       "2026-09-26": [
         {
+          "id": "RE_kwDODH8YWs4Xr-3M",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.09.27",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.27",
+          "publishedAt": "2026-09-26T21:45:04Z",
+          "name": "v2026.09.27"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84Xr8dQ",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.6",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.6",
+          "publishedAt": "2026-09-26T21:09:13Z",
+          "name": "4.13.6"
+        },
+        {
           "id": "RE_kwDOLFvGAc4Xrwkr",
           "owner": "sweetpad-dev",
           "repo": "sweetpad",
@@ -2086,8 +2104,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84XjFmH",
-        "lastPublishedAt": "2026-09-23T21:31:44Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84Xr8dQ",
+        "lastPublishedAt": "2026-09-26T21:09:13Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -2510,8 +2528,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4XqEc3",
-        "lastPublishedAt": "2026-09-25T20:25:50Z",
+        "lastReleaseId": "RE_kwDODH8YWs4Xr-3M",
+        "lastPublishedAt": "2026-09-26T21:45:04Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
