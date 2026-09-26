@@ -1404,6 +1404,42 @@
       ],
       "2026-09-26": [
         {
+          "id": "RE_kwDOE4c3is4XrDuG",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.6.3",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.6.3",
+          "publishedAt": "2026-09-26T08:52:29Z",
+          "name": "9.6.3"
+        },
+        {
+          "id": "RE_kwDOO2B60c4XrB6H",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.0.14",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.14",
+          "publishedAt": "2026-09-26T08:28:01Z",
+          "name": "2.0.14"
+        },
+        {
+          "id": "RE_kwDOOELNJM4Xq6L4",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.0.0-rc.1",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.0.0-rc.1",
+          "publishedAt": "2026-09-26T06:30:57Z",
+          "name": "vite-plus v1.0.0-rc.1: task cache settings move under `cache`"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Xq03k",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.428.1",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.428.1",
+          "publishedAt": "2026-09-26T05:23:53Z",
+          "name": "v0.428.1"
+        },
+        {
           "id": "RE_kwDOLNM6gs4XqegP",
           "owner": "preactjs",
           "repo": "vite-prerender-plugin",
@@ -1615,8 +1651,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4XeMDK",
-        "lastPublishedAt": "2026-09-22T13:58:40Z",
+        "lastReleaseId": "RE_kwDOOELNJM4Xq6L4",
+        "lastPublishedAt": "2026-09-26T06:30:57Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1635,8 +1671,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4XqMkq",
-        "lastPublishedAt": "2026-09-25T21:28:30Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Xq03k",
+        "lastPublishedAt": "2026-09-26T05:23:53Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1809,8 +1845,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4XmM6D",
-        "lastPublishedAt": "2026-09-24T16:57:16Z",
+        "lastReleaseId": "RE_kwDOO2B60c4XrB6H",
+        "lastPublishedAt": "2026-09-26T08:28:01Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -3146,8 +3182,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4XaNOE",
-        "lastPublishedAt": "2026-09-21T06:54:29Z",
+        "lastReleaseId": "RE_kwDOE4c3is4XrDuG",
+        "lastPublishedAt": "2026-09-26T08:52:29Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
