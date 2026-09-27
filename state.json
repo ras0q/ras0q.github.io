@@ -1500,6 +1500,53 @@
           "publishedAt": "2026-09-26T01:03:58Z",
           "name": "0.5.14"
         }
+      ],
+      "2026-09-27": [
+        {
+          "id": "RE_kwDOMtN2Z84XslLR",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.3.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.3.0",
+          "publishedAt": "2026-09-27T08:11:31Z",
+          "name": "v1.3.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Xskkn",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.429.1",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.429.1",
+          "publishedAt": "2026-09-27T08:02:36Z",
+          "name": "v0.429.1"
+        },
+        {
+          "id": "RE_kwDORsUayc4Xsaa0",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.13.1",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.13.1",
+          "publishedAt": "2026-09-27T05:11:41Z",
+          "name": "v0.13.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4XsZPw",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.429.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.429.0",
+          "publishedAt": "2026-09-27T04:52:00Z",
+          "name": "v0.429.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4XsW19",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.32",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.32",
+          "publishedAt": "2026-09-27T04:32:18Z",
+          "name": "1.0.32"
+        }
       ]
     }
   },
@@ -1634,8 +1681,9 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4SjaeD",
-        "lastPublishedAt": "2026-04-20T15:59:32Z"
+        "lastReleaseId": "RE_kwDORsUayc4Xsaa0",
+        "lastPublishedAt": "2026-09-27T05:11:41Z",
+        "releaseHistoryCursor": null
       },
       "ras0q/noy": {
         "lastReleaseId": "RE_kwDOSYE4Hs4TElIG",
@@ -1723,8 +1771,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Xq03k",
-        "lastPublishedAt": "2026-09-26T05:23:53Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Xskkn",
+        "lastPublishedAt": "2026-09-27T08:02:36Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2578,8 +2626,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84XqQMh",
-        "lastPublishedAt": "2026-09-25T22:02:23Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84XslLR",
+        "lastPublishedAt": "2026-09-27T08:11:31Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3122,8 +3170,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4XU-E4",
-        "lastPublishedAt": "2026-09-18T10:07:10Z",
+        "lastReleaseId": "RE_kwDOGNEXps4XsW19",
+        "lastPublishedAt": "2026-09-27T04:32:18Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
