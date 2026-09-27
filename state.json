@@ -1503,6 +1503,33 @@
       ],
       "2026-09-27": [
         {
+          "id": "RE_kwDODMjICc4Xta58",
+          "owner": "Project-MONAI",
+          "repo": "MONAI",
+          "tag": "1.6.1",
+          "url": "https://github.com/Project-MONAI/MONAI/releases/tag/1.6.1",
+          "publishedAt": "2026-09-27T19:34:20Z",
+          "name": "MONAI 1.6.1"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4XtZhe",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.8.0",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.8.0",
+          "publishedAt": "2026-09-27T19:17:22Z",
+          "name": "v0.8.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XtTim",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.164",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.164",
+          "publishedAt": "2026-09-27T17:59:48Z",
+          "name": "v8.4.164 - Delegate FLOPs counting to THOP 2.2.0 stride profiling (#26373)"
+        },
+        {
           "id": "RE_kwDOMtN2Z84XtJfX",
           "owner": "eyemono-moe",
           "repo": "streets",
@@ -2025,8 +2052,9 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4SC53N",
-        "lastPublishedAt": "2026-03-28T21:21:06Z"
+        "lastReleaseId": "RE_kwDOPrEI7s4XtZhe",
+        "lastPublishedAt": "2026-09-27T19:17:22Z",
+        "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
@@ -2401,8 +2429,9 @@
         "lastPublishedAt": "2025-11-19T02:12:27Z"
       },
       "Project-MONAI/MONAI": {
-        "lastReleaseId": "RE_kwDODMjICc4UH7AU",
-        "lastPublishedAt": "2026-06-11T01:51:38Z"
+        "lastReleaseId": "RE_kwDODMjICc4Xta58",
+        "lastPublishedAt": "2026-09-27T19:34:20Z",
+        "releaseHistoryCursor": null
       },
       "cp-20/traq-bot-ts": {},
       "charmbracelet/sequin": {
@@ -3095,8 +3124,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XolVk",
-        "lastPublishedAt": "2026-09-25T10:32:09Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XtTim",
+        "lastPublishedAt": "2026-09-27T17:59:48Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
