@@ -1503,6 +1503,60 @@
       ],
       "2026-09-27": [
         {
+          "id": "RE_kwDOMtN2Z84XtJfX",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.3.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.3.1",
+          "publishedAt": "2026-09-27T15:55:28Z",
+          "name": "v1.3.1"
+        },
+        {
+          "id": "RE_kwDOUNMECc4XtDV7",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.4.0",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.4.0",
+          "publishedAt": "2026-09-27T14:43:22Z",
+          "name": "v1.4.0: Pin forge identity by repository ID; accurate libc and architecture for Linux artifacts"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4Xs_ds",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.5.6",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.6",
+          "publishedAt": "2026-09-27T13:56:33Z",
+          "name": "v1.5.6"
+        },
+        {
+          "id": "RE_kwDOJE7Z-84Xs3Cb",
+          "owner": "Zxilly",
+          "repo": "go-size-analyzer",
+          "tag": "v1.14.1",
+          "url": "https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.14.1",
+          "publishedAt": "2026-09-27T12:11:57Z",
+          "name": "v1.14.1"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4Xs1gB",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.29",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.29",
+          "publishedAt": "2026-09-27T11:51:52Z",
+          "name": "v1.10.29"
+        },
+        {
+          "id": "RE_kwDOIvux3s4XssA_",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.15",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.15",
+          "publishedAt": "2026-09-27T09:51:03Z",
+          "name": "v2026.9.15: vfox tools in OCI images, faster shell prompts, and safer dotfiles pattern matching"
+        },
+        {
           "id": "RE_kwDOMtN2Z84XslLR",
           "owner": "eyemono-moe",
           "repo": "streets",
@@ -2322,8 +2376,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4XGgCv",
-        "lastPublishedAt": "2026-09-12T13:29:28Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4Xs_ds",
+        "lastPublishedAt": "2026-09-27T13:56:33Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2607,8 +2661,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Xp6pT",
-        "lastPublishedAt": "2026-09-25T19:20:06Z",
+        "lastReleaseId": "RE_kwDOIvux3s4XssA_",
+        "lastPublishedAt": "2026-09-27T09:51:03Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2626,8 +2680,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84XslLR",
-        "lastPublishedAt": "2026-09-27T08:11:31Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84XtJfX",
+        "lastPublishedAt": "2026-09-27T15:55:28Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -2783,8 +2837,8 @@
       },
       "Ye-D/PPML-Resource": {},
       "Zxilly/go-size-analyzer": {
-        "lastReleaseId": "RE_kwDOJE7Z-84WUq9B",
-        "lastPublishedAt": "2026-08-21T15:58:15Z",
+        "lastReleaseId": "RE_kwDOJE7Z-84Xs3Cb",
+        "lastPublishedAt": "2026-09-27T12:11:57Z",
         "releaseHistoryCursor": null
       },
       "compose-spec/compose-spec": {},
@@ -3276,8 +3330,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4XRYOB",
-        "lastPublishedAt": "2026-09-17T04:22:04Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4Xs1gB",
+        "lastPublishedAt": "2026-09-27T11:51:52Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
@@ -3833,8 +3887,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4XiV2K",
-        "lastPublishedAt": "2026-09-23T17:02:10Z",
+        "lastReleaseId": "RE_kwDOUNMECc4XtDV7",
+        "lastPublishedAt": "2026-09-27T14:43:22Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
