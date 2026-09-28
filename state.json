@@ -2,89 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-20",
       "2026-09-21",
       "2026-09-22",
       "2026-09-23",
       "2026-09-24",
       "2026-09-25",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-27"
     ],
     "days": {
-      "2026-09-20": [
-        {
-          "id": "RE_kwDORSib_s4XZiyN",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.18.0",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.18.0",
-          "publishedAt": "2026-09-20T20:58:00Z",
-          "name": "acpx 0.18.0"
-        },
-        {
-          "id": "RE_kwDOO2B60c4XZiD7",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.12",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.12",
-          "publishedAt": "2026-09-20T20:46:42Z",
-          "name": "2.0.12"
-        },
-        {
-          "id": "RE_kwDOBoRDs84XZHDA",
-          "owner": "traPtitech",
-          "repo": "traQ",
-          "tag": "v3.29.1",
-          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.29.1",
-          "publishedAt": "2026-09-20T14:26:57Z",
-          "name": "v3.29.1"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4XZE6Q",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.157",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.157",
-          "publishedAt": "2026-09-20T13:58:01Z",
-          "name": "v8.4.157 - Speed up TensorRT FP16 and INT8 engines up to 20% (#26223)"
-        },
-        {
-          "id": "RE_kwDOLNZwwc4XZA95",
-          "owner": "e18e",
-          "repo": "module-replacements",
-          "tag": "3.4.0",
-          "url": "https://github.com/e18e/module-replacements/releases/tag/3.4.0",
-          "publishedAt": "2026-09-20T13:02:59Z",
-          "name": "3.4.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4XY76S",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.12",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.12",
-          "publishedAt": "2026-09-20T11:47:12Z",
-          "name": "v2026.9.12: Tasks that require daemons, worktree-aware ports and URLs, Scoop and zypper packages, and official Docker images"
-        },
-        {
-          "id": "RE_kwDOIqKs2s4XY1rw",
-          "owner": "azooKey",
-          "repo": "azooKey",
-          "tag": "v3.1.1",
-          "url": "https://github.com/azooKey/azooKey/releases/tag/v3.1.1",
-          "publishedAt": "2026-09-20T09:58:36Z",
-          "name": "v3.1.1"
-        },
-        {
-          "id": "RE_kwDORSib_s4XYiB9",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.17.1",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.17.1",
-          "publishedAt": "2026-09-20T04:06:32Z",
-          "name": "acpx 0.17.1"
-        }
-      ],
       "2026-09-21": [
         {
           "id": "RE_kwDOH-jzvc4XcSL7",
@@ -1503,6 +1429,24 @@
       ],
       "2026-09-27": [
         {
+          "id": "RE_kwDOAeC4a84Xtq9a",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v4.16.0",
+          "url": "https://github.com/labstack/echo/releases/tag/v4.16.0",
+          "publishedAt": "2026-09-27T23:03:18Z",
+          "name": "v4.16.0"
+        },
+        {
+          "id": "RE_kwDOAeC4a84Xtpuj",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.4.0",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.4.0",
+          "publishedAt": "2026-09-27T22:45:52Z",
+          "name": "v5.4.0"
+        },
+        {
           "id": "RE_kwDODMjICc4Xta58",
           "owner": "Project-MONAI",
           "repo": "MONAI",
@@ -1627,6 +1571,17 @@
           "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.32",
           "publishedAt": "2026-09-27T04:32:18Z",
           "name": "1.0.32"
+        }
+      ],
+      "2026-09-28": [
+        {
+          "id": "RE_kwDOM9WtiM4Xt1PW",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.5.7",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.7",
+          "publishedAt": "2026-09-28T01:35:04Z",
+          "name": "v1.5.7"
         }
       ]
     }
@@ -1949,8 +1904,8 @@
         "releaseHistoryCursor": null
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84VTp5p",
-        "lastPublishedAt": "2026-07-21T16:10:56Z",
+        "lastReleaseId": "RE_kwDOAeC4a84Xtq9a",
+        "lastPublishedAt": "2026-09-27T23:03:18Z",
         "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
@@ -2404,8 +2359,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4Xs_ds",
-        "lastPublishedAt": "2026-09-27T13:56:33Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4Xt1PW",
+        "lastPublishedAt": "2026-09-28T01:35:04Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3928,6 +3883,11 @@
       "revive-lint/revive": {
         "lastReleaseId": "RE_kwDOBbx18s4XiE6b",
         "lastPublishedAt": "2026-09-23T15:38:25Z",
+        "releaseHistoryCursor": null
+      },
+      "houseabsolute/ubi": {
+        "lastPublishedAt": "2026-08-31T03:47:01Z",
+        "lastReleaseId": "RE_kwDOE386wc4Wnpjk",
         "releaseHistoryCursor": null
       }
     }
