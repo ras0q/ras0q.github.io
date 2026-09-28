@@ -1575,6 +1575,60 @@
       ],
       "2026-09-28": [
         {
+          "id": "RE_kwDOOIl6Q84XvXCF",
+          "owner": "k1LoW",
+          "repo": "deck",
+          "tag": "v1.24.2",
+          "url": "https://github.com/k1LoW/deck/releases/tag/v1.24.2",
+          "publishedAt": "2026-09-28T13:48:02Z",
+          "name": "v1.24.2"
+        },
+        {
+          "id": "RE_kwDOG9R6-M4XvODJ",
+          "owner": "k1LoW",
+          "repo": "runn",
+          "tag": "v1.11.1",
+          "url": "https://github.com/k1LoW/runn/releases/tag/v1.11.1",
+          "publishedAt": "2026-09-28T13:38:44Z",
+          "name": "v1.11.1"
+        },
+        {
+          "id": "RE_kwDOLOGqFM4XvOzl",
+          "owner": "k1LoW",
+          "repo": "donegroup",
+          "tag": "v1.10.4",
+          "url": "https://github.com/k1LoW/donegroup/releases/tag/v1.10.4",
+          "publishedAt": "2026-09-28T13:04:31Z",
+          "name": "v1.10.4"
+        },
+        {
+          "id": "RE_kwDOSLpYXs4Xu3hl",
+          "owner": "actions",
+          "repo": "upload-code-coverage",
+          "tag": "v1.4.3",
+          "url": "https://github.com/actions/upload-code-coverage/releases/tag/v1.4.3",
+          "publishedAt": "2026-09-28T12:11:19Z",
+          "name": "v1.4.3"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84XvECN",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.4.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.4.0",
+          "publishedAt": "2026-09-28T12:08:43Z",
+          "name": "v1.4.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Xuywd",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.9.16",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.16",
+          "publishedAt": "2026-09-28T10:27:35Z",
+          "name": "v2026.9.16: Per-tool libc for aqua tools, monorepo task path aliases, and packslip pins that survive repo renames"
+        },
+        {
           "id": "RE_kwDOCnR4Zc4Xut1G",
           "owner": "JanDeDobbeleer",
           "repo": "oh-my-posh",
@@ -1721,7 +1775,11 @@
         "releaseHistoryCursor": null
       },
       "Akifyss/obsidian-border": {},
-      "actions/upload-code-coverage": {},
+      "actions/upload-code-coverage": {
+        "lastReleaseId": "RE_kwDOSLpYXs4Xu3hl",
+        "lastPublishedAt": "2026-09-28T12:11:19Z",
+        "releaseHistoryCursor": null
+      },
       "addtobasic/ignite-website": {},
       "tadashi-aikawa/slidev-preview.nvim": {},
       "amatya-aditya/obsidian-rss-dashboard": {
@@ -2320,8 +2378,8 @@
         "lastPublishedAt": "2026-02-11T16:02:36Z"
       },
       "k1LoW/runn": {
-        "lastReleaseId": "RE_kwDOG9R6-M4XUse-",
-        "lastPublishedAt": "2026-09-18T08:17:25Z",
+        "lastReleaseId": "RE_kwDOG9R6-M4XvODJ",
+        "lastPublishedAt": "2026-09-28T13:38:44Z",
         "releaseHistoryCursor": null
       },
       "tohutohu/discord-claude-code": {},
@@ -2529,8 +2587,9 @@
         "releaseHistoryCursor": null
       },
       "k1LoW/deck": {
-        "lastReleaseId": "RE_kwDOOIl6Q84U36Br",
-        "lastPublishedAt": "2026-07-07T11:40:39Z"
+        "lastReleaseId": "RE_kwDOOIl6Q84XvXCF",
+        "lastPublishedAt": "2026-09-28T13:48:02Z",
+        "releaseHistoryCursor": null
       },
       "typedgrammar/typed-japanese": {},
       "kepano/defuddle": {
@@ -2691,8 +2750,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4XssA_",
-        "lastPublishedAt": "2026-09-27T09:51:03Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Xuywd",
+        "lastPublishedAt": "2026-09-28T10:27:35Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2710,8 +2769,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84XtJfX",
-        "lastPublishedAt": "2026-09-27T15:55:28Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84XvECN",
+        "lastPublishedAt": "2026-09-28T12:08:43Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -2909,8 +2968,9 @@
         "lastPublishedAt": "2025-07-18T15:13:19Z"
       },
       "k1LoW/donegroup": {
-        "lastReleaseId": "RE_kwDOLOGqFM4RB-GL",
-        "lastPublishedAt": "2026-02-12T15:06:27Z"
+        "lastReleaseId": "RE_kwDOLOGqFM4XvOzl",
+        "lastPublishedAt": "2026-09-28T13:04:31Z",
+        "releaseHistoryCursor": null
       },
       "lintnet/lintnet": {
         "lastReleaseId": "RE_kwDOK40UVM4P-S8z",
