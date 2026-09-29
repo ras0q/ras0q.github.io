@@ -2,152 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-21",
       "2026-09-22",
       "2026-09-23",
       "2026-09-24",
       "2026-09-25",
       "2026-09-26",
-      "2026-09-27"
+      "2026-09-27",
+      "2026-09-28"
     ],
     "days": {
-      "2026-09-21": [
-        {
-          "id": "RE_kwDOH-jzvc4XcSL7",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.158",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.158",
-          "publishedAt": "2026-09-21T20:52:46Z",
-          "name": "v8.4.158 - `ultralytics 8.4.158` Keep mosaic closed after an OOM batch auto-reduction (#26257)"
-        },
-        {
-          "id": "RE_kwDOJOlQSc4Xb-2m",
-          "owner": "penpenpng",
-          "repo": "rx-nostr",
-          "tag": "rx-nostr@3.7.7",
-          "url": "https://github.com/penpenpng/rx-nostr/releases/tag/rx-nostr%403.7.7",
-          "publishedAt": "2026-09-21T19:02:04Z",
-          "name": "rx-nostr@3.7.7"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4Xbm9U",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.96.1",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.96.1",
-          "publishedAt": "2026-09-21T16:22:02Z",
-          "name": "v0.96.1"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4XXzaI",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.3-rc",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.3-rc",
-          "publishedAt": "2026-09-21T14:21:51Z",
-          "name": "v0.3-rc"
-        },
-        {
-          "id": "RE_kwDOGN5wJc4XbLNw",
-          "owner": "dlvhdr",
-          "repo": "gh-dash",
-          "tag": "v4.26.0",
-          "url": "https://github.com/dlvhdr/gh-dash/releases/tag/v4.26.0",
-          "publishedAt": "2026-09-21T13:50:28Z",
-          "name": "v4.26.0"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4XbBrs",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.3.1",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.3.1",
-          "publishedAt": "2026-09-21T13:33:46Z",
-          "name": "v0.3.1"
-        },
-        {
-          "id": "RE_kwDOE4ox_c4XbH4h",
-          "owner": "hummingbird-project",
-          "repo": "hummingbird",
-          "tag": "2.27.0",
-          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.27.0",
-          "publishedAt": "2026-09-21T13:31:14Z",
-          "name": "v2.27.0"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84Xaopp",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.13.3",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.3",
-          "publishedAt": "2026-09-21T10:13:59Z",
-          "name": "4.13.3"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4Xae4D",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.96.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.96.0",
-          "publishedAt": "2026-09-21T09:07:11Z",
-          "name": "v0.96.0"
-        },
-        {
-          "id": "RE_kwDOEXrCM84XaeSD",
-          "owner": "esm-dev",
-          "repo": "esm.sh",
-          "tag": "v139_2",
-          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v139_2",
-          "publishedAt": "2026-09-21T09:03:19Z",
-          "name": "Server v139_2"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4XaWoI",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.142.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.142.0",
-          "publishedAt": "2026-09-21T08:09:17Z",
-          "name": "v1.142.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XaT_e",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.425.1",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.425.1",
-          "publishedAt": "2026-09-21T07:49:10Z",
-          "name": "v0.425.1"
-        },
-        {
-          "id": "RE_kwDOE4c3is4XaNOE",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.6.2",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.6.2",
-          "publishedAt": "2026-09-21T06:54:29Z",
-          "name": "9.6.2"
-        },
-        {
-          "id": "RE_kwDONQkKUc4XaIRw",
-          "owner": "xtool-org",
-          "repo": "xtool",
-          "tag": "1.20.1",
-          "url": "https://github.com/xtool-org/xtool/releases/tag/1.20.1",
-          "publishedAt": "2026-09-21T06:05:38Z",
-          "name": "v1.20.1"
-        },
-        {
-          "id": "RE_kwDONQkKUc4XYtCf",
-          "owner": "xtool-org",
-          "repo": "xtool",
-          "tag": "1.20.0",
-          "url": "https://github.com/xtool-org/xtool/releases/tag/1.20.0",
-          "publishedAt": "2026-09-21T01:33:14Z",
-          "name": "v1.20.0"
-        }
-      ],
       "2026-09-22": [
         {
           "id": "RE_kwDOKbIFZc4Xfq3Q",
@@ -1575,6 +1438,447 @@
       ],
       "2026-09-28": [
         {
+          "id": "RE_kwDOKbIFZc4Xw61a",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.20",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.20",
+          "publishedAt": "2026-09-28T23:20:35Z",
+          "name": "0.12.20"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu5U",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "ui-hmr@0.1.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/ui-hmr%400.1.1",
+          "publishedAt": "2026-09-28T21:46:08Z",
+          "name": "ui-hmr v0.1.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu5G",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "tar-parser@0.8.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/tar-parser%400.8.1",
+          "publishedAt": "2026-09-28T21:46:07Z",
+          "name": "tar-parser v0.8.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu5B",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "static-middleware@0.4.17",
+          "url": "https://github.com/remix-run/remix/releases/tag/static-middleware%400.4.17",
+          "publishedAt": "2026-09-28T21:46:06Z",
+          "name": "static-middleware v0.4.17"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu42",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "spa@0.1.3",
+          "url": "https://github.com/remix-run/remix/releases/tag/spa%400.1.3",
+          "publishedAt": "2026-09-28T21:46:05Z",
+          "name": "spa v0.1.3"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu4w",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "session-storage-redis@0.1.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/session-storage-redis%400.1.2",
+          "publishedAt": "2026-09-28T21:46:04Z",
+          "name": "session-storage-redis v0.1.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu4b",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "session-middleware@0.5.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/session-middleware%400.5.1",
+          "publishedAt": "2026-09-28T21:46:03Z",
+          "name": "session-middleware v0.5.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu4n",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "session-storage-memcache@0.1.3",
+          "url": "https://github.com/remix-run/remix/releases/tag/session-storage-memcache%400.1.3",
+          "publishedAt": "2026-09-28T21:46:03Z",
+          "name": "session-storage-memcache v0.1.3"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu4P",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "render-middleware@0.3.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/render-middleware%400.3.2",
+          "publishedAt": "2026-09-28T21:46:02Z",
+          "name": "render-middleware v0.3.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu4J",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "ui@0.11.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/ui%400.11.0",
+          "publishedAt": "2026-09-28T21:46:01Z",
+          "name": "ui v0.11.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu39",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "node-hmr@0.2.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/node-hmr%400.2.1",
+          "publishedAt": "2026-09-28T21:46:00Z",
+          "name": "node-hmr v0.2.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu30",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "node-fetch-server@0.14.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/node-fetch-server%400.14.2",
+          "publishedAt": "2026-09-28T21:45:59Z",
+          "name": "node-fetch-server v0.14.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu3q",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "multiple-import-maps-polyfill@0.1.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/multiple-import-maps-polyfill%400.1.1",
+          "publishedAt": "2026-09-28T21:45:58Z",
+          "name": "multiple-import-maps-polyfill v0.1.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu3Z",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "method-override-middleware@0.1.16",
+          "url": "https://github.com/remix-run/remix/releases/tag/method-override-middleware%400.1.16",
+          "publishedAt": "2026-09-28T21:45:57Z",
+          "name": "method-override-middleware v0.1.16"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu3O",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "logger-middleware@0.3.8",
+          "url": "https://github.com/remix-run/remix/releases/tag/logger-middleware%400.3.8",
+          "publishedAt": "2026-09-28T21:45:56Z",
+          "name": "logger-middleware v0.3.8"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu3G",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "form-data-middleware@0.3.8",
+          "url": "https://github.com/remix-run/remix/releases/tag/form-data-middleware%400.3.8",
+          "publishedAt": "2026-09-28T21:45:55Z",
+          "name": "form-data-middleware v0.3.8"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu28",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "form-data-parser@0.17.7",
+          "url": "https://github.com/remix-run/remix/releases/tag/form-data-parser%400.17.7",
+          "publishedAt": "2026-09-28T21:45:54Z",
+          "name": "form-data-parser v0.17.7"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu2s",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "file-storage-s3@0.1.6",
+          "url": "https://github.com/remix-run/remix/releases/tag/file-storage-s3%400.1.6",
+          "publishedAt": "2026-09-28T21:45:53Z",
+          "name": "file-storage-s3 v0.1.6"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu21",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "multipart-parser@0.16.6",
+          "url": "https://github.com/remix-run/remix/releases/tag/multipart-parser%400.16.6",
+          "publishedAt": "2026-09-28T21:45:53Z",
+          "name": "multipart-parser v0.16.6"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu2j",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "fetch-proxy@0.9.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/fetch-proxy%400.9.0",
+          "publishedAt": "2026-09-28T21:45:52Z",
+          "name": "fetch-proxy v0.9.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu2Y",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "csrf-middleware@0.2.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/csrf-middleware%400.2.0",
+          "publishedAt": "2026-09-28T21:45:51Z",
+          "name": "csrf-middleware v0.2.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu2Q",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cors-middleware@0.2.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/cors-middleware%400.2.1",
+          "publishedAt": "2026-09-28T21:45:50Z",
+          "name": "cors-middleware v0.2.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu2G",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cookie@0.7.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/cookie%400.7.1",
+          "publishedAt": "2026-09-28T21:45:49Z",
+          "name": "cookie v0.7.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu2M",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cop-middleware@0.1.11",
+          "url": "https://github.com/remix-run/remix/releases/tag/cop-middleware%400.1.11",
+          "publishedAt": "2026-09-28T21:45:49Z",
+          "name": "cop-middleware v0.1.11"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu2B",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "compression-middleware@0.1.16",
+          "url": "https://github.com/remix-run/remix/releases/tag/compression-middleware%400.1.16",
+          "publishedAt": "2026-09-28T21:45:48Z",
+          "name": "compression-middleware v0.1.16"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu17",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "response@0.3.10",
+          "url": "https://github.com/remix-run/remix/releases/tag/response%400.3.10",
+          "publishedAt": "2026-09-28T21:45:47Z",
+          "name": "response v0.3.10"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu1q",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cli@0.8.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/cli%400.8.0",
+          "publishedAt": "2026-09-28T21:45:46Z",
+          "name": "cli v0.8.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu11",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "html-template@0.3.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/html-template%400.3.2",
+          "publishedAt": "2026-09-28T21:45:46Z",
+          "name": "html-template v0.3.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu1X",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "test@0.6.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/test%400.6.2",
+          "publishedAt": "2026-09-28T21:45:45Z",
+          "name": "test v0.6.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu0_",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "node-tsx@0.1.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/node-tsx%400.1.2",
+          "publishedAt": "2026-09-28T21:45:44Z",
+          "name": "node-tsx v0.1.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu0s",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "terminal@0.1.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/terminal%400.1.2",
+          "publishedAt": "2026-09-28T21:45:43Z",
+          "name": "terminal v0.1.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu0j",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "auth-middleware@0.2.8",
+          "url": "https://github.com/remix-run/remix/releases/tag/auth-middleware%400.2.8",
+          "publishedAt": "2026-09-28T21:45:42Z",
+          "name": "auth-middleware v0.2.8"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu0c",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "auth@0.3.3",
+          "url": "https://github.com/remix-run/remix/releases/tag/auth%400.3.3",
+          "publishedAt": "2026-09-28T21:45:42Z",
+          "name": "auth v0.3.3"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu0T",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "session@0.4.3",
+          "url": "https://github.com/remix-run/remix/releases/tag/session%400.4.3",
+          "publishedAt": "2026-09-28T21:45:41Z",
+          "name": "session v0.4.3"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwu0K",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "async-context-middleware@0.3.8",
+          "url": "https://github.com/remix-run/remix/releases/tag/async-context-middleware%400.3.8",
+          "publishedAt": "2026-09-28T21:45:40Z",
+          "name": "async-context-middleware v0.3.8"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuz7",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "fetch-router@0.22.2",
+          "url": "https://github.com/remix-run/remix/releases/tag/fetch-router%400.22.2",
+          "publishedAt": "2026-09-28T21:45:39Z",
+          "name": "fetch-router v0.22.2"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuzw",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "route-pattern@0.25.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/route-pattern%400.25.0",
+          "publishedAt": "2026-09-28T21:45:38Z",
+          "name": "route-pattern v0.25.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuzt",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "assets@0.8.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/assets%400.8.0",
+          "publishedAt": "2026-09-28T21:45:37Z",
+          "name": "assets v0.8.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuzo",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "headers@0.21.3",
+          "url": "https://github.com/remix-run/remix/releases/tag/headers%400.21.3",
+          "publishedAt": "2026-09-28T21:45:36Z",
+          "name": "headers v0.21.3"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuzb",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "file-storage@0.13.8",
+          "url": "https://github.com/remix-run/remix/releases/tag/file-storage%400.13.8",
+          "publishedAt": "2026-09-28T21:45:35Z",
+          "name": "file-storage v0.13.8"
+        },
+        {
+          "id": "RE_kwDOElPqBM4XwuzK",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "fs@0.4.7",
+          "url": "https://github.com/remix-run/remix/releases/tag/fs%400.4.7",
+          "publishedAt": "2026-09-28T21:45:34Z",
+          "name": "fs v0.4.7"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuy9",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "lazy-file@5.0.7",
+          "url": "https://github.com/remix-run/remix/releases/tag/lazy-file%405.0.7",
+          "publishedAt": "2026-09-28T21:45:33Z",
+          "name": "lazy-file v5.0.7"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuy1",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "mime@0.4.3",
+          "url": "https://github.com/remix-run/remix/releases/tag/mime%400.4.3",
+          "publishedAt": "2026-09-28T21:45:33Z",
+          "name": "mime v0.4.3"
+        },
+        {
+          "id": "RE_kwDOElPqBM4Xwuyv",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "assert@0.3.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/assert%400.3.1",
+          "publishedAt": "2026-09-28T21:45:32Z",
+          "name": "assert v0.3.1"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4Xwnct",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.11",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.11",
+          "publishedAt": "2026-09-28T20:59:15Z",
+          "name": "cli-v0.1.11"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4Xwl1v",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.18",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.18",
+          "publishedAt": "2026-09-28T20:49:40Z",
+          "name": "v0.2.18"
+        },
+        {
+          "id": "RE_kwDOAWJAkM4XwjNK",
+          "owner": "git-for-windows",
+          "repo": "git",
+          "tag": "v2.56.0.windows.1",
+          "url": "https://github.com/git-for-windows/git/releases/tag/v2.56.0.windows.1",
+          "publishedAt": "2026-09-28T20:34:41Z",
+          "name": "Git for Windows v2.56.0.windows.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4XwaRl",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.165",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.165",
+          "publishedAt": "2026-09-28T19:41:34Z",
+          "name": "v8.4.165 - ultralytics 8.4.165 Stop installing top-level tests package from the wheel (#26408)"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4XwZ2i",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.15",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.15",
+          "publishedAt": "2026-09-28T19:38:57Z",
+          "name": "v1.0.15"
+        },
+        {
           "id": "RE_kwDOOIl6Q84XvXCF",
           "owner": "k1LoW",
           "repo": "deck",
@@ -1986,8 +2290,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4XOait",
-        "lastPublishedAt": "2026-09-16T05:17:39Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4XwZ2i",
+        "lastPublishedAt": "2026-09-28T19:38:57Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2013,8 +2317,8 @@
       },
       "adrian-thurston/ragel": {},
       "remix-run/remix": {
-        "lastReleaseId": "RE_kwDOElPqBM4XWsH8",
-        "lastPublishedAt": "2026-09-18T22:38:48Z",
+        "lastReleaseId": "RE_kwDOElPqBM4Xwu5U",
+        "lastPublishedAt": "2026-09-28T21:46:08Z",
         "releaseHistoryCursor": null
       },
       "ktnyt/cclsp": {},
@@ -2703,8 +3007,8 @@
         "lastPublishedAt": "2026-06-21T21:53:03Z"
       },
       "git-for-windows/git": {
-        "lastReleaseId": "RE_kwDOAWJAkM4WSNot",
-        "lastPublishedAt": "2026-08-20T16:21:31Z",
+        "lastReleaseId": "RE_kwDOAWJAkM4XwjNK",
+        "lastPublishedAt": "2026-09-28T20:34:41Z",
         "releaseHistoryCursor": null
       },
       "VitalAudio/visage": {},
@@ -2806,8 +3110,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4Xrwkr",
-        "lastPublishedAt": "2026-09-26T18:22:15Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4Xwnct",
+        "lastPublishedAt": "2026-09-28T20:59:15Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -3080,8 +3384,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4XnUwW",
-        "lastPublishedAt": "2026-09-25T00:33:02Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4Xw61a",
+        "lastPublishedAt": "2026-09-28T23:20:35Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3185,8 +3489,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4XtTim",
-        "lastPublishedAt": "2026-09-27T17:59:48Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4XwaRl",
+        "lastPublishedAt": "2026-09-28T19:41:34Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
