@@ -1989,6 +1989,68 @@
       ],
       "2026-09-29": [
         {
+          "id": "RE_kwDOA1DMt84Xr3Zy",
+          "owner": "microsoft",
+          "repo": "WSL",
+          "tag": "3.0.1",
+          "url": "https://github.com/microsoft/WSL/releases/tag/3.0.1",
+          "publishedAt": "2026-09-29T17:18:57Z",
+          "name": "3.0.1"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4XzTtQ",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.58.0",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.58.0",
+          "publishedAt": "2026-09-29T16:29:09Z",
+          "name": "0.58.0"
+        },
+        {
+          "id": "RE_kwDORsUayc4XzCfB",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.14.0",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.14.0",
+          "publishedAt": "2026-09-29T14:57:24Z",
+          "name": "v0.14.0"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4Xyc1h",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.97.1",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.97.1",
+          "publishedAt": "2026-09-29T11:57:00Z",
+          "name": "v0.97.1"
+        },
+        {
+          "id": "RE_kwDOEE38qM4Xyar2",
+          "owner": "foambubble",
+          "repo": "foam",
+          "tag": "vscode@0.45.0",
+          "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.45.0",
+          "publishedAt": "2026-09-29T11:45:00Z"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4XyQih",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.97.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.97.0",
+          "publishedAt": "2026-09-29T10:48:18Z",
+          "name": "v0.97.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84XyQO3",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.5.2",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.5.2",
+          "publishedAt": "2026-09-29T10:46:11Z",
+          "name": "v1.5.2"
+        },
+        {
           "id": "RE_kwDOCk1n-s4XyLA6",
           "owner": "eure",
           "repo": "swift-storybook",
@@ -2207,8 +2269,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4Xsaa0",
-        "lastPublishedAt": "2026-09-27T05:11:41Z",
+        "lastReleaseId": "RE_kwDORsUayc4XzCfB",
+        "lastPublishedAt": "2026-09-29T14:57:24Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -2440,8 +2502,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4Xbm9U",
-        "lastPublishedAt": "2026-09-21T16:22:02Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4Xyc1h",
+        "lastPublishedAt": "2026-09-29T11:57:00Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -2831,8 +2893,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/WSL": {
-        "lastReleaseId": "RE_kwDOA1DMt84XFOfX",
-        "lastPublishedAt": "2026-09-11T22:09:23Z",
+        "lastReleaseId": "RE_kwDOA1DMt84Xr3Zy",
+        "lastPublishedAt": "2026-09-29T17:18:57Z",
         "releaseHistoryCursor": null
       },
       "traPtitech/naro-text": {
@@ -3156,8 +3218,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84XyJTF",
-        "lastPublishedAt": "2026-09-29T10:05:08Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84XyQO3",
+        "lastPublishedAt": "2026-09-29T10:46:11Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3206,8 +3268,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4W2ft-",
-        "lastPublishedAt": "2026-09-05T22:02:39Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4XzTtQ",
+        "lastPublishedAt": "2026-09-29T16:29:09Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -3949,8 +4011,8 @@
         "lastPublishedAt": "2025-06-18T21:21:40Z"
       },
       "foambubble/foam": {
-        "lastReleaseId": "RE_kwDOEE38qM4WsOS-",
-        "lastPublishedAt": "2026-09-01T17:19:47Z",
+        "lastReleaseId": "RE_kwDOEE38qM4Xyar2",
+        "lastPublishedAt": "2026-09-29T11:45:00Z",
         "releaseHistoryCursor": null
       },
       "maruel/panicparse": {
@@ -4384,8 +4446,8 @@
         "releaseHistoryCursor": null
       },
       "emdash-cms/emdash": {
-        "lastPublishedAt": "2026-09-28T12:22:28Z",
         "lastReleaseId": "RE_kwDOR2vLLM4XvGr0",
+        "lastPublishedAt": "2026-09-28T12:22:28Z",
         "releaseHistoryCursor": null
       }
     }
