@@ -2,152 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-22",
       "2026-09-23",
       "2026-09-24",
       "2026-09-25",
       "2026-09-26",
       "2026-09-27",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-29"
     ],
     "days": {
-      "2026-09-22": [
-        {
-          "id": "RE_kwDOKbIFZc4Xfq3Q",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.18",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.18",
-          "publishedAt": "2026-09-22T23:00:51Z",
-          "name": "0.12.18"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4XfkqI",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.160",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.160",
-          "publishedAt": "2026-09-22T22:00:06Z",
-          "name": "v8.4.160 - `ultralytics 8.4.160` Invalidate dataset caches when files are edited in place (#26283)"
-        },
-        {
-          "id": "RE_kwDOCkh5xs4XfP6D",
-          "owner": "pmndrs",
-          "repo": "react-three-fiber",
-          "tag": "v9.8.0",
-          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.0",
-          "publishedAt": "2026-09-22T19:46:16Z",
-          "name": "v9.8.0"
-        },
-        {
-          "id": "RE_kwDOEYAvFc4XfIVn",
-          "owner": "lumeland",
-          "repo": "lume",
-          "tag": "v3.3.2",
-          "url": "https://github.com/lumeland/lume/releases/tag/v3.3.2",
-          "publishedAt": "2026-09-22T19:04:12Z",
-          "name": "v3.3.2"
-        },
-        {
-          "id": "RE_kwDOH0TSTs4Xe0ng",
-          "owner": "Songmu",
-          "repo": "tagpr",
-          "tag": "v1.20.4",
-          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.20.4",
-          "publishedAt": "2026-09-22T17:04:02Z",
-          "name": "v1.20.4"
-        },
-        {
-          "id": "RE_kwDOJKcikM4XezNT",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.3",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.3",
-          "publishedAt": "2026-09-22T16:53:15Z",
-          "name": "@astrojs/starlight@0.42.3"
-        },
-        {
-          "id": "RE_kwDOCGKeh84Xebrc",
-          "owner": "git-bug",
-          "repo": "git-bug",
-          "tag": "v0.11.0",
-          "url": "https://github.com/git-bug/git-bug/releases/tag/v0.11.0",
-          "publishedAt": "2026-09-22T15:14:19Z",
-          "name": "0.11.0"
-        },
-        {
-          "id": "RE_kwDOAaBvc84XeSYZ",
-          "owner": "asdf-vm",
-          "repo": "asdf",
-          "tag": "v0.20.2",
-          "url": "https://github.com/asdf-vm/asdf/releases/tag/v0.20.2",
-          "publishedAt": "2026-09-22T14:28:32Z",
-          "name": "v0.20.2"
-        },
-        {
-          "id": "RE_kwDOOELNJM4XeMDK",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v1.0.0-rc.0",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.0.0-rc.0",
-          "publishedAt": "2026-09-22T13:58:40Z",
-          "name": "vite-plus v1.0.0-rc.0: Vitest 5 migration and npm provenance checks"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Xdruz",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.159",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.159",
-          "publishedAt": "2026-09-22T11:05:26Z",
-          "name": "v8.4.159 - Skip unused test downloads and report initial training system metrics (#26276)"
-        },
-        {
-          "id": "RE_kwDORSib_s4XdjIJ",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.19.1",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.19.1",
-          "publishedAt": "2026-09-22T10:05:43Z",
-          "name": "v0.19.1"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84XdQTZ",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.13.4",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.4",
-          "publishedAt": "2026-09-22T08:01:44Z",
-          "name": "4.13.4"
-        },
-        {
-          "id": "RE_kwDOQo4rcs4Xc-8-",
-          "owner": "tonisives",
-          "repo": "ovim",
-          "tag": "v0.0.33",
-          "url": "https://github.com/tonisives/ovim/releases/tag/v0.0.33",
-          "publishedAt": "2026-09-22T05:26:49Z",
-          "name": "v0.0.33"
-        },
-        {
-          "id": "RE_kwDOAaBvc84XcviG",
-          "owner": "asdf-vm",
-          "repo": "asdf",
-          "tag": "v0.20.1",
-          "url": "https://github.com/asdf-vm/asdf/releases/tag/v0.20.1",
-          "publishedAt": "2026-09-22T02:15:02Z",
-          "name": "v0.20.1"
-        },
-        {
-          "id": "RE_kwDORSib_s4XcsJg",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.19.0",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.19.0",
-          "publishedAt": "2026-09-22T01:30:58Z",
-          "name": "v0.19.0"
-        }
-      ],
       "2026-09-23": [
         {
           "id": "RE_kwDOObWEYM4XjZuL",
@@ -2365,6 +2228,17 @@
           "publishedAt": "2026-09-29T02:33:21Z",
           "name": "1.5.0"
         }
+      ],
+      "2026-09-30": [
+        {
+          "id": "RE_kwDOM9WtiM4X0tQe",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.6.1",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.6.1",
+          "publishedAt": "2026-09-30T03:22:15Z",
+          "name": "v1.6.1"
+        }
       ]
     }
   },
@@ -3146,8 +3020,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4X0T6Z",
-        "lastPublishedAt": "2026-09-29T23:03:10Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4X0tQe",
+        "lastPublishedAt": "2026-09-30T03:22:15Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
