@@ -2231,6 +2231,15 @@
       ],
       "2026-09-30": [
         {
+          "id": "RE_kwDOQvjuaM4X1Tzp",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.429.2",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.429.2",
+          "publishedAt": "2026-09-30T08:33:25Z",
+          "name": "v0.429.2"
+        },
+        {
           "id": "RE_kwDOM9WtiM4X0tQe",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -2467,8 +2476,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Xskkn",
-        "lastPublishedAt": "2026-09-27T08:02:36Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4X1Tzp",
+        "lastPublishedAt": "2026-09-30T08:33:25Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4556,6 +4565,11 @@
       "emdash-cms/emdash": {
         "lastReleaseId": "RE_kwDOR2vLLM4XvGr0",
         "lastPublishedAt": "2026-09-28T12:22:28Z",
+        "releaseHistoryCursor": null
+      },
+      "github/gh-actions-lock": {
+        "lastPublishedAt": "2026-07-28T21:26:51Z",
+        "lastReleaseId": "RE_kwDOSJO3-s4VilVY",
         "releaseHistoryCursor": null
       }
     }
