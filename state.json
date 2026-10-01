@@ -2474,6 +2474,69 @@
       ],
       "2026-10-01": [
         {
+          "id": "RE_kwDOH-jzvc4X5K9F",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.171",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.171",
+          "publishedAt": "2026-10-01T10:32:36Z",
+          "name": "v8.4.171 - Add AMD ROCm and MIGraphX support (#24137)"
+        },
+        {
+          "id": "RE_kwDOBoRDs84X5KuS",
+          "owner": "traPtitech",
+          "repo": "traQ",
+          "tag": "v3.29.2",
+          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.29.2",
+          "publishedAt": "2026-10-01T10:31:16Z",
+          "name": "v3.29.2"
+        },
+        {
+          "id": "RE_kwDOJKcikM4X46Nw",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.5",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.5",
+          "publishedAt": "2026-10-01T08:58:14Z",
+          "name": "@astrojs/starlight@0.42.5"
+        },
+        {
+          "id": "RE_kwDOGNEXps4X4gzx",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.33",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.33",
+          "publishedAt": "2026-10-01T07:05:45Z",
+          "name": "1.0.33"
+        },
+        {
+          "id": "RE_kwDOAcjBfM4X4eOy",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v5.1.3",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.3",
+          "publishedAt": "2026-10-01T05:43:03Z",
+          "name": "Fluent Bit 5.1.3"
+        },
+        {
+          "id": "RE_kwDOCk1n-s4X4dnS",
+          "owner": "eure",
+          "repo": "swift-storybook",
+          "tag": "3.2.1",
+          "url": "https://github.com/eure/swift-storybook/releases/tag/3.2.1",
+          "publishedAt": "2026-10-01T05:36:59Z",
+          "name": "3.2.1"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4X4a1f",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.8.3",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.8.3",
+          "publishedAt": "2026-10-01T05:08:43Z",
+          "name": "v0.8.3"
+        },
+        {
           "id": "RE_kwDORSib_s4X4OzB",
           "owner": "openclaw",
           "repo": "acpx",
@@ -2928,14 +2991,14 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4X2JF4",
-        "lastPublishedAt": "2026-09-30T13:21:59Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4X4a1f",
+        "lastPublishedAt": "2026-10-01T05:08:43Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4Xl2r9",
-        "lastPublishedAt": "2026-09-24T14:59:57Z",
+        "lastReleaseId": "RE_kwDOJKcikM4X46Nw",
+        "lastPublishedAt": "2026-10-01T08:58:14Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -3417,8 +3480,8 @@
       },
       "tmc/nlm": {},
       "eure/swift-storybook": {
-        "lastReleaseId": "RE_kwDOCk1n-s4XyLA6",
-        "lastPublishedAt": "2026-09-29T10:15:03Z",
+        "lastReleaseId": "RE_kwDOCk1n-s4X4dnS",
+        "lastPublishedAt": "2026-10-01T05:36:59Z",
         "releaseHistoryCursor": null
       },
       "subframe7536/maple-font": {
@@ -4003,8 +4066,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4X2-py",
-        "lastPublishedAt": "2026-09-30T17:40:20Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4X5K9F",
+        "lastPublishedAt": "2026-10-01T10:32:36Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4132,8 +4195,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4XsW19",
-        "lastPublishedAt": "2026-09-27T04:32:18Z",
+        "lastReleaseId": "RE_kwDOGNEXps4X4gzx",
+        "lastPublishedAt": "2026-10-01T07:05:45Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -4544,8 +4607,8 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4W1giV",
-        "lastPublishedAt": "2026-09-05T03:54:50Z",
+        "lastReleaseId": "RE_kwDOAcjBfM4X4eOy",
+        "lastPublishedAt": "2026-10-01T05:43:03Z",
         "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
@@ -4620,8 +4683,8 @@
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastReleaseId": "RE_kwDOBoRDs84XZHDA",
-        "lastPublishedAt": "2026-09-20T14:26:57Z",
+        "lastReleaseId": "RE_kwDOBoRDs84X5KuS",
+        "lastPublishedAt": "2026-10-01T10:31:16Z",
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
