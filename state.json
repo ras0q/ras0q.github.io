@@ -3391,6 +3391,51 @@
       ],
       "2026-10-02": [
         {
+          "id": "RE_kwDOEd6VoM4X9awt",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.31",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.31",
+          "publishedAt": "2026-10-02T16:24:37Z",
+          "name": "v1.10.31"
+        },
+        {
+          "id": "RE_kwDOBDf5XM4X9G3M",
+          "owner": "Foundry376",
+          "repo": "Mailspring",
+          "tag": "1.26.0",
+          "url": "https://github.com/Foundry376/Mailspring/releases/tag/1.26.0",
+          "publishedAt": "2026-10-02T14:37:36Z",
+          "name": "1.26.0"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4X89Hv",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.13",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.13",
+          "publishedAt": "2026-10-02T13:46:27Z",
+          "name": "1.9.13"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4X8wV8",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.7.1",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.7.1",
+          "publishedAt": "2026-10-02T12:33:37Z",
+          "name": "v1.7.1"
+        },
+        {
+          "id": "RE_kwDOElf8_c4X8e77",
+          "owner": "Vinzent03",
+          "repo": "obsidian-git",
+          "tag": "2.41.1",
+          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.41.1",
+          "publishedAt": "2026-10-02T10:39:53Z",
+          "name": "2.41.1"
+        },
+        {
           "id": "RE_kwDOMtN2Z84X8V1_",
           "owner": "eyemono-moe",
           "repo": "streets",
@@ -4236,8 +4281,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4X6WpT",
-        "lastPublishedAt": "2026-10-01T16:57:42Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4X8wV8",
+        "lastPublishedAt": "2026-10-02T12:33:37Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -4781,8 +4826,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4XxsXt",
-        "lastPublishedAt": "2026-09-29T07:19:10Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4X89Hv",
+        "lastPublishedAt": "2026-10-02T13:46:27Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -4814,8 +4859,8 @@
         "lastPublishedAt": "2026-01-10T23:21:01Z"
       },
       "Foundry376/Mailspring": {
-        "lastReleaseId": "RE_kwDOBDf5XM4XYS0d",
-        "lastPublishedAt": "2026-09-19T22:57:29Z",
+        "lastReleaseId": "RE_kwDOBDf5XM4X9G3M",
+        "lastPublishedAt": "2026-10-02T14:37:36Z",
         "releaseHistoryCursor": null
       },
       "a5chin/python-uv": {
@@ -4898,8 +4943,8 @@
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
-        "lastReleaseId": "RE_kwDOElf8_c4X7C8D",
-        "lastPublishedAt": "2026-10-01T21:04:43Z",
+        "lastReleaseId": "RE_kwDOElf8_c4X8e77",
+        "lastPublishedAt": "2026-10-02T10:39:53Z",
         "releaseHistoryCursor": null
       },
       "ish-app/ish": {
@@ -5193,8 +5238,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4Xxjcm",
-        "lastPublishedAt": "2026-09-29T06:12:03Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4X9awt",
+        "lastPublishedAt": "2026-10-02T16:24:37Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
