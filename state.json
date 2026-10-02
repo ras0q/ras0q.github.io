@@ -3391,6 +3391,42 @@
       ],
       "2026-10-02": [
         {
+          "id": "RE_kwDOMtN2Z84X8V1_",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.7.3",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.7.3",
+          "publishedAt": "2026-10-02T09:39:57Z",
+          "name": "v1.7.3"
+        },
+        {
+          "id": "RE_kwDODVAw7c4X7-gm",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.9",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.9",
+          "publishedAt": "2026-10-02T06:56:45Z",
+          "name": "v3.33.9"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4X76AL",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.7",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.7",
+          "publishedAt": "2026-10-02T06:14:27Z",
+          "name": "v0.15.7"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4X742d",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.8.5",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.8.5",
+          "publishedAt": "2026-10-02T06:02:54Z",
+          "name": "v0.8.5"
+        },
+        {
           "id": "RE_kwDOIvux3s4X7g0i",
           "owner": "jdx",
           "repo": "mise",
@@ -3658,8 +3694,8 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4WZvYa",
-        "lastPublishedAt": "2026-08-24T16:40:13Z",
+        "lastReleaseId": "RE_kwDORQ3jDc4X76AL",
+        "lastPublishedAt": "2026-10-02T06:14:27Z",
         "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
@@ -3847,8 +3883,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4X5cql",
-        "lastPublishedAt": "2026-10-01T12:14:56Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4X742d",
+        "lastPublishedAt": "2026-10-02T06:02:54Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -3926,8 +3962,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4X34AJ",
-        "lastPublishedAt": "2026-10-01T00:03:12Z",
+        "lastReleaseId": "RE_kwDODVAw7c4X7-gm",
+        "lastPublishedAt": "2026-10-02T06:56:45Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -4506,8 +4542,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84X7cj4",
-        "lastPublishedAt": "2026-10-02T00:47:12Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84X8V1_",
+        "lastPublishedAt": "2026-10-02T09:39:57Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
