@@ -2,332 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-24",
       "2026-09-25",
       "2026-09-26",
       "2026-09-27",
       "2026-09-28",
       "2026-09-29",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-01"
     ],
     "days": {
-      "2026-09-24": [
-        {
-          "id": "RE_kwDOM0jxcs4XnGjh",
-          "owner": "denoland",
-          "repo": "deno-vite-plugin",
-          "tag": "2.0.4",
-          "url": "https://github.com/denoland/deno-vite-plugin/releases/tag/2.0.4",
-          "publishedAt": "2026-09-24T22:29:37Z",
-          "name": "2.0.4"
-        },
-        {
-          "id": "RE_kwDONr2kws4XnBG6",
-          "owner": "denoland",
-          "repo": "svelte-adapter",
-          "tag": "v0.2.2",
-          "url": "https://github.com/denoland/svelte-adapter/releases/tag/v0.2.2",
-          "publishedAt": "2026-09-24T21:46:24Z",
-          "name": "v0.2.2"
-        },
-        {
-          "id": "RE_kwDOCkh5xs4XnAqm",
-          "owner": "pmndrs",
-          "repo": "react-three-fiber",
-          "tag": "v9.8.1",
-          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.1",
-          "publishedAt": "2026-09-24T21:42:50Z",
-          "name": "v9.8.1"
-        },
-        {
-          "id": "RE_kwDOFknhgc4Xm-FG",
-          "owner": "open-horizon-labs",
-          "repo": "obsidian-ics",
-          "tag": "1.15.3",
-          "url": "https://github.com/open-horizon-labs/obsidian-ics/releases/tag/1.15.3",
-          "publishedAt": "2026-09-24T21:25:31Z",
-          "name": "1.15.3"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm94I",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/util@0.56.4",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/util%400.56.4",
-          "publishedAt": "2026-09-24T21:23:30Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm94B",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/util@0.56.4",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/util%400.56.4",
-          "publishedAt": "2026-09-24T21:23:29Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm932",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/type@2.2.5",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/type%402.2.5",
-          "publishedAt": "2026-09-24T21:23:28Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm93p",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/type@2.2.5",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/type%402.2.5",
-          "publishedAt": "2026-09-24T21:23:27Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm93h",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "arktype@2.2.5",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/arktype%402.2.5",
-          "publishedAt": "2026-09-24T21:23:26Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm93U",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/schema@0.56.4",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/schema%400.56.4",
-          "publishedAt": "2026-09-24T21:23:25Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm93L",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/schema@0.56.4",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/schema%400.56.4",
-          "publishedAt": "2026-09-24T21:23:24Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm93A",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/regex@0.0.10",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/regex%400.0.10",
-          "publishedAt": "2026-09-24T21:23:23Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm922",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/regex@0.0.10",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/regex%400.0.10",
-          "publishedAt": "2026-09-24T21:23:22Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm92s",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "arkregex@0.0.10",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/arkregex%400.0.10",
-          "publishedAt": "2026-09-24T21:23:21Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm92j",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/json-schema@0.0.9",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/json-schema%400.0.9",
-          "publishedAt": "2026-09-24T21:23:20Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm92Z",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/json-schema@0.0.9",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/json-schema%400.0.9",
-          "publishedAt": "2026-09-24T21:23:19Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm92I",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/fs@0.56.4",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fs%400.56.4",
-          "publishedAt": "2026-09-24T21:23:18Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm919",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/fs@0.56.4",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fs%400.56.4",
-          "publishedAt": "2026-09-24T21:23:17Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm91v",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/fast-check@0.0.16",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fast-check%400.0.16",
-          "publishedAt": "2026-09-24T21:23:16Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm91m",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/fast-check@0.0.16",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fast-check%400.0.16",
-          "publishedAt": "2026-09-24T21:23:15Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm91c",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@arktype/attest@0.56.5",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/attest%400.56.5",
-          "publishedAt": "2026-09-24T21:23:14Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84Xm91V",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/attest@0.56.5",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/attest%400.56.5",
-          "publishedAt": "2026-09-24T21:23:13Z"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4Xm2vi",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.16.9",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.16.9",
-          "publishedAt": "2026-09-24T20:38:52Z",
-          "name": "0.16.9"
-        },
-        {
-          "id": "RE_kwDOIvux3s4XmkvQ",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.13",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.13",
-          "publishedAt": "2026-09-24T19:10:32Z",
-          "name": "v2026.9.13: OpenTelemetry for tasks, shared daemon providers, `mise backends switch`, and declarative dotfile removal"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4XmfE_",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.162",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.162",
-          "publishedAt": "2026-09-24T18:34:43Z",
-          "name": "v8.4.162 - ultralytics 8.4.162 Prefetch the next image batch during CUDA prediction (#26319)"
-        },
-        {
-          "id": "RE_kwDOO2B60c4XmM6D",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.0.13",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.0.13",
-          "publishedAt": "2026-09-24T16:57:16Z",
-          "name": "2.0.13"
-        },
-        {
-          "id": "RE_kwDODH8YWs4XmH2C",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.09.25",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.25",
-          "publishedAt": "2026-09-24T16:29:17Z",
-          "name": "v2026.09.25"
-        },
-        {
-          "id": "RE_kwDOJKcikM4Xl2r9",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.4",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.4",
-          "publishedAt": "2026-09-24T14:59:57Z",
-          "name": "@astrojs/starlight@0.42.4"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Xl1Af",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.426.3",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.426.3",
-          "publishedAt": "2026-09-24T14:52:12Z",
-          "name": "v0.426.3"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84XlwBJ",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.1.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.1.1",
-          "publishedAt": "2026-09-24T14:27:07Z",
-          "name": "v1.1.1"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84Xlnod",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.1.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.1.0",
-          "publishedAt": "2026-09-24T13:47:52Z",
-          "name": "v1.1.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4XlTIn",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.143.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.143.0",
-          "publishedAt": "2026-09-24T12:22:00Z",
-          "name": "v1.143.0"
-        },
-        {
-          "id": "RE_kwDOHe7bmc4XkpmM",
-          "owner": "charmbracelet",
-          "repo": "gum",
-          "tag": "v2.0.2",
-          "url": "https://github.com/charmbracelet/gum/releases/tag/v2.0.2",
-          "publishedAt": "2026-09-24T08:33:33Z",
-          "name": "v2.0.2"
-        },
-        {
-          "id": "RE_kwDODeVIac4XklcS",
-          "owner": "charmbracelet",
-          "repo": "bubbletea",
-          "tag": "v2.0.10",
-          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.10",
-          "publishedAt": "2026-09-24T08:08:55Z",
-          "name": "v2.0.10"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XkQjH",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.426.2",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.426.2",
-          "publishedAt": "2026-09-24T06:06:24Z",
-          "name": "v0.426.2"
-        },
-        {
-          "id": "RE_kwDODH8YWs4Xj6t6",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.09.24",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.24",
-          "publishedAt": "2026-09-24T03:29:39Z",
-          "name": "v2026.09.24"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XjkTR",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.426.1",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.426.1",
-          "publishedAt": "2026-09-24T00:53:11Z",
-          "name": "v0.426.1"
-        }
-      ],
       "2026-09-25": [
         {
           "id": "RE_kwDOGkmMps4XqYdU",
@@ -3705,6 +3388,35 @@
           "publishedAt": "2026-10-01T00:03:12Z",
           "name": "v3.33.8"
         }
+      ],
+      "2026-10-02": [
+        {
+          "id": "RE_kwDOIvux3s4X7g0i",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.0",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.0",
+          "publishedAt": "2026-10-02T01:42:32Z",
+          "name": "v2026.10.0: Stricter signer checks for cosign and GitHub attestations, trust for inline options in .tool-versions"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84X7cj4",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.7.2",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.7.2",
+          "publishedAt": "2026-10-02T00:47:12Z",
+          "name": "v1.7.2"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4X7aNB",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.22",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.22",
+          "publishedAt": "2026-10-02T00:20:42Z",
+          "name": "0.12.22"
+        }
       ]
     }
   },
@@ -4775,8 +4487,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4X2AyP",
-        "lastPublishedAt": "2026-09-30T12:51:01Z",
+        "lastReleaseId": "RE_kwDOIvux3s4X7g0i",
+        "lastPublishedAt": "2026-10-02T01:42:32Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4794,8 +4506,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84X58pC",
-        "lastPublishedAt": "2026-10-01T14:46:54Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84X7cj4",
+        "lastPublishedAt": "2026-10-02T00:47:12Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -5105,8 +4817,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4X0GPw",
-        "lastPublishedAt": "2026-09-29T21:14:06Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4X7aNB",
+        "lastPublishedAt": "2026-10-02T00:20:42Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
