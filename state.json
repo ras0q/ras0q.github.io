@@ -3472,6 +3472,15 @@
       ],
       "2026-10-03": [
         {
+          "id": "RE_kwDOC3PEAc4YAM-j",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.60.0",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.60.0",
+          "publishedAt": "2026-10-03T22:04:28Z",
+          "name": "0.60.0"
+        },
+        {
           "id": "RE_kwDOMtN2Z84X_7kB",
           "owner": "eyemono-moe",
           "repo": "streets",
@@ -4718,8 +4727,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4X9-tT",
-        "lastPublishedAt": "2026-10-02T20:31:46Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4YAM-j",
+        "lastPublishedAt": "2026-10-03T22:04:28Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
