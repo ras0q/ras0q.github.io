@@ -3472,6 +3472,33 @@
       ],
       "2026-10-03": [
         {
+          "id": "RE_kwDOCnR4Zc4X_CIU",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.4.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.4.1",
+          "publishedAt": "2026-10-03T07:58:21Z",
+          "name": "v31.4.1"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84X-_Dw",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.8.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.8.0",
+          "publishedAt": "2026-10-03T07:24:57Z",
+          "name": "v1.8.0"
+        },
+        {
+          "id": "RE_kwDOOJyWhM4X-tON",
+          "owner": "amatya-aditya",
+          "repo": "obsidian-rss-dashboard",
+          "tag": "2.7.1",
+          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/releases/tag/2.7.1",
+          "publishedAt": "2026-10-03T04:00:28Z",
+          "name": "2.7.1"
+        },
+        {
           "id": "RE_kwDOOJyWhM4X-jkO",
           "owner": "amatya-aditya",
           "repo": "obsidian-rss-dashboard",
@@ -3590,8 +3617,8 @@
       "addtobasic/ignite-website": {},
       "tadashi-aikawa/slidev-preview.nvim": {},
       "amatya-aditya/obsidian-rss-dashboard": {
-        "lastReleaseId": "RE_kwDOOJyWhM4X-jkO",
-        "lastPublishedAt": "2026-10-03T02:08:11Z",
+        "lastReleaseId": "RE_kwDOOJyWhM4X-tON",
+        "lastPublishedAt": "2026-10-03T04:00:28Z",
         "releaseHistoryCursor": null
       },
       "FxEmbed/FxEmbed": {},
@@ -4578,8 +4605,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84X8V1_",
-        "lastPublishedAt": "2026-10-02T09:39:57Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84X-_Dw",
+        "lastPublishedAt": "2026-10-03T07:24:57Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -5600,8 +5627,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Xut1G",
-        "lastPublishedAt": "2026-09-28T09:51:43Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4X_CIU",
+        "lastPublishedAt": "2026-10-03T07:58:21Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
