@@ -3472,6 +3472,24 @@
       ],
       "2026-10-03": [
         {
+          "id": "RE_kwDOMtN2Z84X_7kB",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.9.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.9.0",
+          "publishedAt": "2026-10-03T18:19:13Z",
+          "name": "v1.9.0"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4X_3mg",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.23",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.23",
+          "publishedAt": "2026-10-03T17:34:11Z",
+          "name": "0.12.23"
+        },
+        {
           "id": "RE_kwDOIvux3s4X_kQP",
           "owner": "jdx",
           "repo": "mise",
@@ -4650,8 +4668,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84X-_Dw",
-        "lastPublishedAt": "2026-10-03T07:24:57Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84X_7kB",
+        "lastPublishedAt": "2026-10-03T18:19:13Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -4961,8 +4979,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4X7aNB",
-        "lastPublishedAt": "2026-10-02T00:20:42Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4X_3mg",
+        "lastPublishedAt": "2026-10-03T17:34:11Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
