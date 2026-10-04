@@ -3391,6 +3391,60 @@
       ],
       "2026-10-04": [
         {
+          "id": "RE_kwDOQvjuaM4YBGk8",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.432.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.432.0",
+          "publishedAt": "2026-10-04T09:29:34Z",
+          "name": "v0.432.0"
+        },
+        {
+          "id": "RE_kwDOJOlQSc4YA_CK",
+          "owner": "penpenpng",
+          "repo": "rx-nostr",
+          "tag": "rx-nostr@3.7.8",
+          "url": "https://github.com/penpenpng/rx-nostr/releases/tag/rx-nostr%403.7.8",
+          "publishedAt": "2026-10-04T08:24:08Z",
+          "name": "rx-nostr@3.7.8"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YAwPP",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.431.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.431.0",
+          "publishedAt": "2026-10-04T05:11:07Z",
+          "name": "v0.431.0"
+        },
+        {
+          "id": "RE_kwDOUNMECc4YAtWu",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.5.1",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.5.1",
+          "publishedAt": "2026-10-04T04:24:05Z",
+          "name": "v1.5.1: Fix `packslip install` under a group-writable umask such as Debian's 002"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YAr7C",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.10.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.10.1",
+          "publishedAt": "2026-10-04T04:16:21Z",
+          "name": "v1.10.1"
+        },
+        {
+          "id": "RE_kwDOBMN_y84YAozF",
+          "owner": "chromedp",
+          "repo": "chromedp",
+          "tag": "v0.19.1",
+          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.19.1",
+          "publishedAt": "2026-10-04T04:04:14Z",
+          "name": "v0.19.1"
+        },
+        {
           "id": "RE_kwDOBMN_y84YAiKS",
           "owner": "chromedp",
           "repo": "chromedp",
@@ -3645,8 +3699,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4X_bY5",
-        "lastPublishedAt": "2026-10-03T12:26:19Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YBGk8",
+        "lastPublishedAt": "2026-10-04T09:29:34Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4501,13 +4555,13 @@
         "lastPublishedAt": "2026-07-10T11:24:21Z"
       },
       "penpenpng/rx-nostr": {
-        "lastReleaseId": "RE_kwDOJOlQSc4Xb-2m",
-        "lastPublishedAt": "2026-09-21T19:02:04Z",
+        "lastReleaseId": "RE_kwDOJOlQSc4YA_CK",
+        "lastPublishedAt": "2026-10-04T08:24:08Z",
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YAchE",
-        "lastPublishedAt": "2026-10-04T01:25:39Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YAr7C",
+        "lastPublishedAt": "2026-10-04T04:16:21Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -5394,8 +5448,8 @@
         "releaseHistoryCursor": null
       },
       "chromedp/chromedp": {
-        "lastReleaseId": "RE_kwDOBMN_y84YAiKS",
-        "lastPublishedAt": "2026-10-04T02:41:14Z",
+        "lastReleaseId": "RE_kwDOBMN_y84YAozF",
+        "lastPublishedAt": "2026-10-04T04:04:14Z",
         "releaseHistoryCursor": null
       },
       "tkuchiki/slp": {
@@ -5715,8 +5769,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4YAdlF",
-        "lastPublishedAt": "2026-10-04T01:45:33Z",
+        "lastReleaseId": "RE_kwDOUNMECc4YAtWu",
+        "lastPublishedAt": "2026-10-04T04:24:05Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
