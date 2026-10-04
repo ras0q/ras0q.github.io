@@ -3391,6 +3391,24 @@
       ],
       "2026-10-04": [
         {
+          "id": "RE_kwDOLFvGAc4YCM27",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.12",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.12",
+          "publishedAt": "2026-10-04T22:09:05Z",
+          "name": "cli-v0.1.12"
+        },
+        {
+          "id": "RE_kwDOO2B60c4YB3Jw",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.1.1",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.1.1",
+          "publishedAt": "2026-10-04T18:03:38Z",
+          "name": "2.1.1"
+        },
+        {
           "id": "RE_kwDOM9WtiM4YBsYB",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -3920,8 +3938,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4YBgVr",
-        "lastPublishedAt": "2026-10-04T14:05:52Z",
+        "lastReleaseId": "RE_kwDOO2B60c4YB3Jw",
+        "lastPublishedAt": "2026-10-04T18:03:38Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -4642,8 +4660,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4Xwnct",
-        "lastPublishedAt": "2026-09-28T20:59:15Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4YCM27",
+        "lastPublishedAt": "2026-10-04T22:09:05Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
