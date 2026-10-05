@@ -3400,6 +3400,42 @@
       ],
       "2026-10-05": [
         {
+          "id": "RE_kwDOD6MHws4YEVIL",
+          "owner": "obsidianmd",
+          "repo": "obsidian-releases",
+          "tag": "v1.14.4",
+          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.14.4",
+          "publishedAt": "2026-10-05T17:03:28Z",
+          "name": "1.14.4"
+        },
+        {
+          "id": "RE_kwDOHojuL84YE341",
+          "owner": "dsherret",
+          "repo": "dax",
+          "tag": "0.50.1",
+          "url": "https://github.com/dsherret/dax/releases/tag/0.50.1",
+          "publishedAt": "2026-10-05T16:46:43Z",
+          "name": "0.50.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YEpXT",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.433.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.433.0",
+          "publishedAt": "2026-10-05T15:33:27Z",
+          "name": "v0.433.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YELrh",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.12.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.12.0",
+          "publishedAt": "2026-10-05T13:35:40Z",
+          "name": "v1.12.0"
+        },
+        {
           "id": "RE_kwDOIvux3s4YDm8c",
           "owner": "jdx",
           "repo": "mise",
@@ -3700,8 +3736,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YBGk8",
-        "lastPublishedAt": "2026-10-04T09:29:34Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YEpXT",
+        "lastPublishedAt": "2026-10-05T15:33:27Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4561,8 +4597,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YCTgE",
-        "lastPublishedAt": "2026-10-04T23:43:41Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YELrh",
+        "lastPublishedAt": "2026-10-05T13:35:40Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -4896,8 +4932,8 @@
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastReleaseId": "RE_kwDOD6MHws4WUVeS",
-        "lastPublishedAt": "2026-08-21T13:53:55Z",
+        "lastReleaseId": "RE_kwDOD6MHws4YEVIL",
+        "lastPublishedAt": "2026-10-05T17:03:28Z",
         "releaseHistoryCursor": null
       },
       "j0k3r/banditore": {
@@ -5042,8 +5078,8 @@
         "lastPublishedAt": "2025-02-26T23:56:38Z"
       },
       "dsherret/dax": {
-        "lastReleaseId": "RE_kwDOHojuL84W1H09",
-        "lastPublishedAt": "2026-09-04T21:30:08Z",
+        "lastReleaseId": "RE_kwDOHojuL84YE341",
+        "lastPublishedAt": "2026-10-05T16:46:43Z",
         "releaseHistoryCursor": null
       },
       "kaityo256/yaml_cv": {},
