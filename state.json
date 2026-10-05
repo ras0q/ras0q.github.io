@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-27",
       "2026-09-28",
       "2026-09-29",
       "2026-09-30",
       "2026-10-01",
       "2026-10-02",
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-04"
     ],
     "days": {
-      "2026-09-27": [
-        {
-          "id": "RE_kwDOAeC4a84Xtq9a",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v4.16.0",
-          "url": "https://github.com/labstack/echo/releases/tag/v4.16.0",
-          "publishedAt": "2026-09-27T23:03:18Z",
-          "name": "v4.16.0"
-        },
-        {
-          "id": "RE_kwDOAeC4a84Xtpuj",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v5.4.0",
-          "url": "https://github.com/labstack/echo/releases/tag/v5.4.0",
-          "publishedAt": "2026-09-27T22:45:52Z",
-          "name": "v5.4.0"
-        },
-        {
-          "id": "RE_kwDODMjICc4Xta58",
-          "owner": "Project-MONAI",
-          "repo": "MONAI",
-          "tag": "1.6.1",
-          "url": "https://github.com/Project-MONAI/MONAI/releases/tag/1.6.1",
-          "publishedAt": "2026-09-27T19:34:20Z",
-          "name": "MONAI 1.6.1"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4XtZhe",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.8.0",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.8.0",
-          "publishedAt": "2026-09-27T19:17:22Z",
-          "name": "v0.8.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4XtTim",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.164",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.164",
-          "publishedAt": "2026-09-27T17:59:48Z",
-          "name": "v8.4.164 - Delegate FLOPs counting to THOP 2.2.0 stride profiling (#26373)"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84XtJfX",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.3.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.3.1",
-          "publishedAt": "2026-09-27T15:55:28Z",
-          "name": "v1.3.1"
-        },
-        {
-          "id": "RE_kwDOUNMECc4XtDV7",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.4.0",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.4.0",
-          "publishedAt": "2026-09-27T14:43:22Z",
-          "name": "v1.4.0: Pin forge identity by repository ID; accurate libc and architecture for Linux artifacts"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4Xs_ds",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.5.6",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.6",
-          "publishedAt": "2026-09-27T13:56:33Z",
-          "name": "v1.5.6"
-        },
-        {
-          "id": "RE_kwDOJE7Z-84Xs3Cb",
-          "owner": "Zxilly",
-          "repo": "go-size-analyzer",
-          "tag": "v1.14.1",
-          "url": "https://github.com/Zxilly/go-size-analyzer/releases/tag/v1.14.1",
-          "publishedAt": "2026-09-27T12:11:57Z",
-          "name": "v1.14.1"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4Xs1gB",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.29",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.29",
-          "publishedAt": "2026-09-27T11:51:52Z",
-          "name": "v1.10.29"
-        },
-        {
-          "id": "RE_kwDOIvux3s4XssA_",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.15",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.15",
-          "publishedAt": "2026-09-27T09:51:03Z",
-          "name": "v2026.9.15: vfox tools in OCI images, faster shell prompts, and safer dotfiles pattern matching"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84XslLR",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.3.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.3.0",
-          "publishedAt": "2026-09-27T08:11:31Z",
-          "name": "v1.3.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Xskkn",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.429.1",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.429.1",
-          "publishedAt": "2026-09-27T08:02:36Z",
-          "name": "v0.429.1"
-        },
-        {
-          "id": "RE_kwDORsUayc4Xsaa0",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.13.1",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.13.1",
-          "publishedAt": "2026-09-27T05:11:41Z",
-          "name": "v0.13.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4XsZPw",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.429.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.429.0",
-          "publishedAt": "2026-09-27T04:52:00Z",
-          "name": "v0.429.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4XsW19",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.32",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.32",
-          "publishedAt": "2026-09-27T04:32:18Z",
-          "name": "1.0.32"
-        }
-      ],
       "2026-09-28": [
         {
           "id": "RE_kwDOKbIFZc4Xw61a",
@@ -3391,6 +3245,15 @@
       ],
       "2026-10-04": [
         {
+          "id": "RE_kwDOMtN2Z84YCTgE",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.11.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.11.0",
+          "publishedAt": "2026-10-04T23:43:41Z",
+          "name": "v1.11.0"
+        },
+        {
           "id": "RE_kwDOLFvGAc4YCM27",
           "owner": "sweetpad-dev",
           "repo": "sweetpad",
@@ -3533,6 +3396,17 @@
           "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.10.0",
           "publishedAt": "2026-10-04T01:25:39Z",
           "name": "v1.10.0"
+        }
+      ],
+      "2026-10-05": [
+        {
+          "id": "RE_kwDOPnPlX84YCoFu",
+          "owner": "leochiu-a",
+          "repo": "slidev-workspace",
+          "tag": "slidev-workspace@0.10.0",
+          "url": "https://github.com/leochiu-a/slidev-workspace/releases/tag/slidev-workspace%400.10.0",
+          "publishedAt": "2026-10-05T03:28:14Z",
+          "name": "slidev-workspace@0.10.0"
         }
       ]
     }
@@ -3710,8 +3584,9 @@
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
-        "lastReleaseId": "RE_kwDOPnPlX84Q1zu2",
-        "lastPublishedAt": "2026-02-03T12:30:09Z"
+        "lastReleaseId": "RE_kwDOPnPlX84YCoFu",
+        "lastPublishedAt": "2026-10-05T03:28:14Z",
+        "releaseHistoryCursor": null
       },
       "MrKrishnaAgarwal/Swags-for-Developers": {},
       "standardagents/arrow-js": {
@@ -4623,8 +4498,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YAr7C",
-        "lastPublishedAt": "2026-10-04T04:16:21Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YCTgE",
+        "lastPublishedAt": "2026-10-04T23:43:41Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
