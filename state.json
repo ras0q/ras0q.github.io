@@ -3031,6 +3031,96 @@
       ],
       "2026-10-06": [
         {
+          "id": "RE_kwDOEyYzbs4YH6ox",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.25.2",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.25.2",
+          "publishedAt": "2026-10-06T13:20:53Z",
+          "name": "v1.25.2"
+        },
+        {
+          "id": "RE_kwDOE4c3is4YHwo9",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.7.1",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.1",
+          "publishedAt": "2026-10-06T12:35:56Z",
+          "name": "9.7.1"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YHkuk",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-wasi-v1.0.58",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-wasi-v1.0.58",
+          "publishedAt": "2026-10-06T11:37:57Z",
+          "name": "detect-wasi-v1.0.58"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YHktg",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-manifests-v0.19.9",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.9",
+          "publishedAt": "2026-10-06T11:37:52Z",
+          "name": "binstalk-manifests-v0.19.9"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YHkqZ",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.29.2",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.2",
+          "publishedAt": "2026-10-06T11:37:39Z",
+          "name": "binstalk-v0.29.2"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YHka_",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-targets-v0.1.94",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.94",
+          "publishedAt": "2026-10-06T11:36:31Z",
+          "name": "detect-targets-v0.1.94"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YHg4I",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.12.2",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.12.2",
+          "publishedAt": "2026-10-06T11:19:43Z",
+          "name": "v1.12.2"
+        },
+        {
+          "id": "RE_kwDOF9Sih84YHaeX",
+          "owner": "aquaproj",
+          "repo": "aqua",
+          "tag": "v2.64.0",
+          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.64.0",
+          "publishedAt": "2026-10-06T10:47:11Z",
+          "name": "v2.64.0"
+        },
+        {
+          "id": "RE_kwDOEcv33s4YHFFP",
+          "owner": "quarto-dev",
+          "repo": "quarto-cli",
+          "tag": "v1.10.19",
+          "url": "https://github.com/quarto-dev/quarto-cli/releases/tag/v1.10.19",
+          "publishedAt": "2026-10-06T08:59:49Z",
+          "name": "v1.10.19"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YG5ES",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.435.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.435.0",
+          "publishedAt": "2026-10-06T08:01:31Z",
+          "name": "v0.435.0"
+        },
+        {
           "id": "RE_kwDOSU62XM4YGH3m",
           "owner": "pkgdeps",
           "repo": "automerge-gate",
@@ -3286,8 +3376,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YF28c",
-        "lastPublishedAt": "2026-10-06T00:17:06Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YG5ES",
+        "lastPublishedAt": "2026-10-06T08:01:31Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4021,8 +4111,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4X_bji",
-        "lastPublishedAt": "2026-10-03T12:28:51Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4YH6ox",
+        "lastPublishedAt": "2026-10-06T13:20:53Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -4147,8 +4237,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YFyvj",
-        "lastPublishedAt": "2026-10-05T23:35:45Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YHg4I",
+        "lastPublishedAt": "2026-10-06T11:19:43Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -4498,8 +4588,8 @@
       },
       "bluesky-social/indigo": {},
       "quarto-dev/quarto-cli": {
-        "lastReleaseId": "RE_kwDOEcv33s4VawqI",
-        "lastPublishedAt": "2026-07-24T13:50:30Z",
+        "lastReleaseId": "RE_kwDOEcv33s4YHFFP",
+        "lastPublishedAt": "2026-10-06T08:59:49Z",
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
@@ -4589,8 +4679,8 @@
         "lastPublishedAt": "2025-12-31T12:07:55Z"
       },
       "aquaproj/aqua": {
-        "lastReleaseId": "RE_kwDOF9Sih84XMQjN",
-        "lastPublishedAt": "2026-09-15T11:31:38Z",
+        "lastReleaseId": "RE_kwDOF9Sih84YHaeX",
+        "lastPublishedAt": "2026-10-06T10:47:11Z",
         "releaseHistoryCursor": null
       },
       "ikasam/yaml_cv": {},
@@ -4806,8 +4896,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4YDOZ_",
-        "lastPublishedAt": "2026-10-05T08:10:19Z",
+        "lastReleaseId": "RE_kwDOE4c3is4YHwo9",
+        "lastPublishedAt": "2026-10-06T12:35:56Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
