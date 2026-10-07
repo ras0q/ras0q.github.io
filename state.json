@@ -2,394 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-09-29",
       "2026-09-30",
       "2026-10-01",
       "2026-10-02",
       "2026-10-03",
       "2026-10-04",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ],
     "days": {
-      "2026-09-29": [
-        {
-          "id": "RE_kwDOM9WtiM4X0T6Z",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.6.0",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.6.0",
-          "publishedAt": "2026-09-29T23:03:10Z",
-          "name": "v1.6.0"
-        },
-        {
-          "id": "RE_kwDOObWEYM4X0GtD",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.62.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0",
-          "publishedAt": "2026-09-29T21:17:07Z",
-          "name": "Release v0.62.0"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4X0Gp7",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.5.10",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.5.10",
-          "publishedAt": "2026-09-29T21:16:51Z",
-          "name": "v1.5.10"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4X0GPw",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.21",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.21",
-          "publishedAt": "2026-09-29T21:14:06Z",
-          "name": "0.12.21"
-        },
-        {
-          "id": "RE_kwDODH8YWs4X0A_l",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.09.28",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.09.28",
-          "publishedAt": "2026-09-29T20:42:02Z",
-          "name": "v2026.09.28"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6yF",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/vite@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/vite%402.0.0",
-          "publishedAt": "2026-09-29T20:03:42Z",
-          "name": "@pandacss/vite@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6xZ",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/webpack@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/webpack%402.0.0",
-          "publishedAt": "2026-09-29T20:03:38Z",
-          "name": "@pandacss/webpack@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6w5",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/typescript-plugin@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/typescript-plugin%402.0.0",
-          "publishedAt": "2026-09-29T20:03:35Z",
-          "name": "@pandacss/typescript-plugin@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6wa",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/types@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/types%402.0.0",
-          "publishedAt": "2026-09-29T20:03:32Z",
-          "name": "@pandacss/types@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6v6",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/compiler-shared@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/compiler-shared%402.0.0",
-          "publishedAt": "2026-09-29T20:03:28Z",
-          "name": "@pandacss/compiler-shared@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6vW",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-panda@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-panda%402.0.0",
-          "publishedAt": "2026-09-29T20:03:25Z",
-          "name": "@pandacss/preset-panda@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6ur",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/transformer@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/transformer%402.0.0",
-          "publishedAt": "2026-09-29T20:03:22Z",
-          "name": "@pandacss/transformer@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6uD",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/rollup@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/rollup%402.0.0",
-          "publishedAt": "2026-09-29T20:03:19Z",
-          "name": "@pandacss/rollup@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6th",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-typography@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-typography%402.0.0",
-          "publishedAt": "2026-09-29T20:03:16Z",
-          "name": "@pandacss/preset-typography@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6s_",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/language-server@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/language-server%402.0.0",
-          "publishedAt": "2026-09-29T20:03:14Z",
-          "name": "@pandacss/language-server@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6sI",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/postcss@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/postcss%402.0.0",
-          "publishedAt": "2026-09-29T20:03:10Z",
-          "name": "@pandacss/postcss@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6rm",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/mcp@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/mcp%402.0.0",
-          "publishedAt": "2026-09-29T20:03:07Z",
-          "name": "@pandacss/mcp@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6rC",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/config@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/config%402.0.0",
-          "publishedAt": "2026-09-29T20:03:04Z",
-          "name": "@pandacss/config@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6qn",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-base@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-base%402.0.0",
-          "publishedAt": "2026-09-29T20:03:01Z",
-          "name": "@pandacss/preset-base@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6qA",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/compiler-wasm@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/compiler-wasm%402.0.0",
-          "publishedAt": "2026-09-29T20:02:58Z",
-          "name": "@pandacss/compiler-wasm@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6pg",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/bun@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/bun%402.0.0",
-          "publishedAt": "2026-09-29T20:02:55Z",
-          "name": "@pandacss/bun@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6o6",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/cli@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/cli%402.0.0",
-          "publishedAt": "2026-09-29T20:02:52Z",
-          "name": "@pandacss/cli@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6oU",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/dev@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/dev%402.0.0",
-          "publishedAt": "2026-09-29T20:02:49Z",
-          "name": "@pandacss/dev@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6ns",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/eslint-plugin@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/eslint-plugin%402.0.0",
-          "publishedAt": "2026-09-29T20:02:46Z",
-          "name": "@pandacss/eslint-plugin@2.0.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Xz6nR",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/compiler@2.0.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/compiler%402.0.0",
-          "publishedAt": "2026-09-29T20:02:43Z",
-          "name": "@pandacss/compiler@2.0.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Xz5Dv",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.166",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.166",
-          "publishedAt": "2026-09-29T19:53:32Z",
-          "name": "v8.4.166 - ultralytics 8.4.166 Support Pascal VOC-style palette and 16-bit PNG masks (#26426)"
-        },
-        {
-          "id": "RE_kwDOA1DMt84Xr3Zy",
-          "owner": "microsoft",
-          "repo": "WSL",
-          "tag": "3.0.1",
-          "url": "https://github.com/microsoft/WSL/releases/tag/3.0.1",
-          "publishedAt": "2026-09-29T17:18:57Z",
-          "name": "3.0.1"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4XzTtQ",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.58.0",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.58.0",
-          "publishedAt": "2026-09-29T16:29:09Z",
-          "name": "0.58.0"
-        },
-        {
-          "id": "RE_kwDORsUayc4XzCfB",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.14.0",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.14.0",
-          "publishedAt": "2026-09-29T14:57:24Z",
-          "name": "v0.14.0"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4Xyc1h",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.97.1",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.97.1",
-          "publishedAt": "2026-09-29T11:57:00Z",
-          "name": "v0.97.1"
-        },
-        {
-          "id": "RE_kwDOEE38qM4Xyar2",
-          "owner": "foambubble",
-          "repo": "foam",
-          "tag": "vscode@0.45.0",
-          "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.45.0",
-          "publishedAt": "2026-09-29T11:45:00Z"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4XyQih",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.97.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.97.0",
-          "publishedAt": "2026-09-29T10:48:18Z",
-          "name": "v0.97.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84XyQO3",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.5.2",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.5.2",
-          "publishedAt": "2026-09-29T10:46:11Z",
-          "name": "v1.5.2"
-        },
-        {
-          "id": "RE_kwDOCk1n-s4XyLA6",
-          "owner": "eure",
-          "repo": "swift-storybook",
-          "tag": "3.2.0",
-          "url": "https://github.com/eure/swift-storybook/releases/tag/3.2.0",
-          "publishedAt": "2026-09-29T10:15:03Z",
-          "name": "3.2.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4XyIGS",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.9.17",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.9.17",
-          "publishedAt": "2026-09-29T10:06:19Z",
-          "name": "v2026.9.17: Self-update waits 24 hours for new releases and verifies signed packslips"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84XyJTF",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.5.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.5.1",
-          "publishedAt": "2026-09-29T10:05:08Z",
-          "name": "v1.5.1"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4XyDHI",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.8.1",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.8.1",
-          "publishedAt": "2026-09-29T09:30:20Z",
-          "name": "v0.8.1"
-        },
-        {
-          "id": "RE_kwDOH0TSTs4Xxzru",
-          "owner": "Songmu",
-          "repo": "tagpr",
-          "tag": "v1.21.1",
-          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.21.1",
-          "publishedAt": "2026-09-29T08:04:55Z",
-          "name": "v1.21.1"
-        },
-        {
-          "id": "RE_kwDOJCIvuc4XxsXt",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.12",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.12",
-          "publishedAt": "2026-09-29T07:19:10Z",
-          "name": "1.9.12"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4Xxjcm",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.30",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.30",
-          "publishedAt": "2026-09-29T06:12:03Z",
-          "name": "v1.10.30"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84XxXO5",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.5.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.5.0",
-          "publishedAt": "2026-09-29T04:08:16Z",
-          "name": "v1.5.0"
-        },
-        {
-          "id": "RE_kwDOOzc9Ss4XxMP-",
-          "owner": "apple",
-          "repo": "container",
-          "tag": "1.5.0",
-          "url": "https://github.com/apple/container/releases/tag/1.5.0",
-          "publishedAt": "2026-09-29T02:33:21Z",
-          "name": "1.5.0"
-        }
-      ],
       "2026-09-30": [
         {
           "id": "RE_kwDOHuVHqM4X31mE",
@@ -3031,6 +2652,186 @@
       ],
       "2026-10-06": [
         {
+          "id": "RE_kwDOR2vLLM4YJpE_",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-test@0.2.8",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-test%400.2.8",
+          "publishedAt": "2026-10-06T22:11:10Z",
+          "name": "@emdash-cms/plugin-test@0.2.8"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpEi",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/sandbox-workerd@0.9.3",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/sandbox-workerd%400.9.3",
+          "publishedAt": "2026-10-06T22:11:07Z",
+          "name": "@emdash-cms/sandbox-workerd@0.9.3"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpEK",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-webhook-notifier@0.2.3",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-webhook-notifier%400.2.3",
+          "publishedAt": "2026-10-06T22:11:04Z",
+          "name": "@emdash-cms/plugin-webhook-notifier@0.2.3"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpD1",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-embeds@0.1.55",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-embeds%400.1.55",
+          "publishedAt": "2026-10-06T22:11:01Z",
+          "name": "@emdash-cms/plugin-embeds@0.1.55"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpDW",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/cloudflare@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/cloudflare%401.2.0",
+          "publishedAt": "2026-10-06T22:10:58Z",
+          "name": "@emdash-cms/cloudflare@1.2.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpCz",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "emdash@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/emdash%401.2.0",
+          "publishedAt": "2026-10-06T22:10:55Z",
+          "name": "emdash@1.2.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpCZ",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/auth-atproto@0.2.47",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth-atproto%400.2.47",
+          "publishedAt": "2026-10-06T22:10:52Z",
+          "name": "@emdash-cms/auth-atproto@0.2.47"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpB5",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-cli@0.13.3",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-cli%400.13.3",
+          "publishedAt": "2026-10-06T22:10:49Z",
+          "name": "@emdash-cms/plugin-cli@0.13.3"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpBd",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/registry-verification@0.3.4",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-verification%400.3.4",
+          "publishedAt": "2026-10-06T22:10:46Z",
+          "name": "@emdash-cms/registry-verification@0.3.4"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpBI",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/admin@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/admin%401.2.0",
+          "publishedAt": "2026-10-06T22:10:43Z",
+          "name": "@emdash-cms/admin@1.2.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpAw",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/x402@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/x402%401.2.0",
+          "publishedAt": "2026-10-06T22:10:40Z",
+          "name": "@emdash-cms/x402@1.2.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJpAT",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "upgrade-emdash@0.1.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/upgrade-emdash%400.1.0",
+          "publishedAt": "2026-10-06T22:10:37Z",
+          "name": "upgrade-emdash@0.1.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJo_7",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/registry-loader@0.1.2",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-loader%400.1.2",
+          "publishedAt": "2026-10-06T22:10:34Z",
+          "name": "@emdash-cms/registry-loader@0.1.2"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJo_j",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-types@0.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-types%400.6.0",
+          "publishedAt": "2026-10-06T22:10:31Z",
+          "name": "@emdash-cms/plugin-types@0.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJo_M",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/gutenberg-to-portable-text@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/gutenberg-to-portable-text%401.2.0",
+          "publishedAt": "2026-10-06T22:10:28Z",
+          "name": "@emdash-cms/gutenberg-to-portable-text@1.2.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJo-v",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "create-emdash@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/create-emdash%401.2.0",
+          "publishedAt": "2026-10-06T22:10:25Z",
+          "name": "create-emdash@1.2.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJo-X",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/blocks@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/blocks%401.2.0",
+          "publishedAt": "2026-10-06T22:10:22Z",
+          "name": "@emdash-cms/blocks@1.2.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4YJo98",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/auth@1.2.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth%401.2.0",
+          "publishedAt": "2026-10-06T22:10:19Z",
+          "name": "@emdash-cms/auth@1.2.0"
+        },
+        {
+          "id": "RE_kwDOSP9SeM4YJjfJ",
+          "owner": "abap34",
+          "repo": "ss",
+          "tag": "v0.8.3",
+          "url": "https://github.com/abap34/ss/releases/tag/v0.8.3",
+          "publishedAt": "2026-10-06T21:31:12Z",
+          "name": "ss v0.8.3"
+        },
+        {
+          "id": "RE_kwDOCN71Oc4YJgoi",
+          "owner": "o2sh",
+          "repo": "onefetch",
+          "tag": "3.0.0",
+          "url": "https://github.com/o2sh/onefetch/releases/tag/3.0.0",
+          "publishedAt": "2026-10-06T21:12:39Z",
+          "name": "3.0.0"
+        },
+        {
           "id": "RE_kwDOObWEYM4YJa4M",
           "owner": "google-gemini",
           "repo": "gemini-cli",
@@ -3399,6 +3200,35 @@
           "publishedAt": "2026-10-06T00:17:06Z",
           "name": "v0.434.0"
         }
+      ],
+      "2026-10-07": [
+        {
+          "id": "RE_kwDOH0TSTs4YKPy4",
+          "owner": "Songmu",
+          "repo": "tagpr",
+          "tag": "v1.21.2",
+          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.21.2",
+          "publishedAt": "2026-10-07T03:18:37Z",
+          "name": "v1.21.2"
+        },
+        {
+          "id": "RE_kwDOOELNJM4YKJwp",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.1.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.1.0",
+          "publishedAt": "2026-10-07T02:29:36Z",
+          "name": "vite-plus v1.1.0: faster `vp dev` startup and clearer interactive prompts"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YJ4cQ",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.13.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.13.0",
+          "publishedAt": "2026-10-07T00:23:07Z",
+          "name": "v1.13.0"
+        }
       ]
     }
   },
@@ -3527,8 +3357,8 @@
         "releaseHistoryCursor": null
       },
       "abap34/ss": {
-        "lastReleaseId": "RE_kwDOSP9SeM4XUYq-",
-        "lastPublishedAt": "2026-09-18T04:38:31Z",
+        "lastReleaseId": "RE_kwDOSP9SeM4YJjfJ",
+        "lastPublishedAt": "2026-10-06T21:31:12Z",
         "releaseHistoryCursor": null
       },
       "kavinsood/yaos": {
@@ -3608,8 +3438,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4XuKTK",
-        "lastPublishedAt": "2026-09-28T05:38:48Z",
+        "lastReleaseId": "RE_kwDOOELNJM4YKJwp",
+        "lastPublishedAt": "2026-10-07T02:29:36Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -3617,8 +3447,8 @@
         "lastPublishedAt": "2026-05-11T09:03:14Z"
       },
       "Songmu/tagpr": {
-        "lastReleaseId": "RE_kwDOH0TSTs4Xxzru",
-        "lastPublishedAt": "2026-09-29T08:04:55Z",
+        "lastReleaseId": "RE_kwDOH0TSTs4YKPy4",
+        "lastPublishedAt": "2026-10-07T03:18:37Z",
         "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
@@ -4489,8 +4319,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YIiOu",
-        "lastPublishedAt": "2026-10-06T15:36:25Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YJ4cQ",
+        "lastPublishedAt": "2026-10-07T00:23:07Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -5618,8 +5448,8 @@
       "dersvenhesse/awesome-scriptable": {},
       "SSlime-s/afk-animation": {},
       "o2sh/onefetch": {
-        "lastReleaseId": "RE_kwDOCN71Oc4WmxB6",
-        "lastPublishedAt": "2026-08-30T11:25:36Z",
+        "lastReleaseId": "RE_kwDOCN71Oc4YJgoi",
+        "lastPublishedAt": "2026-10-06T21:12:39Z",
         "releaseHistoryCursor": null
       },
       "tesso57/WinterHack2020": {},
@@ -5720,13 +5550,18 @@
         "releaseHistoryCursor": null
       },
       "emdash-cms/emdash": {
-        "lastReleaseId": "RE_kwDOR2vLLM4X6THs",
-        "lastPublishedAt": "2026-10-01T16:37:53Z",
+        "lastReleaseId": "RE_kwDOR2vLLM4YJpE_",
+        "lastPublishedAt": "2026-10-06T22:11:10Z",
         "releaseHistoryCursor": null
       },
       "github/gh-actions-lock": {
         "lastReleaseId": "RE_kwDOSJO3-s4VilVY",
         "lastPublishedAt": "2026-07-28T21:26:51Z",
+        "releaseHistoryCursor": null
+      },
+      "earendil-works/pi": {
+        "lastPublishedAt": "2026-10-05T22:03:50Z",
+        "lastReleaseId": "RE_kwDOPbFNk84YFmma",
         "releaseHistoryCursor": null
       }
     }
