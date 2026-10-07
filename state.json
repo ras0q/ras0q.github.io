@@ -3203,6 +3203,15 @@
       ],
       "2026-10-07": [
         {
+          "id": "RE_kwDODVAw7c4YKVm3",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.10",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.10",
+          "publishedAt": "2026-10-07T03:59:47Z",
+          "name": "v3.33.10"
+        },
+        {
           "id": "RE_kwDOH0TSTs4YKPy4",
           "owner": "Songmu",
           "repo": "tagpr",
@@ -3739,8 +3748,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4X7-gm",
-        "lastPublishedAt": "2026-10-02T06:56:45Z",
+        "lastReleaseId": "RE_kwDODVAw7c4YKVm3",
+        "lastPublishedAt": "2026-10-07T03:59:47Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -5560,8 +5569,8 @@
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
-        "lastPublishedAt": "2026-10-05T22:03:50Z",
         "lastReleaseId": "RE_kwDOPbFNk84YFmma",
+        "lastPublishedAt": "2026-10-05T22:03:50Z",
         "releaseHistoryCursor": null
       }
     }
