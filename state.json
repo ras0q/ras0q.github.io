@@ -3203,6 +3203,195 @@
       ],
       "2026-10-07": [
         {
+          "id": "RE_kwDODH8YWs4YNoyA",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.03",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.03",
+          "publishedAt": "2026-10-07T22:49:38Z",
+          "name": "v2026.10.03"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmJ6",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/util@0.56.7",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/util%400.56.7",
+          "publishedAt": "2026-10-07T22:29:05Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmJ-",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/util@0.56.7",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/util%400.56.7",
+          "publishedAt": "2026-10-07T22:29:05Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmJy",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/type@2.2.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/type%402.2.8",
+          "publishedAt": "2026-10-07T22:29:04Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmJr",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/type@2.2.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/type%402.2.8",
+          "publishedAt": "2026-10-07T22:29:02Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmJe",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "arktype@2.2.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/arktype%402.2.8",
+          "publishedAt": "2026-10-07T22:29:01Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmJT",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/schema@0.56.7",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/schema%400.56.7",
+          "publishedAt": "2026-10-07T22:29:00Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmJE",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/schema@0.56.7",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/schema%400.56.7",
+          "publishedAt": "2026-10-07T22:28:59Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmI5",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/regex@0.0.13",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/regex%400.0.13",
+          "publishedAt": "2026-10-07T22:28:58Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIy",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/regex@0.0.13",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/regex%400.0.13",
+          "publishedAt": "2026-10-07T22:28:57Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIt",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "arkregex@0.0.13",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/arkregex%400.0.13",
+          "publishedAt": "2026-10-07T22:28:56Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIh",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/json-schema@0.0.12",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/json-schema%400.0.12",
+          "publishedAt": "2026-10-07T22:28:55Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIn",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/json-schema@0.0.12",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/json-schema%400.0.12",
+          "publishedAt": "2026-10-07T22:28:55Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIT",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/fs@0.56.7",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fs%400.56.7",
+          "publishedAt": "2026-10-07T22:28:54Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIP",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/fs@0.56.7",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fs%400.56.7",
+          "publishedAt": "2026-10-07T22:28:53Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIG",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/fast-check@0.0.19",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fast-check%400.0.19",
+          "publishedAt": "2026-10-07T22:28:52Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmIB",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/fast-check@0.0.19",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fast-check%400.0.19",
+          "publishedAt": "2026-10-07T22:28:51Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmH2",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/attest@0.57.0",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/attest%400.57.0",
+          "publishedAt": "2026-10-07T22:28:50Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84YNmHs",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/attest@0.57.0",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/attest%400.57.0",
+          "publishedAt": "2026-10-07T22:28:49Z"
+        },
+        {
+          "id": "RE_kwDOPbFNk84YNkgR",
+          "owner": "earendil-works",
+          "repo": "pi",
+          "tag": "v1.1.0",
+          "url": "https://github.com/earendil-works/pi/releases/tag/v1.1.0",
+          "publishedAt": "2026-10-07T22:26:31Z",
+          "name": "v1.1.0"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4YNeEm",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.3.2",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.3.2",
+          "publishedAt": "2026-10-07T21:37:03Z",
+          "name": "v2.3.2"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4YNWsu",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.61.1",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.61.1",
+          "publishedAt": "2026-10-07T21:04:44Z",
+          "name": "0.61.1"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4YNW-C",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.2.3",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.2.3",
+          "publishedAt": "2026-10-07T20:53:46Z",
+          "name": "v2.2.3"
+        },
+        {
           "id": "RE_kwDOC3PEAc4YMnvv",
           "owner": "dprint",
           "repo": "dprint",
@@ -3855,8 +4044,8 @@
       },
       "agentsmd/agents.md": {},
       "arktypeio/arktype": {
-        "lastReleaseId": "RE_kwDOC4NVf84X7DHK",
-        "lastPublishedAt": "2026-10-01T21:05:47Z",
+        "lastReleaseId": "RE_kwDOC4NVf84YNmJ6",
+        "lastPublishedAt": "2026-10-07T22:29:05Z",
         "releaseHistoryCursor": null
       },
       "ericc-ch/copilot-api": {
@@ -4240,8 +4429,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4YFj19",
-        "lastPublishedAt": "2026-10-05T21:41:44Z",
+        "lastReleaseId": "RE_kwDODH8YWs4YNoyA",
+        "lastPublishedAt": "2026-10-07T22:49:38Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -4433,8 +4622,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4YMnvv",
-        "lastPublishedAt": "2026-10-07T16:40:58Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4YNWsu",
+        "lastPublishedAt": "2026-10-07T21:04:44Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -4811,8 +5000,8 @@
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastReleaseId": "RE_kwDOE2oqQs4W8Oir",
-        "lastPublishedAt": "2026-09-08T16:15:15Z",
+        "lastReleaseId": "RE_kwDOE2oqQs4YNeEm",
+        "lastPublishedAt": "2026-10-07T21:37:03Z",
         "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
@@ -5623,10 +5812,11 @@
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
-        "lastReleaseId": "RE_kwDOPbFNk84YFmma",
-        "lastPublishedAt": "2026-10-05T22:03:50Z",
+        "lastReleaseId": "RE_kwDOPbFNk84YNkgR",
+        "lastPublishedAt": "2026-10-07T22:26:31Z",
         "releaseHistoryCursor": null
-      }
+      },
+      "go-fynx/deadcode": {}
     }
   }
 }
