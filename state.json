@@ -3203,6 +3203,60 @@
       ],
       "2026-10-07": [
         {
+          "id": "RE_kwDOC3PEAc4YMnvv",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.61.0",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.61.0",
+          "publishedAt": "2026-10-07T16:40:58Z",
+          "name": "0.61.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4YMRnC",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.4",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.4",
+          "publishedAt": "2026-10-07T16:21:40Z",
+          "name": "v2026.10.4: Task-scoped fnox secrets, automatic global tool updates, and an opt-in identity install layout"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4YMT_u",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.149.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.149.0",
+          "publishedAt": "2026-10-07T14:55:39Z",
+          "name": "v1.149.0"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4YMLvN",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.17",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.17",
+          "publishedAt": "2026-10-07T14:22:43Z",
+          "name": "v1.0.17"
+        },
+        {
+          "id": "RE_kwDONRQKHs4YLvZG",
+          "owner": "pfrankov",
+          "repo": "obsidian-ai-providers",
+          "tag": "1.12.1",
+          "url": "https://github.com/pfrankov/obsidian-ai-providers/releases/tag/1.12.1",
+          "publishedAt": "2026-10-07T12:19:28Z",
+          "name": "1.12.1"
+        },
+        {
+          "id": "RE_kwDOBbx18s4YLtBQ",
+          "owner": "revive-lint",
+          "repo": "revive",
+          "tag": "v1.17.1",
+          "url": "https://github.com/revive-lint/revive/releases/tag/v1.17.1",
+          "publishedAt": "2026-10-07T12:09:36Z",
+          "name": "v1.17.1"
+        },
+        {
           "id": "RE_kwDODVAw7c4YKVm3",
           "owner": "traPtitech",
           "repo": "traQ_S-UI",
@@ -3544,8 +3598,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4X3qiG",
-        "lastPublishedAt": "2026-09-30T21:59:40Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4YMLvN",
+        "lastPublishedAt": "2026-10-07T14:22:43Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -3705,8 +3759,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4YDl4K",
-        "lastPublishedAt": "2026-10-05T10:22:55Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4YMT_u",
+        "lastPublishedAt": "2026-10-07T14:55:39Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -4141,8 +4195,8 @@
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
-        "lastReleaseId": "RE_kwDONRQKHs4YJDi3",
-        "lastPublishedAt": "2026-10-06T18:31:33Z",
+        "lastReleaseId": "RE_kwDONRQKHs4YLvZG",
+        "lastPublishedAt": "2026-10-07T12:19:28Z",
         "releaseHistoryCursor": null
       },
       "k1LoW/deck": {
@@ -4309,8 +4363,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4YDm8c",
-        "lastPublishedAt": "2026-10-05T10:35:27Z",
+        "lastReleaseId": "RE_kwDOIvux3s4YMRnC",
+        "lastPublishedAt": "2026-10-07T16:21:40Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4379,8 +4433,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4YATe3",
-        "lastPublishedAt": "2026-10-03T23:31:57Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4YMnvv",
+        "lastPublishedAt": "2026-10-07T16:40:58Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -5549,8 +5603,8 @@
         "releaseHistoryCursor": null
       },
       "revive-lint/revive": {
-        "lastReleaseId": "RE_kwDOBbx18s4XiE6b",
-        "lastPublishedAt": "2026-09-23T15:38:25Z",
+        "lastReleaseId": "RE_kwDOBbx18s4YLtBQ",
+        "lastPublishedAt": "2026-10-07T12:09:36Z",
         "releaseHistoryCursor": null
       },
       "houseabsolute/ubi": {
