@@ -2978,6 +2978,87 @@
       ],
       "2026-10-08": [
         {
+          "id": "RE_kwDOMtN2Z84YQGHE",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.13.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.13.1",
+          "publishedAt": "2026-10-08T13:40:21Z",
+          "name": "v1.13.1"
+        },
+        {
+          "id": "RE_kwDOD81yrs4YQC1f",
+          "owner": "ManimCommunity",
+          "repo": "manim",
+          "tag": "v0.22.0",
+          "url": "https://github.com/ManimCommunity/manim/releases/tag/v0.22.0",
+          "publishedAt": "2026-10-08T13:26:58Z",
+          "name": "Manim v0.22.0"
+        },
+        {
+          "id": "RE_kwDOHB7d2c4YQBZh",
+          "owner": "smart-splits-nvim",
+          "repo": "smart-splits.nvim",
+          "tag": "v3.0.0",
+          "url": "https://github.com/smart-splits-nvim/smart-splits.nvim/releases/tag/v3.0.0",
+          "publishedAt": "2026-10-08T13:21:25Z",
+          "name": "v3.0.0"
+        },
+        {
+          "id": "RE_kwDODVAw7c4YQAIf",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.11",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.11",
+          "publishedAt": "2026-10-08T13:15:58Z",
+          "name": "v3.33.11"
+        },
+        {
+          "id": "RE_kwDOHB7d2c4YP_KY",
+          "owner": "smart-splits-nvim",
+          "repo": "smart-splits.nvim",
+          "tag": "v2.1.1-final",
+          "url": "https://github.com/smart-splits-nvim/smart-splits.nvim/releases/tag/v2.1.1-final",
+          "publishedAt": "2026-10-08T13:11:50Z",
+          "name": "v2.1.1-final"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4YPyEz",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.10.2",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.10.2",
+          "publishedAt": "2026-10-08T12:20:52Z",
+          "name": "v2.10.2"
+        },
+        {
+          "id": "RE_kwDOAoUxF84YPBvJ",
+          "owner": "preactjs",
+          "repo": "preact",
+          "tag": "11.0.1",
+          "url": "https://github.com/preactjs/preact/releases/tag/11.0.1",
+          "publishedAt": "2026-10-08T08:28:17Z",
+          "name": "11.0.1"
+        },
+        {
+          "id": "RE_kwDOQ63fjM4YOyzp",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.7.0",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.7.0",
+          "publishedAt": "2026-10-08T07:15:22Z",
+          "name": "v1.7.0"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4YOq3V",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.9.0",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.9.0",
+          "publishedAt": "2026-10-08T06:39:18Z",
+          "name": "v0.9.0"
+        },
+        {
           "id": "RE_kwDOEXrCM84YOZN0",
           "owner": "esm-dev",
           "repo": "esm.sh",
@@ -3426,8 +3507,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4X742d",
-        "lastPublishedAt": "2026-10-02T06:02:54Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4YOq3V",
+        "lastPublishedAt": "2026-10-08T06:39:18Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -3505,8 +3586,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4YKVm3",
-        "lastPublishedAt": "2026-10-07T03:59:47Z",
+        "lastReleaseId": "RE_kwDODVAw7c4YQAIf",
+        "lastPublishedAt": "2026-10-08T13:15:58Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -3784,8 +3865,8 @@
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
-        "lastReleaseId": "RE_kwDOD81yrs4V8pEL",
-        "lastPublishedAt": "2026-08-10T21:56:35Z",
+        "lastReleaseId": "RE_kwDOD81yrs4YQC1f",
+        "lastPublishedAt": "2026-10-08T13:26:58Z",
         "releaseHistoryCursor": null
       },
       "akiym/ed25519brute": {},
@@ -4056,13 +4137,13 @@
         "lastPublishedAt": "2024-12-24T12:10:23Z"
       },
       "preactjs/preact": {
-        "lastReleaseId": "RE_kwDOAoUxF84X06ev",
-        "lastPublishedAt": "2026-09-30T13:09:07Z",
+        "lastReleaseId": "RE_kwDOAoUxF84YPBvJ",
+        "lastPublishedAt": "2026-10-08T08:28:17Z",
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4Wbl41",
-        "lastPublishedAt": "2026-08-25T11:00:13Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4YPyEz",
+        "lastPublishedAt": "2026-10-08T12:20:52Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
@@ -4085,8 +4166,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YJ4cQ",
-        "lastPublishedAt": "2026-10-07T00:23:07Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YQGHE",
+        "lastPublishedAt": "2026-10-08T13:40:21Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -5261,8 +5342,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4Xnp39",
-        "lastPublishedAt": "2026-09-25T03:31:20Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4YOyzp",
+        "lastPublishedAt": "2026-10-08T07:15:22Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {
@@ -5286,8 +5367,8 @@
         "releaseHistoryCursor": null
       },
       "smart-splits-nvim/smart-splits.nvim": {
-        "lastReleaseId": "RE_kwDOHB7d2c4SbGqb",
-        "lastPublishedAt": "2026-04-14T23:31:11Z",
+        "lastReleaseId": "RE_kwDOHB7d2c4YQBZh",
+        "lastPublishedAt": "2026-10-08T13:21:25Z",
         "releaseHistoryCursor": null
       },
       "mazrean/odjson": {
