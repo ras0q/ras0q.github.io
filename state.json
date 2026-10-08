@@ -2978,6 +2978,123 @@
       ],
       "2026-10-08": [
         {
+          "id": "RE_kwDOIvux3s4YRhhC",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.5",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.5",
+          "publishedAt": "2026-10-08T20:50:21Z",
+          "name": "v2026.10.5: Java defaults to Temurin, per-machine and local-only dotfile history, packslip workflow pinning"
+        },
+        {
+          "id": "RE_kwDODH8YWs4YRicJ",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.05",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.05",
+          "publishedAt": "2026-10-08T20:49:24Z",
+          "name": "v2026.10.05"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4YRhbS",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.18",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.18",
+          "publishedAt": "2026-10-08T20:42:49Z",
+          "name": "v1.0.18"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4YRasI",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.12.24",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.24",
+          "publishedAt": "2026-10-08T20:06:20Z",
+          "name": "0.12.24"
+        },
+        {
+          "id": "RE_kwDOJKcikM4YRMS2",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.6",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.6",
+          "publishedAt": "2026-10-08T18:51:09Z",
+          "name": "@astrojs/starlight@0.42.6"
+        },
+        {
+          "id": "RE_kwDODH8YWs4YRKPg",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.04",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.04",
+          "publishedAt": "2026-10-08T18:43:32Z",
+          "name": "v2026.10.04"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4YRHW8",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.98.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.98.0",
+          "publishedAt": "2026-10-08T18:26:33Z",
+          "name": "v0.98.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4YRDHQ",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.6.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.6.0",
+          "publishedAt": "2026-10-08T18:05:05Z",
+          "name": "v31.6.0"
+        },
+        {
+          "id": "RE_kwDOQu84n84YQ-zs",
+          "owner": "k1LoW",
+          "repo": "git-wt",
+          "tag": "v0.30.0",
+          "url": "https://github.com/k1LoW/git-wt/releases/tag/v0.30.0",
+          "publishedAt": "2026-10-08T17:43:39Z",
+          "name": "v0.30.0"
+        },
+        {
+          "id": "RE_kwDODeVIac4YQ-bt",
+          "owner": "charmbracelet",
+          "repo": "bubbletea",
+          "tag": "v2.1.0",
+          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.0",
+          "publishedAt": "2026-10-08T17:40:36Z",
+          "name": "v2.1.0"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4YQyat",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.40.5",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.5",
+          "publishedAt": "2026-10-08T16:45:10Z",
+          "name": "v0.40.5 Release"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4YQzF1",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.22.56",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.56",
+          "publishedAt": "2026-10-08T16:44:22Z",
+          "name": "v0.22.56 Release"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4YQpJf",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.9.1",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.9.1",
+          "publishedAt": "2026-10-08T15:58:28Z",
+          "name": "v0.9.1"
+        },
+        {
           "id": "RE_kwDOMtN2Z84YQGHE",
           "owner": "eyemono-moe",
           "repo": "streets",
@@ -3299,8 +3416,8 @@
         "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
-        "lastReleaseId": "RE_kwDOQu84n84XDRyZ",
-        "lastPublishedAt": "2026-09-11T01:53:30Z",
+        "lastReleaseId": "RE_kwDOQu84n84YQ-zs",
+        "lastPublishedAt": "2026-10-08T17:43:39Z",
         "releaseHistoryCursor": null
       },
       "UsUsStudios/manimvim.nvim": {},
@@ -3382,8 +3499,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4YMLvN",
-        "lastPublishedAt": "2026-10-07T14:22:43Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4YRhbS",
+        "lastPublishedAt": "2026-10-08T20:42:49Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -3450,8 +3567,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4Xyc1h",
-        "lastPublishedAt": "2026-09-29T11:57:00Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4YRHW8",
+        "lastPublishedAt": "2026-10-08T18:26:33Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -3507,14 +3624,14 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4YOq3V",
-        "lastPublishedAt": "2026-10-08T06:39:18Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4YQpJf",
+        "lastPublishedAt": "2026-10-08T15:58:28Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4X46Nw",
-        "lastPublishedAt": "2026-10-01T08:58:14Z",
+        "lastReleaseId": "RE_kwDOJKcikM4YRMS2",
+        "lastPublishedAt": "2026-10-08T18:51:09Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -4024,8 +4141,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4YNoyA",
-        "lastPublishedAt": "2026-10-07T22:49:38Z",
+        "lastReleaseId": "RE_kwDODH8YWs4YRicJ",
+        "lastPublishedAt": "2026-10-08T20:49:24Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -4147,8 +4264,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4YMRnC",
-        "lastPublishedAt": "2026-10-07T16:21:40Z",
+        "lastReleaseId": "RE_kwDOIvux3s4YRhhC",
+        "lastPublishedAt": "2026-10-08T20:50:21Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4478,8 +4595,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4X_3mg",
-        "lastPublishedAt": "2026-10-03T17:34:11Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4YRasI",
+        "lastPublishedAt": "2026-10-08T20:06:20Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -5091,8 +5208,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4XGkYD",
-        "lastPublishedAt": "2026-09-12T14:35:16Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4YQyat",
+        "lastPublishedAt": "2026-10-08T16:45:10Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
@@ -5120,8 +5237,8 @@
         "releaseHistoryCursor": null
       },
       "charmbracelet/bubbletea": {
-        "lastReleaseId": "RE_kwDODeVIac4XklcS",
-        "lastPublishedAt": "2026-09-24T08:08:55Z",
+        "lastReleaseId": "RE_kwDODeVIac4YQ-bt",
+        "lastPublishedAt": "2026-10-08T17:40:36Z",
         "releaseHistoryCursor": null
       },
       "viraptor/reverse-interview": {},
@@ -5191,8 +5308,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4YIlT3",
-        "lastPublishedAt": "2026-10-06T15:51:32Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4YRDHQ",
+        "lastPublishedAt": "2026-10-08T18:05:05Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
