@@ -1971,6 +1971,69 @@
       ],
       "2026-10-09": [
         {
+          "id": "RE_kwDOKbIFZc4YVfXl",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.13.0",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.0",
+          "publishedAt": "2026-10-09T19:49:55Z",
+          "name": "0.13.0"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4YVfFC",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.17.0",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.17.0",
+          "publishedAt": "2026-10-09T19:48:30Z",
+          "name": "0.17.0"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4YVeuZ",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.4.0",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.4.0",
+          "publishedAt": "2026-10-09T19:46:50Z",
+          "name": "v2.4.0"
+        },
+        {
+          "id": "RE_kwDORsUayc4YU1Rz",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.14.1",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.14.1",
+          "publishedAt": "2026-10-09T16:32:24Z",
+          "name": "v0.14.1"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4YUxvW",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.19",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.19",
+          "publishedAt": "2026-10-09T16:17:38Z",
+          "name": "v1.0.19"
+        },
+        {
+          "id": "RE_kwDOAcjBfM4YUrz7",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v5.0.11",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.0.11",
+          "publishedAt": "2026-10-09T15:54:41Z",
+          "name": "Fluent Bit 5.0.11"
+        },
+        {
+          "id": "RE_kwDOGN5wJc4YUgrb",
+          "owner": "dlvhdr",
+          "repo": "gh-dash",
+          "tag": "v4.26.1",
+          "url": "https://github.com/dlvhdr/gh-dash/releases/tag/v4.26.1",
+          "publishedAt": "2026-10-09T15:07:27Z",
+          "name": "v4.26.1"
+        },
+        {
           "id": "RE_kwDOPAlvYM4YUWE2",
           "owner": "agentclientprotocol",
           "repo": "agent-client-protocol",
@@ -2288,8 +2351,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4XzCfB",
-        "lastPublishedAt": "2026-09-29T14:57:24Z",
+        "lastReleaseId": "RE_kwDORsUayc4YU1Rz",
+        "lastPublishedAt": "2026-10-09T16:32:24Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -2456,8 +2519,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4YRhbS",
-        "lastPublishedAt": "2026-10-08T20:42:49Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4YUxvW",
+        "lastPublishedAt": "2026-10-09T16:17:38Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -3425,8 +3488,8 @@
         "lastPublishedAt": "2025-04-05T13:50:09Z"
       },
       "dlvhdr/gh-dash": {
-        "lastReleaseId": "RE_kwDOGN5wJc4XbLNw",
-        "lastPublishedAt": "2026-09-21T13:50:28Z",
+        "lastReleaseId": "RE_kwDOGN5wJc4YUgrb",
+        "lastPublishedAt": "2026-10-09T15:07:27Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete": {
@@ -3552,8 +3615,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4YRasI",
-        "lastPublishedAt": "2026-10-08T20:06:20Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4YVfXl",
+        "lastPublishedAt": "2026-10-09T19:49:55Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3669,8 +3732,8 @@
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastReleaseId": "RE_kwDOE2oqQs4YNeEm",
-        "lastPublishedAt": "2026-10-07T21:37:03Z",
+        "lastReleaseId": "RE_kwDOE2oqQs4YVeuZ",
+        "lastPublishedAt": "2026-10-09T19:46:50Z",
         "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
@@ -3713,8 +3776,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4X6ilL",
-        "lastPublishedAt": "2026-10-01T18:04:27Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4YVfFC",
+        "lastPublishedAt": "2026-10-09T19:48:30Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -4200,8 +4263,8 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4X4eOy",
-        "lastPublishedAt": "2026-10-01T05:43:03Z",
+        "lastReleaseId": "RE_kwDOAcjBfM4YUrz7",
+        "lastPublishedAt": "2026-10-09T15:54:41Z",
         "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
