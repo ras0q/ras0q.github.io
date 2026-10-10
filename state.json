@@ -1962,6 +1962,96 @@
       ],
       "2026-10-10": [
         {
+          "id": "RE_kwDOI2v4zc4YXsh-",
+          "owner": "pionxzh",
+          "repo": "wakaru",
+          "tag": "v1.14.0",
+          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.14.0",
+          "publishedAt": "2026-10-10T10:16:23Z",
+          "name": "v1.14.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YXU5e",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.440.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.440.0",
+          "publishedAt": "2026-10-10T07:25:24Z",
+          "name": "v0.440.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YXSW5",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.14.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.14.1",
+          "publishedAt": "2026-10-10T07:06:01Z",
+          "name": "v1.14.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4YXRd9",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.7.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.7.0",
+          "publishedAt": "2026-10-10T07:00:37Z",
+          "name": "v31.7.0"
+        },
+        {
+          "id": "RE_kwDOFVKCyc4YWeF7",
+          "owner": "oven-sh",
+          "repo": "bun",
+          "tag": "bun-v1.4.3",
+          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.3",
+          "publishedAt": "2026-10-10T05:24:54Z",
+          "name": "Bun v1.4.3"
+        },
+        {
+          "id": "RE_kwDONvYw484YW6xW",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/vite-plugin@1.0.0-rc.5",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%401.0.0-rc.5",
+          "publishedAt": "2026-10-10T04:56:46Z",
+          "name": "@arkenv/vite-plugin@1.0.0-rc.5"
+        },
+        {
+          "id": "RE_kwDONvYw484YW6w3",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/rsbuild-plugin@1.0.0-rc.5",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/rsbuild-plugin%401.0.0-rc.5",
+          "publishedAt": "2026-10-10T04:56:43Z",
+          "name": "@arkenv/rsbuild-plugin@1.0.0-rc.5"
+        },
+        {
+          "id": "RE_kwDONvYw484YW6wQ",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nuxt@1.0.0-rc.5",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%401.0.0-rc.5",
+          "publishedAt": "2026-10-10T04:56:40Z",
+          "name": "@arkenv/nuxt@1.0.0-rc.5"
+        },
+        {
+          "id": "RE_kwDONvYw484YW6vz",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/nextjs@1.0.0-rc.5",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%401.0.0-rc.5",
+          "publishedAt": "2026-10-10T04:56:37Z",
+          "name": "@arkenv/nextjs@1.0.0-rc.5"
+        },
+        {
+          "id": "RE_kwDONvYw484YW6vU",
+          "owner": "yamcodes",
+          "repo": "arkenv",
+          "tag": "@arkenv/bun-plugin@1.0.0-rc.5",
+          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%401.0.0-rc.5",
+          "publishedAt": "2026-10-10T04:56:34Z",
+          "name": "@arkenv/bun-plugin@1.0.0-rc.5"
+        },
+        {
           "id": "RE_kwDOQzKeuM4YWpbR",
           "owner": "tfcace",
           "repo": "hash",
@@ -2076,8 +2166,8 @@
         "releaseHistoryCursor": null
       },
       "pionxzh/wakaru": {
-        "lastReleaseId": "RE_kwDOI2v4zc4X6y_5",
-        "lastPublishedAt": "2026-10-01T19:34:56Z",
+        "lastReleaseId": "RE_kwDOI2v4zc4YXsh-",
+        "lastPublishedAt": "2026-10-10T10:16:23Z",
         "releaseHistoryCursor": null
       },
       "Akifyss/obsidian-border": {},
@@ -2217,8 +2307,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YWjBE",
-        "lastPublishedAt": "2026-10-10T02:50:40Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YXU5e",
+        "lastPublishedAt": "2026-10-10T07:25:24Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2446,8 +2536,8 @@
       },
       "ghostty-org/ghostty": {},
       "yamcodes/arkenv": {
-        "lastReleaseId": "RE_kwDONvYw484XqRc-",
-        "lastPublishedAt": "2026-09-25T22:15:07Z",
+        "lastReleaseId": "RE_kwDONvYw484YW6xW",
+        "lastPublishedAt": "2026-10-10T04:56:46Z",
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
@@ -3078,8 +3168,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YUKUZ",
-        "lastPublishedAt": "2026-10-09T13:22:49Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YXSW5",
+        "lastPublishedAt": "2026-10-10T07:06:01Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3935,8 +4025,8 @@
       },
       "pointfreeco/isowords": {},
       "oven-sh/bun": {
-        "lastReleaseId": "RE_kwDOFVKCyc4W1dtR",
-        "lastPublishedAt": "2026-09-05T05:55:48Z",
+        "lastReleaseId": "RE_kwDOFVKCyc4YWeF7",
+        "lastPublishedAt": "2026-10-10T05:24:54Z",
         "releaseHistoryCursor": null
       },
       "YusukeHosonuma/SwiftUI-Simulator": {
@@ -4103,8 +4193,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4YRDHQ",
-        "lastPublishedAt": "2026-10-08T18:05:05Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4YXRd9",
+        "lastPublishedAt": "2026-10-10T07:00:37Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
