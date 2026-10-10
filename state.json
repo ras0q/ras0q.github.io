@@ -1962,6 +1962,123 @@
       ],
       "2026-10-10": [
         {
+          "id": "RE_kwDORsUayc4YYYZO",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.15.1",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.15.1",
+          "publishedAt": "2026-10-10T15:51:09Z",
+          "name": "v0.15.1"
+        },
+        {
+          "id": "RE_kwDOCk1n-s4YYXK2",
+          "owner": "eure",
+          "repo": "swift-storybook",
+          "tag": "3.3.0",
+          "url": "https://github.com/eure/swift-storybook/releases/tag/3.3.0",
+          "publishedAt": "2026-10-10T15:41:36Z",
+          "name": "3.3.0"
+        },
+        {
+          "id": "RE_kwDOOAhtcs4YYWIM",
+          "owner": "kepano",
+          "repo": "defuddle",
+          "tag": "0.19.5",
+          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.5",
+          "publishedAt": "2026-10-10T15:34:53Z",
+          "name": "0.19.5"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YYUGP",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.25.3",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.25.3",
+          "publishedAt": "2026-10-10T15:19:50Z",
+          "name": "v1.25.3"
+        },
+        {
+          "id": "RE_kwDOFJ5a6s4YYNTh",
+          "owner": "Milkdown",
+          "repo": "milkdown",
+          "tag": "v7.22.3",
+          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.3",
+          "publishedAt": "2026-10-10T14:27:15Z",
+          "name": "v7.22.3"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4YYDFL",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.0",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.0",
+          "publishedAt": "2026-10-10T13:04:08Z",
+          "name": "v1.8.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YX89J",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.29.3",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.3",
+          "publishedAt": "2026-10-10T12:20:37Z",
+          "name": "binstalk-v0.29.3"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YX8y_",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-fetchers-v0.10.51",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.51",
+          "publishedAt": "2026-10-10T12:19:22Z",
+          "name": "binstalk-fetchers-v0.10.51"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YX8xy",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-git-repo-api-v0.5.51",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.51",
+          "publishedAt": "2026-10-10T12:19:15Z",
+          "name": "binstalk-git-repo-api-v0.5.51"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YX7IT",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.15.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.15.0",
+          "publishedAt": "2026-10-10T12:05:36Z",
+          "name": "v1.15.0"
+        },
+        {
+          "id": "RE_kwDOO_HCWM4YX3R9",
+          "owner": "mazrean",
+          "repo": "kessoku",
+          "tag": "v1.2.0",
+          "url": "https://github.com/mazrean/kessoku/releases/tag/v1.2.0",
+          "publishedAt": "2026-10-10T11:38:25Z",
+          "name": "v1.2.0"
+        },
+        {
+          "id": "RE_kwDOFNWFc84YX1W-",
+          "owner": "obsidian-tasks-group",
+          "repo": "obsidian-tasks",
+          "tag": "8.5.0",
+          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.5.0",
+          "publishedAt": "2026-10-10T11:32:21Z",
+          "name": "8.5.0: Settings completely redesigned for Obsidian 1.13 and above; Quick Search uses Fuzzy search"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YXt3B",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.441.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.441.0",
+          "publishedAt": "2026-10-10T10:27:17Z",
+          "name": "v0.441.0"
+        },
+        {
           "id": "RE_kwDOI2v4zc4YXsh-",
           "owner": "pionxzh",
           "repo": "wakaru",
@@ -2216,8 +2333,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4YWjQY",
-        "lastPublishedAt": "2026-10-10T02:51:55Z",
+        "lastReleaseId": "RE_kwDORsUayc4YYYZO",
+        "lastPublishedAt": "2026-10-10T15:51:09Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -2307,8 +2424,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YXU5e",
-        "lastPublishedAt": "2026-10-10T07:25:24Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YXt3B",
+        "lastPublishedAt": "2026-10-10T10:27:17Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2679,8 +2796,9 @@
         "lastPublishedAt": "2026-03-26T08:42:20Z"
       },
       "mazrean/kessoku": {
-        "lastReleaseId": "RE_kwDOO_HCWM4Unox_",
-        "lastPublishedAt": "2026-06-28T15:33:25Z"
+        "lastReleaseId": "RE_kwDOO_HCWM4YX3R9",
+        "lastPublishedAt": "2026-10-10T11:38:25Z",
+        "releaseHistoryCursor": null
       },
       "ravitemer/mcp-hub": {
         "lastReleaseId": "RE_kwDON8rJ9M4OaFEK",
@@ -2862,8 +2980,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4YIgrt",
-        "lastPublishedAt": "2026-10-06T15:29:15Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4YYDFL",
+        "lastPublishedAt": "2026-10-10T13:04:08Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2992,14 +3110,14 @@
       },
       "typedgrammar/typed-japanese": {},
       "kepano/defuddle": {
-        "lastReleaseId": "RE_kwDOOAhtcs4XTqbV",
-        "lastPublishedAt": "2026-09-17T20:23:54Z",
+        "lastReleaseId": "RE_kwDOOAhtcs4YYWIM",
+        "lastPublishedAt": "2026-10-10T15:34:53Z",
         "releaseHistoryCursor": null
       },
       "tmc/nlm": {},
       "eure/swift-storybook": {
-        "lastReleaseId": "RE_kwDOCk1n-s4YCyfb",
-        "lastPublishedAt": "2026-10-05T05:13:48Z",
+        "lastReleaseId": "RE_kwDOCk1n-s4YYXK2",
+        "lastPublishedAt": "2026-10-10T15:41:36Z",
         "releaseHistoryCursor": null
       },
       "subframe7536/maple-font": {
@@ -3042,8 +3160,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4YH6ox",
-        "lastPublishedAt": "2026-10-06T13:20:53Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4YYUGP",
+        "lastPublishedAt": "2026-10-10T15:19:50Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -3168,8 +3286,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YXSW5",
-        "lastPublishedAt": "2026-10-10T07:06:01Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YX7IT",
+        "lastPublishedAt": "2026-10-10T12:05:36Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3496,8 +3614,8 @@
       "egonelbre/gophers": {},
       "golang/proposal": {},
       "obsidian-tasks-group/obsidian-tasks": {
-        "lastReleaseId": "RE_kwDOFNWFc84WdGS-",
-        "lastPublishedAt": "2026-08-25T21:36:58Z",
+        "lastReleaseId": "RE_kwDOFNWFc84YX1W-",
+        "lastPublishedAt": "2026-10-10T11:32:21Z",
         "releaseHistoryCursor": null
       },
       "utterance/utterances": {},
@@ -4238,8 +4356,8 @@
         "lastPublishedAt": "2022-01-06T05:22:02Z"
       },
       "Milkdown/milkdown": {
-        "lastReleaseId": "RE_kwDOFJ5a6s4XhQ6R",
-        "lastPublishedAt": "2026-09-23T11:38:24Z",
+        "lastReleaseId": "RE_kwDOFJ5a6s4YYNTh",
+        "lastPublishedAt": "2026-10-10T14:27:15Z",
         "releaseHistoryCursor": null
       },
       "remarkjs/remark": {
