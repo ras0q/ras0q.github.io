@@ -1962,6 +1962,51 @@
       ],
       "2026-10-10": [
         {
+          "id": "RE_kwDORsUayc4YZLih",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.15.2",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.15.2",
+          "publishedAt": "2026-10-10T22:52:38Z",
+          "name": "v0.15.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YZIla",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.443.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.443.0",
+          "publishedAt": "2026-10-10T22:24:22Z",
+          "name": "v0.443.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4YZBDc",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.19",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.19",
+          "publishedAt": "2026-10-10T21:16:42Z",
+          "name": "v0.2.19"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4YY_5y",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.13",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.13",
+          "publishedAt": "2026-10-10T21:06:42Z",
+          "name": "cli-v0.1.13"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YYvpD",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.442.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.442.0",
+          "publishedAt": "2026-10-10T18:52:22Z",
+          "name": "v0.442.0"
+        },
+        {
           "id": "RE_kwDORsUayc4YYYZO",
           "owner": "babarot",
           "repo": "gh-infra",
@@ -2333,8 +2378,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4YYYZO",
-        "lastPublishedAt": "2026-10-10T15:51:09Z",
+        "lastReleaseId": "RE_kwDORsUayc4YZLih",
+        "lastPublishedAt": "2026-10-10T22:52:38Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -2424,8 +2469,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YXt3B",
-        "lastPublishedAt": "2026-10-10T10:27:17Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YZIla",
+        "lastPublishedAt": "2026-10-10T22:24:22Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3324,8 +3369,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4YCM27",
-        "lastPublishedAt": "2026-10-04T22:09:05Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4YZBDc",
+        "lastPublishedAt": "2026-10-10T21:16:42Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
