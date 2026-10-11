@@ -2115,6 +2115,24 @@
       ],
       "2026-10-11": [
         {
+          "id": "RE_kwDOUNMECc4YInQI",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.7.0",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.7.0",
+          "publishedAt": "2026-10-11T15:28:13Z",
+          "name": "v1.7.0: Verified artifact list in `verify --json`, and support for releases signed by reusable workflows"
+        },
+        {
+          "id": "RE_kwDOE7TOLM4Yanhu",
+          "owner": "evrone",
+          "repo": "go-clean-template",
+          "tag": "v1.19.1",
+          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.19.1",
+          "publishedAt": "2026-10-11T11:39:35Z",
+          "name": "v1.19.1"
+        },
+        {
           "id": "RE_kwDOIvux3s4Yabvw",
           "owner": "jdx",
           "repo": "mise",
@@ -4212,8 +4230,8 @@
         "releaseHistoryCursor": null
       },
       "evrone/go-clean-template": {
-        "lastReleaseId": "RE_kwDOE7TOLM4XXlng",
-        "lastPublishedAt": "2026-09-19T12:10:48Z",
+        "lastReleaseId": "RE_kwDOE7TOLM4Yanhu",
+        "lastPublishedAt": "2026-10-11T11:39:35Z",
         "releaseHistoryCursor": null
       },
       "uber-go/guide": {
@@ -4488,8 +4506,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4YCdtb",
-        "lastPublishedAt": "2026-10-05T03:51:16Z",
+        "lastReleaseId": "RE_kwDOUNMECc4YInQI",
+        "lastPublishedAt": "2026-10-11T15:28:13Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
