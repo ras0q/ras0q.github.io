@@ -2115,6 +2115,42 @@
       ],
       "2026-10-11": [
         {
+          "id": "RE_kwDORsUayc4Yb0OY",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.17.0",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.0",
+          "publishedAt": "2026-10-11T21:53:24Z",
+          "name": "v0.17.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4Ybs8s",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.19.5",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.19.5",
+          "publishedAt": "2026-10-11T20:52:01Z",
+          "name": "v0.19.5"
+        },
+        {
+          "id": "RE_kwDOCciW1M4Ybcft",
+          "owner": "files-community",
+          "repo": "Files",
+          "tag": "v4.3",
+          "url": "https://github.com/files-community/Files/releases/tag/v4.3",
+          "publishedAt": "2026-10-11T18:35:07Z",
+          "name": "v4.3"
+        },
+        {
+          "id": "RE_kwDOAyHt9s4YbWt1",
+          "owner": "pressly",
+          "repo": "goose",
+          "tag": "v3.29.0",
+          "url": "https://github.com/pressly/goose/releases/tag/v3.29.0",
+          "publishedAt": "2026-10-11T17:48:18Z",
+          "name": "v3.29.0"
+        },
+        {
           "id": "RE_kwDOUNMECc4YInQI",
           "owner": "jdx",
           "repo": "packslip",
@@ -2268,8 +2304,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4X4OzB",
-        "lastPublishedAt": "2026-10-01T03:07:30Z",
+        "lastReleaseId": "RE_kwDORSib_s4Ybs8s",
+        "lastPublishedAt": "2026-10-11T20:52:01Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2342,8 +2378,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4YZVRz",
-        "lastPublishedAt": "2026-10-11T00:30:48Z",
+        "lastReleaseId": "RE_kwDORsUayc4Yb0OY",
+        "lastPublishedAt": "2026-10-11T21:53:24Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -3103,8 +3139,8 @@
         "lastPublishedAt": "2024-12-05T18:51:33Z"
       },
       "files-community/Files": {
-        "lastReleaseId": "RE_kwDOCciW1M4WQK6t",
-        "lastPublishedAt": "2026-08-19T20:39:26Z",
+        "lastReleaseId": "RE_kwDOCciW1M4Ybcft",
+        "lastPublishedAt": "2026-10-11T18:35:07Z",
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
@@ -3894,8 +3930,8 @@
         "lastPublishedAt": "2025-03-12T16:38:48Z"
       },
       "pressly/goose": {
-        "lastReleaseId": "RE_kwDOAyHt9s4Wtvj5",
-        "lastPublishedAt": "2026-09-02T08:34:11Z",
+        "lastReleaseId": "RE_kwDOAyHt9s4YbWt1",
+        "lastPublishedAt": "2026-10-11T17:48:18Z",
         "releaseHistoryCursor": null
       },
       "mantinedev/ui.mantine.dev": {},
