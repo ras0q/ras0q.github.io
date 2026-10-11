@@ -2,143 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-03",
       "2026-10-04",
       "2026-10-05",
       "2026-10-06",
       "2026-10-07",
       "2026-10-08",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-10"
     ],
     "days": {
-      "2026-10-03": [
-        {
-          "id": "RE_kwDOC3PEAc4YATe3",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.60.1",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.60.1",
-          "publishedAt": "2026-10-03T23:31:57Z",
-          "name": "0.60.1"
-        },
-        {
-          "id": "RE_kwDOC3PEAc4YAM-j",
-          "owner": "dprint",
-          "repo": "dprint",
-          "tag": "0.60.0",
-          "url": "https://github.com/dprint/dprint/releases/tag/0.60.0",
-          "publishedAt": "2026-10-03T22:04:28Z",
-          "name": "0.60.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84X_7kB",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.9.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.9.0",
-          "publishedAt": "2026-10-03T18:19:13Z",
-          "name": "v1.9.0"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4X_3mg",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.23",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.23",
-          "publishedAt": "2026-10-03T17:34:11Z",
-          "name": "0.12.23"
-        },
-        {
-          "id": "RE_kwDOIvux3s4X_kQP",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.1",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.1",
-          "publishedAt": "2026-10-03T14:12:48Z",
-          "name": "v2026.10.1: Task timeout and Ctrl-C fixes, Windows daemon and shim fixes"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4X_bji",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "v1.25.1",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.25.1",
-          "publishedAt": "2026-10-03T12:28:51Z",
-          "name": "v1.25.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4X_bY5",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.430.1",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.430.1",
-          "publishedAt": "2026-10-03T12:26:19Z",
-          "name": "v0.430.1"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4X_YRJ",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.172",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.172",
-          "publishedAt": "2026-10-03T11:53:33Z",
-          "name": "v8.4.172 - `ultralytics 8.4.172` Add rotation-aligned OBB crops to save_crop (#26486)"
-        },
-        {
-          "id": "RE_kwDOG-K8R84X_YBh",
-          "owner": "windingwind",
-          "repo": "zotero-pdf-translate",
-          "tag": "v2.4.8",
-          "url": "https://github.com/windingwind/zotero-pdf-translate/releases/tag/v2.4.8",
-          "publishedAt": "2026-10-03T11:50:39Z",
-          "name": "Release v2.4.8"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4X_CIU",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v31.4.1",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.4.1",
-          "publishedAt": "2026-10-03T07:58:21Z",
-          "name": "v31.4.1"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84X-_Dw",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.8.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.8.0",
-          "publishedAt": "2026-10-03T07:24:57Z",
-          "name": "v1.8.0"
-        },
-        {
-          "id": "RE_kwDOOJyWhM4X-tON",
-          "owner": "amatya-aditya",
-          "repo": "obsidian-rss-dashboard",
-          "tag": "2.7.1",
-          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/releases/tag/2.7.1",
-          "publishedAt": "2026-10-03T04:00:28Z",
-          "name": "2.7.1"
-        },
-        {
-          "id": "RE_kwDOOJyWhM4X-jkO",
-          "owner": "amatya-aditya",
-          "repo": "obsidian-rss-dashboard",
-          "tag": "2.7.0",
-          "url": "https://github.com/amatya-aditya/obsidian-rss-dashboard/releases/tag/2.7.0",
-          "publishedAt": "2026-10-03T02:08:11Z",
-          "name": "2.7.0"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4X-g4T",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "v1.25.0",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.25.0",
-          "publishedAt": "2026-10-03T01:34:00Z",
-          "name": "v1.25.0"
-        }
-      ],
       "2026-10-04": [
         {
           "id": "RE_kwDOMtN2Z84YCTgE",
@@ -2240,6 +2112,26 @@
           "publishedAt": "2026-10-10T02:50:40Z",
           "name": "v0.439.0"
         }
+      ],
+      "2026-10-11": [
+        {
+          "id": "RE_kwDORsUayc4YZVRz",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.16.0",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.16.0",
+          "publishedAt": "2026-10-11T00:30:48Z",
+          "name": "v0.16.0"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4YZUuu",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.62.0",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.62.0",
+          "publishedAt": "2026-10-11T00:27:47Z",
+          "name": "0.62.0"
+        }
       ]
     }
   },
@@ -2378,8 +2270,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4YZLih",
-        "lastPublishedAt": "2026-10-10T22:52:38Z",
+        "lastReleaseId": "RE_kwDORsUayc4YZVRz",
+        "lastPublishedAt": "2026-10-11T00:30:48Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -3382,8 +3274,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4YNWsu",
-        "lastPublishedAt": "2026-10-07T21:04:44Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4YZUuu",
+        "lastPublishedAt": "2026-10-11T00:27:47Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
