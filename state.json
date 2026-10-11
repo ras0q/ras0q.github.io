@@ -2115,6 +2115,60 @@
       ],
       "2026-10-11": [
         {
+          "id": "RE_kwDOIvux3s4Yabvw",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.8",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.8",
+          "publishedAt": "2026-10-11T10:05:39Z",
+          "name": "v2026.10.8: Stable `global` install link for IDEs"
+        },
+        {
+          "id": "RE_kwDONRQKHs4Yab91",
+          "owner": "pfrankov",
+          "repo": "obsidian-ai-providers",
+          "tag": "1.13.0",
+          "url": "https://github.com/pfrankov/obsidian-ai-providers/releases/tag/1.13.0",
+          "publishedAt": "2026-10-11T10:03:02Z",
+          "name": "1.13.0"
+        },
+        {
+          "id": "RE_kwDOE4c3is4YaWm1",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.7.2",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.2",
+          "publishedAt": "2026-10-11T09:13:47Z",
+          "name": "9.7.2"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4YZ5pK",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.1",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.1",
+          "publishedAt": "2026-10-11T05:33:59Z",
+          "name": "v1.8.1"
+        },
+        {
+          "id": "RE_kwDOBMN_y84YZyHk",
+          "owner": "chromedp",
+          "repo": "chromedp",
+          "tag": "v0.21.0",
+          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.21.0",
+          "publishedAt": "2026-10-11T04:29:08Z",
+          "name": "v0.21.0"
+        },
+        {
+          "id": "RE_kwDODVAw7c4YZvRt",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.12",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.12",
+          "publishedAt": "2026-10-11T04:04:28Z",
+          "name": "v3.33.12"
+        },
+        {
           "id": "RE_kwDORsUayc4YZVRz",
           "owner": "babarot",
           "repo": "gh-infra",
@@ -2642,8 +2696,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4YQAIf",
-        "lastPublishedAt": "2026-10-08T13:15:58Z",
+        "lastReleaseId": "RE_kwDODVAw7c4YZvRt",
+        "lastPublishedAt": "2026-10-11T04:04:28Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2917,8 +2971,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4YYDFL",
-        "lastPublishedAt": "2026-10-10T13:04:08Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4YZ5pK",
+        "lastPublishedAt": "2026-10-11T05:33:59Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3036,8 +3090,8 @@
         "releaseHistoryCursor": null
       },
       "pfrankov/obsidian-ai-providers": {
-        "lastReleaseId": "RE_kwDONRQKHs4YLvZG",
-        "lastPublishedAt": "2026-10-07T12:19:28Z",
+        "lastReleaseId": "RE_kwDONRQKHs4Yab91",
+        "lastPublishedAt": "2026-10-11T10:03:02Z",
         "releaseHistoryCursor": null
       },
       "k1LoW/deck": {
@@ -3204,8 +3258,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4YWBoB",
-        "lastPublishedAt": "2026-10-09T23:43:50Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Yabvw",
+        "lastPublishedAt": "2026-10-11T10:05:39Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3883,8 +3937,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4YHwo9",
-        "lastPublishedAt": "2026-10-06T12:35:56Z",
+        "lastReleaseId": "RE_kwDOE4c3is4YaWm1",
+        "lastPublishedAt": "2026-10-11T09:13:47Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
@@ -4113,8 +4167,8 @@
         "releaseHistoryCursor": null
       },
       "chromedp/chromedp": {
-        "lastReleaseId": "RE_kwDOBMN_y84YFty_",
-        "lastPublishedAt": "2026-10-05T22:50:56Z",
+        "lastReleaseId": "RE_kwDOBMN_y84YZyHk",
+        "lastPublishedAt": "2026-10-11T04:29:08Z",
         "releaseHistoryCursor": null
       },
       "tkuchiki/slp": {
