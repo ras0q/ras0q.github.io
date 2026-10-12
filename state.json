@@ -2097,6 +2097,60 @@
       ],
       "2026-10-12": [
         {
+          "id": "RE_kwDOC_ORP84Yfvqg",
+          "owner": "GREsau",
+          "repo": "schemars",
+          "tag": "v1.2.3",
+          "url": "https://github.com/GREsau/schemars/releases/tag/v1.2.3",
+          "publishedAt": "2026-10-12T20:30:41Z",
+          "name": "v1.2.3"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4YftHh",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.176",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.176",
+          "publishedAt": "2026-10-12T20:13:57Z",
+          "name": "v8.4.176 - `ultralytics 8.4.176` Keep CLIP out of YOLO-World checkpoints after set_classes (328 MB → 26 MB) (#26647)"
+        },
+        {
+          "id": "RE_kwDOSJO3-s4YfmZ6",
+          "owner": "github",
+          "repo": "gh-actions-lock",
+          "tag": "v0.2.0",
+          "url": "https://github.com/github/gh-actions-lock/releases/tag/v0.2.0",
+          "publishedAt": "2026-10-12T19:31:12Z",
+          "name": "gh-actions-lock 0.2.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YfRfw",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.15.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.15.1",
+          "publishedAt": "2026-10-12T17:28:55Z",
+          "name": "v1.15.1"
+        },
+        {
+          "id": "RE_kwDOA4rpZM4Yepdc",
+          "owner": "outline",
+          "repo": "outline",
+          "tag": "v1.11.0",
+          "url": "https://github.com/outline/outline/releases/tag/v1.11.0",
+          "publishedAt": "2026-10-12T14:22:35Z",
+          "name": "v1.11.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4YeOxq",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.4",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.4",
+          "publishedAt": "2026-10-12T12:27:40Z",
+          "name": "v1.8.4"
+        },
+        {
           "id": "RE_kwDORsUayc4Yd0Dz",
           "owner": "babarot",
           "repo": "gh-infra",
@@ -2186,8 +2240,8 @@
       "kjuq/skkelua.nvim": {},
       "toppair/peek.nvim": {},
       "GREsau/schemars": {
-        "lastReleaseId": "RE_kwDOC_ORP84VfKks",
-        "lastPublishedAt": "2026-07-27T14:36:12Z",
+        "lastReleaseId": "RE_kwDOC_ORP84Yfvqg",
+        "lastPublishedAt": "2026-10-12T20:30:41Z",
         "releaseHistoryCursor": null
       },
       "mazrean/kanata": {
@@ -2206,8 +2260,8 @@
         "releaseHistoryCursor": null
       },
       "outline/outline": {
-        "lastReleaseId": "RE_kwDOA4rpZM4W-rUS",
-        "lastPublishedAt": "2026-09-09T13:14:41Z",
+        "lastReleaseId": "RE_kwDOA4rpZM4Yepdc",
+        "lastPublishedAt": "2026-10-12T14:22:35Z",
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
@@ -2953,8 +3007,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4Ydsoq",
-        "lastPublishedAt": "2026-10-12T09:37:31Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4YeOxq",
+        "lastPublishedAt": "2026-10-12T12:27:40Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3259,8 +3313,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YX7IT",
-        "lastPublishedAt": "2026-10-10T12:05:36Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YfRfw",
+        "lastPublishedAt": "2026-10-12T17:28:55Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3677,8 +3731,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4YVocZ",
-        "lastPublishedAt": "2026-10-09T20:34:43Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4YftHh",
+        "lastPublishedAt": "2026-10-12T20:13:57Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4495,8 +4549,8 @@
         "releaseHistoryCursor": null
       },
       "github/gh-actions-lock": {
-        "lastReleaseId": "RE_kwDOSJO3-s4VilVY",
-        "lastPublishedAt": "2026-07-28T21:26:51Z",
+        "lastReleaseId": "RE_kwDOSJO3-s4YfmZ6",
+        "lastPublishedAt": "2026-10-12T19:31:12Z",
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
