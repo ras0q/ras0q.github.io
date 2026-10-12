@@ -2097,6 +2097,60 @@
       ],
       "2026-10-12": [
         {
+          "id": "RE_kwDORsUayc4Yd0Dz",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.17.3",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.3",
+          "publishedAt": "2026-10-12T10:09:27Z",
+          "name": "v0.17.3"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4Ydsoq",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.3",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.3",
+          "publishedAt": "2026-10-12T09:37:31Z",
+          "name": "v1.8.3"
+        },
+        {
+          "id": "RE_kwDORsUayc4YdRmm",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.17.2",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.2",
+          "publishedAt": "2026-10-12T07:42:39Z",
+          "name": "v0.17.2"
+        },
+        {
+          "id": "RE_kwDONpzSS84YdQTt",
+          "owner": "open-telemetry",
+          "repo": "opentelemetry-go-compile-instrumentation",
+          "tag": "v1.2.0",
+          "url": "https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/releases/tag/v1.2.0",
+          "publishedAt": "2026-10-12T07:36:59Z",
+          "name": "v1.2.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Yc5Az",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.8.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.8.0",
+          "publishedAt": "2026-10-12T05:51:08Z",
+          "name": "v31.8.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4YcqjR",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.2",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.2",
+          "publishedAt": "2026-10-12T04:37:47Z",
+          "name": "v1.8.2"
+        },
+        {
           "id": "RE_kwDOQr_i4M4YcbpM",
           "owner": "trasta298",
           "repo": "keifu",
@@ -2197,8 +2251,8 @@
         "releaseHistoryCursor": null
       },
       "open-telemetry/opentelemetry-go-compile-instrumentation": {
-        "lastReleaseId": "RE_kwDONpzSS84WYKRv",
-        "lastPublishedAt": "2026-08-24T03:47:44Z",
+        "lastReleaseId": "RE_kwDONpzSS84YdQTt",
+        "lastPublishedAt": "2026-10-12T07:36:59Z",
         "releaseHistoryCursor": null
       },
       "pionxzh/wakaru": {
@@ -2252,8 +2306,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4YcWIN",
-        "lastPublishedAt": "2026-10-12T02:34:24Z",
+        "lastReleaseId": "RE_kwDORsUayc4Yd0Dz",
+        "lastPublishedAt": "2026-10-12T10:09:27Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -2899,8 +2953,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4YZ5pK",
-        "lastPublishedAt": "2026-10-11T05:33:59Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4Ydsoq",
+        "lastPublishedAt": "2026-10-12T09:37:31Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -4230,8 +4284,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4YXRd9",
-        "lastPublishedAt": "2026-10-10T07:00:37Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Yc5Az",
+        "lastPublishedAt": "2026-10-12T05:51:08Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
