@@ -2052,6 +2052,78 @@
       ],
       "2026-10-13": [
         {
+          "id": "RE_kwDOIvux3s4Yi2gq",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.9",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.9",
+          "publishedAt": "2026-10-13T14:53:38Z",
+          "name": "v2026.10.9: path: tool versions require trust; apt repositories, login items and run0/doas in bootstrap"
+        },
+        {
+          "id": "RE_kwDOJEKgss4YiqaM",
+          "owner": "DataDog",
+          "repo": "orchestrion",
+          "tag": "v1.14.0",
+          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.14.0",
+          "publishedAt": "2026-10-13T14:31:40Z",
+          "name": "v1.14.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4YitN7",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.36",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.36",
+          "publishedAt": "2026-10-13T14:18:53Z",
+          "name": "1.0.36"
+        },
+        {
+          "id": "RE_kwDODH8YWs4Yid8e",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.07",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.07",
+          "publishedAt": "2026-10-13T13:11:42Z",
+          "name": "v2026.10.07"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4YieJE",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.32",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.32",
+          "publishedAt": "2026-10-13T13:11:25Z",
+          "name": "v1.10.32"
+        },
+        {
+          "id": "RE_kwDOOIl6Q84YiVuc",
+          "owner": "k1LoW",
+          "repo": "deck",
+          "tag": "v1.24.4",
+          "url": "https://github.com/k1LoW/deck/releases/tag/v1.24.4",
+          "publishedAt": "2026-10-13T12:35:16Z",
+          "name": "v1.24.4"
+        },
+        {
+          "id": "RE_kwDOE4ox_c4Yhjnq",
+          "owner": "hummingbird-project",
+          "repo": "hummingbird",
+          "tag": "2.28.0",
+          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.28.0",
+          "publishedAt": "2026-10-13T08:23:33Z",
+          "name": "v2.28.0"
+        },
+        {
+          "id": "RE_kwDOOIl6Q84YhefY",
+          "owner": "k1LoW",
+          "repo": "deck",
+          "tag": "v1.24.3",
+          "url": "https://github.com/k1LoW/deck/releases/tag/v1.24.3",
+          "publishedAt": "2026-10-13T08:00:16Z",
+          "name": "v1.24.3"
+        },
+        {
           "id": "RE_kwDODH8YWs4Ygeyl",
           "owner": "directvt",
           "repo": "vtm",
@@ -2969,8 +3041,8 @@
         "releaseHistoryCursor": null
       },
       "k1LoW/deck": {
-        "lastReleaseId": "RE_kwDOOIl6Q84XvXCF",
-        "lastPublishedAt": "2026-09-28T13:48:02Z",
+        "lastReleaseId": "RE_kwDOOIl6Q84YiVuc",
+        "lastPublishedAt": "2026-10-13T12:35:16Z",
         "releaseHistoryCursor": null
       },
       "typedgrammar/typed-japanese": {},
@@ -3009,8 +3081,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4Ygeyl",
-        "lastPublishedAt": "2026-10-13T01:57:53Z",
+        "lastReleaseId": "RE_kwDODH8YWs4Yid8e",
+        "lastPublishedAt": "2026-10-13T13:11:42Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -3132,8 +3204,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Yabvw",
-        "lastPublishedAt": "2026-10-11T10:05:39Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Yi2gq",
+        "lastPublishedAt": "2026-10-13T14:53:38Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3286,8 +3358,8 @@
       },
       "nerdsupremacist/memes": {},
       "hummingbird-project/hummingbird": {
-        "lastReleaseId": "RE_kwDOE4ox_c4YT4L2",
-        "lastPublishedAt": "2026-10-09T11:50:36Z",
+        "lastReleaseId": "RE_kwDOE4ox_c4Yhjnq",
+        "lastPublishedAt": "2026-10-13T08:23:33Z",
         "releaseHistoryCursor": null
       },
       "darlinghq/darling": {
@@ -3601,8 +3673,8 @@
       "ikasam/yaml_cv": {},
       "pikachu0310/traP-isucon-workshop": {},
       "DataDog/orchestrion": {
-        "lastReleaseId": "RE_kwDOJEKgss4XP2Wl",
-        "lastPublishedAt": "2026-09-17T13:40:46Z",
+        "lastReleaseId": "RE_kwDOJEKgss4YiqaM",
+        "lastPublishedAt": "2026-10-13T14:31:40Z",
         "releaseHistoryCursor": null
       },
       "spotify/voyager": {
@@ -3698,8 +3770,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4YCqvc",
-        "lastPublishedAt": "2026-10-05T04:26:38Z",
+        "lastReleaseId": "RE_kwDOGNEXps4YitN7",
+        "lastPublishedAt": "2026-10-13T14:18:53Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3804,8 +3876,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4X9awt",
-        "lastPublishedAt": "2026-10-02T16:24:37Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4YieJE",
+        "lastPublishedAt": "2026-10-13T13:11:25Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
