@@ -2052,6 +2052,69 @@
       ],
       "2026-10-13": [
         {
+          "id": "RE_kwDOObWEYM4YkA7y",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.64.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0",
+          "publishedAt": "2026-10-13T20:44:46Z",
+          "name": "Release v0.64.0"
+        },
+        {
+          "id": "RE_kwDOQ52_2c4Yj4hk",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.21.1",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.21.1",
+          "publishedAt": "2026-10-13T20:00:55Z",
+          "name": "v0.21.1"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4Yj21F",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.8",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.8",
+          "publishedAt": "2026-10-13T19:52:36Z",
+          "name": "v0.15.8"
+        },
+        {
+          "id": "RE_kwDODH8YWs4Yj2kj",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.08",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.08",
+          "publishedAt": "2026-10-13T19:52:24Z",
+          "name": "v2026.10.08"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4Yjqg4",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.21",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.21",
+          "publishedAt": "2026-10-13T18:51:22Z",
+          "name": "v1.0.21"
+        },
+        {
+          "id": "RE_kwDOCPvJPM4YjFTR",
+          "owner": "loov",
+          "repo": "goda",
+          "tag": "v0.10.2",
+          "url": "https://github.com/loov/goda/releases/tag/v0.10.2",
+          "publishedAt": "2026-10-13T15:48:52Z",
+          "name": "v0.10.2"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4YjChK",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.177",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.177",
+          "publishedAt": "2026-10-13T15:36:42Z",
+          "name": "v8.4.177 - 8.4.177 Fix SAM prompts across images and video frames (#26651)"
+        },
+        {
           "id": "RE_kwDOIvux3s4Yi2gq",
           "owner": "jdx",
           "repo": "mise",
@@ -2374,8 +2437,8 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4X76AL",
-        "lastPublishedAt": "2026-10-02T06:14:27Z",
+        "lastReleaseId": "RE_kwDORQ3jDc4Yj21F",
+        "lastPublishedAt": "2026-10-13T19:52:36Z",
         "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
@@ -2433,13 +2496,13 @@
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastReleaseId": "RE_kwDOQ52_2c4XWQhu",
-        "lastPublishedAt": "2026-09-18T18:53:03Z",
+        "lastReleaseId": "RE_kwDOQ52_2c4Yj4hk",
+        "lastPublishedAt": "2026-10-13T20:00:55Z",
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4YUxvW",
-        "lastPublishedAt": "2026-10-09T16:17:38Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4Yjqg4",
+        "lastPublishedAt": "2026-10-13T18:51:22Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2808,8 +2871,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4YJa4M",
-        "lastPublishedAt": "2026-10-06T20:38:49Z",
+        "lastReleaseId": "RE_kwDOObWEYM4YkA7y",
+        "lastPublishedAt": "2026-10-13T20:44:46Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -3081,8 +3144,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4Yid8e",
-        "lastPublishedAt": "2026-10-13T13:11:42Z",
+        "lastReleaseId": "RE_kwDODH8YWs4Yj2kj",
+        "lastPublishedAt": "2026-10-13T19:52:24Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -3641,8 +3704,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4YftHh",
-        "lastPublishedAt": "2026-10-12T20:13:57Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4YjChK",
+        "lastPublishedAt": "2026-10-13T15:36:42Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4108,8 +4171,8 @@
         "lastPublishedAt": "2022-05-11T17:34:02Z"
       },
       "loov/goda": {
-        "lastReleaseId": "RE_kwDOCPvJPM4Wbqs6",
-        "lastPublishedAt": "2026-08-25T11:28:00Z",
+        "lastReleaseId": "RE_kwDOCPvJPM4YjFTR",
+        "lastPublishedAt": "2026-10-13T15:48:52Z",
         "releaseHistoryCursor": null
       },
       "chromedp/chromedp": {
