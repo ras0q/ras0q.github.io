@@ -2,197 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-05",
       "2026-10-06",
       "2026-10-07",
       "2026-10-08",
       "2026-10-09",
       "2026-10-10",
-      "2026-10-11"
+      "2026-10-11",
+      "2026-10-12"
     ],
     "days": {
-      "2026-10-05": [
-        {
-          "id": "RE_kwDOMtN2Z84YFyvj",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.12.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.12.1",
-          "publishedAt": "2026-10-05T23:35:45Z",
-          "name": "v1.12.1"
-        },
-        {
-          "id": "RE_kwDOHrOdo84YFxyq",
-          "owner": "runmedev",
-          "repo": "runme",
-          "tag": "v3.17.6",
-          "url": "https://github.com/runmedev/runme/releases/tag/v3.17.6",
-          "publishedAt": "2026-10-05T23:27:07Z",
-          "name": "v3.17.6"
-        },
-        {
-          "id": "RE_kwDOBMN_y84YFty_",
-          "owner": "chromedp",
-          "repo": "chromedp",
-          "tag": "v0.20.1",
-          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.20.1",
-          "publishedAt": "2026-10-05T22:50:56Z",
-          "name": "v0.20.1"
-        },
-        {
-          "id": "RE_kwDOBMN_y84YFoEK",
-          "owner": "chromedp",
-          "repo": "chromedp",
-          "tag": "remote/v0.2.0",
-          "url": "https://github.com/chromedp/chromedp/releases/tag/remote/v0.2.0",
-          "publishedAt": "2026-10-05T22:07:09Z",
-          "name": "remote v0.2.0"
-        },
-        {
-          "id": "RE_kwDOBMN_y84YFn7A",
-          "owner": "chromedp",
-          "repo": "chromedp",
-          "tag": "v0.20.0",
-          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.20.0",
-          "publishedAt": "2026-10-05T22:06:09Z",
-          "name": "v0.20.0"
-        },
-        {
-          "id": "RE_kwDONQkKUc4YCY1G",
-          "owner": "xtool-org",
-          "repo": "xtool",
-          "tag": "1.21.0",
-          "url": "https://github.com/xtool-org/xtool/releases/tag/1.21.0",
-          "publishedAt": "2026-10-05T21:47:51Z",
-          "name": "v1.21.0"
-        },
-        {
-          "id": "RE_kwDOAWJAkM4YFkFX",
-          "owner": "git-for-windows",
-          "repo": "git",
-          "tag": "v2.56.0.windows.2",
-          "url": "https://github.com/git-for-windows/git/releases/tag/v2.56.0.windows.2",
-          "publishedAt": "2026-10-05T21:42:10Z",
-          "name": "Git for Windows v2.56.0.windows.2"
-        },
-        {
-          "id": "RE_kwDODH8YWs4YFj19",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.02",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.02",
-          "publishedAt": "2026-10-05T21:41:44Z",
-          "name": "v2026.10.02"
-        },
-        {
-          "id": "RE_kwDOD6MHws4YEVIL",
-          "owner": "obsidianmd",
-          "repo": "obsidian-releases",
-          "tag": "v1.14.4",
-          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.14.4",
-          "publishedAt": "2026-10-05T17:03:28Z",
-          "name": "1.14.4"
-        },
-        {
-          "id": "RE_kwDOHojuL84YE341",
-          "owner": "dsherret",
-          "repo": "dax",
-          "tag": "0.50.1",
-          "url": "https://github.com/dsherret/dax/releases/tag/0.50.1",
-          "publishedAt": "2026-10-05T16:46:43Z",
-          "name": "0.50.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YEpXT",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.433.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.433.0",
-          "publishedAt": "2026-10-05T15:33:27Z",
-          "name": "v0.433.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YELrh",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.12.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.12.0",
-          "publishedAt": "2026-10-05T13:35:40Z",
-          "name": "v1.12.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4YDm8c",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.3",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.3",
-          "publishedAt": "2026-10-05T10:35:27Z",
-          "name": "v2026.10.3: Dotfile groups, templated Compose projects, and secret hygiene for shell state"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4YDl4K",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.148.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.148.0",
-          "publishedAt": "2026-10-05T10:22:55Z",
-          "name": "v1.148.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4YDYJJ",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.147.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.147.0",
-          "publishedAt": "2026-10-05T09:06:44Z",
-          "name": "v1.147.0"
-        },
-        {
-          "id": "RE_kwDOE4c3is4YDOZ_",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.7.0",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.0",
-          "publishedAt": "2026-10-05T08:10:19Z",
-          "name": "9.7.0"
-        },
-        {
-          "id": "RE_kwDOCk1n-s4YCyfb",
-          "owner": "eure",
-          "repo": "swift-storybook",
-          "tag": "3.2.2",
-          "url": "https://github.com/eure/swift-storybook/releases/tag/3.2.2",
-          "publishedAt": "2026-10-05T05:13:48Z",
-          "name": "3.2.2"
-        },
-        {
-          "id": "RE_kwDOGNEXps4YCqvc",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.35",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.35",
-          "publishedAt": "2026-10-05T04:26:38Z",
-          "name": "1.0.35"
-        },
-        {
-          "id": "RE_kwDOUNMECc4YCdtb",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.6.0",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.6.0",
-          "publishedAt": "2026-10-05T03:51:16Z",
-          "name": "v1.6.0: The GitHub Action checks the packslip CLI it downloads against a SHA-256 pinned in the action commit"
-        },
-        {
-          "id": "RE_kwDOPnPlX84YCoFu",
-          "owner": "leochiu-a",
-          "repo": "slidev-workspace",
-          "tag": "slidev-workspace@0.10.0",
-          "url": "https://github.com/leochiu-a/slidev-workspace/releases/tag/slidev-workspace%400.10.0",
-          "publishedAt": "2026-10-05T03:28:14Z",
-          "name": "slidev-workspace@0.10.0"
-        }
-      ],
       "2026-10-06": [
         {
           "id": "RE_kwDOR2vLLM4YJpE_",
@@ -2097,6 +1915,15 @@
       ],
       "2026-10-12": [
         {
+          "id": "RE_kwDOPbFNk84YgDU2",
+          "owner": "earendil-works",
+          "repo": "pi",
+          "tag": "v1.2.0",
+          "url": "https://github.com/earendil-works/pi/releases/tag/v1.2.0",
+          "publishedAt": "2026-10-12T23:03:53Z",
+          "name": "v1.2.0"
+        },
+        {
           "id": "RE_kwDOC_ORP84Yfvqg",
           "owner": "GREsau",
           "repo": "schemars",
@@ -2221,6 +2048,17 @@
           "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.1",
           "publishedAt": "2026-10-12T02:34:24Z",
           "name": "v0.17.1"
+        }
+      ],
+      "2026-10-13": [
+        {
+          "id": "RE_kwDODH8YWs4Ygeyl",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.06",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.06",
+          "publishedAt": "2026-10-13T01:57:53Z",
+          "name": "v2026.10.06"
         }
       ]
     }
@@ -2988,8 +2826,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/WSL": {
-        "lastReleaseId": "RE_kwDOA1DMt84Xr3Zy",
-        "lastPublishedAt": "2026-09-29T17:18:57Z",
+        "lastReleaseId": "RE_kwDOA1DMt84YN28X",
+        "lastPublishedAt": "2026-10-09T18:21:40Z",
         "releaseHistoryCursor": null
       },
       "traPtitech/naro-text": {
@@ -3171,8 +3009,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4YRicJ",
-        "lastPublishedAt": "2026-10-08T20:49:24Z",
+        "lastReleaseId": "RE_kwDODH8YWs4Ygeyl",
+        "lastPublishedAt": "2026-10-13T01:57:53Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -4554,8 +4392,8 @@
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
-        "lastReleaseId": "RE_kwDOPbFNk84YNkgR",
-        "lastPublishedAt": "2026-10-07T22:26:31Z",
+        "lastReleaseId": "RE_kwDOPbFNk84YgDU2",
+        "lastPublishedAt": "2026-10-12T23:03:53Z",
         "releaseHistoryCursor": null
       },
       "go-fynx/deadcode": {}
