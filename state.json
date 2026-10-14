@@ -1665,6 +1665,24 @@
       ],
       "2026-10-14": [
         {
+          "id": "RE_kwDOKbIFZc4YlBvM",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.13.1",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.1",
+          "publishedAt": "2026-10-14T05:15:30Z",
+          "name": "0.13.1"
+        },
+        {
+          "id": "RE_kwDOALIcz84Yk2Sd",
+          "owner": "rcmdnk",
+          "repo": "vim_ahk",
+          "tag": "v0.17.2",
+          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.17.2",
+          "publishedAt": "2026-10-14T03:33:24Z",
+          "name": "v0.17.2"
+        },
+        {
           "id": "RE_kwDONcE2Ic4Ykv73",
           "owner": "traPtitech",
           "repo": "piscon-portal-v2",
@@ -2032,8 +2050,8 @@
         "releaseHistoryCursor": null
       },
       "rcmdnk/vim_ahk": {
-        "lastReleaseId": "RE_kwDOALIcz84XMkFz",
-        "lastPublishedAt": "2026-09-15T13:29:08Z",
+        "lastReleaseId": "RE_kwDOALIcz84Yk2Sd",
+        "lastPublishedAt": "2026-10-14T03:33:24Z",
         "releaseHistoryCursor": null
       },
       "tonisives/ovim": {
@@ -3085,8 +3103,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4YVfXl",
-        "lastPublishedAt": "2026-10-09T19:49:55Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4YlBvM",
+        "lastPublishedAt": "2026-10-14T05:15:30Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -4020,8 +4038,8 @@
       },
       "go-fynx/deadcode": {},
       "facebook/dotslash": {
-        "lastPublishedAt": "2026-04-09T23:18:53Z",
         "lastReleaseId": "RE_kwDOLOhyvs4SUUGO",
+        "lastPublishedAt": "2026-04-09T23:18:53Z",
         "releaseHistoryCursor": null
       }
     }
