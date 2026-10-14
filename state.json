@@ -1665,6 +1665,33 @@
       ],
       "2026-10-14": [
         {
+          "id": "RE_kwDOQ5Wxys4Yn_kg",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.22",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.22",
+          "publishedAt": "2026-10-14T20:09:20Z",
+          "name": "v1.0.22"
+        },
+        {
+          "id": "RE_kwDODH8YWs4YngWx",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.10",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.10",
+          "publishedAt": "2026-10-14T17:46:50Z",
+          "name": "v2026.10.10"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YnVFl",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.16.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.16.0",
+          "publishedAt": "2026-10-14T16:55:42Z",
+          "name": "v1.16.0"
+        },
+        {
           "id": "RE_kwDOPrEI7s4YnHH5",
           "owner": "Gaurav-Gosain",
           "repo": "tuios",
@@ -2033,8 +2060,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4Yjqg4",
-        "lastPublishedAt": "2026-10-13T18:51:22Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4Yn_kg",
+        "lastPublishedAt": "2026-10-14T20:09:20Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2676,8 +2703,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4YkKLO",
-        "lastPublishedAt": "2026-10-13T21:39:01Z",
+        "lastReleaseId": "RE_kwDODH8YWs4YngWx",
+        "lastPublishedAt": "2026-10-14T17:46:50Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -2818,8 +2845,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YfRfw",
-        "lastPublishedAt": "2026-10-12T17:28:55Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YnVFl",
+        "lastPublishedAt": "2026-10-14T16:55:42Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
