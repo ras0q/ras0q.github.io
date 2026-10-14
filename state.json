@@ -1665,6 +1665,33 @@
       ],
       "2026-10-14": [
         {
+          "id": "RE_kwDOPrEI7s4YnHH5",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.9.3",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.9.3",
+          "publishedAt": "2026-10-14T15:55:38Z",
+          "name": "v0.9.3"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Yl1dw",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.10",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.10",
+          "publishedAt": "2026-10-14T10:11:55Z",
+          "name": "v2026.10.10: Task skip_if, snap and COPR in bootstrap, and dotfiles pull fixes"
+        },
+        {
+          "id": "RE_kwDOOELNJM4YltBw",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.2.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.2.0",
+          "publishedAt": "2026-10-14T09:23:08Z",
+          "name": "vite-plus v1.2.0"
+        },
+        {
           "id": "RE_kwDOKbIFZc4YlBvM",
           "owner": "astral-sh",
           "repo": "uv",
@@ -1909,8 +1936,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4YKJwp",
-        "lastPublishedAt": "2026-10-07T02:29:36Z",
+        "lastReleaseId": "RE_kwDOOELNJM4YltBw",
+        "lastPublishedAt": "2026-10-14T09:23:08Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -2131,8 +2158,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4YTRre",
-        "lastPublishedAt": "2026-10-09T08:25:08Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4YnHH5",
+        "lastPublishedAt": "2026-10-14T15:55:38Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -2772,8 +2799,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Yi2gq",
-        "lastPublishedAt": "2026-10-13T14:53:38Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Yl1dw",
+        "lastPublishedAt": "2026-10-14T10:11:55Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3205,7 +3232,7 @@
       },
       "omnivore-app/omnivore": {
         "lastReleaseId": "RE_kwDOG034nM4YPnLP",
-        "lastPublishedAt": "2026-10-09T08:42:09Z",
+        "lastPublishedAt": "2026-10-14T14:42:00Z",
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
