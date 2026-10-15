@@ -1476,6 +1476,24 @@
       ],
       "2026-10-15": [
         {
+          "id": "RE_kwDOQ63fjM4YpBI_",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.8.0",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.8.0",
+          "publishedAt": "2026-10-15T04:03:25Z",
+          "name": "v1.8.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84Yo6ZL",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.17.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.17.0",
+          "publishedAt": "2026-10-15T03:07:09Z",
+          "name": "v1.17.0"
+        },
+        {
           "id": "RE_kwDOPYoUTM4Yolnm",
           "owner": "Fission-AI",
           "repo": "OpenSpec",
@@ -2575,8 +2593,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YnVFl",
-        "lastPublishedAt": "2026-10-14T16:55:42Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84Yo6ZL",
+        "lastPublishedAt": "2026-10-15T03:07:09Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3751,8 +3769,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4YSfOp",
-        "lastPublishedAt": "2026-10-09T04:10:32Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4YpBI_",
+        "lastPublishedAt": "2026-10-15T04:03:25Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {
