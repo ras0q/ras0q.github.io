@@ -1476,6 +1476,42 @@
       ],
       "2026-10-15": [
         {
+          "id": "RE_kwDOUNMECc4YsfXk",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.8.0",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.8.0",
+          "publishedAt": "2026-10-15T22:30:55Z",
+          "name": "v1.8.0: Verify packslip releases from Node.js with the new npm package"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4YsdN1",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.457.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.457.0",
+          "publishedAt": "2026-10-15T21:48:48Z",
+          "name": "v0.457.0"
+        },
+        {
+          "id": "RE_kwDODH8YWs4YsYvT",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.11",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.11",
+          "publishedAt": "2026-10-15T21:24:46Z",
+          "name": "v2026.10.11"
+        },
+        {
+          "id": "RE_kwDOPbFNk84Yr6tG",
+          "owner": "earendil-works",
+          "repo": "pi",
+          "tag": "v1.3.0",
+          "url": "https://github.com/earendil-works/pi/releases/tag/v1.3.0",
+          "publishedAt": "2026-10-15T19:17:33Z",
+          "name": "v1.3.0"
+        },
+        {
           "id": "RE_kwDOCd2s284YrQpG",
           "owner": "emilk",
           "repo": "egui",
@@ -1929,8 +1965,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YZIla",
-        "lastPublishedAt": "2026-10-10T22:24:22Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YsdN1",
+        "lastPublishedAt": "2026-10-15T21:48:48Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2263,7 +2299,7 @@
       },
       "agentsmd/agents.md": {},
       "arktypeio/arktype": {
-        "lastReleaseId": "RE_kwDOC4NVf84YNmJ6",
+        "lastReleaseId": "RE_kwDOC4NVf84YNmJ-",
         "lastPublishedAt": "2026-10-07T22:29:05Z",
         "releaseHistoryCursor": null
       },
@@ -2649,8 +2685,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4YngWx",
-        "lastPublishedAt": "2026-10-14T17:46:50Z",
+        "lastReleaseId": "RE_kwDODH8YWs4YsYvT",
+        "lastPublishedAt": "2026-10-15T21:24:46Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -4002,8 +4038,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4YInQI",
-        "lastPublishedAt": "2026-10-11T15:28:13Z",
+        "lastReleaseId": "RE_kwDOUNMECc4YsfXk",
+        "lastPublishedAt": "2026-10-15T22:30:55Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
@@ -4032,8 +4068,8 @@
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
-        "lastReleaseId": "RE_kwDOPbFNk84YgDU2",
-        "lastPublishedAt": "2026-10-12T23:03:53Z",
+        "lastReleaseId": "RE_kwDOPbFNk84Yr6tG",
+        "lastPublishedAt": "2026-10-15T19:17:33Z",
         "releaseHistoryCursor": null
       },
       "go-fynx/deadcode": {},
