@@ -1512,6 +1512,33 @@
       ],
       "2026-10-16": [
         {
+          "id": "RE_kwDOPrEI7s4YtpFS",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.10.0",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.10.0",
+          "publishedAt": "2026-10-16T06:20:00Z",
+          "name": "v0.10.0"
+        },
+        {
+          "id": "RE_kwDOOELNJM4YtniN",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.3.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.3.0",
+          "publishedAt": "2026-10-16T06:09:37Z",
+          "name": "vite-plus v1.3.0"
+        },
+        {
+          "id": "RE_kwDOOR3Pys4YtXP8",
+          "owner": "swiftlang",
+          "repo": "swift-subprocess",
+          "tag": "1.0.2",
+          "url": "https://github.com/swiftlang/swift-subprocess/releases/tag/1.0.2",
+          "publishedAt": "2026-10-16T04:41:38Z",
+          "name": "Subprocess 1.0.2"
+        },
+        {
           "id": "RE_kwDOM9WtiM4Ys_GL",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -1738,8 +1765,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4YltBw",
-        "lastPublishedAt": "2026-10-14T09:23:08Z",
+        "lastReleaseId": "RE_kwDOOELNJM4YtniN",
+        "lastPublishedAt": "2026-10-16T06:09:37Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -1960,8 +1987,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4YnHH5",
-        "lastPublishedAt": "2026-10-14T15:55:38Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4YtpFS",
+        "lastPublishedAt": "2026-10-16T06:20:00Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -2383,8 +2410,8 @@
         "lastPublishedAt": "2026-05-27T07:37:36Z"
       },
       "swiftlang/swift-subprocess": {
-        "lastReleaseId": "RE_kwDOOR3Pys4YSWMd",
-        "lastPublishedAt": "2026-10-09T03:17:14Z",
+        "lastReleaseId": "RE_kwDOOR3Pys4YtXP8",
+        "lastPublishedAt": "2026-10-16T04:41:38Z",
         "releaseHistoryCursor": null
       },
       "Shoryu-Y/At-UIEnvironment": {},
