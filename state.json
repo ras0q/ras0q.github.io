@@ -1512,6 +1512,42 @@
       ],
       "2026-10-16": [
         {
+          "id": "RE_kwDOJWXenM4YwMFp",
+          "owner": "spotify",
+          "repo": "voyager",
+          "tag": "2.2.0",
+          "url": "https://github.com/spotify/voyager/releases/tag/2.2.0",
+          "publishedAt": "2026-10-16T18:58:35Z",
+          "name": "2.2.0"
+        },
+        {
+          "id": "RE_kwDOO2B60c4YwIEr",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.2.0",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.2.0",
+          "publishedAt": "2026-10-16T18:43:14Z",
+          "name": "2.2.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4YwCh-",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.12",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.12",
+          "publishedAt": "2026-10-16T18:19:41Z",
+          "name": "v2026.10.12: Per-tool Python runtimes for PyPI tools, Gradle workspace discovery, and env file find_up"
+        },
+        {
+          "id": "RE_kwDORSib_s4Yvv7j",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.19.6",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.19.6",
+          "publishedAt": "2026-10-16T16:39:12Z",
+          "name": "v0.19.6"
+        },
+        {
           "id": "RE_kwDOGNEXps4Yvdw_",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -1701,8 +1737,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4Ybs8s",
-        "lastPublishedAt": "2026-10-11T20:52:01Z",
+        "lastReleaseId": "RE_kwDORSib_s4Yvv7j",
+        "lastPublishedAt": "2026-10-16T16:39:12Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2042,8 +2078,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4YB3Jw",
-        "lastPublishedAt": "2026-10-04T18:03:38Z",
+        "lastReleaseId": "RE_kwDOO2B60c4YwIEr",
+        "lastPublishedAt": "2026-10-16T18:43:14Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2709,8 +2745,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Yp_kt",
-        "lastPublishedAt": "2026-10-15T10:13:36Z",
+        "lastReleaseId": "RE_kwDOIvux3s4YwCh-",
+        "lastPublishedAt": "2026-10-16T18:19:41Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3183,8 +3219,9 @@
         "releaseHistoryCursor": null
       },
       "spotify/voyager": {
-        "lastReleaseId": "RE_kwDOJWXenM4O25e5",
-        "lastPublishedAt": "2025-09-23T12:26:10Z"
+        "lastReleaseId": "RE_kwDOJWXenM4YwMFp",
+        "lastPublishedAt": "2026-10-16T18:58:35Z",
+        "releaseHistoryCursor": null
       },
       "pointfreeco/swift-dependencies": {
         "lastReleaseId": "RE_kwDOIF_Mq84WkzdO",
