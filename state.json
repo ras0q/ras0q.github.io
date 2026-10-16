@@ -1512,6 +1512,87 @@
       ],
       "2026-10-16": [
         {
+          "id": "RE_kwDOGNEXps4Yvdw_",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.37",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.37",
+          "publishedAt": "2026-10-16T15:22:03Z",
+          "name": "1.0.37"
+        },
+        {
+          "id": "RE_kwDOH0TSTs4YvZC8",
+          "owner": "Songmu",
+          "repo": "tagpr",
+          "tag": "v1.21.3",
+          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.21.3",
+          "publishedAt": "2026-10-16T14:54:24Z",
+          "name": "v1.21.3"
+        },
+        {
+          "id": "RE_kwDOBLlNSM4YvTPd",
+          "owner": "lingui",
+          "repo": "js-lingui",
+          "tag": "v6.10.0",
+          "url": "https://github.com/lingui/js-lingui/releases/tag/v6.10.0",
+          "publishedAt": "2026-10-16T14:27:16Z",
+          "name": "v6.10.0"
+        },
+        {
+          "id": "RE_kwDOSP9SeM4YvGdq",
+          "owner": "abap34",
+          "repo": "ss",
+          "tag": "v0.8.4",
+          "url": "https://github.com/abap34/ss/releases/tag/v0.8.4",
+          "publishedAt": "2026-10-16T13:34:20Z",
+          "name": "ss v0.8.4"
+        },
+        {
+          "id": "RE_kwDOINPdOM4YuupH",
+          "owner": "zama-ai",
+          "repo": "tfhe-rs",
+          "tag": "tfhe-rs-1.6.1-1",
+          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.6.1-1",
+          "publishedAt": "2026-10-16T12:14:29Z",
+          "name": "TFHE-rs 1.6.1-1"
+        },
+        {
+          "id": "RE_kwDOAcjBfM4Yuvcz",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v5.1.4",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.4",
+          "publishedAt": "2026-10-16T11:49:47Z",
+          "name": "Fluent Bit 5.1.4"
+        },
+        {
+          "id": "RE_kwDOGN5wJc4YurKv",
+          "owner": "dlvhdr",
+          "repo": "gh-dash",
+          "tag": "v4.26.2",
+          "url": "https://github.com/dlvhdr/gh-dash/releases/tag/v4.26.2",
+          "publishedAt": "2026-10-16T11:29:38Z",
+          "name": "v4.26.2"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4YuWW5",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.26.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.26.0",
+          "publishedAt": "2026-10-16T10:03:24Z",
+          "name": "Schema v1.26.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4YuWWT",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.12.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.12.0",
+          "publishedAt": "2026-10-16T10:03:21Z",
+          "name": "Rust Crate v1.12.0"
+        },
+        {
           "id": "RE_kwDOPrEI7s4YtpFS",
           "owner": "Gaurav-Gosain",
           "repo": "tuios",
@@ -1584,8 +1665,8 @@
       },
       "nikitabobko/AeroSpace": {},
       "lingui/js-lingui": {
-        "lastReleaseId": "RE_kwDOBLlNSM4YUFbm",
-        "lastPublishedAt": "2026-10-09T13:00:09Z",
+        "lastReleaseId": "RE_kwDOBLlNSM4YvTPd",
+        "lastPublishedAt": "2026-10-16T14:27:16Z",
         "releaseHistoryCursor": null
       },
       "docmost/docmost": {
@@ -1684,8 +1765,8 @@
         "releaseHistoryCursor": null
       },
       "abap34/ss": {
-        "lastReleaseId": "RE_kwDOSP9SeM4YJjfJ",
-        "lastPublishedAt": "2026-10-06T21:31:12Z",
+        "lastReleaseId": "RE_kwDOSP9SeM4YvGdq",
+        "lastPublishedAt": "2026-10-16T13:34:20Z",
         "releaseHistoryCursor": null
       },
       "kavinsood/yaos": {
@@ -1774,8 +1855,8 @@
         "lastPublishedAt": "2026-05-11T09:03:14Z"
       },
       "Songmu/tagpr": {
-        "lastReleaseId": "RE_kwDOH0TSTs4YKPy4",
-        "lastPublishedAt": "2026-10-07T03:18:37Z",
+        "lastReleaseId": "RE_kwDOH0TSTs4YvZC8",
+        "lastPublishedAt": "2026-10-16T14:54:24Z",
         "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
@@ -2073,8 +2154,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4YUWE2",
-        "lastPublishedAt": "2026-10-09T14:17:40Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4YuWW5",
+        "lastPublishedAt": "2026-10-16T10:03:24Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -2671,8 +2752,8 @@
         "lastPublishedAt": "2026-05-09T01:38:29Z"
       },
       "zama-ai/tfhe-rs": {
-        "lastReleaseId": "RE_kwDOINPdOM4XRs_y",
-        "lastPublishedAt": "2026-09-17T07:42:37Z",
+        "lastReleaseId": "RE_kwDOINPdOM4YuupH",
+        "lastPublishedAt": "2026-10-16T12:14:29Z",
         "releaseHistoryCursor": null
       },
       "obsidianmd/obsidian-clipper": {
@@ -2832,8 +2913,8 @@
         "lastPublishedAt": "2025-04-05T13:50:09Z"
       },
       "dlvhdr/gh-dash": {
-        "lastReleaseId": "RE_kwDOGN5wJc4YUgrb",
-        "lastPublishedAt": "2026-10-09T15:07:27Z",
+        "lastReleaseId": "RE_kwDOGN5wJc4YurKv",
+        "lastPublishedAt": "2026-10-16T11:29:38Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete": {
@@ -3194,8 +3275,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4YitN7",
-        "lastPublishedAt": "2026-10-13T14:18:53Z",
+        "lastReleaseId": "RE_kwDOGNEXps4Yvdw_",
+        "lastPublishedAt": "2026-10-16T15:22:03Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3607,8 +3688,8 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4YUrz7",
-        "lastPublishedAt": "2026-10-09T15:54:41Z",
+        "lastReleaseId": "RE_kwDOAcjBfM4Yuvcz",
+        "lastPublishedAt": "2026-10-16T11:49:47Z",
         "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
