@@ -2,242 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-08",
       "2026-10-09",
       "2026-10-10",
       "2026-10-11",
       "2026-10-12",
       "2026-10-13",
-      "2026-10-14"
+      "2026-10-14",
+      "2026-10-15"
     ],
     "days": {
-      "2026-10-08": [
-        {
-          "id": "RE_kwDOQzKeuM4YRtWO",
-          "owner": "tfcace",
-          "repo": "hash",
-          "tag": "v0.8.0",
-          "url": "https://github.com/tfcace/hash/releases/tag/v0.8.0",
-          "publishedAt": "2026-10-08T21:56:56Z",
-          "name": "v0.8.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4YRhhC",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.5",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.5",
-          "publishedAt": "2026-10-08T20:50:21Z",
-          "name": "v2026.10.5: Java defaults to Temurin, per-machine and local-only dotfile history, packslip workflow pinning"
-        },
-        {
-          "id": "RE_kwDODH8YWs4YRicJ",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.05",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.05",
-          "publishedAt": "2026-10-08T20:49:24Z",
-          "name": "v2026.10.05"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4YRhbS",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.18",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.18",
-          "publishedAt": "2026-10-08T20:42:49Z",
-          "name": "v1.0.18"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4YRasI",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.12.24",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.12.24",
-          "publishedAt": "2026-10-08T20:06:20Z",
-          "name": "0.12.24"
-        },
-        {
-          "id": "RE_kwDOJKcikM4YRMS2",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.6",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.6",
-          "publishedAt": "2026-10-08T18:51:09Z",
-          "name": "@astrojs/starlight@0.42.6"
-        },
-        {
-          "id": "RE_kwDODH8YWs4YRKPg",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.04",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.04",
-          "publishedAt": "2026-10-08T18:43:32Z",
-          "name": "v2026.10.04"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4YRHW8",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.98.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.98.0",
-          "publishedAt": "2026-10-08T18:26:33Z",
-          "name": "v0.98.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4YRDHQ",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v31.6.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.6.0",
-          "publishedAt": "2026-10-08T18:05:05Z",
-          "name": "v31.6.0"
-        },
-        {
-          "id": "RE_kwDOQu84n84YQ-zs",
-          "owner": "k1LoW",
-          "repo": "git-wt",
-          "tag": "v0.30.0",
-          "url": "https://github.com/k1LoW/git-wt/releases/tag/v0.30.0",
-          "publishedAt": "2026-10-08T17:43:39Z",
-          "name": "v0.30.0"
-        },
-        {
-          "id": "RE_kwDODeVIac4YQ-bt",
-          "owner": "charmbracelet",
-          "repo": "bubbletea",
-          "tag": "v2.1.0",
-          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.0",
-          "publishedAt": "2026-10-08T17:40:36Z",
-          "name": "v2.1.0"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4YQyat",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.40.5",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.5",
-          "publishedAt": "2026-10-08T16:45:10Z",
-          "name": "v0.40.5 Release"
-        },
-        {
-          "id": "RE_kwDOHm9BJM4YQzF1",
-          "owner": "pocketbase",
-          "repo": "pocketbase",
-          "tag": "v0.22.56",
-          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.56",
-          "publishedAt": "2026-10-08T16:44:22Z",
-          "name": "v0.22.56 Release"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4YQpJf",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.9.1",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.9.1",
-          "publishedAt": "2026-10-08T15:58:28Z",
-          "name": "v0.9.1"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YQGHE",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.13.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.13.1",
-          "publishedAt": "2026-10-08T13:40:21Z",
-          "name": "v1.13.1"
-        },
-        {
-          "id": "RE_kwDOD81yrs4YQC1f",
-          "owner": "ManimCommunity",
-          "repo": "manim",
-          "tag": "v0.22.0",
-          "url": "https://github.com/ManimCommunity/manim/releases/tag/v0.22.0",
-          "publishedAt": "2026-10-08T13:26:58Z",
-          "name": "Manim v0.22.0"
-        },
-        {
-          "id": "RE_kwDOHB7d2c4YQBZh",
-          "owner": "smart-splits-nvim",
-          "repo": "smart-splits.nvim",
-          "tag": "v3.0.0",
-          "url": "https://github.com/smart-splits-nvim/smart-splits.nvim/releases/tag/v3.0.0",
-          "publishedAt": "2026-10-08T13:21:25Z",
-          "name": "v3.0.0"
-        },
-        {
-          "id": "RE_kwDODVAw7c4YQAIf",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.11",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.11",
-          "publishedAt": "2026-10-08T13:15:58Z",
-          "name": "v3.33.11"
-        },
-        {
-          "id": "RE_kwDOHB7d2c4YP_KY",
-          "owner": "smart-splits-nvim",
-          "repo": "smart-splits.nvim",
-          "tag": "v2.1.1-final",
-          "url": "https://github.com/smart-splits-nvim/smart-splits.nvim/releases/tag/v2.1.1-final",
-          "publishedAt": "2026-10-08T13:11:50Z",
-          "name": "v2.1.1-final"
-        },
-        {
-          "id": "RE_kwDOD6wJuM4YPyEz",
-          "owner": "47ng",
-          "repo": "nuqs",
-          "tag": "v2.10.2",
-          "url": "https://github.com/47ng/nuqs/releases/tag/v2.10.2",
-          "publishedAt": "2026-10-08T12:20:52Z",
-          "name": "v2.10.2"
-        },
-        {
-          "id": "RE_kwDOAoUxF84YPBvJ",
-          "owner": "preactjs",
-          "repo": "preact",
-          "tag": "11.0.1",
-          "url": "https://github.com/preactjs/preact/releases/tag/11.0.1",
-          "publishedAt": "2026-10-08T08:28:17Z",
-          "name": "11.0.1"
-        },
-        {
-          "id": "RE_kwDOQ63fjM4YOyzp",
-          "owner": "eugenioenko",
-          "repo": "ttt",
-          "tag": "v1.7.0",
-          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.7.0",
-          "publishedAt": "2026-10-08T07:15:22Z",
-          "name": "v1.7.0"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4YOq3V",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.9.0",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.9.0",
-          "publishedAt": "2026-10-08T06:39:18Z",
-          "name": "v0.9.0"
-        },
-        {
-          "id": "RE_kwDOEXrCM84YOZN0",
-          "owner": "esm-dev",
-          "repo": "esm.sh",
-          "tag": "v139_3",
-          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v139_3",
-          "publishedAt": "2026-10-08T04:54:01Z",
-          "name": "Server v139_3"
-        },
-        {
-          "id": "RE_kwDOEXrCM84YOYgv",
-          "owner": "esm-dev",
-          "repo": "esm.sh",
-          "tag": "v0.2.0",
-          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v0.2.0",
-          "publishedAt": "2026-10-08T04:48:17Z",
-          "name": "CLI v0.2.0"
-        }
-      ],
       "2026-10-09": [
         {
           "id": "RE_kwDOIvux3s4YWBoB",
@@ -1736,6 +1509,26 @@
           "publishedAt": "2026-10-15T00:15:19Z",
           "name": "v1.14.2 - Extension metadata, faster completion"
         }
+      ],
+      "2026-10-16": [
+        {
+          "id": "RE_kwDOM9WtiM4Ys_GL",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.5",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.5",
+          "publishedAt": "2026-10-16T01:45:29Z",
+          "name": "v1.8.5"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4Ysx-M",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.178",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.178",
+          "publishedAt": "2026-10-16T00:09:32Z",
+          "name": "v8.4.178 - 8.4.178 Print the Platform-resolved model link after training starts (#26699)"
+        }
       ]
     }
   },
@@ -2521,8 +2314,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4YeOxq",
-        "lastPublishedAt": "2026-10-12T12:27:40Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4Ys_GL",
+        "lastPublishedAt": "2026-10-16T01:45:29Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3245,8 +3038,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4YjChK",
-        "lastPublishedAt": "2026-10-13T15:36:42Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Ysx-M",
+        "lastPublishedAt": "2026-10-16T00:09:32Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
