@@ -1512,6 +1512,51 @@
       ],
       "2026-10-16": [
         {
+          "id": "RE_kwDOFNWFc84Ywn8o",
+          "owner": "obsidian-tasks-group",
+          "repo": "obsidian-tasks",
+          "tag": "8.6.0",
+          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.6.0",
+          "publishedAt": "2026-10-16T21:40:25Z",
+          "name": "8.6.0: Require at least Obsidian 1.13.1; add setting for which field to Postpone"
+        },
+        {
+          "id": "RE_kwDOK-QCA84YwmYX",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v20.0.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.0.0",
+          "publishedAt": "2026-10-16T21:26:25Z",
+          "name": "v20.0.0"
+        },
+        {
+          "id": "RE_kwDOJWXenM4YwmGv",
+          "owner": "spotify",
+          "repo": "voyager",
+          "tag": "v2.2.2",
+          "url": "https://github.com/spotify/voyager/releases/tag/v2.2.2",
+          "publishedAt": "2026-10-16T21:24:34Z",
+          "name": "v2.2.2"
+        },
+        {
+          "id": "RE_kwDOJWXenM4Ywf6p",
+          "owner": "spotify",
+          "repo": "voyager",
+          "tag": "v2.2.1",
+          "url": "https://github.com/spotify/voyager/releases/tag/v2.2.1",
+          "publishedAt": "2026-10-16T20:48:02Z",
+          "name": "v2.2.1"
+        },
+        {
+          "id": "RE_kwDOJWXenM4YwV2q",
+          "owner": "spotify",
+          "repo": "voyager",
+          "tag": "v2.2.0",
+          "url": "https://github.com/spotify/voyager/releases/tag/v2.2.0",
+          "publishedAt": "2026-10-16T19:50:19Z",
+          "name": "v2.2.0"
+        },
+        {
           "id": "RE_kwDOJWXenM4YwMFp",
           "owner": "spotify",
           "repo": "voyager",
@@ -2230,8 +2275,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84X67ZV",
-        "lastPublishedAt": "2026-10-01T20:22:26Z",
+        "lastReleaseId": "RE_kwDOK-QCA84YwmYX",
+        "lastPublishedAt": "2026-10-16T21:26:25Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -3092,8 +3137,8 @@
       "egonelbre/gophers": {},
       "golang/proposal": {},
       "obsidian-tasks-group/obsidian-tasks": {
-        "lastReleaseId": "RE_kwDOFNWFc84YX1W-",
-        "lastPublishedAt": "2026-10-10T11:32:21Z",
+        "lastReleaseId": "RE_kwDOFNWFc84Ywn8o",
+        "lastPublishedAt": "2026-10-16T21:40:25Z",
         "releaseHistoryCursor": null
       },
       "utterance/utterances": {},
@@ -3219,8 +3264,8 @@
         "releaseHistoryCursor": null
       },
       "spotify/voyager": {
-        "lastReleaseId": "RE_kwDOJWXenM4YwMFp",
-        "lastPublishedAt": "2026-10-16T18:58:35Z",
+        "lastReleaseId": "RE_kwDOJWXenM4YwmGv",
+        "lastPublishedAt": "2026-10-16T21:24:34Z",
         "releaseHistoryCursor": null
       },
       "pointfreeco/swift-dependencies": {
