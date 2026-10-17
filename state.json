@@ -1296,6 +1296,132 @@
       ],
       "2026-10-17": [
         {
+          "id": "RE_kwDOQvjuaM4YyXFE",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.463.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.463.0",
+          "publishedAt": "2026-10-17T14:41:45Z",
+          "name": "v0.463.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4YyNAf",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.180",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.180",
+          "publishedAt": "2026-10-17T13:17:58Z",
+          "name": "v8.4.180 - ultralytics 8.4.180 OKS-aware label assignment for YOLO26-pose (#26695)"
+        },
+        {
+          "id": "RE_kwDOE4c3is4YyHoO",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.7.3",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.3",
+          "publishedAt": "2026-10-17T12:28:58Z",
+          "name": "9.7.3"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4YyDsg",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.26.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.26.0",
+          "publishedAt": "2026-10-17T11:53:53Z",
+          "name": "v1.26.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4YyAtu",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.179",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.179",
+          "publishedAt": "2026-10-17T11:23:54Z",
+          "name": "v8.4.179 - ultralytics 8.4.179 Cap rknn-toolkit2 below 2.5 and smoke RKNN at imgsz=64 (#26727)"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx26k",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-manifests-v0.19.10",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.10",
+          "publishedAt": "2026-10-17T10:03:20Z",
+          "name": "binstalk-manifests-v0.19.10"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx25S",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.29.4",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.4",
+          "publishedAt": "2026-10-17T10:03:13Z",
+          "name": "binstalk-v0.29.4"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx2vV",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-targets-v0.1.95",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.95",
+          "publishedAt": "2026-10-17T10:02:08Z",
+          "name": "detect-targets-v0.1.95"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx2uw",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-registry-v0.12.11",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.11",
+          "publishedAt": "2026-10-17T10:02:02Z",
+          "name": "binstalk-registry-v0.12.11"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx2tD",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-fetchers-v0.10.52",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.52",
+          "publishedAt": "2026-10-17T10:01:51Z",
+          "name": "binstalk-fetchers-v0.10.52"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx2rv",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-git-repo-api-v0.5.52",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.52",
+          "publishedAt": "2026-10-17T10:01:44Z",
+          "name": "binstalk-git-repo-api-v0.5.52"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx2qd",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-downloader-v0.14.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.14.0",
+          "publishedAt": "2026-10-17T10:01:35Z",
+          "name": "binstalk-downloader-v0.14.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Yx2iP",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-bins-v0.7.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-bins-v0.7.0",
+          "publishedAt": "2026-10-17T10:00:44Z",
+          "name": "binstalk-bins-v0.7.0"
+        },
+        {
+          "id": "RE_kwDOK-QCA84YxvOi",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v20.0.1",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.0.1",
+          "publishedAt": "2026-10-17T09:04:50Z",
+          "name": "v20.0.1"
+        },
+        {
           "id": "RE_kwDOQvjuaM4YxloI",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1569,8 +1695,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YxloI",
-        "lastPublishedAt": "2026-10-17T07:25:29Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YyXFE",
+        "lastPublishedAt": "2026-10-17T14:41:45Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1897,8 +2023,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84YwmYX",
-        "lastPublishedAt": "2026-10-16T21:26:25Z",
+        "lastReleaseId": "RE_kwDOK-QCA84YxvOi",
+        "lastPublishedAt": "2026-10-17T09:04:50Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -2305,8 +2431,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4YYUGP",
-        "lastPublishedAt": "2026-10-10T15:19:50Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4YyDsg",
+        "lastPublishedAt": "2026-10-17T11:53:53Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -2849,8 +2975,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Ysx-M",
-        "lastPublishedAt": "2026-10-16T00:09:32Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4YyNAf",
+        "lastPublishedAt": "2026-10-17T13:17:58Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3092,8 +3218,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4YaWm1",
-        "lastPublishedAt": "2026-10-11T09:13:47Z",
+        "lastReleaseId": "RE_kwDOE4c3is4YyHoO",
+        "lastPublishedAt": "2026-10-17T12:28:58Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
@@ -3682,7 +3808,8 @@
         "lastReleaseId": "RE_kwDOLOhyvs4SUUGO",
         "lastPublishedAt": "2026-04-09T23:18:53Z",
         "releaseHistoryCursor": null
-      }
+      },
+      "daliusd/ghlite.nvim": {}
     }
   }
 }
