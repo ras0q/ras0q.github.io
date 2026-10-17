@@ -1296,6 +1296,42 @@
       ],
       "2026-10-17": [
         {
+          "id": "RE_kwDOQvjuaM4YxloI",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.458.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.458.0",
+          "publishedAt": "2026-10-17T07:25:29Z",
+          "name": "v0.458.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84YxjJq",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.18.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.18.1",
+          "publishedAt": "2026-10-17T07:04:54Z",
+          "name": "v1.18.1"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84Yxaoc",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.18.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.18.0",
+          "publishedAt": "2026-10-17T05:37:27Z",
+          "name": "v1.18.0"
+        },
+        {
+          "id": "RE_kwDODH8YWs4YxMwu",
+          "owner": "directvt",
+          "repo": "vtm",
+          "tag": "v2026.10.12",
+          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.12",
+          "publishedAt": "2026-10-17T03:08:21Z",
+          "name": "v2026.10.12"
+        },
+        {
           "id": "RE_kwDOPYoUTM4YxGFo",
           "owner": "Fission-AI",
           "repo": "OpenSpec",
@@ -1533,8 +1569,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YsdN1",
-        "lastPublishedAt": "2026-10-15T21:48:48Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4YxloI",
+        "lastPublishedAt": "2026-10-17T07:25:29Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2253,8 +2289,8 @@
         "lastPublishedAt": "2026-02-20T01:51:07Z"
       },
       "directvt/vtm": {
-        "lastReleaseId": "RE_kwDODH8YWs4YsYvT",
-        "lastPublishedAt": "2026-10-15T21:24:46Z",
+        "lastReleaseId": "RE_kwDODH8YWs4YxMwu",
+        "lastPublishedAt": "2026-10-17T03:08:21Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/c3": {
@@ -2395,8 +2431,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YrKkO",
-        "lastPublishedAt": "2026-10-15T15:24:23Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YxjJq",
+        "lastPublishedAt": "2026-10-17T07:04:54Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
