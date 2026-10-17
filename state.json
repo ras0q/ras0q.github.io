@@ -1296,6 +1296,33 @@
       ],
       "2026-10-17": [
         {
+          "id": "RE_kwDOH-jzvc4Yy7zu",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.181",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.181",
+          "publishedAt": "2026-10-17T19:06:30Z",
+          "name": "v8.4.181 - ultralytics 8.4.181 Fix `.yml` dataset discovery regression, case-insensitive source lists, non-UTF-8 hashing and `auto_annotate` same-stem labels (#26735)"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4Yy4Hd",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.10.1",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.10.1",
+          "publishedAt": "2026-10-17T18:32:49Z",
+          "name": "v0.10.1"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Yy3HK",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.13",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.13",
+          "publishedAt": "2026-10-17T18:29:52Z",
+          "name": "v2026.10.13: Untrusted project configs can no longer change settings"
+        },
+        {
           "id": "RE_kwDOMtN2Z84YyeS5",
           "owner": "eyemono-moe",
           "repo": "streets",
@@ -1924,8 +1951,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4YtpFS",
-        "lastPublishedAt": "2026-10-16T06:20:00Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4Yy4Hd",
+        "lastPublishedAt": "2026-10-17T18:32:49Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -2565,8 +2592,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4YwCh-",
-        "lastPublishedAt": "2026-10-16T18:19:41Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Yy3HK",
+        "lastPublishedAt": "2026-10-17T18:29:52Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3002,8 +3029,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4YyNAf",
-        "lastPublishedAt": "2026-10-17T13:17:58Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Yy7zu",
+        "lastPublishedAt": "2026-10-17T19:06:30Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
