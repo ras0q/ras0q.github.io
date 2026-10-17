@@ -1296,6 +1296,33 @@
       ],
       "2026-10-17": [
         {
+          "id": "RE_kwDOMtN2Z84YyeS5",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.19.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.19.0",
+          "publishedAt": "2026-10-17T15:31:52Z",
+          "name": "v1.19.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4Yyc6G",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.38",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.38",
+          "publishedAt": "2026-10-17T15:24:38Z",
+          "name": "1.0.38"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4YyYqu",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.6",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.6",
+          "publishedAt": "2026-10-17T14:53:26Z",
+          "name": "v1.8.6"
+        },
+        {
           "id": "RE_kwDOQvjuaM4YyXFE",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2251,8 +2278,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4Ys_GL",
-        "lastPublishedAt": "2026-10-16T01:45:29Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4YyYqu",
+        "lastPublishedAt": "2026-10-17T14:53:26Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2557,8 +2584,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YxjJq",
-        "lastPublishedAt": "2026-10-17T07:04:54Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84YyeS5",
+        "lastPublishedAt": "2026-10-17T15:31:52Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3105,8 +3132,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Yvdw_",
-        "lastPublishedAt": "2026-10-16T15:22:03Z",
+        "lastReleaseId": "RE_kwDOGNEXps4Yyc6G",
+        "lastPublishedAt": "2026-10-17T15:24:38Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
