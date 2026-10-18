@@ -2,296 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-10",
       "2026-10-11",
       "2026-10-12",
       "2026-10-13",
       "2026-10-14",
       "2026-10-15",
-      "2026-10-16"
+      "2026-10-16",
+      "2026-10-17"
     ],
     "days": {
-      "2026-10-10": [
-        {
-          "id": "RE_kwDORsUayc4YZLih",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.15.2",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.15.2",
-          "publishedAt": "2026-10-10T22:52:38Z",
-          "name": "v0.15.2"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YZIla",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.443.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.443.0",
-          "publishedAt": "2026-10-10T22:24:22Z",
-          "name": "v0.443.0"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4YZBDc",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "v0.2.19",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.19",
-          "publishedAt": "2026-10-10T21:16:42Z",
-          "name": "v0.2.19"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4YY_5y",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.13",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.13",
-          "publishedAt": "2026-10-10T21:06:42Z",
-          "name": "cli-v0.1.13"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YYvpD",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.442.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.442.0",
-          "publishedAt": "2026-10-10T18:52:22Z",
-          "name": "v0.442.0"
-        },
-        {
-          "id": "RE_kwDORsUayc4YYYZO",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.15.1",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.15.1",
-          "publishedAt": "2026-10-10T15:51:09Z",
-          "name": "v0.15.1"
-        },
-        {
-          "id": "RE_kwDOCk1n-s4YYXK2",
-          "owner": "eure",
-          "repo": "swift-storybook",
-          "tag": "3.3.0",
-          "url": "https://github.com/eure/swift-storybook/releases/tag/3.3.0",
-          "publishedAt": "2026-10-10T15:41:36Z",
-          "name": "3.3.0"
-        },
-        {
-          "id": "RE_kwDOOAhtcs4YYWIM",
-          "owner": "kepano",
-          "repo": "defuddle",
-          "tag": "0.19.5",
-          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.5",
-          "publishedAt": "2026-10-10T15:34:53Z",
-          "name": "0.19.5"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4YYUGP",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "v1.25.3",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.25.3",
-          "publishedAt": "2026-10-10T15:19:50Z",
-          "name": "v1.25.3"
-        },
-        {
-          "id": "RE_kwDOFJ5a6s4YYNTh",
-          "owner": "Milkdown",
-          "repo": "milkdown",
-          "tag": "v7.22.3",
-          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.22.3",
-          "publishedAt": "2026-10-10T14:27:15Z",
-          "name": "v7.22.3"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4YYDFL",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.8.0",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.0",
-          "publishedAt": "2026-10-10T13:04:08Z",
-          "name": "v1.8.0"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4YX89J",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-v0.29.3",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.3",
-          "publishedAt": "2026-10-10T12:20:37Z",
-          "name": "binstalk-v0.29.3"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4YX8y_",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-fetchers-v0.10.51",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.51",
-          "publishedAt": "2026-10-10T12:19:22Z",
-          "name": "binstalk-fetchers-v0.10.51"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4YX8xy",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-git-repo-api-v0.5.51",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.51",
-          "publishedAt": "2026-10-10T12:19:15Z",
-          "name": "binstalk-git-repo-api-v0.5.51"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YX7IT",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.15.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.15.0",
-          "publishedAt": "2026-10-10T12:05:36Z",
-          "name": "v1.15.0"
-        },
-        {
-          "id": "RE_kwDOO_HCWM4YX3R9",
-          "owner": "mazrean",
-          "repo": "kessoku",
-          "tag": "v1.2.0",
-          "url": "https://github.com/mazrean/kessoku/releases/tag/v1.2.0",
-          "publishedAt": "2026-10-10T11:38:25Z",
-          "name": "v1.2.0"
-        },
-        {
-          "id": "RE_kwDOFNWFc84YX1W-",
-          "owner": "obsidian-tasks-group",
-          "repo": "obsidian-tasks",
-          "tag": "8.5.0",
-          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.5.0",
-          "publishedAt": "2026-10-10T11:32:21Z",
-          "name": "8.5.0: Settings completely redesigned for Obsidian 1.13 and above; Quick Search uses Fuzzy search"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YXt3B",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.441.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.441.0",
-          "publishedAt": "2026-10-10T10:27:17Z",
-          "name": "v0.441.0"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4YXsh-",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.14.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.14.0",
-          "publishedAt": "2026-10-10T10:16:23Z",
-          "name": "v1.14.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YXU5e",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.440.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.440.0",
-          "publishedAt": "2026-10-10T07:25:24Z",
-          "name": "v0.440.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YXSW5",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.14.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.14.1",
-          "publishedAt": "2026-10-10T07:06:01Z",
-          "name": "v1.14.1"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4YXRd9",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v31.7.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.7.0",
-          "publishedAt": "2026-10-10T07:00:37Z",
-          "name": "v31.7.0"
-        },
-        {
-          "id": "RE_kwDOFVKCyc4YWeF7",
-          "owner": "oven-sh",
-          "repo": "bun",
-          "tag": "bun-v1.4.3",
-          "url": "https://github.com/oven-sh/bun/releases/tag/bun-v1.4.3",
-          "publishedAt": "2026-10-10T05:24:54Z",
-          "name": "Bun v1.4.3"
-        },
-        {
-          "id": "RE_kwDONvYw484YW6xW",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/vite-plugin@1.0.0-rc.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/vite-plugin%401.0.0-rc.5",
-          "publishedAt": "2026-10-10T04:56:46Z",
-          "name": "@arkenv/vite-plugin@1.0.0-rc.5"
-        },
-        {
-          "id": "RE_kwDONvYw484YW6w3",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/rsbuild-plugin@1.0.0-rc.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/rsbuild-plugin%401.0.0-rc.5",
-          "publishedAt": "2026-10-10T04:56:43Z",
-          "name": "@arkenv/rsbuild-plugin@1.0.0-rc.5"
-        },
-        {
-          "id": "RE_kwDONvYw484YW6wQ",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/nuxt@1.0.0-rc.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nuxt%401.0.0-rc.5",
-          "publishedAt": "2026-10-10T04:56:40Z",
-          "name": "@arkenv/nuxt@1.0.0-rc.5"
-        },
-        {
-          "id": "RE_kwDONvYw484YW6vz",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/nextjs@1.0.0-rc.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/nextjs%401.0.0-rc.5",
-          "publishedAt": "2026-10-10T04:56:37Z",
-          "name": "@arkenv/nextjs@1.0.0-rc.5"
-        },
-        {
-          "id": "RE_kwDONvYw484YW6vU",
-          "owner": "yamcodes",
-          "repo": "arkenv",
-          "tag": "@arkenv/bun-plugin@1.0.0-rc.5",
-          "url": "https://github.com/yamcodes/arkenv/releases/tag/%40arkenv/bun-plugin%401.0.0-rc.5",
-          "publishedAt": "2026-10-10T04:56:34Z",
-          "name": "@arkenv/bun-plugin@1.0.0-rc.5"
-        },
-        {
-          "id": "RE_kwDOQzKeuM4YWpbR",
-          "owner": "tfcace",
-          "repo": "hash",
-          "tag": "v0.9.0",
-          "url": "https://github.com/tfcace/hash/releases/tag/v0.9.0",
-          "publishedAt": "2026-10-10T03:23:22Z",
-          "name": "v0.9.0"
-        },
-        {
-          "id": "RE_kwDORsUayc4YWjQY",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.15.0",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.15.0",
-          "publishedAt": "2026-10-10T02:51:55Z",
-          "name": "v0.15.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YWjBE",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.439.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.439.0",
-          "publishedAt": "2026-10-10T02:50:40Z",
-          "name": "v0.439.0"
-        }
-      ],
       "2026-10-11": [
         {
           "id": "RE_kwDOC3PEAc4YcAk8",
@@ -1520,6 +1239,17 @@
           "publishedAt": "2026-10-17T01:52:12Z",
           "name": "v1.14.3 - Linked specs, safer globs"
         }
+      ],
+      "2026-10-18": [
+        {
+          "id": "RE_kwDOQo4rcs4YkPlu",
+          "owner": "tonisives",
+          "repo": "ovim",
+          "tag": "v0.1.0",
+          "url": "https://github.com/tonisives/ovim/releases/tag/v0.1.0",
+          "publishedAt": "2026-10-18T01:27:26Z",
+          "name": "Ovim 0.1.0 — browser sync and AeroSpace popups"
+        }
       ]
     }
   },
@@ -1875,8 +1605,8 @@
         "releaseHistoryCursor": null
       },
       "tonisives/ovim": {
-        "lastReleaseId": "RE_kwDOQo4rcs4Xc-8-",
-        "lastPublishedAt": "2026-09-22T05:26:49Z",
+        "lastReleaseId": "RE_kwDOQo4rcs4YkPlu",
+        "lastPublishedAt": "2026-10-18T01:27:26Z",
         "releaseHistoryCursor": null
       },
       "akatsuki105/dawngba": {},
