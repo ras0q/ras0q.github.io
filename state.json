@@ -1242,6 +1242,24 @@
       ],
       "2026-10-18": [
         {
+          "id": "RE_kwDOQvjuaM4Y1FvV",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.471.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.471.0",
+          "publishedAt": "2026-10-18T16:40:40Z",
+          "name": "v0.471.0"
+        },
+        {
+          "id": "RE_kwDOElf8_c4Y09SL",
+          "owner": "Vinzent03",
+          "repo": "obsidian-git",
+          "tag": "2.42.0",
+          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.42.0",
+          "publishedAt": "2026-10-18T15:40:36Z",
+          "name": "2.42.0"
+        },
+        {
           "id": "RE_kwDOKMzyM84Y03ek",
           "owner": "OpenSwiftUIProject",
           "repo": "OpenSwiftUI",
@@ -1560,8 +1578,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y0a_t",
-        "lastPublishedAt": "2026-10-18T10:56:32Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y1FvV",
+        "lastPublishedAt": "2026-10-18T16:40:40Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2779,8 +2797,8 @@
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
-        "lastReleaseId": "RE_kwDOElf8_c4X8e77",
-        "lastPublishedAt": "2026-10-02T10:39:53Z",
+        "lastReleaseId": "RE_kwDOElf8_c4Y09SL",
+        "lastPublishedAt": "2026-10-18T15:40:36Z",
         "releaseHistoryCursor": null
       },
       "ish-app/ish": {
