@@ -1242,6 +1242,24 @@
       ],
       "2026-10-18": [
         {
+          "id": "RE_kwDOM9WtiM4YzsYu",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.7",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.7",
+          "publishedAt": "2026-10-18T03:08:34Z",
+          "name": "v1.8.7"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4YzrSJ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.182",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.182",
+          "publishedAt": "2026-10-18T02:55:43Z",
+          "name": "v8.4.182 - Reject negative box dimensions during label verification (#26748)"
+        },
+        {
           "id": "RE_kwDOQo4rcs4YkPlu",
           "owner": "tonisives",
           "repo": "ovim",
@@ -2035,8 +2053,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4YyYqu",
-        "lastPublishedAt": "2026-10-17T14:53:26Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4YzsYu",
+        "lastPublishedAt": "2026-10-18T03:08:34Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2759,8 +2777,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Yy7zu",
-        "lastPublishedAt": "2026-10-17T19:06:30Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4YzrSJ",
+        "lastPublishedAt": "2026-10-18T02:55:43Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
