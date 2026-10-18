@@ -1242,6 +1242,69 @@
       ],
       "2026-10-18": [
         {
+          "id": "RE_kwDOKMzyM84Y03ek",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.24.0",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.24.0",
+          "publishedAt": "2026-10-18T14:59:32Z",
+          "name": "0.24.0: Rendering Effects and Controls"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4Y0sq1",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.42.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.42.0",
+          "publishedAt": "2026-10-18T13:30:48Z",
+          "name": "Release 6.42.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y0a_t",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.467.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.467.0",
+          "publishedAt": "2026-10-18T10:56:32Z",
+          "name": "v0.467.0"
+        },
+        {
+          "id": "RE_kwDOUNMECc4Yw6IT",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.9.0",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.9.0",
+          "publishedAt": "2026-10-18T10:07:51Z",
+          "name": "v1.9.0: Go library for building and signing release-v1 statements"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84Y0QLG",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.13.9",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.9",
+          "publishedAt": "2026-10-18T09:24:34Z",
+          "name": "4.13.9"
+        },
+        {
+          "id": "RE_kwDON7Gnt84Y0Po8",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.20.2",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.20.2",
+          "publishedAt": "2026-10-18T09:20:31Z",
+          "name": "slidev-addon-fancy-arrow@0.20.2"
+        },
+        {
+          "id": "RE_kwDOG7dO584Y0MiD",
+          "owner": "NomarCub",
+          "repo": "obsidian-hide-sidebars-on-window-resize",
+          "tag": "1.3.0",
+          "url": "https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize/releases/tag/1.3.0",
+          "publishedAt": "2026-10-18T08:54:04Z",
+          "name": "1.3.0"
+        },
+        {
           "id": "RE_kwDOM9WtiM4YzsYu",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -1497,8 +1560,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4YyXFE",
-        "lastPublishedAt": "2026-10-17T14:41:45Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y0a_t",
+        "lastPublishedAt": "2026-10-18T10:56:32Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1689,8 +1752,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84YJCPO",
-        "lastPublishedAt": "2026-10-06T18:24:37Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Y03ek",
+        "lastPublishedAt": "2026-10-18T14:59:32Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -1768,8 +1831,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4YTItB",
-        "lastPublishedAt": "2026-10-09T07:50:04Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4Y0sq1",
+        "lastPublishedAt": "2026-10-18T13:30:48Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -1790,8 +1853,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84X-IJv",
-        "lastPublishedAt": "2026-10-02T21:21:02Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84Y0QLG",
+        "lastPublishedAt": "2026-10-18T09:24:34Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -2088,8 +2151,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84WogKC",
-        "lastPublishedAt": "2026-08-31T11:58:28Z",
+        "lastReleaseId": "RE_kwDON7Gnt84Y0Po8",
+        "lastPublishedAt": "2026-10-18T09:20:31Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
@@ -2345,8 +2408,8 @@
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
-        "lastReleaseId": "RE_kwDOG7dO584VrdND",
-        "lastPublishedAt": "2026-08-02T06:08:15Z",
+        "lastReleaseId": "RE_kwDOG7dO584Y0MiD",
+        "lastPublishedAt": "2026-10-18T08:54:04Z",
         "releaseHistoryCursor": null
       },
       "XuehaiPan/nvitop": {
@@ -3571,8 +3634,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4YsfXk",
-        "lastPublishedAt": "2026-10-15T22:30:55Z",
+        "lastReleaseId": "RE_kwDOUNMECc4Yw6IT",
+        "lastPublishedAt": "2026-10-18T10:07:51Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
