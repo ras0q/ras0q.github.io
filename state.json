@@ -1377,6 +1377,51 @@
       ],
       "2026-10-19": [
         {
+          "id": "RE_kwDOPn2YWs4Y3JH8",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.151.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.151.0",
+          "publishedAt": "2026-10-19T09:23:13Z",
+          "name": "v1.151.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y2wVm",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.476.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.476.0",
+          "publishedAt": "2026-10-19T07:18:20Z",
+          "name": "v0.476.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y2nN2",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.475.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.475.0",
+          "publishedAt": "2026-10-19T06:23:45Z",
+          "name": "v0.475.0"
+        },
+        {
+          "id": "RE_kwDOKMzyM84Y2S4s",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.24.1",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.24.1",
+          "publishedAt": "2026-10-19T03:56:50Z",
+          "name": "0.24.1: macOS Binary Interface Fix"
+        },
+        {
+          "id": "RE_kwDOGvUVTs4Y2Ojv",
+          "owner": "nitrojs",
+          "repo": "nitro",
+          "tag": "v2.13.5",
+          "url": "https://github.com/nitrojs/nitro/releases/tag/v2.13.5",
+          "publishedAt": "2026-10-19T03:25:02Z",
+          "name": "v2.13.5"
+        },
+        {
           "id": "RE_kwDOM9WtiM4Y2FRS",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -1632,8 +1677,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y1_hR",
-        "lastPublishedAt": "2026-10-19T00:57:26Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y2wVm",
+        "lastPublishedAt": "2026-10-19T07:18:20Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1698,8 +1743,8 @@
         "releaseHistoryCursor": null
       },
       "nitrojs/nitro": {
-        "lastReleaseId": "RE_kwDOGvUVTs4Wypzq",
-        "lastPublishedAt": "2026-09-03T22:55:43Z",
+        "lastReleaseId": "RE_kwDOGvUVTs4Y2Ojv",
+        "lastPublishedAt": "2026-10-19T03:25:02Z",
         "releaseHistoryCursor": null
       },
       "openresponses/openresponses": {},
@@ -1824,8 +1869,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84Y1Tbd",
-        "lastPublishedAt": "2026-10-18T18:33:18Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Y2S4s",
+        "lastPublishedAt": "2026-10-19T03:56:50Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -1870,8 +1915,8 @@
         "lastPublishedAt": "2025-12-07T02:11:35Z"
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4YT2Ll",
-        "lastPublishedAt": "2026-10-09T11:39:26Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4Y3JH8",
+        "lastPublishedAt": "2026-10-19T09:23:13Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3746,7 +3791,8 @@
         "lastPublishedAt": "2026-04-09T23:18:53Z",
         "releaseHistoryCursor": null
       },
-      "daliusd/ghlite.nvim": {}
+      "daliusd/ghlite.nvim": {},
+      "rtk-ai/rtk": {}
     }
   }
 }
