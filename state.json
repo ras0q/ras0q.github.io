@@ -1377,6 +1377,159 @@
       ],
       "2026-10-19": [
         {
+          "id": "RE_kwDOQvjuaM4Y4oEc",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.483.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.483.0",
+          "publishedAt": "2026-10-19T16:20:59Z",
+          "name": "v0.483.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y4evw",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.482.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.482.0",
+          "publishedAt": "2026-10-19T15:28:36Z",
+          "name": "v0.482.0"
+        },
+        {
+          "id": "RE_kwDORsUayc4Y4ZDd",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.17.4",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.4",
+          "publishedAt": "2026-10-19T15:05:58Z",
+          "name": "v0.17.4"
+        },
+        {
+          "id": "RE_kwDOINPdOM4Y4X91",
+          "owner": "zama-ai",
+          "repo": "tfhe-rs",
+          "tag": "tfhe-rs-1.8.2",
+          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.8.2",
+          "publishedAt": "2026-10-19T15:02:45Z",
+          "name": "TFHE-rs 1.8.2"
+        },
+        {
+          "id": "RE_kwDOINPdOM4Y4XIB",
+          "owner": "zama-ai",
+          "repo": "tfhe-rs",
+          "tag": "tfhe-rs-1.7.2",
+          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.7.2",
+          "publishedAt": "2026-10-19T15:00:49Z",
+          "name": "TFHE-rs 1.7.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y4T3x",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.481.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.481.0",
+          "publishedAt": "2026-10-19T14:49:26Z",
+          "name": "v0.481.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4Y4FKR",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.9",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.9",
+          "publishedAt": "2026-10-19T13:56:04Z",
+          "name": "v1.8.9"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4Y39tQ",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.1",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.1",
+          "publishedAt": "2026-10-19T13:27:01Z",
+          "name": "v0.4.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y3qc2",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.480.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.480.0",
+          "publishedAt": "2026-10-19T12:05:36Z",
+          "name": "v0.480.0"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4Y3pgu",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.34.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.34.0",
+          "publishedAt": "2026-10-19T12:00:55Z",
+          "name": "v0.34.0"
+        },
+        {
+          "id": "RE_kwDOPf38cc4YyAB1",
+          "owner": "docker",
+          "repo": "github-builder",
+          "tag": "v1.18.0",
+          "url": "https://github.com/docker/github-builder/releases/tag/v1.18.0",
+          "publishedAt": "2026-10-19T11:53:06Z",
+          "name": "v1.18.0"
+        },
+        {
+          "id": "RE_kwDOINPdOM4Y3in8",
+          "owner": "zama-ai",
+          "repo": "tfhe-rs",
+          "tag": "tfhe-rs-1.6.5",
+          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.6.5",
+          "publishedAt": "2026-10-19T11:29:31Z",
+          "name": "TFHE-rs 1.6.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y3ehG",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.479.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.479.0",
+          "publishedAt": "2026-10-19T11:08:46Z",
+          "name": "v0.479.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Y3Tk9",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.15",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.15",
+          "publishedAt": "2026-10-19T10:19:30Z",
+          "name": "v2026.10.15: Default minimum_release_age covers every backend, plus a PowerShell installer"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y3S97",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.478.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.478.0",
+          "publishedAt": "2026-10-19T10:10:43Z",
+          "name": "v0.478.0"
+        },
+        {
+          "id": "RE_kwDOBoRDs84Y3RNw",
+          "owner": "traPtitech",
+          "repo": "traQ",
+          "tag": "v3.30.0",
+          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.30.0",
+          "publishedAt": "2026-10-19T10:01:45Z",
+          "name": "v3.30.0"
+        },
+        {
+          "id": "RE_kwDOAfCskc4Y3QOU",
+          "owner": "ory",
+          "repo": "dockertest",
+          "tag": "v4.0.1",
+          "url": "https://github.com/ory/dockertest/releases/tag/v4.0.1",
+          "publishedAt": "2026-10-19T09:56:50Z",
+          "name": "v4.0.1"
+        },
+        {
           "id": "RE_kwDOPn2YWs4Y3JH8",
           "owner": "docker",
           "repo": "docker-agent",
@@ -1586,8 +1739,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4Yd0Dz",
-        "lastPublishedAt": "2026-10-12T10:09:27Z",
+        "lastReleaseId": "RE_kwDORsUayc4Y4ZDd",
+        "lastPublishedAt": "2026-10-19T15:05:58Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -1619,8 +1772,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4X9wQY",
-        "lastPublishedAt": "2026-10-02T18:37:00Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4Y3pgu",
+        "lastPublishedAt": "2026-10-19T12:00:55Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -1677,8 +1830,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y2wVm",
-        "lastPublishedAt": "2026-10-19T07:18:20Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y4oEc",
+        "lastPublishedAt": "2026-10-19T16:20:59Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -1717,8 +1870,8 @@
       },
       "fand/ratride": {},
       "docker/github-builder": {
-        "lastReleaseId": "RE_kwDOPf38cc4WT6Ez",
-        "lastPublishedAt": "2026-08-21T10:11:18Z",
+        "lastReleaseId": "RE_kwDOPf38cc4YyAB1",
+        "lastPublishedAt": "2026-10-19T11:53:06Z",
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
@@ -2233,8 +2386,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4Y2FRS",
-        "lastPublishedAt": "2026-10-19T01:53:26Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4Y4FKR",
+        "lastPublishedAt": "2026-10-19T13:56:04Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -2520,8 +2673,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Y1TTQ",
-        "lastPublishedAt": "2026-10-18T18:37:28Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Y3Tk9",
+        "lastPublishedAt": "2026-10-19T10:19:30Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -2563,8 +2716,8 @@
         "lastPublishedAt": "2026-05-09T01:38:29Z"
       },
       "zama-ai/tfhe-rs": {
-        "lastReleaseId": "RE_kwDOINPdOM4YuupH",
-        "lastPublishedAt": "2026-10-16T12:14:29Z",
+        "lastReleaseId": "RE_kwDOINPdOM4Y4X91",
+        "lastPublishedAt": "2026-10-19T15:02:45Z",
         "releaseHistoryCursor": null
       },
       "obsidianmd/obsidian-clipper": {
@@ -3380,8 +3533,9 @@
         "lastPublishedAt": "2026-06-22T06:18:51Z"
       },
       "ory/dockertest": {
-        "lastReleaseId": "RE_kwDOAfCskc4SaL3I",
-        "lastPublishedAt": "2026-04-14T13:49:49Z"
+        "lastReleaseId": "RE_kwDOAfCskc4Y3QOU",
+        "lastPublishedAt": "2026-10-19T09:56:50Z",
+        "releaseHistoryCursor": null
       },
       "felixge/fgtrace": {
         "lastReleaseId": "RE_kwDOIBAP9s4EomiB",
@@ -3576,8 +3730,8 @@
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastReleaseId": "RE_kwDOBoRDs84X5KuS",
-        "lastPublishedAt": "2026-10-01T10:31:16Z",
+        "lastReleaseId": "RE_kwDOBoRDs84Y3RNw",
+        "lastPublishedAt": "2026-10-19T10:01:45Z",
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
@@ -3726,8 +3880,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4XrjIV",
-        "lastPublishedAt": "2026-09-26T15:46:45Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4Y39tQ",
+        "lastPublishedAt": "2026-10-19T13:27:01Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
@@ -3792,7 +3946,12 @@
         "releaseHistoryCursor": null
       },
       "daliusd/ghlite.nvim": {},
-      "rtk-ai/rtk": {}
+      "rtk-ai/rtk": {},
+      "sngazm/sate": {
+        "lastPublishedAt": "2026-10-17T02:34:25Z",
+        "lastReleaseId": "RE_kwDOR0FRxs4YbUdz",
+        "releaseHistoryCursor": null
+      }
     }
   }
 }
