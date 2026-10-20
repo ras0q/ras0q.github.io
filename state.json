@@ -1701,6 +1701,123 @@
       ],
       "2026-10-20": [
         {
+          "id": "RE_kwDOQvjuaM4Y7Mx4",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.499.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.499.0",
+          "publishedAt": "2026-10-20T08:39:50Z",
+          "name": "v0.499.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y7G8U",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.498.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.498.0",
+          "publishedAt": "2026-10-20T08:12:07Z",
+          "name": "v0.498.0"
+        },
+        {
+          "id": "RE_kwDOEXrCM84Y65vK",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v140",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v140",
+          "publishedAt": "2026-10-20T06:59:56Z",
+          "name": "Server v140"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Y65Zb",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.9.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.9.0",
+          "publishedAt": "2026-10-20T06:57:58Z",
+          "name": "v31.9.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y63Rd",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.497.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.497.0",
+          "publishedAt": "2026-10-20T06:44:40Z",
+          "name": "v0.497.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6zy6",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.496.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.496.0",
+          "publishedAt": "2026-10-20T06:21:06Z",
+          "name": "v0.496.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6w0B",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.495.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.495.0",
+          "publishedAt": "2026-10-20T05:58:45Z",
+          "name": "v0.495.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6r6l",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.494.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.494.0",
+          "publishedAt": "2026-10-20T05:29:43Z",
+          "name": "v0.494.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6n3H",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.493.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.493.0",
+          "publishedAt": "2026-10-20T05:05:49Z",
+          "name": "v0.493.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6kEL",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.492.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.492.0",
+          "publishedAt": "2026-10-20T04:43:15Z",
+          "name": "v0.492.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6gVT",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.491.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.491.0",
+          "publishedAt": "2026-10-20T04:11:01Z",
+          "name": "v0.491.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6dMJ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.490.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.490.0",
+          "publishedAt": "2026-10-20T03:42:54Z",
+          "name": "v0.490.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y6ZqT",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.489.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.489.0",
+          "publishedAt": "2026-10-20T03:14:51Z",
+          "name": "v0.489.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4Y6XHZ",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -1992,8 +2109,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y6XHZ",
-        "lastPublishedAt": "2026-10-20T02:54:15Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y7Mx4",
+        "lastPublishedAt": "2026-10-20T08:39:50Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2799,8 +2916,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84YOZN0",
-        "lastPublishedAt": "2026-10-08T04:54:01Z",
+        "lastReleaseId": "RE_kwDOEXrCM84Y65vK",
+        "lastPublishedAt": "2026-10-20T06:59:56Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -3882,8 +3999,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Yc5Az",
-        "lastPublishedAt": "2026-10-12T05:51:08Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Y65Zb",
+        "lastPublishedAt": "2026-10-20T06:57:58Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
