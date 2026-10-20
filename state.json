@@ -1701,6 +1701,240 @@
       ],
       "2026-10-20": [
         {
+          "id": "RE_kwDOObWEYM4Y97b5",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.65.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0",
+          "publishedAt": "2026-10-20T21:17:57Z",
+          "name": "Release v0.65.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y92us",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.509.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.509.0",
+          "publishedAt": "2026-10-20T20:55:58Z",
+          "name": "v0.509.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4Y9u3v",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.20.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.20.0",
+          "publishedAt": "2026-10-20T20:22:40Z",
+          "name": "v0.20.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y9tme",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.508.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.508.0",
+          "publishedAt": "2026-10-20T20:17:21Z",
+          "name": "v0.508.0"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4Y9k_c",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.64.1",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.64.1",
+          "publishedAt": "2026-10-20T19:39:14Z",
+          "name": "0.64.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y9kzB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.507.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.507.0",
+          "publishedAt": "2026-10-20T19:36:34Z",
+          "name": "v0.507.0"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eXJ",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/util@0.56.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/util%400.56.8",
+          "publishedAt": "2026-10-20T19:10:39Z"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4Y9eW8",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.24",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.24",
+          "publishedAt": "2026-10-20T19:10:38Z",
+          "name": "v1.0.24"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eW2",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/util@0.56.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/util%400.56.8",
+          "publishedAt": "2026-10-20T19:10:37Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eWg",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/type@2.2.9",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/type%402.2.9",
+          "publishedAt": "2026-10-20T19:10:36Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eWP",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/type@2.2.9",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/type%402.2.9",
+          "publishedAt": "2026-10-20T19:10:35Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eV7",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "arktype@2.2.9",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/arktype%402.2.9",
+          "publishedAt": "2026-10-20T19:10:34Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eVs",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/schema@0.56.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/schema%400.56.8",
+          "publishedAt": "2026-10-20T19:10:33Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eVa",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/schema@0.56.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/schema%400.56.8",
+          "publishedAt": "2026-10-20T19:10:32Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eVC",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/regex@0.0.14",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/regex%400.0.14",
+          "publishedAt": "2026-10-20T19:10:31Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eUs",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/regex@0.0.14",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/regex%400.0.14",
+          "publishedAt": "2026-10-20T19:10:29Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eUU",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "arkregex@0.0.14",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/arkregex%400.0.14",
+          "publishedAt": "2026-10-20T19:10:28Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eUF",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/json-schema@0.0.13",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/json-schema%400.0.13",
+          "publishedAt": "2026-10-20T19:10:27Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eTw",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/json-schema@0.0.13",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/json-schema%400.0.13",
+          "publishedAt": "2026-10-20T19:10:26Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eTd",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/fs@0.56.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fs%400.56.8",
+          "publishedAt": "2026-10-20T19:10:25Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eTL",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/fs@0.56.8",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fs%400.56.8",
+          "publishedAt": "2026-10-20T19:10:24Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eS6",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/fast-check@0.0.20",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/fast-check%400.0.20",
+          "publishedAt": "2026-10-20T19:10:22Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eSj",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/fast-check@0.0.20",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fast-check%400.0.20",
+          "publishedAt": "2026-10-20T19:10:21Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eSK",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@arktype/attest@0.57.1",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40arktype/attest%400.57.1",
+          "publishedAt": "2026-10-20T19:10:20Z"
+        },
+        {
+          "id": "RE_kwDOC4NVf84Y9eR3",
+          "owner": "arktypeio",
+          "repo": "arktype",
+          "tag": "@ark/attest@0.57.1",
+          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/attest%400.57.1",
+          "publishedAt": "2026-10-20T19:10:18Z"
+        },
+        {
+          "id": "RE_kwDOUNMECc4Y23u-",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.9.1",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.9.1",
+          "publishedAt": "2026-10-20T18:58:24Z",
+          "name": "v1.9.1: Stop trusting compromised eMudhra intermediate CA certificates"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y9Oun",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.506.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.506.0",
+          "publishedAt": "2026-10-20T18:00:47Z",
+          "name": "v0.506.0"
+        },
+        {
+          "id": "RE_kwDOHrfku84Y9MI_",
+          "owner": "tracel-ai",
+          "repo": "burn",
+          "tag": "v0.22.1",
+          "url": "https://github.com/tracel-ai/burn/releases/tag/v0.22.1",
+          "publishedAt": "2026-10-20T17:48:47Z",
+          "name": "v0.22.1"
+        },
+        {
           "id": "RE_kwDOKbIFZc4Y8qT8",
           "owner": "astral-sh",
           "repo": "uv",
@@ -2043,8 +2277,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4Yvv7j",
-        "lastPublishedAt": "2026-10-16T16:39:12Z",
+        "lastReleaseId": "RE_kwDORSib_s4Y9u3v",
+        "lastPublishedAt": "2026-10-20T20:22:40Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2208,8 +2442,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y8XWo",
-        "lastPublishedAt": "2026-10-20T14:11:18Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y92us",
+        "lastPublishedAt": "2026-10-20T20:55:58Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2286,8 +2520,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4Yn_kg",
-        "lastPublishedAt": "2026-10-14T20:09:20Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4Y9eW8",
+        "lastPublishedAt": "2026-10-20T19:10:38Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2543,8 +2777,8 @@
       },
       "agentsmd/agents.md": {},
       "arktypeio/arktype": {
-        "lastReleaseId": "RE_kwDOC4NVf84YNmJ-",
-        "lastPublishedAt": "2026-10-07T22:29:05Z",
+        "lastReleaseId": "RE_kwDOC4NVf84Y9eXJ",
+        "lastPublishedAt": "2026-10-20T19:10:39Z",
         "releaseHistoryCursor": null
       },
       "ericc-ch/copilot-api": {
@@ -2656,8 +2890,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4YkA7y",
-        "lastPublishedAt": "2026-10-13T20:44:46Z",
+        "lastReleaseId": "RE_kwDOObWEYM4Y97b5",
+        "lastPublishedAt": "2026-10-20T21:17:57Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -3086,8 +3320,8 @@
       "momo-lab/bash-abbrev-alias": {},
       "whtwnd/whitewind-blog": {},
       "tracel-ai/burn": {
-        "lastReleaseId": "RE_kwDOHrfku84YJN7k",
-        "lastPublishedAt": "2026-10-06T19:25:58Z",
+        "lastReleaseId": "RE_kwDOHrfku84Y9MI_",
+        "lastPublishedAt": "2026-10-20T17:48:47Z",
         "releaseHistoryCursor": null
       },
       "mazrean/isucrud": {
@@ -3122,8 +3356,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4Y1nsE",
-        "lastPublishedAt": "2026-10-18T21:08:48Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4Y9k_c",
+        "lastPublishedAt": "2026-10-20T19:39:14Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -4284,8 +4518,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4Yw6IT",
-        "lastPublishedAt": "2026-10-18T10:07:51Z",
+        "lastReleaseId": "RE_kwDOUNMECc4Y23u-",
+        "lastPublishedAt": "2026-10-20T18:58:24Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
