@@ -1701,6 +1701,105 @@
       ],
       "2026-10-20": [
         {
+          "id": "RE_kwDOKbIFZc4Y8qT8",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.13.4",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.4",
+          "publishedAt": "2026-10-20T15:24:59Z",
+          "name": "0.13.4"
+        },
+        {
+          "id": "RE_kwDOBq4KM84Y8hRa",
+          "owner": "EnixCoda",
+          "repo": "Gitako",
+          "tag": "v3.16.1",
+          "url": "https://github.com/EnixCoda/Gitako/releases/tag/v3.16.1",
+          "publishedAt": "2026-10-20T14:49:33Z",
+          "name": "v3.16.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y8XWo",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.504.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.504.0",
+          "publishedAt": "2026-10-20T14:11:18Z",
+          "name": "v0.504.0"
+        },
+        {
+          "id": "RE_kwDOEYAvFc4Y8R1q",
+          "owner": "lumeland",
+          "repo": "lume",
+          "tag": "v3.3.3",
+          "url": "https://github.com/lumeland/lume/releases/tag/v3.3.3",
+          "publishedAt": "2026-10-20T13:49:11Z",
+          "name": "v3.3.3"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y8Psj",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.503.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.503.0",
+          "publishedAt": "2026-10-20T13:41:21Z",
+          "name": "v0.503.0"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4Y8J6S",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.3",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.3",
+          "publishedAt": "2026-10-20T13:18:05Z",
+          "name": "v0.4.3"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y700_",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.502.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.502.0",
+          "publishedAt": "2026-10-20T11:45:47Z",
+          "name": "v0.502.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4Y7oDC",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.39",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.39",
+          "publishedAt": "2026-10-20T11:06:28Z",
+          "name": "1.0.39"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y7rFG",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.501.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.501.0",
+          "publishedAt": "2026-10-20T10:57:20Z",
+          "name": "v0.501.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y7U7l",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.500.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.500.0",
+          "publishedAt": "2026-10-20T09:11:08Z",
+          "name": "v0.500.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4Y7U70",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v31.9.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v31.9.1",
+          "publishedAt": "2026-10-20T09:11:00Z",
+          "name": "v31.9.1"
+        },
+        {
           "id": "RE_kwDOQvjuaM4Y7Mx4",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2109,8 +2208,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y7Mx4",
-        "lastPublishedAt": "2026-10-20T08:39:50Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y8XWo",
+        "lastPublishedAt": "2026-10-20T14:11:18Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3063,8 +3162,8 @@
       },
       "lumeland/cms": {},
       "lumeland/lume": {
-        "lastReleaseId": "RE_kwDOEYAvFc4YUJE8",
-        "lastPublishedAt": "2026-10-09T13:16:36Z",
+        "lastReleaseId": "RE_kwDOEYAvFc4Y8R1q",
+        "lastPublishedAt": "2026-10-20T13:49:11Z",
         "releaseHistoryCursor": null
       },
       "asyncapi/spec": {
@@ -3284,8 +3383,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4Y6Lah",
-        "lastPublishedAt": "2026-10-20T01:15:17Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4Y8qT8",
+        "lastPublishedAt": "2026-10-20T15:24:59Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3438,8 +3537,8 @@
       },
       "kalupas226/tca-workshop": {},
       "EnixCoda/Gitako": {
-        "lastReleaseId": "RE_kwDOBq4KM84Wos2e",
-        "lastPublishedAt": "2026-08-31T13:14:34Z",
+        "lastReleaseId": "RE_kwDOBq4KM84Y8hRa",
+        "lastPublishedAt": "2026-10-20T14:49:33Z",
         "releaseHistoryCursor": null
       },
       "python/typeshed": {},
@@ -3520,8 +3619,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Yyc6G",
-        "lastPublishedAt": "2026-10-17T15:24:38Z",
+        "lastReleaseId": "RE_kwDOGNEXps4Y7oDC",
+        "lastPublishedAt": "2026-10-20T11:06:28Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3999,8 +4098,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Y65Zb",
-        "lastPublishedAt": "2026-10-20T06:57:58Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4Y7U70",
+        "lastPublishedAt": "2026-10-20T09:11:00Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -4160,8 +4259,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4Y5q0V",
-        "lastPublishedAt": "2026-10-19T21:22:04Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4Y8J6S",
+        "lastPublishedAt": "2026-10-20T13:18:05Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
