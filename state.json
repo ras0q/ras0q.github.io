@@ -2,179 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-13",
       "2026-10-14",
       "2026-10-15",
       "2026-10-16",
       "2026-10-17",
       "2026-10-18",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-20"
     ],
     "days": {
-      "2026-10-13": [
-        {
-          "id": "RE_kwDOJCIvuc4YkbiI",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.16",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.16",
-          "publishedAt": "2026-10-13T23:49:32Z",
-          "name": "1.9.16"
-        },
-        {
-          "id": "RE_kwDODH8YWs4YkKLO",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.09",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.09",
-          "publishedAt": "2026-10-13T21:39:01Z",
-          "name": "v2026.10.09"
-        },
-        {
-          "id": "RE_kwDOObWEYM4YkA7y",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.64.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0",
-          "publishedAt": "2026-10-13T20:44:46Z",
-          "name": "Release v0.64.0"
-        },
-        {
-          "id": "RE_kwDOQ52_2c4Yj4hk",
-          "owner": "vercel-labs",
-          "repo": "json-render",
-          "tag": "v0.21.1",
-          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.21.1",
-          "publishedAt": "2026-10-13T20:00:55Z",
-          "name": "v0.21.1"
-        },
-        {
-          "id": "RE_kwDORQ3jDc4Yj21F",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.15.8",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.8",
-          "publishedAt": "2026-10-13T19:52:36Z",
-          "name": "v0.15.8"
-        },
-        {
-          "id": "RE_kwDODH8YWs4Yj2kj",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.08",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.08",
-          "publishedAt": "2026-10-13T19:52:24Z",
-          "name": "v2026.10.08"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4Yjqg4",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.21",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.21",
-          "publishedAt": "2026-10-13T18:51:22Z",
-          "name": "v1.0.21"
-        },
-        {
-          "id": "RE_kwDOCPvJPM4YjFTR",
-          "owner": "loov",
-          "repo": "goda",
-          "tag": "v0.10.2",
-          "url": "https://github.com/loov/goda/releases/tag/v0.10.2",
-          "publishedAt": "2026-10-13T15:48:52Z",
-          "name": "v0.10.2"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4YjChK",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.177",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.177",
-          "publishedAt": "2026-10-13T15:36:42Z",
-          "name": "v8.4.177 - 8.4.177 Fix SAM prompts across images and video frames (#26651)"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Yi2gq",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.9",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.9",
-          "publishedAt": "2026-10-13T14:53:38Z",
-          "name": "v2026.10.9: path: tool versions require trust; apt repositories, login items and run0/doas in bootstrap"
-        },
-        {
-          "id": "RE_kwDOJEKgss4YiqaM",
-          "owner": "DataDog",
-          "repo": "orchestrion",
-          "tag": "v1.14.0",
-          "url": "https://github.com/DataDog/orchestrion/releases/tag/v1.14.0",
-          "publishedAt": "2026-10-13T14:31:40Z",
-          "name": "v1.14.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4YitN7",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.36",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.36",
-          "publishedAt": "2026-10-13T14:18:53Z",
-          "name": "1.0.36"
-        },
-        {
-          "id": "RE_kwDODH8YWs4Yid8e",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.07",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.07",
-          "publishedAt": "2026-10-13T13:11:42Z",
-          "name": "v2026.10.07"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4YieJE",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.32",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.32",
-          "publishedAt": "2026-10-13T13:11:25Z",
-          "name": "v1.10.32"
-        },
-        {
-          "id": "RE_kwDOOIl6Q84YiVuc",
-          "owner": "k1LoW",
-          "repo": "deck",
-          "tag": "v1.24.4",
-          "url": "https://github.com/k1LoW/deck/releases/tag/v1.24.4",
-          "publishedAt": "2026-10-13T12:35:16Z",
-          "name": "v1.24.4"
-        },
-        {
-          "id": "RE_kwDOE4ox_c4Yhjnq",
-          "owner": "hummingbird-project",
-          "repo": "hummingbird",
-          "tag": "2.28.0",
-          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.28.0",
-          "publishedAt": "2026-10-13T08:23:33Z",
-          "name": "v2.28.0"
-        },
-        {
-          "id": "RE_kwDOOIl6Q84YhefY",
-          "owner": "k1LoW",
-          "repo": "deck",
-          "tag": "v1.24.3",
-          "url": "https://github.com/k1LoW/deck/releases/tag/v1.24.3",
-          "publishedAt": "2026-10-13T08:00:16Z",
-          "name": "v1.24.3"
-        },
-        {
-          "id": "RE_kwDODH8YWs4Ygeyl",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.06",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.06",
-          "publishedAt": "2026-10-13T01:57:53Z",
-          "name": "v2026.10.06"
-        }
-      ],
       "2026-10-14": [
         {
           "id": "RE_kwDOQ5Wxys4Yn_kg",
@@ -2213,6 +2049,44 @@
           "publishedAt": "2026-10-20T00:23:48Z",
           "name": "v8.4.183 - ultralytics 8.4.183 Update Axelera SDK to 1.9.0 and support every YOLO26 task (#26788)"
         }
+      ],
+      "2026-10-21": [
+        {
+          "id": "RE_kwDOBDf5XM4Y-oJQ",
+          "owner": "Foundry376",
+          "repo": "Mailspring",
+          "tag": "1.26.1",
+          "url": "https://github.com/Foundry376/Mailspring/releases/tag/1.26.1",
+          "publishedAt": "2026-10-21T02:18:39Z",
+          "name": "1.26.1"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Y-hub",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.17",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.17",
+          "publishedAt": "2026-10-21T01:29:26Z",
+          "name": "v2026.10.17: Shell names in bootstrap login_shell, templated doctor checks, and a per-plugin vfox cache directory"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y-cUm",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.511.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.511.0",
+          "publishedAt": "2026-10-21T00:49:22Z",
+          "name": "v0.511.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y-YHp",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.510.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.510.0",
+          "publishedAt": "2026-10-21T00:15:21Z",
+          "name": "v0.510.0"
+        }
       ]
     }
   },
@@ -2442,8 +2316,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y92us",
-        "lastPublishedAt": "2026-10-20T20:55:58Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y-cUm",
+        "lastPublishedAt": "2026-10-21T00:49:22Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3286,8 +3160,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Y3Tk9",
-        "lastPublishedAt": "2026-10-19T10:19:30Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Y-hub",
+        "lastPublishedAt": "2026-10-21T01:29:26Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3578,8 +3452,8 @@
         "lastPublishedAt": "2026-01-10T23:21:01Z"
       },
       "Foundry376/Mailspring": {
-        "lastReleaseId": "RE_kwDOBDf5XM4X9G3M",
-        "lastPublishedAt": "2026-10-02T14:37:36Z",
+        "lastReleaseId": "RE_kwDOBDf5XM4Y-oJQ",
+        "lastPublishedAt": "2026-10-21T02:18:39Z",
         "releaseHistoryCursor": null
       },
       "a5chin/python-uv": {
