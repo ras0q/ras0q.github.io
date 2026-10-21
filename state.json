@@ -2052,6 +2052,69 @@
       ],
       "2026-10-21": [
         {
+          "id": "RE_kwDOCv6UO84YSvNz",
+          "owner": "microsoft",
+          "repo": "PowerToys",
+          "tag": "v0.102.2933.0",
+          "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.2933.0",
+          "publishedAt": "2026-10-21T07:45:57Z",
+          "name": "Release v0.102.2933.0"
+        },
+        {
+          "id": "RE_kwDOFhZBDs4Y_Jiv",
+          "owner": "bytedance",
+          "repo": "sonic",
+          "tag": "loader/v0.5.3",
+          "url": "https://github.com/bytedance/sonic/releases/tag/loader/v0.5.3",
+          "publishedAt": "2026-10-21T05:58:22Z",
+          "name": "loader/v0.5.3"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y_Hpp",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.515.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.515.0",
+          "publishedAt": "2026-10-21T05:45:54Z",
+          "name": "v0.515.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y_B5U",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.514.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.514.0",
+          "publishedAt": "2026-10-21T05:01:21Z",
+          "name": "v0.514.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y-8KO",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.513.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.513.0",
+          "publishedAt": "2026-10-21T04:14:20Z",
+          "name": "v0.513.0"
+        },
+        {
+          "id": "RE_kwDOHxfx2s4Y-0Xd",
+          "owner": "giginet",
+          "repo": "Scipio",
+          "tag": "0.34.0",
+          "url": "https://github.com/giginet/Scipio/releases/tag/0.34.0",
+          "publishedAt": "2026-10-21T03:34:00Z",
+          "name": "0.34.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Y-zpe",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.512.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.512.0",
+          "publishedAt": "2026-10-21T03:32:55Z",
+          "name": "v0.512.0"
+        },
+        {
           "id": "RE_kwDOBDf5XM4Y-oJQ",
           "owner": "Foundry376",
           "repo": "Mailspring",
@@ -2316,8 +2379,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Y-cUm",
-        "lastPublishedAt": "2026-10-21T00:49:22Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Y_Hpp",
+        "lastPublishedAt": "2026-10-21T05:45:54Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3425,8 +3488,8 @@
       },
       "H4kor/fedi-games": {},
       "microsoft/PowerToys": {
-        "lastReleaseId": "RE_kwDOCv6UO84V_viF",
-        "lastPublishedAt": "2026-08-25T08:34:52Z",
+        "lastReleaseId": "RE_kwDOCv6UO84YSvNz",
+        "lastPublishedAt": "2026-10-21T07:45:57Z",
         "releaseHistoryCursor": null
       },
       "SSlime-s/authjs-traq-sample": {},
@@ -3691,8 +3754,8 @@
         "lastPublishedAt": "2020-11-25T05:45:59Z"
       },
       "giginet/Scipio": {
-        "lastReleaseId": "RE_kwDOHxfx2s4VSNdf",
-        "lastPublishedAt": "2026-07-21T03:18:18Z",
+        "lastReleaseId": "RE_kwDOHxfx2s4Y-0Xd",
+        "lastPublishedAt": "2026-10-21T03:34:00Z",
         "releaseHistoryCursor": null
       },
       "SortableJS/Sortable": {
@@ -4092,8 +4155,8 @@
       "peaks-cc/iOS_architecture_samplecode": {},
       "craftdocs/craft-extension-inspirations": {},
       "bytedance/sonic": {
-        "lastReleaseId": "RE_kwDOFhZBDs4XDWVC",
-        "lastPublishedAt": "2026-09-11T02:48:13Z",
+        "lastReleaseId": "RE_kwDOFhZBDs4Y_Jiv",
+        "lastPublishedAt": "2026-10-21T05:58:22Z",
         "releaseHistoryCursor": null
       },
       "kaz/pprotein": {
