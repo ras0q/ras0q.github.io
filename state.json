@@ -2052,6 +2052,105 @@
       ],
       "2026-10-21": [
         {
+          "id": "RE_kwDOPbFNk84ZCoQ4",
+          "owner": "earendil-works",
+          "repo": "pi",
+          "tag": "v1.4.0",
+          "url": "https://github.com/earendil-works/pi/releases/tag/v1.4.0",
+          "publishedAt": "2026-10-21T22:49:48Z",
+          "name": "v1.4.0"
+        },
+        {
+          "id": "RE_kwDOEPtVfM4ZCbGo",
+          "owner": "pamburus",
+          "repo": "hl",
+          "tag": "v0.36.5",
+          "url": "https://github.com/pamburus/hl/releases/tag/v0.36.5",
+          "publishedAt": "2026-10-21T21:26:22Z",
+          "name": "v0.36.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZCaDd",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.529.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.529.0",
+          "publishedAt": "2026-10-21T21:12:58Z",
+          "name": "v0.529.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZCQdp",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.528.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.528.0",
+          "publishedAt": "2026-10-21T20:26:25Z",
+          "name": "v0.528.0"
+        },
+        {
+          "id": "RE_kwDOKMzyM84ZCFoI",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.24.3",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.24.3",
+          "publishedAt": "2026-10-21T19:37:57Z",
+          "name": "0.24.3: Maintenance Release"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZB_oj",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.527.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.527.0",
+          "publishedAt": "2026-10-21T19:11:22Z",
+          "name": "v0.527.0"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4ZB1YC",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.4.1",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.4.1",
+          "publishedAt": "2026-10-21T18:30:23Z",
+          "name": "v2.4.1"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4ZB1W6",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.3.3",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.3.3",
+          "publishedAt": "2026-10-21T18:30:19Z",
+          "name": "v2.3.3"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4ZB1Xb",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.25",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.25",
+          "publishedAt": "2026-10-21T18:30:13Z",
+          "name": "v1.0.25"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZBxKY",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.526.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.526.0",
+          "publishedAt": "2026-10-21T18:13:09Z",
+          "name": "v0.526.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZBjq0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.525.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.525.0",
+          "publishedAt": "2026-10-21T17:15:18Z",
+          "name": "v0.525.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZBV9V",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2523,8 +2622,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZBV9V",
-        "lastPublishedAt": "2026-10-21T16:20:09Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZCaDd",
+        "lastPublishedAt": "2026-10-21T21:12:58Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2545,8 +2644,8 @@
         "lastPublishedAt": "2026-07-12T20:29:27Z"
       },
       "pamburus/hl": {
-        "lastReleaseId": "RE_kwDOEPtVfM4Y5wRK",
-        "lastPublishedAt": "2026-10-19T22:24:23Z",
+        "lastReleaseId": "RE_kwDOEPtVfM4ZCbGo",
+        "lastPublishedAt": "2026-10-21T21:26:22Z",
         "releaseHistoryCursor": null
       },
       "gitui-org/gitui": {
@@ -2601,8 +2700,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4Y9eW8",
-        "lastPublishedAt": "2026-10-20T19:10:38Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4ZB1Xb",
+        "lastPublishedAt": "2026-10-21T18:30:13Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2716,8 +2815,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84Y5WpY",
-        "lastPublishedAt": "2026-10-19T19:57:52Z",
+        "lastReleaseId": "RE_kwDOKMzyM84ZCFoI",
+        "lastPublishedAt": "2026-10-21T19:37:57Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -3816,8 +3915,8 @@
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastReleaseId": "RE_kwDOE2oqQs4YVeuZ",
-        "lastPublishedAt": "2026-10-09T19:46:50Z",
+        "lastReleaseId": "RE_kwDOE2oqQs4ZB1YC",
+        "lastPublishedAt": "2026-10-21T18:30:23Z",
         "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
@@ -4630,8 +4729,8 @@
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
-        "lastReleaseId": "RE_kwDOPbFNk84Yr6tG",
-        "lastPublishedAt": "2026-10-15T19:17:33Z",
+        "lastReleaseId": "RE_kwDOPbFNk84ZCoQ4",
+        "lastPublishedAt": "2026-10-21T22:49:48Z",
         "releaseHistoryCursor": null
       },
       "go-fynx/deadcode": {},
