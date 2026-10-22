@@ -2322,6 +2322,60 @@
       ],
       "2026-10-22": [
         {
+          "id": "RE_kwDOQvjuaM4ZD8NL",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.534.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.534.0",
+          "publishedAt": "2026-10-22T08:18:59Z",
+          "name": "v0.534.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZDzvE",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.533.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.533.0",
+          "publishedAt": "2026-10-22T07:40:30Z",
+          "name": "v0.533.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZDd_Q",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.532.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.532.0",
+          "publishedAt": "2026-10-22T05:28:56Z",
+          "name": "v0.532.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZDXTB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.531.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.531.0",
+          "publishedAt": "2026-10-22T04:36:46Z",
+          "name": "v0.531.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZDSSC",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.530.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.530.0",
+          "publishedAt": "2026-10-22T03:58:09Z",
+          "name": "v0.530.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4ZDQkn",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.0",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.0",
+          "publishedAt": "2026-10-22T03:43:51Z",
+          "name": "v1.9.0"
+        },
+        {
           "id": "RE_kwDOF9Sih84ZDFg6",
           "owner": "aquaproj",
           "repo": "aqua",
@@ -2567,8 +2621,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZCaDd",
-        "lastPublishedAt": "2026-10-21T21:12:58Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZD8NL",
+        "lastPublishedAt": "2026-10-22T08:18:59Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3125,8 +3179,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4ZCzRu",
-        "lastPublishedAt": "2026-10-21T23:51:59Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZDQkn",
+        "lastPublishedAt": "2026-10-22T03:43:51Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
