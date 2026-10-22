@@ -2,107 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-14",
       "2026-10-15",
       "2026-10-16",
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "days": {
-      "2026-10-14": [
-        {
-          "id": "RE_kwDOQ5Wxys4Yn_kg",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.22",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.22",
-          "publishedAt": "2026-10-14T20:09:20Z",
-          "name": "v1.0.22"
-        },
-        {
-          "id": "RE_kwDODH8YWs4YngWx",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.10",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.10",
-          "publishedAt": "2026-10-14T17:46:50Z",
-          "name": "v2026.10.10"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YnVFl",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.16.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.16.0",
-          "publishedAt": "2026-10-14T16:55:42Z",
-          "name": "v1.16.0"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4YnHH5",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.9.3",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.9.3",
-          "publishedAt": "2026-10-14T15:55:38Z",
-          "name": "v0.9.3"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Yl1dw",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.10",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.10",
-          "publishedAt": "2026-10-14T10:11:55Z",
-          "name": "v2026.10.10: Task skip_if, snap and COPR in bootstrap, and dotfiles pull fixes"
-        },
-        {
-          "id": "RE_kwDOOELNJM4YltBw",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v1.2.0",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.2.0",
-          "publishedAt": "2026-10-14T09:23:08Z",
-          "name": "vite-plus v1.2.0"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4YlBvM",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.13.1",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.1",
-          "publishedAt": "2026-10-14T05:15:30Z",
-          "name": "0.13.1"
-        },
-        {
-          "id": "RE_kwDOALIcz84Yk2Sd",
-          "owner": "rcmdnk",
-          "repo": "vim_ahk",
-          "tag": "v0.17.2",
-          "url": "https://github.com/rcmdnk/vim_ahk/releases/tag/v0.17.2",
-          "publishedAt": "2026-10-14T03:33:24Z",
-          "name": "v0.17.2"
-        },
-        {
-          "id": "RE_kwDONcE2Ic4Ykv73",
-          "owner": "traPtitech",
-          "repo": "piscon-portal-v2",
-          "tag": "v0.2.0",
-          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.2.0",
-          "publishedAt": "2026-10-14T02:39:54Z",
-          "name": "v0.2.0"
-        },
-        {
-          "id": "RE_kwDONQkKUc4Ykf9z",
-          "owner": "xtool-org",
-          "repo": "xtool",
-          "tag": "1.22.2",
-          "url": "https://github.com/xtool-org/xtool/releases/tag/1.22.2",
-          "publishedAt": "2026-10-14T00:30:10Z",
-          "name": "v1.22.2"
-        }
-      ],
       "2026-10-15": [
         {
           "id": "RE_kwDOUNMECc4YsfXk",
@@ -2052,6 +1960,24 @@
       ],
       "2026-10-21": [
         {
+          "id": "RE_kwDOM9WtiM4ZCzRu",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.8.10",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.10",
+          "publishedAt": "2026-10-21T23:51:59Z",
+          "name": "v1.8.10"
+        },
+        {
+          "id": "RE_kwDOE386wc4ZCx2t",
+          "owner": "houseabsolute",
+          "repo": "ubi",
+          "tag": "v0.13.0",
+          "url": "https://github.com/houseabsolute/ubi/releases/tag/v0.13.0",
+          "publishedAt": "2026-10-21T23:42:12Z",
+          "name": "v0.13.0"
+        },
+        {
           "id": "RE_kwDOPbFNk84ZCoQ4",
           "owner": "earendil-works",
           "repo": "pi",
@@ -2392,6 +2318,25 @@
           "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.510.0",
           "publishedAt": "2026-10-21T00:15:21Z",
           "name": "v0.510.0"
+        }
+      ],
+      "2026-10-22": [
+        {
+          "id": "RE_kwDOF9Sih84ZDFg6",
+          "owner": "aquaproj",
+          "repo": "aqua",
+          "tag": "v2.65.0",
+          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.65.0",
+          "publishedAt": "2026-10-22T02:14:07Z"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4ZDAwo",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.13.5",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.5",
+          "publishedAt": "2026-10-22T01:35:54Z",
+          "name": "0.13.5"
         }
       ]
     }
@@ -3180,8 +3125,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4Y4FKR",
-        "lastPublishedAt": "2026-10-19T13:56:04Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZCzRu",
+        "lastPublishedAt": "2026-10-21T23:51:59Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3798,8 +3743,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4Y8qT8",
-        "lastPublishedAt": "2026-10-20T15:24:59Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4ZDAwo",
+        "lastPublishedAt": "2026-10-22T01:35:54Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3929,8 +3874,8 @@
         "lastPublishedAt": "2025-12-31T12:07:55Z"
       },
       "aquaproj/aqua": {
-        "lastReleaseId": "RE_kwDOF9Sih84YHaeX",
-        "lastPublishedAt": "2026-10-06T10:47:11Z",
+        "lastReleaseId": "RE_kwDOF9Sih84ZDFg6",
+        "lastPublishedAt": "2026-10-22T02:14:07Z",
         "releaseHistoryCursor": null
       },
       "ikasam/yaml_cv": {},
@@ -4714,8 +4659,8 @@
         "releaseHistoryCursor": null
       },
       "houseabsolute/ubi": {
-        "lastReleaseId": "RE_kwDOE386wc4Wnpjk",
-        "lastPublishedAt": "2026-08-31T03:47:01Z",
+        "lastReleaseId": "RE_kwDOE386wc4ZCx2t",
+        "lastPublishedAt": "2026-10-21T23:42:12Z",
         "releaseHistoryCursor": null
       },
       "emdash-cms/emdash": {
