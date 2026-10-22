@@ -2322,6 +2322,141 @@
       ],
       "2026-10-22": [
         {
+          "id": "RE_kwDOPyZEpc4ZHDLA",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.35.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.35.0",
+          "publishedAt": "2026-10-22T22:51:41Z",
+          "name": "v0.35.0"
+        },
+        {
+          "id": "RE_kwDONQkKUc4ZG0_U",
+          "owner": "xtool-org",
+          "repo": "xtool",
+          "tag": "1.23.0",
+          "url": "https://github.com/xtool-org/xtool/releases/tag/1.23.0",
+          "publishedAt": "2026-10-22T21:29:36Z",
+          "name": "v1.23.0"
+        },
+        {
+          "id": "RE_kwDOD6MHws4ZFO5I",
+          "owner": "obsidianmd",
+          "repo": "obsidian-releases",
+          "tag": "v1.14.5",
+          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.14.5",
+          "publishedAt": "2026-10-22T21:19:14Z",
+          "name": "1.14.5"
+        },
+        {
+          "id": "RE_kwDOO2B60c4ZGt1V",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.2.1",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.2.1",
+          "publishedAt": "2026-10-22T20:53:03Z",
+          "name": "2.2.1"
+        },
+        {
+          "id": "RE_kwDOAWJAkM4ZGQKL",
+          "owner": "git-for-windows",
+          "repo": "git",
+          "tag": "v2.56.0.windows.3",
+          "url": "https://github.com/git-for-windows/git/releases/tag/v2.56.0.windows.3",
+          "publishedAt": "2026-10-22T19:10:21Z",
+          "name": "Git for Windows 2.56.0(3)"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4ZGQxc",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.17.2",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.17.2",
+          "publishedAt": "2026-10-22T18:39:46Z",
+          "name": "0.17.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZGOSZ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.542.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.542.0",
+          "publishedAt": "2026-10-22T18:29:44Z",
+          "name": "v0.542.0"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4ZGNGw",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.9",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.9",
+          "publishedAt": "2026-10-22T18:24:06Z",
+          "name": "v0.15.9"
+        },
+        {
+          "id": "RE_kwDOJcq7QM4ZGMOg",
+          "owner": "modular",
+          "repo": "modular",
+          "tag": "max/v26.7.0",
+          "url": "https://github.com/modular/modular/releases/tag/max/v26.7.0",
+          "publishedAt": "2026-10-22T18:21:28Z",
+          "name": "MAX 26.7 / Mojo 1.2.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZGE3N",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.541.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.541.0",
+          "publishedAt": "2026-10-22T17:48:05Z",
+          "name": "v0.541.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZGDcE",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.184",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.184",
+          "publishedAt": "2026-10-22T17:41:34Z",
+          "name": "v8.4.184 - Read multi-page grayscale TIFFs as their first page unless every band is requested (#26842)"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZF44F",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.540.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.540.0",
+          "publishedAt": "2026-10-22T16:55:24Z",
+          "name": "v0.540.0"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4ZF1VV",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.26",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.26",
+          "publishedAt": "2026-10-22T16:38:40Z",
+          "name": "v1.0.26"
+        },
+        {
+          "id": "RE_kwDOAeC4a84ZF0OQ",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.4.1",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.4.1",
+          "publishedAt": "2026-10-22T16:32:50Z",
+          "name": "v5.4.1"
+        },
+        {
+          "id": "RE_kwDOAeC4a84ZF0Nz",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v4.16.1",
+          "url": "https://github.com/labstack/echo/releases/tag/v4.16.1",
+          "publishedAt": "2026-10-22T16:32:49Z",
+          "name": "v4.16.1"
+        },
+        {
           "id": "RE_kwDOSJO3-s4ZFubH",
           "owner": "github",
           "repo": "gh-actions-lock",
@@ -2867,8 +3002,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4Y3pgu",
-        "lastPublishedAt": "2026-10-19T12:00:55Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4ZHDLA",
+        "lastPublishedAt": "2026-10-22T22:51:41Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -2925,8 +3060,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZFgds",
-        "lastPublishedAt": "2026-10-22T15:15:48Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZGOSZ",
+        "lastPublishedAt": "2026-10-22T18:29:44Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2938,8 +3073,8 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4Yj21F",
-        "lastPublishedAt": "2026-10-13T19:52:36Z",
+        "lastReleaseId": "RE_kwDORQ3jDc4ZGNGw",
+        "lastPublishedAt": "2026-10-22T18:24:06Z",
         "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
@@ -3003,8 +3138,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4ZB1Xb",
-        "lastPublishedAt": "2026-10-21T18:30:13Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4ZF1VV",
+        "lastPublishedAt": "2026-10-22T16:38:40Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -3024,8 +3159,8 @@
         "releaseHistoryCursor": null
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84Xtq9a",
-        "lastPublishedAt": "2026-09-27T23:03:18Z",
+        "lastReleaseId": "RE_kwDOAeC4a84ZF0OQ",
+        "lastPublishedAt": "2026-10-22T16:32:50Z",
         "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
@@ -3102,8 +3237,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4YwIEr",
-        "lastPublishedAt": "2026-10-16T18:43:14Z",
+        "lastReleaseId": "RE_kwDOO2B60c4ZGt1V",
+        "lastPublishedAt": "2026-10-22T20:53:03Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -3438,8 +3573,8 @@
         "releaseHistoryCursor": null
       },
       "xtool-org/xtool": {
-        "lastReleaseId": "RE_kwDONQkKUc4Ykf9z",
-        "lastPublishedAt": "2026-10-14T00:30:10Z",
+        "lastReleaseId": "RE_kwDONQkKUc4ZG0_U",
+        "lastPublishedAt": "2026-10-22T21:29:36Z",
         "releaseHistoryCursor": null
       },
       "foliojs/pdfkit": {
@@ -3723,8 +3858,8 @@
         "lastPublishedAt": "2026-06-21T21:53:03Z"
       },
       "git-for-windows/git": {
-        "lastReleaseId": "RE_kwDOAWJAkM4YFkFX",
-        "lastPublishedAt": "2026-10-05T21:42:10Z",
+        "lastReleaseId": "RE_kwDOAWJAkM4ZGQKL",
+        "lastPublishedAt": "2026-10-22T19:10:21Z",
         "releaseHistoryCursor": null
       },
       "VitalAudio/visage": {},
@@ -4125,8 +4260,8 @@
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastReleaseId": "RE_kwDOD6MHws4YEVIL",
-        "lastPublishedAt": "2026-10-05T17:03:28Z",
+        "lastReleaseId": "RE_kwDOD6MHws4ZFO5I",
+        "lastPublishedAt": "2026-10-22T21:19:14Z",
         "releaseHistoryCursor": null
       },
       "j0k3r/banditore": {
@@ -4135,8 +4270,8 @@
       },
       "youta-t/its": {},
       "modular/modular": {
-        "lastReleaseId": "RE_kwDOJcq7QM4XTDue",
-        "lastPublishedAt": "2026-09-17T16:14:51Z",
+        "lastReleaseId": "RE_kwDOJcq7QM4ZGMOg",
+        "lastPublishedAt": "2026-10-22T18:21:28Z",
         "releaseHistoryCursor": null
       },
       "bluesky-social/indigo": {},
@@ -4207,8 +4342,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Y6FYc",
-        "lastPublishedAt": "2026-10-20T00:23:48Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZGDcE",
+        "lastPublishedAt": "2026-10-22T17:41:34Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4263,8 +4398,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4YrKi1",
-        "lastPublishedAt": "2026-10-15T15:24:28Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4ZGQxc",
+        "lastPublishedAt": "2026-10-22T18:39:46Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
