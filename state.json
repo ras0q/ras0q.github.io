@@ -2571,6 +2571,150 @@
       ],
       "2026-10-23": [
         {
+          "id": "RE_kwDOAoUxF84ZJ4p3",
+          "owner": "preactjs",
+          "repo": "preact",
+          "tag": "11.0.2",
+          "url": "https://github.com/preactjs/preact/releases/tag/11.0.2",
+          "publishedAt": "2026-10-23T15:47:35Z",
+          "name": "11.0.2"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4ZJ1n_",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.4",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.4",
+          "publishedAt": "2026-10-23T15:32:02Z",
+          "name": "v0.4.4"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4ZJzbc",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.98.2",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.98.2",
+          "publishedAt": "2026-10-23T15:23:33Z",
+          "name": "v0.98.2"
+        },
+        {
+          "id": "RE_kwDOJKcikM4ZJxUy",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.7",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.7",
+          "publishedAt": "2026-10-23T15:14:47Z",
+          "name": "@astrojs/starlight@0.42.7"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4ZJwTe",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.18",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.18",
+          "publishedAt": "2026-10-23T15:10:54Z",
+          "name": "1.9.18"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4ZJkun",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.1",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.1",
+          "publishedAt": "2026-10-23T14:27:44Z",
+          "name": "v1.9.1"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4ZJYii",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.3.0",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.3.0",
+          "publishedAt": "2026-10-23T13:41:42Z",
+          "name": "v0.3.0"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4ZJWMR",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.17",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.17",
+          "publishedAt": "2026-10-23T13:32:50Z",
+          "name": "1.9.17"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84ZJNVx",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.20.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.20.0",
+          "publishedAt": "2026-10-23T12:57:13Z",
+          "name": "v1.20.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4ZI54W",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.18",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.18",
+          "publishedAt": "2026-10-23T11:54:36Z",
+          "name": "v2026.10.18: mise lsp: a language server for mise.toml"
+        },
+        {
+          "id": "RE_kwDOA4rpZM4ZI-ne",
+          "owner": "outline",
+          "repo": "outline",
+          "tag": "v1.12.0",
+          "url": "https://github.com/outline/outline/releases/tag/v1.12.0",
+          "publishedAt": "2026-10-23T11:52:56Z",
+          "name": "v1.12.0"
+        },
+        {
+          "id": "RE_kwDOEDZuds4ZI-de",
+          "owner": "honkit",
+          "repo": "honkit",
+          "tag": "v6.2.5",
+          "url": "https://github.com/honkit/honkit/releases/tag/v6.2.5",
+          "publishedAt": "2026-10-23T11:52:14Z",
+          "name": "Release v6.2.5"
+        },
+        {
+          "id": "RE_kwDOBDSf084ZI3YN",
+          "owner": "oliverschwendener",
+          "repo": "ueli",
+          "tag": "v9.29.1",
+          "url": "https://github.com/oliverschwendener/ueli/releases/tag/v9.29.1",
+          "publishedAt": "2026-10-23T11:31:04Z",
+          "name": "9.29.1"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4ZI3yz",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.40.6",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.40.6",
+          "publishedAt": "2026-10-23T11:21:45Z",
+          "name": "v0.40.6 Release"
+        },
+        {
+          "id": "RE_kwDOHm9BJM4ZI3Od",
+          "owner": "pocketbase",
+          "repo": "pocketbase",
+          "tag": "v0.22.57",
+          "url": "https://github.com/pocketbase/pocketbase/releases/tag/v0.22.57",
+          "publishedAt": "2026-10-23T11:19:55Z",
+          "name": "v0.22.57 Release"
+        },
+        {
+          "id": "RE_kwDOEDZuds4ZIyvD",
+          "owner": "honkit",
+          "repo": "honkit",
+          "tag": "v6.2.4",
+          "url": "https://github.com/honkit/honkit/releases/tag/v6.2.4",
+          "publishedAt": "2026-10-23T10:56:02Z",
+          "name": "Release v6.2.4"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZIVEb",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2716,8 +2860,8 @@
         "releaseHistoryCursor": null
       },
       "outline/outline": {
-        "lastReleaseId": "RE_kwDOA4rpZM4Yepdc",
-        "lastPublishedAt": "2026-10-12T14:22:35Z",
+        "lastReleaseId": "RE_kwDOA4rpZM4ZI-ne",
+        "lastPublishedAt": "2026-10-23T11:52:56Z",
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
@@ -3053,8 +3197,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4YT8tK",
-        "lastPublishedAt": "2026-10-09T12:16:09Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4ZJzbc",
+        "lastPublishedAt": "2026-10-23T15:23:33Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -3116,8 +3260,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4YRMS2",
-        "lastPublishedAt": "2026-10-08T18:51:09Z",
+        "lastReleaseId": "RE_kwDOJKcikM4ZJxUy",
+        "lastPublishedAt": "2026-10-23T15:14:47Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -3465,8 +3609,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4ZDQkn",
-        "lastPublishedAt": "2026-10-22T03:43:51Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZJkun",
+        "lastPublishedAt": "2026-10-23T14:27:44Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3524,8 +3668,8 @@
       "microsoft/winget-dsc": {},
       "traPtitech/portal-oidc": {},
       "traPtitech/piscon-portal-v2": {
-        "lastReleaseId": "RE_kwDONcE2Ic4Ykv73",
-        "lastPublishedAt": "2026-10-14T02:39:54Z",
+        "lastReleaseId": "RE_kwDONcE2Ic4ZJYii",
+        "lastPublishedAt": "2026-10-23T13:41:42Z",
         "releaseHistoryCursor": null
       },
       "lorenzorovida/LowMemoryFHEResNet20": {},
@@ -3742,8 +3886,8 @@
         "lastPublishedAt": "2024-12-24T12:10:23Z"
       },
       "preactjs/preact": {
-        "lastReleaseId": "RE_kwDOAoUxF84YPBvJ",
-        "lastPublishedAt": "2026-10-08T08:28:17Z",
+        "lastReleaseId": "RE_kwDOAoUxF84ZJ4p3",
+        "lastPublishedAt": "2026-10-23T15:47:35Z",
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
@@ -3752,8 +3896,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Y-hub",
-        "lastPublishedAt": "2026-10-21T01:29:26Z",
+        "lastReleaseId": "RE_kwDOIvux3s4ZI54W",
+        "lastPublishedAt": "2026-10-23T11:54:36Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3771,8 +3915,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84YyeS5",
-        "lastPublishedAt": "2026-10-17T15:31:52Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84ZJNVx",
+        "lastPublishedAt": "2026-10-23T12:57:13Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -4011,8 +4155,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4YkbiI",
-        "lastPublishedAt": "2026-10-13T23:49:32Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4ZJwTe",
+        "lastPublishedAt": "2026-10-23T15:10:54Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -4608,8 +4752,9 @@
       },
       "ichitaro/carla-trail": {},
       "oliverschwendener/ueli": {
-        "lastReleaseId": "RE_kwDOBDSf084UbSb9",
-        "lastPublishedAt": "2026-06-22T06:18:51Z"
+        "lastReleaseId": "RE_kwDOBDSf084ZI3YN",
+        "lastPublishedAt": "2026-10-23T11:31:04Z",
+        "releaseHistoryCursor": null
       },
       "ory/dockertest": {
         "lastReleaseId": "RE_kwDOAfCskc4Y3QOU",
@@ -4698,8 +4843,8 @@
       },
       "duiker101/Hacker-Typer": {},
       "pocketbase/pocketbase": {
-        "lastReleaseId": "RE_kwDOHm9BJM4YQyat",
-        "lastPublishedAt": "2026-10-08T16:45:10Z",
+        "lastReleaseId": "RE_kwDOHm9BJM4ZI3yz",
+        "lastPublishedAt": "2026-10-23T11:21:45Z",
         "releaseHistoryCursor": null
       },
       "samber/do": {
@@ -4804,8 +4949,9 @@
       },
       "alyssaxuu/omni": {},
       "honkit/honkit": {
-        "lastReleaseId": "RE_kwDOEDZuds4UNin4",
-        "lastPublishedAt": "2026-06-14T03:31:41Z"
+        "lastReleaseId": "RE_kwDOEDZuds4ZI-de",
+        "lastPublishedAt": "2026-10-23T11:52:14Z",
+        "releaseHistoryCursor": null
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
@@ -4959,8 +5105,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4Y8J6S",
-        "lastPublishedAt": "2026-10-20T13:18:05Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4ZJ1n_",
+        "lastPublishedAt": "2026-10-23T15:32:02Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
@@ -5032,8 +5178,8 @@
         "releaseHistoryCursor": null
       },
       "akimon658/qonstellation": {
-        "lastPublishedAt": "2026-05-10T09:31:21Z",
         "lastReleaseId": "RE_kwDOSPGPAM4TFEXb",
+        "lastPublishedAt": "2026-05-10T09:31:21Z",
         "releaseHistoryCursor": null
       }
     }
