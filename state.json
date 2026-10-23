@@ -2571,6 +2571,231 @@
       ],
       "2026-10-23": [
         {
+          "id": "RE_kwDOElPqBM4ZKhz8",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "ui@0.13.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/ui%400.13.0",
+          "publishedAt": "2026-10-23T18:42:15Z",
+          "name": "ui v0.13.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhzv",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "remix@3.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/remix%403.1.0",
+          "publishedAt": "2026-10-23T18:42:13Z",
+          "name": "remix v3.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhze",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "static-middleware@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/static-middleware%401.0.1",
+          "publishedAt": "2026-10-23T18:42:12Z",
+          "name": "static-middleware v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhzO",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "spa@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/spa%401.0.1",
+          "publishedAt": "2026-10-23T18:42:11Z",
+          "name": "spa v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhy9",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "render-middleware@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/render-middleware%401.0.1",
+          "publishedAt": "2026-10-23T18:42:10Z",
+          "name": "render-middleware v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhyy",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "tar-parser@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/tar-parser%401.0.1",
+          "publishedAt": "2026-10-23T18:42:09Z",
+          "name": "tar-parser v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhyi",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "session-middleware@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/session-middleware%401.0.1",
+          "publishedAt": "2026-10-23T18:42:08Z",
+          "name": "session-middleware v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhyV",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "form-data-middleware@1.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/form-data-middleware%401.1.0",
+          "publishedAt": "2026-10-23T18:42:07Z",
+          "name": "form-data-middleware v1.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhyF",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "form-data-parser@1.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/form-data-parser%401.1.0",
+          "publishedAt": "2026-10-23T18:42:06Z",
+          "name": "form-data-parser v1.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhx3",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "multipart-parser@1.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/multipart-parser%401.1.0",
+          "publishedAt": "2026-10-23T18:42:05Z",
+          "name": "multipart-parser v1.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhxl",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "file-storage-s3@1.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/file-storage-s3%401.1.0",
+          "publishedAt": "2026-10-23T18:42:04Z",
+          "name": "file-storage-s3 v1.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhxV",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "fetch-proxy@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/fetch-proxy%401.0.1",
+          "publishedAt": "2026-10-23T18:42:02Z",
+          "name": "fetch-proxy v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhxG",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cors-middleware@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/cors-middleware%401.0.1",
+          "publishedAt": "2026-10-23T18:42:01Z",
+          "name": "cors-middleware v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhwu",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cookie@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/cookie%401.0.1",
+          "publishedAt": "2026-10-23T18:42:00Z",
+          "name": "cookie v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhwb",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "compression-middleware@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/compression-middleware%401.0.1",
+          "publishedAt": "2026-10-23T18:41:59Z",
+          "name": "compression-middleware v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhwA",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "response@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/response%401.0.1",
+          "publishedAt": "2026-10-23T18:41:58Z",
+          "name": "response v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhvt",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "component@1.1.0",
+          "url": "https://github.com/remix-run/remix/releases/tag/component%401.1.0",
+          "publishedAt": "2026-10-23T18:41:57Z",
+          "name": "component v1.1.0"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhvd",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "cli@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/cli%401.0.1",
+          "publishedAt": "2026-10-23T18:41:56Z",
+          "name": "cli v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhvJ",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "assets@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/assets%401.0.1",
+          "publishedAt": "2026-10-23T18:41:55Z",
+          "name": "assets v1.0.1"
+        },
+        {
+          "id": "RE_kwDOElPqBM4ZKhu7",
+          "owner": "remix-run",
+          "repo": "remix",
+          "tag": "headers@1.0.1",
+          "url": "https://github.com/remix-run/remix/releases/tag/headers%401.0.1",
+          "publishedAt": "2026-10-23T18:41:53Z",
+          "name": "headers v1.0.1"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4ZKaxi",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.19",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.19",
+          "publishedAt": "2026-10-23T18:09:17Z",
+          "name": "1.9.19"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4ZKXQF",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.6",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.6",
+          "publishedAt": "2026-10-23T17:52:38Z",
+          "name": "v0.4.6"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4ZKLga",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.5",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.5",
+          "publishedAt": "2026-10-23T16:57:50Z",
+          "name": "v0.4.5"
+        },
+        {
+          "id": "RE_kwDOQ52_2c4ZKJiJ",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.21.2",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.21.2",
+          "publishedAt": "2026-10-23T16:49:03Z",
+          "name": "v0.21.2"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4ZKH89",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.10",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.10",
+          "publishedAt": "2026-10-23T16:41:46Z",
+          "name": "v0.15.10"
+        },
+        {
           "id": "RE_kwDOAoUxF84ZJ4p3",
           "owner": "preactjs",
           "repo": "preact",
@@ -3064,8 +3289,8 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4ZGNGw",
-        "lastPublishedAt": "2026-10-22T18:24:06Z",
+        "lastReleaseId": "RE_kwDORQ3jDc4ZKH89",
+        "lastPublishedAt": "2026-10-23T16:41:46Z",
         "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
@@ -3124,8 +3349,8 @@
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastReleaseId": "RE_kwDOQ52_2c4Yj4hk",
-        "lastPublishedAt": "2026-10-13T20:00:55Z",
+        "lastReleaseId": "RE_kwDOQ52_2c4ZKJiJ",
+        "lastPublishedAt": "2026-10-23T16:49:03Z",
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
@@ -3156,8 +3381,8 @@
       },
       "adrian-thurston/ragel": {},
       "remix-run/remix": {
-        "lastReleaseId": "RE_kwDOElPqBM4X7TYD",
-        "lastPublishedAt": "2026-10-01T23:08:41Z",
+        "lastReleaseId": "RE_kwDOElPqBM4ZKhz8",
+        "lastPublishedAt": "2026-10-23T18:42:15Z",
         "releaseHistoryCursor": null
       },
       "ktnyt/cclsp": {},
@@ -4155,8 +4380,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4ZJwTe",
-        "lastPublishedAt": "2026-10-23T15:10:54Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4ZKaxi",
+        "lastPublishedAt": "2026-10-23T18:09:17Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -5105,8 +5330,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4ZJ1n_",
-        "lastPublishedAt": "2026-10-23T15:32:02Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4ZKXQF",
+        "lastPublishedAt": "2026-10-23T17:52:38Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
