@@ -2571,6 +2571,51 @@
       ],
       "2026-10-23": [
         {
+          "id": "RE_kwDOQvjuaM4ZIVEb",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.545.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.545.0",
+          "publishedAt": "2026-10-23T08:36:37Z",
+          "name": "v0.545.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZIG5J",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.544.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.544.0",
+          "publishedAt": "2026-10-23T07:27:57Z",
+          "name": "v0.544.0"
+        },
+        {
+          "id": "RE_kwDOQ63fjM4ZH-_a",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.9.0",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.9.0",
+          "publishedAt": "2026-10-23T06:40:40Z",
+          "name": "v1.9.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZH4ap",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.543.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.543.0",
+          "publishedAt": "2026-10-23T05:56:51Z",
+          "name": "v0.543.0"
+        },
+        {
+          "id": "RE_kwDOOELNJM4ZHn-Q",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.4.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.4.0",
+          "publishedAt": "2026-10-23T03:46:21Z",
+          "name": "vite-plus v1.4.0"
+        },
+        {
           "id": "RE_kwDOAeC4a84ZHahL",
           "owner": "labstack",
           "repo": "echo",
@@ -2842,8 +2887,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4YtniN",
-        "lastPublishedAt": "2026-10-16T06:09:37Z",
+        "lastReleaseId": "RE_kwDOOELNJM4ZHn-Q",
+        "lastPublishedAt": "2026-10-23T03:46:21Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -2862,8 +2907,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZGOSZ",
-        "lastPublishedAt": "2026-10-22T18:29:44Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZIVEb",
+        "lastPublishedAt": "2026-10-23T08:36:37Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4904,8 +4949,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4YpBI_",
-        "lastPublishedAt": "2026-10-15T04:03:25Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4ZH-_a",
+        "lastPublishedAt": "2026-10-23T06:40:40Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {
@@ -4984,6 +5029,11 @@
       "sngazm/sate": {
         "lastReleaseId": "RE_kwDOR0FRxs4YbUdz",
         "lastPublishedAt": "2026-10-17T02:34:25Z",
+        "releaseHistoryCursor": null
+      },
+      "akimon658/qonstellation": {
+        "lastPublishedAt": "2026-05-10T09:31:21Z",
+        "lastReleaseId": "RE_kwDOSPGPAM4TFEXb",
         "releaseHistoryCursor": null
       }
     }
