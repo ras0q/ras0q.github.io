@@ -2,278 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-15",
       "2026-10-16",
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
       "2026-10-20",
-      "2026-10-21"
+      "2026-10-21",
+      "2026-10-22"
     ],
     "days": {
-      "2026-10-15": [
-        {
-          "id": "RE_kwDOUNMECc4YsfXk",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.8.0",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.8.0",
-          "publishedAt": "2026-10-15T22:30:55Z",
-          "name": "v1.8.0: Verify packslip releases from Node.js with the new npm package"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YsdN1",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.457.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.457.0",
-          "publishedAt": "2026-10-15T21:48:48Z",
-          "name": "v0.457.0"
-        },
-        {
-          "id": "RE_kwDODH8YWs4YsYvT",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.11",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.11",
-          "publishedAt": "2026-10-15T21:24:46Z",
-          "name": "v2026.10.11"
-        },
-        {
-          "id": "RE_kwDOPbFNk84Yr6tG",
-          "owner": "earendil-works",
-          "repo": "pi",
-          "tag": "v1.3.0",
-          "url": "https://github.com/earendil-works/pi/releases/tag/v1.3.0",
-          "publishedAt": "2026-10-15T19:17:33Z",
-          "name": "v1.3.0"
-        },
-        {
-          "id": "RE_kwDOCd2s284YrQpG",
-          "owner": "emilk",
-          "repo": "egui",
-          "tag": "0.37.0",
-          "url": "https://github.com/emilk/egui/releases/tag/0.37.0",
-          "publishedAt": "2026-10-15T15:49:34Z",
-          "name": "0.37.0 - Colored emojis! 🚀"
-        },
-        {
-          "id": "RE_kwDOCkh5xs4YrNOf",
-          "owner": "pmndrs",
-          "repo": "react-three-fiber",
-          "tag": "v9.8.2",
-          "url": "https://github.com/pmndrs/react-three-fiber/releases/tag/v9.8.2",
-          "publishedAt": "2026-10-15T15:35:16Z",
-          "name": "v9.8.2"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMzK",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-test@0.2.9",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-test%400.2.9",
-          "publishedAt": "2026-10-15T15:33:38Z",
-          "name": "@emdash-cms/plugin-test@0.2.9"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMyL",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/sandbox-workerd@0.9.4",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/sandbox-workerd%400.9.4",
-          "publishedAt": "2026-10-15T15:33:35Z",
-          "name": "@emdash-cms/sandbox-workerd@0.9.4"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMxQ",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-forms@0.2.10",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-forms%400.2.10",
-          "publishedAt": "2026-10-15T15:33:32Z",
-          "name": "@emdash-cms/plugin-forms@0.2.10"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMwg",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-embeds@0.1.56",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-embeds%400.1.56",
-          "publishedAt": "2026-10-15T15:33:29Z",
-          "name": "@emdash-cms/plugin-embeds@0.1.56"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMvw",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/cloudflare@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/cloudflare%401.3.0",
-          "publishedAt": "2026-10-15T15:33:26Z",
-          "name": "@emdash-cms/cloudflare@1.3.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMvI",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "emdash@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/emdash%401.3.0",
-          "publishedAt": "2026-10-15T15:33:23Z",
-          "name": "emdash@1.3.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMuX",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/auth-atproto@0.2.48",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth-atproto%400.2.48",
-          "publishedAt": "2026-10-15T15:33:20Z",
-          "name": "@emdash-cms/auth-atproto@0.2.48"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMtm",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/registry-loader@0.1.3",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-loader%400.1.3",
-          "publishedAt": "2026-10-15T15:33:17Z",
-          "name": "@emdash-cms/registry-loader@0.1.3"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMs7",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-cli@0.13.4",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-cli%400.13.4",
-          "publishedAt": "2026-10-15T15:33:14Z",
-          "name": "@emdash-cms/plugin-cli@0.13.4"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMr6",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/admin@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/admin%401.3.0",
-          "publishedAt": "2026-10-15T15:33:11Z",
-          "name": "@emdash-cms/admin@1.3.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMrA",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/x402@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/x402%401.3.0",
-          "publishedAt": "2026-10-15T15:33:08Z",
-          "name": "@emdash-cms/x402@1.3.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMp9",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/registry-client@0.7.1",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-client%400.7.1",
-          "publishedAt": "2026-10-15T15:33:05Z",
-          "name": "@emdash-cms/registry-client@0.7.1"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMpB",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/gutenberg-to-portable-text@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/gutenberg-to-portable-text%401.3.0",
-          "publishedAt": "2026-10-15T15:33:02Z",
-          "name": "@emdash-cms/gutenberg-to-portable-text@1.3.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMoU",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "create-emdash@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/create-emdash%401.3.0",
-          "publishedAt": "2026-10-15T15:32:59Z",
-          "name": "create-emdash@1.3.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMnj",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/blocks@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/blocks%401.3.0",
-          "publishedAt": "2026-10-15T15:32:56Z",
-          "name": "@emdash-cms/blocks@1.3.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4YrMm3",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/auth@1.3.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth%401.3.0",
-          "publishedAt": "2026-10-15T15:32:53Z",
-          "name": "@emdash-cms/auth@1.3.0"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4YrKi1",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.17.1",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.17.1",
-          "publishedAt": "2026-10-15T15:24:28Z",
-          "name": "0.17.1"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YrKkO",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.17.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.17.1",
-          "publishedAt": "2026-10-15T15:24:23Z",
-          "name": "v1.17.1"
-        },
-        {
-          "id": "RE_kwDOL0IZ084YqdaI",
-          "owner": "glanceapp",
-          "repo": "glance",
-          "tag": "v0.8.7",
-          "url": "https://github.com/glanceapp/glance/releases/tag/v0.8.7",
-          "publishedAt": "2026-10-15T12:27:36Z",
-          "name": "v0.8.7"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Yp_kt",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.11",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.11",
-          "publishedAt": "2026-10-15T10:13:36Z",
-          "name": "v2026.10.11: Much faster installs and far fewer GitHub API calls"
-        },
-        {
-          "id": "RE_kwDOQ63fjM4YpBI_",
-          "owner": "eugenioenko",
-          "repo": "ttt",
-          "tag": "v1.8.0",
-          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.8.0",
-          "publishedAt": "2026-10-15T04:03:25Z",
-          "name": "v1.8.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84Yo6ZL",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.17.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.17.0",
-          "publishedAt": "2026-10-15T03:07:09Z",
-          "name": "v1.17.0"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4Yolnm",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.14.2",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.14.2",
-          "publishedAt": "2026-10-15T00:15:19Z",
-          "name": "v1.14.2 - Extension metadata, faster completion"
-        }
-      ],
       "2026-10-16": [
         {
           "id": "RE_kwDOFNWFc84Ywn8o",
@@ -2831,6 +2568,71 @@
           "publishedAt": "2026-10-22T01:35:54Z",
           "name": "0.13.5"
         }
+      ],
+      "2026-10-23": [
+        {
+          "id": "RE_kwDOAeC4a84ZHahL",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.4.2",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.4.2",
+          "publishedAt": "2026-10-23T01:54:52Z",
+          "name": "v5.4.2"
+        },
+        {
+          "id": "RE_kwDOAeC4a84ZHahB",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v4.16.2",
+          "url": "https://github.com/labstack/echo/releases/tag/v4.16.2",
+          "publishedAt": "2026-10-23T01:54:51Z",
+          "name": "v4.16.2"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4ZHX4H",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.64.3",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.64.3",
+          "publishedAt": "2026-10-23T01:32:39Z",
+          "name": "0.64.3"
+        },
+        {
+          "id": "RE_kwDOUNMECc4ZGRvj",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.11.0",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.0",
+          "publishedAt": "2026-10-23T00:51:27Z",
+          "name": "v1.11.0: Repository-bound signer checks for GitHub and GitLab projects, install fallback, and empty release lists"
+        },
+        {
+          "id": "RE_kwDOH0TSTs4ZHSBZ",
+          "owner": "Songmu",
+          "repo": "tagpr",
+          "tag": "v1.21.4",
+          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.21.4",
+          "publishedAt": "2026-10-23T00:46:37Z",
+          "name": "v1.21.4"
+        },
+        {
+          "id": "RE_kwDOFO5EPM4ZHMC6",
+          "owner": "google",
+          "repo": "GoogleSignIn-iOS",
+          "tag": "10.1.0",
+          "url": "https://github.com/google/GoogleSignIn-iOS/releases/tag/10.1.0",
+          "publishedAt": "2026-10-23T00:42:17Z",
+          "name": "GoogleSignIn-iOS 10.1.0"
+        },
+        {
+          "id": "RE_kwDOC3PEAc4ZHB8J",
+          "owner": "dprint",
+          "repo": "dprint",
+          "tag": "0.64.2",
+          "url": "https://github.com/dprint/dprint/releases/tag/0.64.2",
+          "publishedAt": "2026-10-23T00:04:10Z",
+          "name": "0.64.2"
+        }
       ]
     }
   },
@@ -3049,8 +2851,8 @@
         "lastPublishedAt": "2026-05-11T09:03:14Z"
       },
       "Songmu/tagpr": {
-        "lastReleaseId": "RE_kwDOH0TSTs4YvZC8",
-        "lastPublishedAt": "2026-10-16T14:54:24Z",
+        "lastReleaseId": "RE_kwDOH0TSTs4ZHSBZ",
+        "lastPublishedAt": "2026-10-23T00:46:37Z",
         "releaseHistoryCursor": null
       },
       "k1LoW/git-wt": {
@@ -3159,8 +2961,8 @@
         "releaseHistoryCursor": null
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84ZF0OQ",
-        "lastPublishedAt": "2026-10-22T16:32:50Z",
+        "lastReleaseId": "RE_kwDOAeC4a84ZHahL",
+        "lastPublishedAt": "2026-10-23T01:54:52Z",
         "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
@@ -3975,8 +3777,8 @@
         "lastPublishedAt": "2025-07-16T19:04:34Z"
       },
       "dprint/dprint": {
-        "lastReleaseId": "RE_kwDOC3PEAc4Y9k_c",
-        "lastPublishedAt": "2026-10-20T19:39:14Z",
+        "lastReleaseId": "RE_kwDOC3PEAc4ZHX4H",
+        "lastPublishedAt": "2026-10-23T01:32:39Z",
         "releaseHistoryCursor": null
       },
       "eythaann/Seelen-UI": {
@@ -4663,8 +4465,8 @@
       },
       "YusukeHosonuma/Effective-SwiftUI": {},
       "google/GoogleSignIn-iOS": {
-        "lastReleaseId": "RE_kwDOFO5EPM4Wvo-Q",
-        "lastPublishedAt": "2026-09-04T00:11:03Z",
+        "lastReleaseId": "RE_kwDOFO5EPM4ZHMC6",
+        "lastPublishedAt": "2026-10-23T00:42:17Z",
         "releaseHistoryCursor": null
       },
       "akawashiro/jendeley": {
@@ -5137,8 +4939,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4ZAn-W",
-        "lastPublishedAt": "2026-10-21T13:44:53Z",
+        "lastReleaseId": "RE_kwDOUNMECc4ZGRvj",
+        "lastPublishedAt": "2026-10-23T00:51:27Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
