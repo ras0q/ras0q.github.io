@@ -2859,6 +2859,159 @@
       ],
       "2026-10-24": [
         {
+          "id": "RE_kwDOM9WtiM4ZM4Gr",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.4",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.4",
+          "publishedAt": "2026-10-24T15:14:24Z",
+          "name": "v1.9.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZM2J3",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.550.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.550.0",
+          "publishedAt": "2026-10-24T15:02:00Z",
+          "name": "v0.550.0"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4ZMyOn",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.3.3",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.3.3",
+          "publishedAt": "2026-10-24T14:32:21Z",
+          "name": "v0.3.3"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4ZMu2W",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.2",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.2",
+          "publishedAt": "2026-10-24T14:06:57Z",
+          "name": "v5.2.2"
+        },
+        {
+          "id": "RE_kwDOOC1fY84ZKCtp",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "4.1.2",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/4.1.2",
+          "publishedAt": "2026-10-24T13:51:54Z",
+          "name": "4.1.2"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4ZMr9e",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.26.1",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.26.1",
+          "publishedAt": "2026-10-24T13:44:03Z",
+          "name": "v1.26.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZMmVq",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.187",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.187",
+          "publishedAt": "2026-10-24T12:57:02Z",
+          "name": "v8.4.187 - ultralytics 8.4.187 OKS-only label assignment with a pyramid-level gate for YOLO26-pose (#26843)"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4ZMmC2",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.1",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.1",
+          "publishedAt": "2026-10-24T12:54:49Z",
+          "name": "v5.2.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZMgAc",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.549.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.549.0",
+          "publishedAt": "2026-10-24T12:04:54Z",
+          "name": "v0.549.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZMdB3",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.186",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.186",
+          "publishedAt": "2026-10-24T11:38:28Z",
+          "name": "v8.4.186 - Load torch 1.10-1.12 on glibc 2.41+ with one shared executable-stack fix for torch and MNN (#26866)"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZMakC",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.548.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.548.0",
+          "publishedAt": "2026-10-24T11:16:55Z",
+          "name": "v0.548.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4ZMStR",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-wasi-v1.0.59",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-wasi-v1.0.59",
+          "publishedAt": "2026-10-24T10:05:50Z",
+          "name": "detect-wasi-v1.0.59"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4ZMSs0",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-manifests-v0.19.11",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.11",
+          "publishedAt": "2026-10-24T10:05:46Z",
+          "name": "binstalk-manifests-v0.19.11"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4ZMSqx",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.29.5",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.5",
+          "publishedAt": "2026-10-24T10:05:31Z",
+          "name": "binstalk-v0.29.5"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4ZMShf",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-targets-v0.1.96",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.96",
+          "publishedAt": "2026-10-24T10:04:09Z",
+          "name": "detect-targets-v0.1.96"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZMN4k",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.547.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.547.0",
+          "publishedAt": "2026-10-24T09:22:32Z",
+          "name": "v0.547.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4ZMLvt",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.3",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.3",
+          "publishedAt": "2026-10-24T09:03:52Z",
+          "name": "v1.9.3"
+        },
+        {
           "id": "RE_kwDOIIPL1M4ZMIKW",
           "owner": "webpro-nl",
           "repo": "knip",
@@ -3195,8 +3348,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZLojc",
-        "lastPublishedAt": "2026-10-24T03:01:02Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZM2J3",
+        "lastPublishedAt": "2026-10-24T15:02:00Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3753,8 +3906,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4ZL54h",
-        "lastPublishedAt": "2026-10-24T06:05:52Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZM4Gr",
+        "lastPublishedAt": "2026-10-24T15:14:24Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3812,8 +3965,8 @@
       "microsoft/winget-dsc": {},
       "traPtitech/portal-oidc": {},
       "traPtitech/piscon-portal-v2": {
-        "lastReleaseId": "RE_kwDONcE2Ic4ZLwQ0",
-        "lastPublishedAt": "2026-10-24T04:19:09Z",
+        "lastReleaseId": "RE_kwDONcE2Ic4ZMyOn",
+        "lastPublishedAt": "2026-10-24T14:32:21Z",
         "releaseHistoryCursor": null
       },
       "lorenzorovida/LowMemoryFHEResNet20": {},
@@ -3927,14 +4080,14 @@
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastReleaseId": "RE_kwDOOC1fY84XD3J3",
-        "lastPublishedAt": "2026-09-11T08:32:18Z",
+        "lastReleaseId": "RE_kwDOOC1fY84ZKCtp",
+        "lastPublishedAt": "2026-10-24T13:51:54Z",
         "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4YyDsg",
-        "lastPublishedAt": "2026-10-17T11:53:53Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4ZMr9e",
+        "lastPublishedAt": "2026-10-24T13:44:03Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -4477,8 +4630,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZLxD2",
-        "lastPublishedAt": "2026-10-24T04:28:25Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZMmVq",
+        "lastPublishedAt": "2026-10-24T12:57:02Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -5062,8 +5215,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4YSUfV",
-        "lastPublishedAt": "2026-10-09T03:06:50Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4ZMu2W",
+        "lastPublishedAt": "2026-10-24T14:06:57Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
