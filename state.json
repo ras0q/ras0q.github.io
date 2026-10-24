@@ -2859,6 +2859,69 @@
       ],
       "2026-10-24": [
         {
+          "id": "RE_kwDOQvjuaM4ZNoRz",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.555.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.555.0",
+          "publishedAt": "2026-10-24T21:55:15Z",
+          "name": "v0.555.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZNjm7",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.554.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.554.0",
+          "publishedAt": "2026-10-24T21:11:05Z",
+          "name": "v0.554.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZNg0c",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.188",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.188",
+          "publishedAt": "2026-10-24T20:45:49Z",
+          "name": "v8.4.188 - ultralytics 8.4.188 Fix Android loading and depth speed of QNN exports (#26872)"
+        },
+        {
+          "id": "RE_kwDOIvux3s4ZNac_",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.19",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.19",
+          "publishedAt": "2026-10-24T20:02:03Z",
+          "name": "v2026.10.19: Security hardening across trust, installs and provenance; lockfiles now rebuilt completely by default"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZNZEg",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.553.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.553.0",
+          "publishedAt": "2026-10-24T19:37:11Z",
+          "name": "v0.553.0"
+        },
+        {
+          "id": "RE_kwDOI2v4zc4ZNVhv",
+          "owner": "pionxzh",
+          "repo": "wakaru",
+          "tag": "v1.15.0",
+          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.15.0",
+          "publishedAt": "2026-10-24T19:06:27Z",
+          "name": "v1.15.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZNVBG",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.552.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.552.0",
+          "publishedAt": "2026-10-24T19:02:20Z",
+          "name": "v0.552.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZNRJv",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -3225,8 +3288,8 @@
         "releaseHistoryCursor": null
       },
       "pionxzh/wakaru": {
-        "lastReleaseId": "RE_kwDOI2v4zc4YXsh-",
-        "lastPublishedAt": "2026-10-10T10:16:23Z",
+        "lastReleaseId": "RE_kwDOI2v4zc4ZNVhv",
+        "lastPublishedAt": "2026-10-24T19:06:27Z",
         "releaseHistoryCursor": null
       },
       "Akifyss/obsidian-border": {},
@@ -3366,8 +3429,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZNRJv",
-        "lastPublishedAt": "2026-10-24T18:29:36Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZNoRz",
+        "lastPublishedAt": "2026-10-24T21:55:15Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4211,8 +4274,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4ZI54W",
-        "lastPublishedAt": "2026-10-23T11:54:36Z",
+        "lastReleaseId": "RE_kwDOIvux3s4ZNac_",
+        "lastPublishedAt": "2026-10-24T20:02:03Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4648,8 +4711,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZMmVq",
-        "lastPublishedAt": "2026-10-24T12:57:02Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZNg0c",
+        "lastPublishedAt": "2026-10-24T20:45:49Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
