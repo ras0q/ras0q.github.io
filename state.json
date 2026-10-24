@@ -2859,6 +2859,69 @@
       ],
       "2026-10-24": [
         {
+          "id": "RE_kwDOIIPL1M4ZMIKW",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.43.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.43.0",
+          "publishedAt": "2026-10-24T08:30:11Z",
+          "name": "Release 6.43.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4ZL54h",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.2",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.2",
+          "publishedAt": "2026-10-24T06:05:52Z",
+          "name": "v1.9.2"
+        },
+        {
+          "id": "RE_kwDODVAw7c4ZLy5b",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.14",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.14",
+          "publishedAt": "2026-10-24T04:47:58Z",
+          "name": "v3.33.14"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZLxD2",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.185",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.185",
+          "publishedAt": "2026-10-24T04:28:25Z",
+          "name": "v8.4.185 - Load MNN on glibc 2.41+ by clearing its unused executable-stack flag (#26861)"
+        },
+        {
+          "id": "RE_kwDONcE2Ic4ZLwQ0",
+          "owner": "traPtitech",
+          "repo": "piscon-portal-v2",
+          "tag": "v0.3.1",
+          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.3.1",
+          "publishedAt": "2026-10-24T04:19:09Z",
+          "name": "v0.3.1"
+        },
+        {
+          "id": "RE_kwDOGNEXps4ZLsrM",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.40",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.40",
+          "publishedAt": "2026-10-24T04:00:33Z",
+          "name": "1.0.40"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZLojc",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.546.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.546.0",
+          "publishedAt": "2026-10-24T03:01:02Z",
+          "name": "v0.546.0"
+        },
+        {
           "id": "RE_kwDOQ52_2c4ZLlwz",
           "owner": "vercel-labs",
           "repo": "json-render",
@@ -3132,8 +3195,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZIVEb",
-        "lastPublishedAt": "2026-10-23T08:36:37Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZLojc",
+        "lastPublishedAt": "2026-10-24T03:01:02Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3404,8 +3467,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4Y5CWH",
-        "lastPublishedAt": "2026-10-19T18:22:22Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4ZMIKW",
+        "lastPublishedAt": "2026-10-24T08:30:11Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -3414,8 +3477,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4Y2Be-",
-        "lastPublishedAt": "2026-10-19T01:17:08Z",
+        "lastReleaseId": "RE_kwDODVAw7c4ZLy5b",
+        "lastPublishedAt": "2026-10-24T04:47:58Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -3690,8 +3753,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4ZJkun",
-        "lastPublishedAt": "2026-10-23T14:27:44Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZL54h",
+        "lastPublishedAt": "2026-10-24T06:05:52Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3749,8 +3812,8 @@
       "microsoft/winget-dsc": {},
       "traPtitech/portal-oidc": {},
       "traPtitech/piscon-portal-v2": {
-        "lastReleaseId": "RE_kwDONcE2Ic4ZJYii",
-        "lastPublishedAt": "2026-10-23T13:41:42Z",
+        "lastReleaseId": "RE_kwDONcE2Ic4ZLwQ0",
+        "lastPublishedAt": "2026-10-24T04:19:09Z",
         "releaseHistoryCursor": null
       },
       "lorenzorovida/LowMemoryFHEResNet20": {},
@@ -4414,8 +4477,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZGDcE",
-        "lastPublishedAt": "2026-10-22T17:41:34Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZLxD2",
+        "lastPublishedAt": "2026-10-24T04:28:25Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4544,8 +4607,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Y7oDC",
-        "lastPublishedAt": "2026-10-20T11:06:28Z",
+        "lastReleaseId": "RE_kwDOGNEXps4ZLsrM",
+        "lastPublishedAt": "2026-10-24T04:00:33Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
