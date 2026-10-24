@@ -2859,6 +2859,24 @@
       ],
       "2026-10-24": [
         {
+          "id": "RE_kwDOQvjuaM4ZNRJv",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.551.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.551.0",
+          "publishedAt": "2026-10-24T18:29:36Z",
+          "name": "v0.551.0"
+        },
+        {
+          "id": "RE_kwDOOAhtcs4ZM9mg",
+          "owner": "kepano",
+          "repo": "defuddle",
+          "tag": "0.19.6",
+          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.6",
+          "publishedAt": "2026-10-24T15:56:41Z",
+          "name": "0.19.6"
+        },
+        {
           "id": "RE_kwDOM9WtiM4ZM4Gr",
           "owner": "tombi-toml",
           "repo": "tombi",
@@ -3348,8 +3366,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZM2J3",
-        "lastPublishedAt": "2026-10-24T15:02:00Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZNRJv",
+        "lastPublishedAt": "2026-10-24T18:29:36Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4036,8 +4054,8 @@
       },
       "typedgrammar/typed-japanese": {},
       "kepano/defuddle": {
-        "lastReleaseId": "RE_kwDOOAhtcs4YYWIM",
-        "lastPublishedAt": "2026-10-10T15:34:53Z",
+        "lastReleaseId": "RE_kwDOOAhtcs4ZM9mg",
+        "lastPublishedAt": "2026-10-24T15:56:41Z",
         "releaseHistoryCursor": null
       },
       "tmc/nlm": {},
