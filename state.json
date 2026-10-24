@@ -2,224 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-16",
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
       "2026-10-20",
       "2026-10-21",
-      "2026-10-22"
+      "2026-10-22",
+      "2026-10-23"
     ],
     "days": {
-      "2026-10-16": [
-        {
-          "id": "RE_kwDOFNWFc84Ywn8o",
-          "owner": "obsidian-tasks-group",
-          "repo": "obsidian-tasks",
-          "tag": "8.6.0",
-          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.6.0",
-          "publishedAt": "2026-10-16T21:40:25Z",
-          "name": "8.6.0: Require at least Obsidian 1.13.1; add setting for which field to Postpone"
-        },
-        {
-          "id": "RE_kwDOK-QCA84YwmYX",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v20.0.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.0.0",
-          "publishedAt": "2026-10-16T21:26:25Z",
-          "name": "v20.0.0"
-        },
-        {
-          "id": "RE_kwDOJWXenM4YwmGv",
-          "owner": "spotify",
-          "repo": "voyager",
-          "tag": "v2.2.2",
-          "url": "https://github.com/spotify/voyager/releases/tag/v2.2.2",
-          "publishedAt": "2026-10-16T21:24:34Z",
-          "name": "v2.2.2"
-        },
-        {
-          "id": "RE_kwDOJWXenM4Ywf6p",
-          "owner": "spotify",
-          "repo": "voyager",
-          "tag": "v2.2.1",
-          "url": "https://github.com/spotify/voyager/releases/tag/v2.2.1",
-          "publishedAt": "2026-10-16T20:48:02Z",
-          "name": "v2.2.1"
-        },
-        {
-          "id": "RE_kwDOJWXenM4YwV2q",
-          "owner": "spotify",
-          "repo": "voyager",
-          "tag": "v2.2.0",
-          "url": "https://github.com/spotify/voyager/releases/tag/v2.2.0",
-          "publishedAt": "2026-10-16T19:50:19Z",
-          "name": "v2.2.0"
-        },
-        {
-          "id": "RE_kwDOJWXenM4YwMFp",
-          "owner": "spotify",
-          "repo": "voyager",
-          "tag": "2.2.0",
-          "url": "https://github.com/spotify/voyager/releases/tag/2.2.0",
-          "publishedAt": "2026-10-16T18:58:35Z",
-          "name": "2.2.0"
-        },
-        {
-          "id": "RE_kwDOO2B60c4YwIEr",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.2.0",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.2.0",
-          "publishedAt": "2026-10-16T18:43:14Z",
-          "name": "2.2.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4YwCh-",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.12",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.12",
-          "publishedAt": "2026-10-16T18:19:41Z",
-          "name": "v2026.10.12: Per-tool Python runtimes for PyPI tools, Gradle workspace discovery, and env file find_up"
-        },
-        {
-          "id": "RE_kwDORSib_s4Yvv7j",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.19.6",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.19.6",
-          "publishedAt": "2026-10-16T16:39:12Z",
-          "name": "v0.19.6"
-        },
-        {
-          "id": "RE_kwDOGNEXps4Yvdw_",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.37",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.37",
-          "publishedAt": "2026-10-16T15:22:03Z",
-          "name": "1.0.37"
-        },
-        {
-          "id": "RE_kwDOH0TSTs4YvZC8",
-          "owner": "Songmu",
-          "repo": "tagpr",
-          "tag": "v1.21.3",
-          "url": "https://github.com/Songmu/tagpr/releases/tag/v1.21.3",
-          "publishedAt": "2026-10-16T14:54:24Z",
-          "name": "v1.21.3"
-        },
-        {
-          "id": "RE_kwDOBLlNSM4YvTPd",
-          "owner": "lingui",
-          "repo": "js-lingui",
-          "tag": "v6.10.0",
-          "url": "https://github.com/lingui/js-lingui/releases/tag/v6.10.0",
-          "publishedAt": "2026-10-16T14:27:16Z",
-          "name": "v6.10.0"
-        },
-        {
-          "id": "RE_kwDOSP9SeM4YvGdq",
-          "owner": "abap34",
-          "repo": "ss",
-          "tag": "v0.8.4",
-          "url": "https://github.com/abap34/ss/releases/tag/v0.8.4",
-          "publishedAt": "2026-10-16T13:34:20Z",
-          "name": "ss v0.8.4"
-        },
-        {
-          "id": "RE_kwDOINPdOM4YuupH",
-          "owner": "zama-ai",
-          "repo": "tfhe-rs",
-          "tag": "tfhe-rs-1.6.1-1",
-          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.6.1-1",
-          "publishedAt": "2026-10-16T12:14:29Z",
-          "name": "TFHE-rs 1.6.1-1"
-        },
-        {
-          "id": "RE_kwDOAcjBfM4Yuvcz",
-          "owner": "fluent",
-          "repo": "fluent-bit",
-          "tag": "v5.1.4",
-          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.4",
-          "publishedAt": "2026-10-16T11:49:47Z",
-          "name": "Fluent Bit 5.1.4"
-        },
-        {
-          "id": "RE_kwDOGN5wJc4YurKv",
-          "owner": "dlvhdr",
-          "repo": "gh-dash",
-          "tag": "v4.26.2",
-          "url": "https://github.com/dlvhdr/gh-dash/releases/tag/v4.26.2",
-          "publishedAt": "2026-10-16T11:29:38Z",
-          "name": "v4.26.2"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4YuWW5",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "schema-v1.26.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.26.0",
-          "publishedAt": "2026-10-16T10:03:24Z",
-          "name": "Schema v1.26.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4YuWWT",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "v1.12.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.12.0",
-          "publishedAt": "2026-10-16T10:03:21Z",
-          "name": "Rust Crate v1.12.0"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4YtpFS",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.10.0",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.10.0",
-          "publishedAt": "2026-10-16T06:20:00Z",
-          "name": "v0.10.0"
-        },
-        {
-          "id": "RE_kwDOOELNJM4YtniN",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v1.3.0",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.3.0",
-          "publishedAt": "2026-10-16T06:09:37Z",
-          "name": "vite-plus v1.3.0"
-        },
-        {
-          "id": "RE_kwDOOR3Pys4YtXP8",
-          "owner": "swiftlang",
-          "repo": "swift-subprocess",
-          "tag": "1.0.2",
-          "url": "https://github.com/swiftlang/swift-subprocess/releases/tag/1.0.2",
-          "publishedAt": "2026-10-16T04:41:38Z",
-          "name": "Subprocess 1.0.2"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4Ys_GL",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.8.5",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.5",
-          "publishedAt": "2026-10-16T01:45:29Z",
-          "name": "v1.8.5"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Ysx-M",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.178",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.178",
-          "publishedAt": "2026-10-16T00:09:32Z",
-          "name": "v8.4.178 - 8.4.178 Print the Platform-resolved model link after training starts (#26699)"
-        }
-      ],
       "2026-10-17": [
         {
           "id": "RE_kwDOH-jzvc4Yy7zu",
@@ -2571,6 +2362,24 @@
       ],
       "2026-10-23": [
         {
+          "id": "RE_kwDOSJO3-s4ZLUSM",
+          "owner": "github",
+          "repo": "gh-actions-lock",
+          "tag": "v0.4.0",
+          "url": "https://github.com/github/gh-actions-lock/releases/tag/v0.4.0",
+          "publishedAt": "2026-10-23T23:36:00Z",
+          "name": "gh-actions-lock 0.4.0"
+        },
+        {
+          "id": "RE_kwDOOzc9Ss4ZLIZS",
+          "owner": "apple",
+          "repo": "container",
+          "tag": "1.6.1",
+          "url": "https://github.com/apple/container/releases/tag/1.6.1",
+          "publishedAt": "2026-10-23T23:26:12Z",
+          "name": "1.6.1"
+        },
+        {
           "id": "RE_kwDOElPqBM4ZKhz8",
           "owner": "remix-run",
           "repo": "remix",
@@ -3047,6 +2856,53 @@
           "publishedAt": "2026-10-23T00:04:10Z",
           "name": "0.64.2"
         }
+      ],
+      "2026-10-24": [
+        {
+          "id": "RE_kwDOQ52_2c4ZLlwz",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.21.3",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.21.3",
+          "publishedAt": "2026-10-24T02:31:45Z",
+          "name": "v0.21.3"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4ZLcMP",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.15.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.15.0",
+          "publishedAt": "2026-10-24T00:50:05Z",
+          "name": "v1.15.0 - Standalone install, update dry run"
+        },
+        {
+          "id": "RE_kwDORSib_s4ZLbTh",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.21.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.21.0",
+          "publishedAt": "2026-10-24T00:41:26Z",
+          "name": "v0.21.0"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4ZLZGM",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.11",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.11",
+          "publishedAt": "2026-10-24T00:20:15Z",
+          "name": "v0.15.11"
+        },
+        {
+          "id": "RE_kwDOCk_pzs4VM_Hn",
+          "owner": "oapi-codegen",
+          "repo": "oapi-codegen",
+          "tag": "v2.8.1",
+          "url": "https://github.com/oapi-codegen/oapi-codegen/releases/tag/v2.8.1",
+          "publishedAt": "2026-10-24T00:20:07Z",
+          "name": "v2.8.1: Security fixes for codegen and at runtime"
+        }
       ]
     }
   },
@@ -3111,8 +2967,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4Y9u3v",
-        "lastPublishedAt": "2026-10-20T20:22:40Z",
+        "lastReleaseId": "RE_kwDORSib_s4ZLbTh",
+        "lastPublishedAt": "2026-10-24T00:41:26Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -3289,8 +3145,8 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4ZKH89",
-        "lastPublishedAt": "2026-10-23T16:41:46Z",
+        "lastReleaseId": "RE_kwDORQ3jDc4ZLZGM",
+        "lastPublishedAt": "2026-10-24T00:20:15Z",
         "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
@@ -3322,8 +3178,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4YxGFo",
-        "lastPublishedAt": "2026-10-17T01:52:12Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4ZLcMP",
+        "lastPublishedAt": "2026-10-24T00:50:05Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -3349,8 +3205,8 @@
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastReleaseId": "RE_kwDOQ52_2c4ZKJiJ",
-        "lastPublishedAt": "2026-10-23T16:49:03Z",
+        "lastReleaseId": "RE_kwDOQ52_2c4ZLlwz",
+        "lastPublishedAt": "2026-10-24T02:31:45Z",
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
@@ -3755,8 +3611,8 @@
       },
       "tohutohu/discord-claude-code": {},
       "apple/container": {
-        "lastReleaseId": "RE_kwDOOzc9Ss4Y6KrD",
-        "lastPublishedAt": "2026-10-20T02:10:40Z",
+        "lastReleaseId": "RE_kwDOOzc9Ss4ZLIZS",
+        "lastPublishedAt": "2026-10-23T23:26:12Z",
         "releaseHistoryCursor": null
       },
       "anaisbetts/mcp-installer": {},
@@ -5246,8 +5102,9 @@
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
-        "lastReleaseId": "RE_kwDOCk_pzs4S3NTK",
-        "lastPublishedAt": "2026-07-17T14:11:21Z"
+        "lastReleaseId": "RE_kwDOCk_pzs4VM_Hn",
+        "lastPublishedAt": "2026-10-24T00:20:07Z",
+        "releaseHistoryCursor": null
       },
       "AMAI-GmbH/AI-Expert-Roadmap": {},
       "zaddok/moodle": {},
@@ -5380,8 +5237,8 @@
         "releaseHistoryCursor": null
       },
       "github/gh-actions-lock": {
-        "lastReleaseId": "RE_kwDOSJO3-s4ZFubH",
-        "lastPublishedAt": "2026-10-22T16:08:36Z",
+        "lastReleaseId": "RE_kwDOSJO3-s4ZLUSM",
+        "lastPublishedAt": "2026-10-23T23:36:00Z",
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
