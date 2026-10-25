@@ -2994,6 +2994,78 @@
       ],
       "2026-10-25": [
         {
+          "id": "RE_kwDOQvjuaM4ZOgTC",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.566.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.566.0",
+          "publishedAt": "2026-10-25T07:56:20Z",
+          "name": "v0.566.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84ZOe-T",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.21.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.21.0",
+          "publishedAt": "2026-10-25T07:46:44Z",
+          "name": "v1.21.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOaGs",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.565.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.565.0",
+          "publishedAt": "2026-10-25T07:13:40Z",
+          "name": "v0.565.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOVgt",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.564.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.564.0",
+          "publishedAt": "2026-10-25T06:28:39Z",
+          "name": "v0.564.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOSCC",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.563.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.563.0",
+          "publishedAt": "2026-10-25T05:48:43Z",
+          "name": "v0.563.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOOsm",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.562.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.562.0",
+          "publishedAt": "2026-10-25T05:09:02Z",
+          "name": "v0.562.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOLs0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.561.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.561.0",
+          "publishedAt": "2026-10-25T04:33:48Z",
+          "name": "v0.561.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOEh7",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.560.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.560.0",
+          "publishedAt": "2026-10-25T03:10:27Z",
+          "name": "v0.560.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZOB9Q",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -3276,8 +3348,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZOB9Q",
-        "lastPublishedAt": "2026-10-25T02:39:50Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZOgTC",
+        "lastPublishedAt": "2026-10-25T07:56:20Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4140,8 +4212,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84ZJNVx",
-        "lastPublishedAt": "2026-10-23T12:57:13Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84ZOe-T",
+        "lastPublishedAt": "2026-10-25T07:46:44Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
