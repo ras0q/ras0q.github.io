@@ -2994,6 +2994,42 @@
       ],
       "2026-10-25": [
         {
+          "id": "RE_kwDOQ_KVhM4ZPyGU",
+          "owner": "rtk-ai",
+          "repo": "rtk",
+          "tag": "v1.1.0",
+          "url": "https://github.com/rtk-ai/rtk/releases/tag/v1.1.0",
+          "publishedAt": "2026-10-25T18:00:11Z",
+          "name": "v1.1.0"
+        },
+        {
+          "id": "RE_kwDOO2B60c4ZPvca",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.3.0",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.3.0",
+          "publishedAt": "2026-10-25T17:40:12Z",
+          "name": "2.3.0"
+        },
+        {
+          "id": "RE_kwDORsUayc4ZPoTI",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.17.5",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.5",
+          "publishedAt": "2026-10-25T16:43:01Z",
+          "name": "v0.17.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZPhwB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.571.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.571.0",
+          "publishedAt": "2026-10-25T15:55:08Z",
+          "name": "v0.571.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZPcvh",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -3347,8 +3383,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4Y4ZDd",
-        "lastPublishedAt": "2026-10-19T15:05:58Z",
+        "lastReleaseId": "RE_kwDORsUayc4ZPoTI",
+        "lastPublishedAt": "2026-10-25T16:43:01Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -3438,8 +3474,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZPcvh",
-        "lastPublishedAt": "2026-10-25T15:18:07Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZPhwB",
+        "lastPublishedAt": "2026-10-25T15:55:08Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3615,8 +3651,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4ZGt1V",
-        "lastPublishedAt": "2026-10-22T20:53:03Z",
+        "lastReleaseId": "RE_kwDOO2B60c4ZPvca",
+        "lastPublishedAt": "2026-10-25T17:40:12Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -5559,7 +5595,11 @@
         "releaseHistoryCursor": null
       },
       "daliusd/ghlite.nvim": {},
-      "rtk-ai/rtk": {},
+      "rtk-ai/rtk": {
+        "lastReleaseId": "RE_kwDOQ_KVhM4ZPyGU",
+        "lastPublishedAt": "2026-10-25T18:00:11Z",
+        "releaseHistoryCursor": null
+      },
       "sngazm/sate": {
         "lastReleaseId": "RE_kwDOR0FRxs4YbUdz",
         "lastPublishedAt": "2026-10-17T02:34:25Z",
