@@ -2994,6 +2994,42 @@
       ],
       "2026-10-25": [
         {
+          "id": "RE_kwDOH1-qgs4ZQLHB",
+          "owner": "jetify-com",
+          "repo": "devbox",
+          "tag": "0.18.5",
+          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.5",
+          "publishedAt": "2026-10-25T21:45:37Z",
+          "name": "0.18.5"
+        },
+        {
+          "id": "RE_kwDOE7TOLM4ZQIoA",
+          "owner": "evrone",
+          "repo": "go-clean-template",
+          "tag": "v1.19.2",
+          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.19.2",
+          "publishedAt": "2026-10-25T21:01:09Z",
+          "name": "v1.19.2"
+        },
+        {
+          "id": "RE_kwDOE4c3is4ZQDCj",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.7.4",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.4",
+          "publishedAt": "2026-10-25T20:15:42Z",
+          "name": "9.7.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZP66O",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.572.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.572.0",
+          "publishedAt": "2026-10-25T19:09:09Z",
+          "name": "v0.572.0"
+        },
+        {
           "id": "RE_kwDOQ_KVhM4ZPyGU",
           "owner": "rtk-ai",
           "repo": "rtk",
@@ -3474,8 +3510,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZPhwB",
-        "lastPublishedAt": "2026-10-25T15:55:08Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZP66O",
+        "lastPublishedAt": "2026-10-25T19:09:09Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4999,8 +5035,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4YyHoO",
-        "lastPublishedAt": "2026-10-17T12:28:58Z",
+        "lastReleaseId": "RE_kwDOE4c3is4ZQDCj",
+        "lastPublishedAt": "2026-10-25T20:15:42Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
@@ -5121,8 +5157,8 @@
         "releaseHistoryCursor": null
       },
       "jetify-com/devbox": {
-        "lastReleaseId": "RE_kwDOH1-qgs4Xpt6M",
-        "lastPublishedAt": "2026-09-25T18:11:02Z",
+        "lastReleaseId": "RE_kwDOH1-qgs4ZQLHB",
+        "lastPublishedAt": "2026-10-25T21:45:37Z",
         "releaseHistoryCursor": null
       },
       "fedibird/mastodon": {},
@@ -5276,8 +5312,8 @@
         "releaseHistoryCursor": null
       },
       "evrone/go-clean-template": {
-        "lastReleaseId": "RE_kwDOE7TOLM4Yanhu",
-        "lastPublishedAt": "2026-10-11T11:39:35Z",
+        "lastReleaseId": "RE_kwDOE7TOLM4ZQIoA",
+        "lastPublishedAt": "2026-10-25T21:01:09Z",
         "releaseHistoryCursor": null
       },
       "uber-go/guide": {
