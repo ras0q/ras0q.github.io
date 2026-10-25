@@ -2994,6 +2994,96 @@
       ],
       "2026-10-25": [
         {
+          "id": "RE_kwDOQvjuaM4ZPcvh",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.570.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.570.0",
+          "publishedAt": "2026-10-25T15:18:07Z",
+          "name": "v0.570.0"
+        },
+        {
+          "id": "RE_kwDOKDDt4c4ZGFEI",
+          "owner": "docmost",
+          "repo": "docmost",
+          "tag": "v0.97.0",
+          "url": "https://github.com/docmost/docmost/releases/tag/v0.97.0",
+          "publishedAt": "2026-10-25T14:12:25Z",
+          "name": "v0.97.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZPNu9",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.189",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.189",
+          "publishedAt": "2026-10-25T13:24:25Z",
+          "name": "v8.4.189 - `ultralytics 8.4.189` Fix IMX requirements, Hailo seg end nodes and unreadable-dataset errors (#26883)"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4ZPKdM",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "v0.2.20",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.20",
+          "publishedAt": "2026-10-25T12:59:29Z",
+          "name": "v0.2.20"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4ZPKFb",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.14",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.14",
+          "publishedAt": "2026-10-25T12:56:36Z",
+          "name": "cli-v0.1.14"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZPBSI",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.569.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.569.0",
+          "publishedAt": "2026-10-25T11:50:24Z",
+          "name": "v0.569.0"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4ZO_90",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.11.0",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.11.0",
+          "publishedAt": "2026-10-25T11:40:35Z",
+          "name": "v0.11.0"
+        },
+        {
+          "id": "RE_kwDOUNMECc4ZIqv3",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.11.1",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.1",
+          "publishedAt": "2026-10-25T10:08:12Z",
+          "name": "v1.11.1: Go module helpers for build targets, monorepo bundle names, and signer checks"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOyXK",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.568.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.568.0",
+          "publishedAt": "2026-10-25T10:00:27Z",
+          "name": "v0.568.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZOozV",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.567.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.567.0",
+          "publishedAt": "2026-10-25T08:53:34Z",
+          "name": "v0.567.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZOgTC",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -3152,8 +3242,8 @@
         "releaseHistoryCursor": null
       },
       "docmost/docmost": {
-        "lastReleaseId": "RE_kwDOKDDt4c4W2BQr",
-        "lastPublishedAt": "2026-09-08T14:18:03Z",
+        "lastReleaseId": "RE_kwDOKDDt4c4ZGFEI",
+        "lastPublishedAt": "2026-10-25T14:12:25Z",
         "releaseHistoryCursor": null
       },
       "outline/outline": {
@@ -3348,8 +3438,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZOgTC",
-        "lastPublishedAt": "2026-10-25T07:56:20Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZPcvh",
+        "lastPublishedAt": "2026-10-25T15:18:07Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3551,8 +3641,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4Yy4Hd",
-        "lastPublishedAt": "2026-10-17T18:32:49Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4ZO_90",
+        "lastPublishedAt": "2026-10-25T11:40:35Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -4250,8 +4340,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4YZBDc",
-        "lastPublishedAt": "2026-10-10T21:16:42Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4ZPKdM",
+        "lastPublishedAt": "2026-10-25T12:59:29Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -4630,8 +4720,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZNg0c",
-        "lastPublishedAt": "2026-10-24T20:45:49Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZPNu9",
+        "lastPublishedAt": "2026-10-25T13:24:25Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -5428,8 +5518,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4ZGRvj",
-        "lastPublishedAt": "2026-10-23T00:51:27Z",
+        "lastReleaseId": "RE_kwDOUNMECc4ZIqv3",
+        "lastPublishedAt": "2026-10-25T10:08:12Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
