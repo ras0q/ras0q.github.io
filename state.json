@@ -2,242 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-17",
       "2026-10-18",
       "2026-10-19",
       "2026-10-20",
       "2026-10-21",
       "2026-10-22",
-      "2026-10-23"
+      "2026-10-23",
+      "2026-10-24"
     ],
     "days": {
-      "2026-10-17": [
-        {
-          "id": "RE_kwDOH-jzvc4Yy7zu",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.181",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.181",
-          "publishedAt": "2026-10-17T19:06:30Z",
-          "name": "v8.4.181 - ultralytics 8.4.181 Fix `.yml` dataset discovery regression, case-insensitive source lists, non-UTF-8 hashing and `auto_annotate` same-stem labels (#26735)"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4Yy4Hd",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.10.1",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.10.1",
-          "publishedAt": "2026-10-17T18:32:49Z",
-          "name": "v0.10.1"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Yy3HK",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.13",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.13",
-          "publishedAt": "2026-10-17T18:29:52Z",
-          "name": "v2026.10.13: Untrusted project configs can no longer change settings"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YyeS5",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.19.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.19.0",
-          "publishedAt": "2026-10-17T15:31:52Z",
-          "name": "v1.19.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4Yyc6G",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.38",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.38",
-          "publishedAt": "2026-10-17T15:24:38Z",
-          "name": "1.0.38"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4YyYqu",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.8.6",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.6",
-          "publishedAt": "2026-10-17T14:53:26Z",
-          "name": "v1.8.6"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YyXFE",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.463.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.463.0",
-          "publishedAt": "2026-10-17T14:41:45Z",
-          "name": "v0.463.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4YyNAf",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.180",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.180",
-          "publishedAt": "2026-10-17T13:17:58Z",
-          "name": "v8.4.180 - ultralytics 8.4.180 OKS-aware label assignment for YOLO26-pose (#26695)"
-        },
-        {
-          "id": "RE_kwDOE4c3is4YyHoO",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.7.3",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.3",
-          "publishedAt": "2026-10-17T12:28:58Z",
-          "name": "9.7.3"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4YyDsg",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "v1.26.0",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.26.0",
-          "publishedAt": "2026-10-17T11:53:53Z",
-          "name": "v1.26.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4YyAtu",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.179",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.179",
-          "publishedAt": "2026-10-17T11:23:54Z",
-          "name": "v8.4.179 - ultralytics 8.4.179 Cap rknn-toolkit2 below 2.5 and smoke RKNN at imgsz=64 (#26727)"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx26k",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-manifests-v0.19.10",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.10",
-          "publishedAt": "2026-10-17T10:03:20Z",
-          "name": "binstalk-manifests-v0.19.10"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx25S",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-v0.29.4",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.4",
-          "publishedAt": "2026-10-17T10:03:13Z",
-          "name": "binstalk-v0.29.4"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx2vV",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "detect-targets-v0.1.95",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.95",
-          "publishedAt": "2026-10-17T10:02:08Z",
-          "name": "detect-targets-v0.1.95"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx2uw",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-registry-v0.12.11",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.11",
-          "publishedAt": "2026-10-17T10:02:02Z",
-          "name": "binstalk-registry-v0.12.11"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx2tD",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-fetchers-v0.10.52",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.52",
-          "publishedAt": "2026-10-17T10:01:51Z",
-          "name": "binstalk-fetchers-v0.10.52"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx2rv",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-git-repo-api-v0.5.52",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.52",
-          "publishedAt": "2026-10-17T10:01:44Z",
-          "name": "binstalk-git-repo-api-v0.5.52"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx2qd",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-downloader-v0.14.0",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.14.0",
-          "publishedAt": "2026-10-17T10:01:35Z",
-          "name": "binstalk-downloader-v0.14.0"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Yx2iP",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-bins-v0.7.0",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-bins-v0.7.0",
-          "publishedAt": "2026-10-17T10:00:44Z",
-          "name": "binstalk-bins-v0.7.0"
-        },
-        {
-          "id": "RE_kwDOK-QCA84YxvOi",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v20.0.1",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.0.1",
-          "publishedAt": "2026-10-17T09:04:50Z",
-          "name": "v20.0.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4YxloI",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.458.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.458.0",
-          "publishedAt": "2026-10-17T07:25:29Z",
-          "name": "v0.458.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84YxjJq",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.18.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.18.1",
-          "publishedAt": "2026-10-17T07:04:54Z",
-          "name": "v1.18.1"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84Yxaoc",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.18.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.18.0",
-          "publishedAt": "2026-10-17T05:37:27Z",
-          "name": "v1.18.0"
-        },
-        {
-          "id": "RE_kwDODH8YWs4YxMwu",
-          "owner": "directvt",
-          "repo": "vtm",
-          "tag": "v2026.10.12",
-          "url": "https://github.com/directvt/vtm/releases/tag/v2026.10.12",
-          "publishedAt": "2026-10-17T03:08:21Z",
-          "name": "v2026.10.12"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4YxGFo",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.14.3",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.14.3",
-          "publishedAt": "2026-10-17T01:52:12Z",
-          "name": "v1.14.3 - Linked specs, safer globs"
-        }
-      ],
       "2026-10-18": [
         {
           "id": "RE_kwDOC3PEAc4Y1nsE",
@@ -2859,6 +2632,24 @@
       ],
       "2026-10-24": [
         {
+          "id": "RE_kwDOQvjuaM4ZNzsJ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.557.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.557.0",
+          "publishedAt": "2026-10-24T23:53:43Z",
+          "name": "v0.557.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZNvKo",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.556.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.556.0",
+          "publishedAt": "2026-10-24T23:03:54Z",
+          "name": "v0.556.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZNoRz",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -3200,6 +2991,62 @@
           "publishedAt": "2026-10-24T00:20:07Z",
           "name": "v2.8.1: Security fixes for codegen and at runtime"
         }
+      ],
+      "2026-10-25": [
+        {
+          "id": "RE_kwDOQvjuaM4ZOB9Q",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.559.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.559.0",
+          "publishedAt": "2026-10-25T02:39:50Z",
+          "name": "v0.559.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZN_Gp",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.558.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.558.0",
+          "publishedAt": "2026-10-25T02:06:30Z",
+          "name": "v0.558.0"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4ZN487",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.5",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.5",
+          "publishedAt": "2026-10-25T00:52:50Z",
+          "name": "v5.2.5"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4ZN4gJ",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.4",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.4",
+          "publishedAt": "2026-10-25T00:47:55Z",
+          "name": "v5.2.4"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4ZN38T",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.5",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.5",
+          "publishedAt": "2026-10-25T00:41:35Z",
+          "name": "v1.9.5"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4ZN2kT",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.3",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.3",
+          "publishedAt": "2026-10-25T00:25:58Z",
+          "name": "v5.2.3"
+        }
       ]
     }
   },
@@ -3429,8 +3276,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZNoRz",
-        "lastPublishedAt": "2026-10-24T21:55:15Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZOB9Q",
+        "lastPublishedAt": "2026-10-25T02:39:50Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3987,8 +3834,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4ZM4Gr",
-        "lastPublishedAt": "2026-10-24T15:14:24Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZN38T",
+        "lastPublishedAt": "2026-10-25T00:41:35Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -5296,8 +5143,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4ZMu2W",
-        "lastPublishedAt": "2026-10-24T14:06:57Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4ZN487",
+        "lastPublishedAt": "2026-10-25T00:52:50Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
