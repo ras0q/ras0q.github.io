@@ -3030,6 +3030,87 @@
       ],
       "2026-10-26": [
         {
+          "id": "RE_kwDOEXrCM84ZRogW",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v140_1",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v140_1",
+          "publishedAt": "2026-10-26T09:27:21Z",
+          "name": "Server v140_1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZRiLC",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.577.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.577.0",
+          "publishedAt": "2026-10-26T08:59:34Z",
+          "name": "v0.577.0"
+        },
+        {
+          "id": "RE_kwDOJCIvuc4ZRh0C",
+          "owner": "skiptools",
+          "repo": "skip",
+          "tag": "1.9.20",
+          "url": "https://github.com/skiptools/skip/releases/tag/1.9.20",
+          "publishedAt": "2026-10-26T08:57:42Z",
+          "name": "1.9.20"
+        },
+        {
+          "id": "RE_kwDOFUJ2Oc4ZRhZq",
+          "owner": "a-h",
+          "repo": "templ",
+          "tag": "v0.3.1100",
+          "url": "https://github.com/a-h/templ/releases/tag/v0.3.1100",
+          "publishedAt": "2026-10-26T08:55:31Z",
+          "name": "v0.3.1100"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZRY6V",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.576.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.576.0",
+          "publishedAt": "2026-10-26T08:14:22Z",
+          "name": "v0.576.0"
+        },
+        {
+          "id": "RE_kwDOAWJAkM4ZRM6B",
+          "owner": "git-for-windows",
+          "repo": "git",
+          "tag": "v2.56.0.windows.4",
+          "url": "https://github.com/git-for-windows/git/releases/tag/v2.56.0.windows.4",
+          "publishedAt": "2026-10-26T07:05:26Z",
+          "name": "Git for Windows v2.56.0.windows.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZQ817",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.575.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.575.0",
+          "publishedAt": "2026-10-26T05:01:52Z",
+          "name": "v0.575.0"
+        },
+        {
+          "id": "RE_kwDOE9Uprc4ZQ6Up",
+          "owner": "XuehaiPan",
+          "repo": "nvitop",
+          "tag": "v1.7.2",
+          "url": "https://github.com/XuehaiPan/nvitop/releases/tag/v1.7.2",
+          "publishedAt": "2026-10-26T04:38:22Z",
+          "name": "nvitop v1.7.2"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4ZQzfS",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.6",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.6",
+          "publishedAt": "2026-10-26T03:37:45Z",
+          "name": "v1.9.6"
+        },
+        {
           "id": "RE_kwDOOC1fY84ZPft5",
           "owner": "lynx-family",
           "repo": "lynx",
@@ -3285,8 +3366,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZQXhX",
-        "lastPublishedAt": "2026-10-25T23:15:00Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZRiLC",
+        "lastPublishedAt": "2026-10-26T08:59:34Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3843,8 +3924,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4ZN38T",
-        "lastPublishedAt": "2026-10-25T00:41:35Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZQzfS",
+        "lastPublishedAt": "2026-10-26T03:37:45Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -4083,8 +4164,8 @@
         "lastPublishedAt": "2026-06-21T21:53:03Z"
       },
       "git-for-windows/git": {
-        "lastReleaseId": "RE_kwDOAWJAkM4ZGQKL",
-        "lastPublishedAt": "2026-10-22T19:10:21Z",
+        "lastReleaseId": "RE_kwDOAWJAkM4ZRM6B",
+        "lastPublishedAt": "2026-10-26T07:05:26Z",
         "releaseHistoryCursor": null
       },
       "VitalAudio/visage": {},
@@ -4093,8 +4174,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84Y65vK",
-        "lastPublishedAt": "2026-10-20T06:59:56Z",
+        "lastReleaseId": "RE_kwDOEXrCM84ZRogW",
+        "lastPublishedAt": "2026-10-26T09:27:21Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -4140,8 +4221,9 @@
         "releaseHistoryCursor": null
       },
       "XuehaiPan/nvitop": {
-        "lastReleaseId": "RE_kwDOE9Uprc4U--hZ",
-        "lastPublishedAt": "2026-07-10T11:24:21Z"
+        "lastReleaseId": "RE_kwDOE9Uprc4ZQ6Up",
+        "lastPublishedAt": "2026-10-26T04:38:22Z",
+        "releaseHistoryCursor": null
       },
       "penpenpng/rx-nostr": {
         "lastReleaseId": "RE_kwDOJOlQSc4YA_CK",
@@ -4389,8 +4471,8 @@
       "cp-20/dotfiles": {},
       "pikachu0310/metamorphic-mastery-server": {},
       "skiptools/skip": {
-        "lastReleaseId": "RE_kwDOJCIvuc4ZKaxi",
-        "lastPublishedAt": "2026-10-23T18:09:17Z",
+        "lastReleaseId": "RE_kwDOJCIvuc4ZRh0C",
+        "lastPublishedAt": "2026-10-26T08:57:42Z",
         "releaseHistoryCursor": null
       },
       "H4kor/fedi-games": {},
@@ -4549,8 +4631,8 @@
         "lastPublishedAt": "2024-10-20T09:14:34Z"
       },
       "a-h/templ": {
-        "lastReleaseId": "RE_kwDOFUJ2Oc4YBnL-",
-        "lastPublishedAt": "2026-10-04T15:15:22Z",
+        "lastReleaseId": "RE_kwDOFUJ2Oc4ZRhZq",
+        "lastPublishedAt": "2026-10-26T08:55:31Z",
         "releaseHistoryCursor": null
       },
       "L7Cy/obsidian-2hop-links-plus": {
