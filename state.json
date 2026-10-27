@@ -2,476 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-19",
       "2026-10-20",
       "2026-10-21",
       "2026-10-22",
       "2026-10-23",
       "2026-10-24",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-26"
     ],
     "days": {
-      "2026-10-19": [
-        {
-          "id": "RE_kwDOEPtVfM4Y5wRK",
-          "owner": "pamburus",
-          "repo": "hl",
-          "tag": "v0.36.4",
-          "url": "https://github.com/pamburus/hl/releases/tag/v0.36.4",
-          "publishedAt": "2026-10-19T22:24:23Z",
-          "name": "v0.36.4"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4Y5q0V",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.4.2",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.2",
-          "publishedAt": "2026-10-19T21:22:04Z",
-          "name": "v0.4.2"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4Y5mAE",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.13.2",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.2",
-          "publishedAt": "2026-10-19T21:02:37Z",
-          "name": "0.13.2"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84Y5h5I",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.13.10",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.13.10",
-          "publishedAt": "2026-10-19T20:47:43Z",
-          "name": "4.13.10"
-        },
-        {
-          "id": "RE_kwDOKHF8zM4Y5GXW",
-          "owner": "marimo-team",
-          "repo": "marimo",
-          "tag": "0.25.2",
-          "url": "https://github.com/marimo-team/marimo/releases/tag/0.25.2",
-          "publishedAt": "2026-10-19T20:13:24Z",
-          "name": "0.25.2"
-        },
-        {
-          "id": "RE_kwDOKMzyM84Y5WpY",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.24.2",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.24.2",
-          "publishedAt": "2026-10-19T19:57:52Z",
-          "name": "0.24.2: Maintenance Release"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y5LVc",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.485.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.485.0",
-          "publishedAt": "2026-10-19T19:05:16Z",
-          "name": "v0.485.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H7D",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/webpack@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/webpack%402.3.0",
-          "publishedAt": "2026-10-19T18:48:40Z",
-          "name": "@pandacss/webpack@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H6X",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/vite@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/vite%402.3.0",
-          "publishedAt": "2026-10-19T18:48:37Z",
-          "name": "@pandacss/vite@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H5w",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/rollup@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/rollup%402.3.0",
-          "publishedAt": "2026-10-19T18:48:34Z",
-          "name": "@pandacss/rollup@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H5L",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/dev@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/dev%402.3.0",
-          "publishedAt": "2026-10-19T18:48:31Z",
-          "name": "@pandacss/dev@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H4r",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/bun@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/bun%402.3.0",
-          "publishedAt": "2026-10-19T18:48:28Z",
-          "name": "@pandacss/bun@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H4O",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/transformer@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/transformer%402.3.0",
-          "publishedAt": "2026-10-19T18:48:25Z",
-          "name": "@pandacss/transformer@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H3r",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/postcss@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/postcss%402.3.0",
-          "publishedAt": "2026-10-19T18:48:22Z",
-          "name": "@pandacss/postcss@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H29",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/mcp@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/mcp%402.3.0",
-          "publishedAt": "2026-10-19T18:48:19Z",
-          "name": "@pandacss/mcp@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H2V",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/eslint-plugin@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/eslint-plugin%402.3.0",
-          "publishedAt": "2026-10-19T18:48:16Z",
-          "name": "@pandacss/eslint-plugin@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H1u",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/cli@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/cli%402.3.0",
-          "publishedAt": "2026-10-19T18:48:13Z",
-          "name": "@pandacss/cli@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H1J",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/compiler@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/compiler%402.3.0",
-          "publishedAt": "2026-10-19T18:48:10Z",
-          "name": "@pandacss/compiler@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5H0h",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/config@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/config%402.3.0",
-          "publishedAt": "2026-10-19T18:48:07Z",
-          "name": "@pandacss/config@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5Hz4",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/compiler-wasm@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/compiler-wasm%402.3.0",
-          "publishedAt": "2026-10-19T18:48:04Z",
-          "name": "@pandacss/compiler-wasm@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5HzQ",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-typography@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-typography%402.3.0",
-          "publishedAt": "2026-10-19T18:48:01Z",
-          "name": "@pandacss/preset-typography@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5Hyq",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-panda@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-panda%402.3.0",
-          "publishedAt": "2026-10-19T18:47:58Z",
-          "name": "@pandacss/preset-panda@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5HyD",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/preset-base@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/preset-base%402.3.0",
-          "publishedAt": "2026-10-19T18:47:55Z",
-          "name": "@pandacss/preset-base@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5Hxc",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/compiler-shared@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/compiler-shared%402.3.0",
-          "publishedAt": "2026-10-19T18:47:52Z",
-          "name": "@pandacss/compiler-shared@2.3.0"
-        },
-        {
-          "id": "RE_kwDOHuVHqM4Y5Hwu",
-          "owner": "chakra-ui",
-          "repo": "panda",
-          "tag": "@pandacss/types@2.3.0",
-          "url": "https://github.com/chakra-ui/panda/releases/tag/%40pandacss/types%402.3.0",
-          "publishedAt": "2026-10-19T18:47:49Z",
-          "name": "@pandacss/types@2.3.0"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4Y5CWH",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.42.1",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.42.1",
-          "publishedAt": "2026-10-19T18:22:22Z",
-          "name": "Release 6.42.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y4oEc",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.483.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.483.0",
-          "publishedAt": "2026-10-19T16:20:59Z",
-          "name": "v0.483.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y4evw",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.482.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.482.0",
-          "publishedAt": "2026-10-19T15:28:36Z",
-          "name": "v0.482.0"
-        },
-        {
-          "id": "RE_kwDORsUayc4Y4ZDd",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.17.4",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.4",
-          "publishedAt": "2026-10-19T15:05:58Z",
-          "name": "v0.17.4"
-        },
-        {
-          "id": "RE_kwDOINPdOM4Y4X91",
-          "owner": "zama-ai",
-          "repo": "tfhe-rs",
-          "tag": "tfhe-rs-1.8.2",
-          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.8.2",
-          "publishedAt": "2026-10-19T15:02:45Z",
-          "name": "TFHE-rs 1.8.2"
-        },
-        {
-          "id": "RE_kwDOINPdOM4Y4XIB",
-          "owner": "zama-ai",
-          "repo": "tfhe-rs",
-          "tag": "tfhe-rs-1.7.2",
-          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.7.2",
-          "publishedAt": "2026-10-19T15:00:49Z",
-          "name": "TFHE-rs 1.7.2"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y4T3x",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.481.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.481.0",
-          "publishedAt": "2026-10-19T14:49:26Z",
-          "name": "v0.481.0"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4Y4FKR",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.8.9",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.9",
-          "publishedAt": "2026-10-19T13:56:04Z",
-          "name": "v1.8.9"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4Y39tQ",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.4.1",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.1",
-          "publishedAt": "2026-10-19T13:27:01Z",
-          "name": "v0.4.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y3qc2",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.480.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.480.0",
-          "publishedAt": "2026-10-19T12:05:36Z",
-          "name": "v0.480.0"
-        },
-        {
-          "id": "RE_kwDOPyZEpc4Y3pgu",
-          "owner": "microsoft",
-          "repo": "apm",
-          "tag": "v0.34.0",
-          "url": "https://github.com/microsoft/apm/releases/tag/v0.34.0",
-          "publishedAt": "2026-10-19T12:00:55Z",
-          "name": "v0.34.0"
-        },
-        {
-          "id": "RE_kwDOPf38cc4YyAB1",
-          "owner": "docker",
-          "repo": "github-builder",
-          "tag": "v1.18.0",
-          "url": "https://github.com/docker/github-builder/releases/tag/v1.18.0",
-          "publishedAt": "2026-10-19T11:53:06Z",
-          "name": "v1.18.0"
-        },
-        {
-          "id": "RE_kwDOINPdOM4Y3in8",
-          "owner": "zama-ai",
-          "repo": "tfhe-rs",
-          "tag": "tfhe-rs-1.6.5",
-          "url": "https://github.com/zama-ai/tfhe-rs/releases/tag/tfhe-rs-1.6.5",
-          "publishedAt": "2026-10-19T11:29:31Z",
-          "name": "TFHE-rs 1.6.5"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y3ehG",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.479.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.479.0",
-          "publishedAt": "2026-10-19T11:08:46Z",
-          "name": "v0.479.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Y3Tk9",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.15",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.15",
-          "publishedAt": "2026-10-19T10:19:30Z",
-          "name": "v2026.10.15: Default minimum_release_age covers every backend, plus a PowerShell installer"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y3S97",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.478.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.478.0",
-          "publishedAt": "2026-10-19T10:10:43Z",
-          "name": "v0.478.0"
-        },
-        {
-          "id": "RE_kwDOBoRDs84Y3RNw",
-          "owner": "traPtitech",
-          "repo": "traQ",
-          "tag": "v3.30.0",
-          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.30.0",
-          "publishedAt": "2026-10-19T10:01:45Z",
-          "name": "v3.30.0"
-        },
-        {
-          "id": "RE_kwDOAfCskc4Y3QOU",
-          "owner": "ory",
-          "repo": "dockertest",
-          "tag": "v4.0.1",
-          "url": "https://github.com/ory/dockertest/releases/tag/v4.0.1",
-          "publishedAt": "2026-10-19T09:56:50Z",
-          "name": "v4.0.1"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Y3JH8",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.151.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.151.0",
-          "publishedAt": "2026-10-19T09:23:13Z",
-          "name": "v1.151.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y2wVm",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.476.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.476.0",
-          "publishedAt": "2026-10-19T07:18:20Z",
-          "name": "v0.476.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y2nN2",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.475.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.475.0",
-          "publishedAt": "2026-10-19T06:23:45Z",
-          "name": "v0.475.0"
-        },
-        {
-          "id": "RE_kwDOKMzyM84Y2S4s",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.24.1",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.24.1",
-          "publishedAt": "2026-10-19T03:56:50Z",
-          "name": "0.24.1: macOS Binary Interface Fix"
-        },
-        {
-          "id": "RE_kwDOGvUVTs4Y2Ojv",
-          "owner": "nitrojs",
-          "repo": "nitro",
-          "tag": "v2.13.5",
-          "url": "https://github.com/nitrojs/nitro/releases/tag/v2.13.5",
-          "publishedAt": "2026-10-19T03:25:02Z",
-          "name": "v2.13.5"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4Y2FRS",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.8.8",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.8",
-          "publishedAt": "2026-10-19T01:53:26Z",
-          "name": "v1.8.8"
-        },
-        {
-          "id": "RE_kwDODVAw7c4Y2Be-",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.13",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.13",
-          "publishedAt": "2026-10-19T01:17:08Z",
-          "name": "v3.33.13"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y1_hR",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.474.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.474.0",
-          "publishedAt": "2026-10-19T00:57:26Z",
-          "name": "v0.474.0"
-        }
-      ],
       "2026-10-20": [
         {
           "id": "RE_kwDOObWEYM4Y97b5",
@@ -3299,6 +2838,71 @@
           "publishedAt": "2026-10-26T00:18:19Z",
           "name": "v1.24.0"
         }
+      ],
+      "2026-10-27": [
+        {
+          "id": "RE_kwDODVAw7c4ZVODO",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.15",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.15",
+          "publishedAt": "2026-10-27T03:05:11Z",
+          "name": "v3.33.15"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZVMeK",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.589.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.589.0",
+          "publishedAt": "2026-10-27T02:53:46Z",
+          "name": "v0.589.0"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4ZVJxS",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.27",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.27",
+          "publishedAt": "2026-10-27T02:32:53Z",
+          "name": "v1.0.27"
+        },
+        {
+          "id": "RE_kwDODqcqc84ZVI8P",
+          "owner": "suzuki-shunsuke",
+          "repo": "github-comment",
+          "tag": "v6.4.2",
+          "url": "https://github.com/suzuki-shunsuke/github-comment/releases/tag/v6.4.2",
+          "publishedAt": "2026-10-27T02:27:07Z",
+          "name": "v6.4.2"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4ZU8ZR",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.13.6",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.6",
+          "publishedAt": "2026-10-27T00:47:49Z",
+          "name": "0.13.6"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4ZU6yg",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.17.3",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.17.3",
+          "publishedAt": "2026-10-27T00:35:07Z",
+          "name": "0.17.3"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZU3Kd",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.588.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.588.0",
+          "publishedAt": "2026-10-27T00:07:03Z",
+          "name": "v0.588.0"
+        }
       ]
     }
   },
@@ -3528,8 +3132,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZT7Jl",
-        "lastPublishedAt": "2026-10-26T19:10:42Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZVMeK",
+        "lastPublishedAt": "2026-10-27T02:53:46Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3606,8 +3210,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4ZF1VV",
-        "lastPublishedAt": "2026-10-22T16:38:40Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4ZVJxS",
+        "lastPublishedAt": "2026-10-27T02:32:53Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -3763,8 +3367,9 @@
         "releaseHistoryCursor": null
       },
       "suzuki-shunsuke/github-comment": {
-        "lastReleaseId": "RE_kwDODqcqc84P-jLa",
-        "lastPublishedAt": "2025-12-07T02:11:35Z"
+        "lastReleaseId": "RE_kwDODqcqc84ZVI8P",
+        "lastPublishedAt": "2026-10-27T02:27:07Z",
+        "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
         "lastReleaseId": "RE_kwDOPn2YWs4Y_vNl",
@@ -3810,8 +3415,8 @@
         "lastPublishedAt": "2026-03-15T20:58:53Z"
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4ZLy5b",
-        "lastPublishedAt": "2026-10-24T04:47:58Z",
+        "lastReleaseId": "RE_kwDODVAw7c4ZVODO",
+        "lastPublishedAt": "2026-10-27T03:05:11Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -4705,8 +4310,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4ZDAwo",
-        "lastPublishedAt": "2026-10-22T01:35:54Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4ZU8ZR",
+        "lastPublishedAt": "2026-10-27T00:47:49Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -4867,8 +4472,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4ZGQxc",
-        "lastPublishedAt": "2026-10-22T18:39:46Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4ZU6yg",
+        "lastPublishedAt": "2026-10-27T00:35:07Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
