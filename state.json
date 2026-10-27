@@ -2841,6 +2841,87 @@
       ],
       "2026-10-27": [
         {
+          "id": "RE_kwDOQvjuaM4ZZay0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.603.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.603.0",
+          "publishedAt": "2026-10-27T23:21:43Z",
+          "name": "v0.603.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4ZZUcV",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.15",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.15",
+          "publishedAt": "2026-10-27T22:44:22Z",
+          "name": "cli-v0.1.15"
+        },
+        {
+          "id": "RE_kwDOB21G7c4ZZPde",
+          "owner": "cel-expr",
+          "repo": "cel-go",
+          "tag": "v0.33.1",
+          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.33.1",
+          "publishedAt": "2026-10-27T22:18:50Z",
+          "name": "Release v0.33.1"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4ZZKt6",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.27.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.27.0",
+          "publishedAt": "2026-10-27T21:56:51Z",
+          "name": "Schema v1.27.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4ZZKtj",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.13.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.13.0",
+          "publishedAt": "2026-10-27T21:56:49Z",
+          "name": "Rust Crate v1.13.0"
+        },
+        {
+          "id": "RE_kwDOD81yrs4ZY7-M",
+          "owner": "ManimCommunity",
+          "repo": "manim",
+          "tag": "v0.22.1",
+          "url": "https://github.com/ManimCommunity/manim/releases/tag/v0.22.1",
+          "publishedAt": "2026-10-27T20:46:53Z",
+          "name": "Manim v0.22.1"
+        },
+        {
+          "id": "RE_kwDOObWEYM4ZY3YG",
+          "owner": "google-gemini",
+          "repo": "gemini-cli",
+          "tag": "v0.66.0",
+          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0",
+          "publishedAt": "2026-10-27T20:26:28Z",
+          "name": "Release v0.66.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZYTes",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.602.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.602.0",
+          "publishedAt": "2026-10-27T17:53:43Z",
+          "name": "v0.602.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZYTcS",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.191",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.191",
+          "publishedAt": "2026-10-27T17:53:08Z",
+          "name": "v8.4.191 - `ultralytics 8.4.191` Fix RKNN INT8 accuracy with a host-side decode tail for all tasks (#26904)"
+        },
+        {
           "id": "RE_kwDOR0FRxs4ZX_OL",
           "owner": "sngazm",
           "repo": "sate",
@@ -3321,8 +3402,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZXKHR",
-        "lastPublishedAt": "2026-10-27T13:31:13Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZZay0",
+        "lastPublishedAt": "2026-10-27T23:21:43Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3611,8 +3692,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4YuWW5",
-        "lastPublishedAt": "2026-10-16T10:03:24Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4ZZKt6",
+        "lastPublishedAt": "2026-10-27T21:56:51Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -3771,8 +3852,8 @@
         "releaseHistoryCursor": null
       },
       "google-gemini/gemini-cli": {
-        "lastReleaseId": "RE_kwDOObWEYM4Y97b5",
-        "lastPublishedAt": "2026-10-20T21:17:57Z",
+        "lastReleaseId": "RE_kwDOObWEYM4ZY3YG",
+        "lastPublishedAt": "2026-10-27T20:26:28Z",
         "releaseHistoryCursor": null
       },
       "denoland/deno-esbuild-plugin": {
@@ -3885,8 +3966,8 @@
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
-        "lastReleaseId": "RE_kwDOD81yrs4YQC1f",
-        "lastPublishedAt": "2026-10-08T13:26:58Z",
+        "lastReleaseId": "RE_kwDOD81yrs4ZY7-M",
+        "lastPublishedAt": "2026-10-27T20:46:53Z",
         "releaseHistoryCursor": null
       },
       "akiym/ed25519brute": {},
@@ -4225,8 +4306,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4ZPKdM",
-        "lastPublishedAt": "2026-10-25T12:59:29Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4ZZUcV",
+        "lastPublishedAt": "2026-10-27T22:44:22Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -4415,8 +4496,8 @@
         "lastPublishedAt": "2025-06-13T14:11:11Z"
       },
       "cel-expr/cel-go": {
-        "lastReleaseId": "RE_kwDOB21G7c4ZToiG",
-        "lastPublishedAt": "2026-10-26T17:50:01Z",
+        "lastReleaseId": "RE_kwDOB21G7c4ZZPde",
+        "lastPublishedAt": "2026-10-27T22:18:50Z",
         "releaseHistoryCursor": null
       },
       "glanceapp/glance": {
@@ -4605,8 +4686,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZTJqY",
-        "lastPublishedAt": "2026-10-26T15:51:17Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZYTcS",
+        "lastPublishedAt": "2026-10-27T17:53:08Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
