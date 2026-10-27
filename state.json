@@ -2841,6 +2841,87 @@
       ],
       "2026-10-27": [
         {
+          "id": "RE_kwDOQvjuaM4ZVzuS",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.595.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.595.0",
+          "publishedAt": "2026-10-27T07:34:27Z",
+          "name": "v0.595.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZVr44",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.594.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.594.0",
+          "publishedAt": "2026-10-27T06:51:41Z",
+          "name": "v0.594.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZVmYa",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.593.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.593.0",
+          "publishedAt": "2026-10-27T06:16:20Z",
+          "name": "v0.593.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZVjQ0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.592.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.592.0",
+          "publishedAt": "2026-10-27T05:54:05Z",
+          "name": "v0.592.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4ZVZcd",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.42",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.42",
+          "publishedAt": "2026-10-27T04:50:00Z",
+          "name": "1.0.42"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZVa3m",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.591.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.591.0",
+          "publishedAt": "2026-10-27T04:49:51Z",
+          "name": "v0.591.0"
+        },
+        {
+          "id": "RE_kwDOFhZBDs4ZVS_n",
+          "owner": "bytedance",
+          "repo": "sonic",
+          "tag": "v1.15.5",
+          "url": "https://github.com/bytedance/sonic/releases/tag/v1.15.5",
+          "publishedAt": "2026-10-27T03:44:40Z",
+          "name": "v1.15.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZVSsD",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.590.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.590.0",
+          "publishedAt": "2026-10-27T03:42:27Z",
+          "name": "v0.590.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4ZVQSR",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.21.1",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.21.1",
+          "publishedAt": "2026-10-27T03:22:42Z",
+          "name": "v0.21.1"
+        },
+        {
           "id": "RE_kwDODVAw7c4ZVODO",
           "owner": "traPtitech",
           "repo": "traQ_S-UI",
@@ -2967,8 +3048,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4ZLbTh",
-        "lastPublishedAt": "2026-10-24T00:41:26Z",
+        "lastReleaseId": "RE_kwDORSib_s4ZVQSR",
+        "lastPublishedAt": "2026-10-27T03:22:42Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -3132,8 +3213,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZVMeK",
-        "lastPublishedAt": "2026-10-27T02:53:46Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZVzuS",
+        "lastPublishedAt": "2026-10-27T07:34:27Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4546,8 +4627,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4ZLsrM",
-        "lastPublishedAt": "2026-10-24T04:00:33Z",
+        "lastReleaseId": "RE_kwDOGNEXps4ZVZcd",
+        "lastPublishedAt": "2026-10-27T04:50:00Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -4912,8 +4993,8 @@
       "peaks-cc/iOS_architecture_samplecode": {},
       "craftdocs/craft-extension-inspirations": {},
       "bytedance/sonic": {
-        "lastReleaseId": "RE_kwDOFhZBDs4Y_Jiv",
-        "lastPublishedAt": "2026-10-21T05:58:22Z",
+        "lastReleaseId": "RE_kwDOFhZBDs4ZVS_n",
+        "lastPublishedAt": "2026-10-27T03:44:40Z",
         "releaseHistoryCursor": null
       },
       "kaz/pprotein": {
