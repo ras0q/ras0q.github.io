@@ -2841,6 +2841,114 @@
       ],
       "2026-10-27": [
         {
+          "id": "RE_kwDOR0FRxs4ZX_OL",
+          "owner": "sngazm",
+          "repo": "sate",
+          "tag": "v0.1.1",
+          "url": "https://github.com/sngazm/sate/releases/tag/v0.1.1",
+          "publishedAt": "2026-10-27T16:51:57Z",
+          "name": "Sate v0.1.1"
+        },
+        {
+          "id": "RE_kwDOOC1fY84ZQzZQ",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "4.2.0",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/4.2.0",
+          "publishedAt": "2026-10-27T15:44:59Z",
+          "name": "4.2.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZXKHR",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.601.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.601.0",
+          "publishedAt": "2026-10-27T13:31:13Z",
+          "name": "v0.601.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZWypu",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.600.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.600.0",
+          "publishedAt": "2026-10-27T12:05:39Z",
+          "name": "v0.600.0"
+        },
+        {
+          "id": "RE_kwDOBoRDs84ZWyGz",
+          "owner": "traPtitech",
+          "repo": "traQ",
+          "tag": "v3.31.0",
+          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.31.0",
+          "publishedAt": "2026-10-27T12:03:03Z",
+          "name": "v3.31.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZWs6R",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.599.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.599.0",
+          "publishedAt": "2026-10-27T11:41:57Z",
+          "name": "v0.599.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZWlJk",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.598.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.598.0",
+          "publishedAt": "2026-10-27T11:11:16Z",
+          "name": "v0.598.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZWeRG",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.597.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.597.0",
+          "publishedAt": "2026-10-27T10:44:21Z",
+          "name": "v0.597.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4ZWXVw",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.21",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.21",
+          "publishedAt": "2026-10-27T10:23:17Z",
+          "name": "v2026.10.21: Easier dotfiles setup from a checkout or Stow packages, plus `prune --force` for casks"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZWXju",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.596.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.596.0",
+          "publishedAt": "2026-10-27T10:16:40Z",
+          "name": "v0.596.0"
+        },
+        {
+          "id": "RE_kwDOCv6UO84ZWO8p",
+          "owner": "microsoft",
+          "repo": "PowerToys",
+          "tag": "v0.102.3001",
+          "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.3001",
+          "publishedAt": "2026-10-27T10:10:02Z",
+          "name": "Release v0.102.3001.0"
+        },
+        {
+          "id": "RE_kwDOFJ5a6s4ZWPo_",
+          "owner": "Milkdown",
+          "repo": "milkdown",
+          "tag": "v7.23.0",
+          "url": "https://github.com/Milkdown/milkdown/releases/tag/v7.23.0",
+          "publishedAt": "2026-10-27T09:41:59Z",
+          "name": "v7.23.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZVzuS",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -3213,8 +3321,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZVzuS",
-        "lastPublishedAt": "2026-10-27T07:34:27Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZXKHR",
+        "lastPublishedAt": "2026-10-27T13:31:13Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3946,8 +4054,8 @@
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastReleaseId": "RE_kwDOOC1fY84ZPft5",
-        "lastPublishedAt": "2026-10-26T02:11:02Z",
+        "lastReleaseId": "RE_kwDOOC1fY84ZQzZQ",
+        "lastPublishedAt": "2026-10-27T15:44:59Z",
         "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
@@ -4059,8 +4167,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4ZUZhg",
-        "lastPublishedAt": "2026-10-26T21:21:55Z",
+        "lastReleaseId": "RE_kwDOIvux3s4ZWXVw",
+        "lastPublishedAt": "2026-10-27T10:23:17Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4325,8 +4433,8 @@
       },
       "H4kor/fedi-games": {},
       "microsoft/PowerToys": {
-        "lastReleaseId": "RE_kwDOCv6UO84YSvNz",
-        "lastPublishedAt": "2026-10-21T07:45:57Z",
+        "lastReleaseId": "RE_kwDOCv6UO84ZWO8p",
+        "lastPublishedAt": "2026-10-27T10:10:02Z",
         "releaseHistoryCursor": null
       },
       "SSlime-s/authjs-traq-sample": {},
@@ -5119,8 +5227,8 @@
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastReleaseId": "RE_kwDOBoRDs84Y3RNw",
-        "lastPublishedAt": "2026-10-19T10:01:45Z",
+        "lastReleaseId": "RE_kwDOBoRDs84ZWyGz",
+        "lastPublishedAt": "2026-10-27T12:03:03Z",
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
@@ -5153,8 +5261,8 @@
         "lastPublishedAt": "2022-01-06T05:22:02Z"
       },
       "Milkdown/milkdown": {
-        "lastReleaseId": "RE_kwDOFJ5a6s4YYNTh",
-        "lastPublishedAt": "2026-10-10T14:27:15Z",
+        "lastReleaseId": "RE_kwDOFJ5a6s4ZWPo_",
+        "lastPublishedAt": "2026-10-27T09:41:59Z",
         "releaseHistoryCursor": null
       },
       "remarkjs/remark": {
@@ -5342,8 +5450,8 @@
         "releaseHistoryCursor": null
       },
       "sngazm/sate": {
-        "lastReleaseId": "RE_kwDOR0FRxs4YbUdz",
-        "lastPublishedAt": "2026-10-17T02:34:25Z",
+        "lastReleaseId": "RE_kwDOR0FRxs4ZX_OL",
+        "lastPublishedAt": "2026-10-27T16:51:57Z",
         "releaseHistoryCursor": null
       },
       "akimon658/qonstellation": {
