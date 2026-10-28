@@ -2661,6 +2661,78 @@
       ],
       "2026-10-28": [
         {
+          "id": "RE_kwDOGMspX84ZcfqG",
+          "owner": "mo-seph",
+          "repo": "obsidian-copy-as-latex",
+          "tag": "0.1.10",
+          "url": "https://github.com/mo-seph/obsidian-copy-as-latex/releases/tag/0.1.10",
+          "publishedAt": "2026-10-28T16:13:30Z",
+          "name": "v0.1.10"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4ZcOR7",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.153.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.153.0",
+          "publishedAt": "2026-10-28T15:13:02Z",
+          "name": "v1.153.0"
+        },
+        {
+          "id": "RE_kwDOCcSpD84ZcJcc",
+          "owner": "nektos",
+          "repo": "act",
+          "tag": "v0.2.91",
+          "url": "https://github.com/nektos/act/releases/tag/v0.2.91",
+          "publishedAt": "2026-10-28T14:56:52Z",
+          "name": "v0.2.91"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZcFqm",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.604.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.604.0",
+          "publishedAt": "2026-10-28T14:44:37Z",
+          "name": "v0.604.0"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4ZcCwz",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.8",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.8",
+          "publishedAt": "2026-10-28T14:34:02Z",
+          "name": "v0.4.8"
+        },
+        {
+          "id": "RE_kwDOCcSpD84Zbp7t",
+          "owner": "nektos",
+          "repo": "act",
+          "tag": "v0.2.90",
+          "url": "https://github.com/nektos/act/releases/tag/v0.2.90",
+          "publishedAt": "2026-10-28T13:06:46Z",
+          "name": "v0.2.90"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4ZbmlS",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.4.7",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.7",
+          "publishedAt": "2026-10-28T12:53:56Z",
+          "name": "v0.4.7"
+        },
+        {
+          "id": "RE_kwDODeVIac4ZbCLH",
+          "owner": "charmbracelet",
+          "repo": "bubbletea",
+          "tag": "v2.1.1",
+          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.1",
+          "publishedAt": "2026-10-28T10:19:27Z",
+          "name": "v2.1.1"
+        },
+        {
           "id": "RE_kwDOUNMECc4ZRREC",
           "owner": "jdx",
           "repo": "packslip",
@@ -2943,8 +3015,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZZay0",
-        "lastPublishedAt": "2026-10-27T23:21:43Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZcFqm",
+        "lastPublishedAt": "2026-10-28T14:44:37Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3183,8 +3255,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4Y_vNl",
-        "lastPublishedAt": "2026-10-21T09:17:49Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4ZcOR7",
+        "lastPublishedAt": "2026-10-28T15:13:02Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -4176,8 +4248,9 @@
         "lastPublishedAt": "2023-05-20T23:52:42Z"
       },
       "mo-seph/obsidian-copy-as-latex": {
-        "lastReleaseId": "RE_kwDOGMspX84DiCnq",
-        "lastPublishedAt": "2022-02-10T17:23:37Z"
+        "lastReleaseId": "RE_kwDOGMspX84ZcfqG",
+        "lastPublishedAt": "2026-10-28T16:13:30Z",
+        "releaseHistoryCursor": null
       },
       "mazrean/formstream": {
         "lastReleaseId": "RE_kwDOLB8pp84PjV3R",
@@ -4768,8 +4841,8 @@
         "releaseHistoryCursor": null
       },
       "charmbracelet/bubbletea": {
-        "lastReleaseId": "RE_kwDODeVIac4YQ-bt",
-        "lastPublishedAt": "2026-10-08T17:40:36Z",
+        "lastReleaseId": "RE_kwDODeVIac4ZbCLH",
+        "lastPublishedAt": "2026-10-28T10:19:27Z",
         "releaseHistoryCursor": null
       },
       "viraptor/reverse-interview": {},
@@ -4868,8 +4941,9 @@
       "yamadashy/tech-blog-rss-feed": {},
       "laobubu/HyperMD": {},
       "nektos/act": {
-        "lastReleaseId": "RE_kwDOCcSpD84TzgUK",
-        "lastPublishedAt": "2026-06-01T03:22:22Z"
+        "lastReleaseId": "RE_kwDOCcSpD84ZcJcc",
+        "lastPublishedAt": "2026-10-28T14:56:52Z",
+        "releaseHistoryCursor": null
       },
       "ibraheemdev/modern-unix": {},
       "taku910/mecab": {},
@@ -5002,8 +5076,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4ZKXQF",
-        "lastPublishedAt": "2026-10-23T17:52:38Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4ZcCwz",
+        "lastPublishedAt": "2026-10-28T14:34:02Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
