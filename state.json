@@ -2661,6 +2661,42 @@
       ],
       "2026-10-28": [
         {
+          "id": "RE_kwDOH-jzvc4ZeELq",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.192",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.192",
+          "publishedAt": "2026-10-28T23:46:20Z",
+          "name": "v8.4.192 - Support torch 2.15 CUDA in DDP training and ONNX Runtime inference (#26928)"
+        },
+        {
+          "id": "RE_kwDOIvux3s4ZdkS-",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.22",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.22",
+          "publishedAt": "2026-10-28T21:00:51Z",
+          "name": "v2026.10.22: Project-scoped uninstall, JSONC dotfile merges, and node@lts moves to Node.js 26"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4ZdhII",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.154.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.154.0",
+          "publishedAt": "2026-10-28T20:39:47Z",
+          "name": "v1.154.0"
+        },
+        {
+          "id": "RE_kwDOCcSpD84Zc-FH",
+          "owner": "nektos",
+          "repo": "act",
+          "tag": "v0.2.92",
+          "url": "https://github.com/nektos/act/releases/tag/v0.2.92",
+          "publishedAt": "2026-10-28T18:14:27Z",
+          "name": "v0.2.92"
+        },
+        {
           "id": "RE_kwDOGMspX84ZcfqG",
           "owner": "mo-seph",
           "repo": "obsidian-copy-as-latex",
@@ -3255,8 +3291,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4ZcOR7",
-        "lastPublishedAt": "2026-10-28T15:13:02Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4ZdhII",
+        "lastPublishedAt": "2026-10-28T20:39:47Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3861,8 +3897,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4ZWXVw",
-        "lastPublishedAt": "2026-10-27T10:23:17Z",
+        "lastReleaseId": "RE_kwDOIvux3s4ZdkS-",
+        "lastPublishedAt": "2026-10-28T21:00:51Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4301,8 +4337,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZYTcS",
-        "lastPublishedAt": "2026-10-27T17:53:08Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZeELq",
+        "lastPublishedAt": "2026-10-28T23:46:20Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4941,8 +4977,8 @@
       "yamadashy/tech-blog-rss-feed": {},
       "laobubu/HyperMD": {},
       "nektos/act": {
-        "lastReleaseId": "RE_kwDOCcSpD84ZcJcc",
-        "lastPublishedAt": "2026-10-28T14:56:52Z",
+        "lastReleaseId": "RE_kwDOCcSpD84Zc-FH",
+        "lastPublishedAt": "2026-10-28T18:14:27Z",
         "releaseHistoryCursor": null
       },
       "ibraheemdev/modern-unix": {},
@@ -5155,6 +5191,11 @@
       "akimon658/qonstellation": {
         "lastReleaseId": "RE_kwDOSPGPAM4TFEXb",
         "lastPublishedAt": "2026-05-10T09:31:21Z",
+        "releaseHistoryCursor": null
+      },
+      "meta/dotslash": {
+        "lastPublishedAt": "2026-04-09T23:18:53Z",
+        "lastReleaseId": "RE_kwDOLOhyvs4SUUGO",
         "releaseHistoryCursor": null
       }
     }
