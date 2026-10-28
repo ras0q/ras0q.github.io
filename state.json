@@ -2661,6 +2661,42 @@
       ],
       "2026-10-28": [
         {
+          "id": "RE_kwDOUNMECc4ZRREC",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.11.2",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.2",
+          "publishedAt": "2026-10-28T10:07:46Z",
+          "name": "v1.11.2: Detect replaced public keys that reuse the old key ID"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84ZajQY",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.22.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.22.0",
+          "publishedAt": "2026-10-28T07:57:42Z",
+          "name": "v1.22.0"
+        },
+        {
+          "id": "RE_kwDOKTvXgc4ZaK5I",
+          "owner": "github",
+          "repo": "innovationgraph",
+          "tag": "v1.0.12",
+          "url": "https://github.com/github/innovationgraph/releases/tag/v1.0.12",
+          "publishedAt": "2026-10-28T05:23:35Z",
+          "name": "v1.0.12"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4ZaBJk",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.9.7",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.7",
+          "publishedAt": "2026-10-28T04:05:50Z",
+          "name": "v1.9.7"
+        },
+        {
           "id": "RE_kwDOK40UVM4ZZ0Je",
           "owner": "lintnet",
           "repo": "lintnet",
@@ -3466,8 +3502,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4ZQzfS",
-        "lastPublishedAt": "2026-10-26T03:37:45Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4ZaBJk",
+        "lastPublishedAt": "2026-10-28T04:05:50Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3773,8 +3809,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84ZOe-T",
-        "lastPublishedAt": "2026-10-25T07:46:44Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84ZajQY",
+        "lastPublishedAt": "2026-10-28T07:57:42Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -4269,8 +4305,9 @@
       },
       "antimatter15/splat": {},
       "github/innovationgraph": {
-        "lastReleaseId": "RE_kwDOKTvXgc4U4vQg",
-        "lastPublishedAt": "2026-07-07T15:32:48Z"
+        "lastReleaseId": "RE_kwDOKTvXgc4ZaK5I",
+        "lastPublishedAt": "2026-10-28T05:23:35Z",
+        "releaseHistoryCursor": null
       },
       "graphdeco-inria/gaussian-splatting": {},
       "SerialLain3170/AwesomeAnimeResearch": {},
@@ -4990,8 +5027,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4ZIqv3",
-        "lastPublishedAt": "2026-10-25T10:08:12Z",
+        "lastReleaseId": "RE_kwDOUNMECc4ZRREC",
+        "lastPublishedAt": "2026-10-28T10:07:46Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
