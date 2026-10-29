@@ -2,377 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-21",
       "2026-10-22",
       "2026-10-23",
       "2026-10-24",
       "2026-10-25",
       "2026-10-26",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
     "days": {
-      "2026-10-21": [
-        {
-          "id": "RE_kwDOM9WtiM4ZCzRu",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.8.10",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.8.10",
-          "publishedAt": "2026-10-21T23:51:59Z",
-          "name": "v1.8.10"
-        },
-        {
-          "id": "RE_kwDOE386wc4ZCx2t",
-          "owner": "houseabsolute",
-          "repo": "ubi",
-          "tag": "v0.13.0",
-          "url": "https://github.com/houseabsolute/ubi/releases/tag/v0.13.0",
-          "publishedAt": "2026-10-21T23:42:12Z",
-          "name": "v0.13.0"
-        },
-        {
-          "id": "RE_kwDOPbFNk84ZCoQ4",
-          "owner": "earendil-works",
-          "repo": "pi",
-          "tag": "v1.4.0",
-          "url": "https://github.com/earendil-works/pi/releases/tag/v1.4.0",
-          "publishedAt": "2026-10-21T22:49:48Z",
-          "name": "v1.4.0"
-        },
-        {
-          "id": "RE_kwDOEPtVfM4ZCbGo",
-          "owner": "pamburus",
-          "repo": "hl",
-          "tag": "v0.36.5",
-          "url": "https://github.com/pamburus/hl/releases/tag/v0.36.5",
-          "publishedAt": "2026-10-21T21:26:22Z",
-          "name": "v0.36.5"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZCaDd",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.529.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.529.0",
-          "publishedAt": "2026-10-21T21:12:58Z",
-          "name": "v0.529.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZCQdp",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.528.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.528.0",
-          "publishedAt": "2026-10-21T20:26:25Z",
-          "name": "v0.528.0"
-        },
-        {
-          "id": "RE_kwDOKMzyM84ZCFoI",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.24.3",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.24.3",
-          "publishedAt": "2026-10-21T19:37:57Z",
-          "name": "0.24.3: Maintenance Release"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZB_oj",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.527.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.527.0",
-          "publishedAt": "2026-10-21T19:11:22Z",
-          "name": "v0.527.0"
-        },
-        {
-          "id": "RE_kwDOE2oqQs4ZB1YC",
-          "owner": "grafana",
-          "repo": "pyroscope",
-          "tag": "v2.4.1",
-          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.4.1",
-          "publishedAt": "2026-10-21T18:30:23Z",
-          "name": "v2.4.1"
-        },
-        {
-          "id": "RE_kwDOE2oqQs4ZB1W6",
-          "owner": "grafana",
-          "repo": "pyroscope",
-          "tag": "v2.3.3",
-          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.3.3",
-          "publishedAt": "2026-10-21T18:30:19Z",
-          "name": "v2.3.3"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4ZB1Xb",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.25",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.25",
-          "publishedAt": "2026-10-21T18:30:13Z",
-          "name": "v1.0.25"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZBxKY",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.526.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.526.0",
-          "publishedAt": "2026-10-21T18:13:09Z",
-          "name": "v0.526.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZBjq0",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.525.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.525.0",
-          "publishedAt": "2026-10-21T17:15:18Z",
-          "name": "v0.525.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZBV9V",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.524.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.524.0",
-          "publishedAt": "2026-10-21T16:20:09Z",
-          "name": "v0.524.0"
-        },
-        {
-          "id": "RE_kwDOB_QrUM4ZAgjI",
-          "owner": "denoland",
-          "repo": "deno",
-          "tag": "v2.9.8",
-          "url": "https://github.com/denoland/deno/releases/tag/v2.9.8",
-          "publishedAt": "2026-10-21T15:28:53Z",
-          "name": "v2.9.8"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZBFHc",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.523.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.523.0",
-          "publishedAt": "2026-10-21T15:19:58Z",
-          "name": "v0.523.0"
-        },
-        {
-          "id": "RE_kwDOAcjBfM4ZA5Wl",
-          "owner": "fluent",
-          "repo": "fluent-bit",
-          "tag": "v5.1.5",
-          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.1.5",
-          "publishedAt": "2026-10-21T14:34:35Z",
-          "name": "Fluent Bit 5.1.5"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZA0Dr",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.522.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.522.0",
-          "publishedAt": "2026-10-21T14:14:08Z",
-          "name": "v0.522.0"
-        },
-        {
-          "id": "RE_kwDOUNMECc4ZAn-W",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.10.1",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.10.1",
-          "publishedAt": "2026-10-21T13:44:53Z",
-          "name": "v1.10.1: Fix Go library GitHub Actions OIDC token request failing with EOF"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZAm4W",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.521.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.521.0",
-          "publishedAt": "2026-10-21T13:24:56Z",
-          "name": "v0.521.0"
-        },
-        {
-          "id": "RE_kwDOPf38cc4ZAi-8",
-          "owner": "docker",
-          "repo": "github-builder",
-          "tag": "v1.18.1",
-          "url": "https://github.com/docker/github-builder/releases/tag/v1.18.1",
-          "publishedAt": "2026-10-21T13:10:27Z",
-          "name": "v1.18.1"
-        },
-        {
-          "id": "RE_kwDOOtJPAM4ZAaeg",
-          "owner": "intellectronica",
-          "repo": "ruler",
-          "tag": "v0.3.45",
-          "url": "https://github.com/intellectronica/ruler/releases/tag/v0.3.45",
-          "publishedAt": "2026-10-21T12:36:19Z",
-          "name": "v0.3.45"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZAZN2",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.520.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.520.0",
-          "publishedAt": "2026-10-21T12:31:31Z",
-          "name": "v0.520.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZAOuU",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.519.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.519.0",
-          "publishedAt": "2026-10-21T11:44:58Z",
-          "name": "v0.519.0"
-        },
-        {
-          "id": "RE_kwDOUNMECc4Y9nPl",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.10.0",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.10.0",
-          "publishedAt": "2026-10-21T11:34:45Z",
-          "name": "v1.10.0: Dependency-free Node.js verifier and Go publisher helpers"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZAGAF",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.518.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.518.0",
-          "publishedAt": "2026-10-21T11:04:27Z",
-          "name": "v0.518.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y__LV",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.517.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.517.0",
-          "publishedAt": "2026-10-21T10:31:53Z",
-          "name": "v0.517.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y_xOt",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.516.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.516.0",
-          "publishedAt": "2026-10-21T09:26:40Z",
-          "name": "v0.516.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4Y_vNl",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.152.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.152.0",
-          "publishedAt": "2026-10-21T09:17:49Z",
-          "name": "v1.152.0"
-        },
-        {
-          "id": "RE_kwDOCv6UO84YSvNz",
-          "owner": "microsoft",
-          "repo": "PowerToys",
-          "tag": "v0.102.2933.0",
-          "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.2933.0",
-          "publishedAt": "2026-10-21T07:45:57Z",
-          "name": "Release v0.102.2933.0"
-        },
-        {
-          "id": "RE_kwDOFhZBDs4Y_Jiv",
-          "owner": "bytedance",
-          "repo": "sonic",
-          "tag": "loader/v0.5.3",
-          "url": "https://github.com/bytedance/sonic/releases/tag/loader/v0.5.3",
-          "publishedAt": "2026-10-21T05:58:22Z",
-          "name": "loader/v0.5.3"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y_Hpp",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.515.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.515.0",
-          "publishedAt": "2026-10-21T05:45:54Z",
-          "name": "v0.515.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y_B5U",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.514.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.514.0",
-          "publishedAt": "2026-10-21T05:01:21Z",
-          "name": "v0.514.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y-8KO",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.513.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.513.0",
-          "publishedAt": "2026-10-21T04:14:20Z",
-          "name": "v0.513.0"
-        },
-        {
-          "id": "RE_kwDOHxfx2s4Y-0Xd",
-          "owner": "giginet",
-          "repo": "Scipio",
-          "tag": "0.34.0",
-          "url": "https://github.com/giginet/Scipio/releases/tag/0.34.0",
-          "publishedAt": "2026-10-21T03:34:00Z",
-          "name": "0.34.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y-zpe",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.512.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.512.0",
-          "publishedAt": "2026-10-21T03:32:55Z",
-          "name": "v0.512.0"
-        },
-        {
-          "id": "RE_kwDOBDf5XM4Y-oJQ",
-          "owner": "Foundry376",
-          "repo": "Mailspring",
-          "tag": "1.26.1",
-          "url": "https://github.com/Foundry376/Mailspring/releases/tag/1.26.1",
-          "publishedAt": "2026-10-21T02:18:39Z",
-          "name": "1.26.1"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Y-hub",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.17",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.17",
-          "publishedAt": "2026-10-21T01:29:26Z",
-          "name": "v2026.10.17: Shell names in bootstrap login_shell, templated doctor checks, and a per-plugin vfox cache directory"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y-cUm",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.511.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.511.0",
-          "publishedAt": "2026-10-21T00:49:22Z",
-          "name": "v0.511.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Y-YHp",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.510.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.510.0",
-          "publishedAt": "2026-10-21T00:15:21Z",
-          "name": "v0.510.0"
-        }
-      ],
       "2026-10-22": [
         {
           "id": "RE_kwDOPyZEpc4ZHDLA",
@@ -2822,6 +2460,26 @@
           "publishedAt": "2026-10-28T01:01:32Z",
           "name": "v1.0.28"
         }
+      ],
+      "2026-10-29": [
+        {
+          "id": "RE_kwDOF0rAvc4ZejoU",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.7",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.7",
+          "publishedAt": "2026-10-29T03:44:19Z",
+          "name": "v5.2.7"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4ZejJx",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.6",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.6",
+          "publishedAt": "2026-10-29T03:40:33Z",
+          "name": "v5.2.6"
+        }
       ]
     }
   },
@@ -4923,8 +4581,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4ZN487",
-        "lastPublishedAt": "2026-10-25T00:52:50Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4ZejoU",
+        "lastPublishedAt": "2026-10-29T03:44:19Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
@@ -5194,8 +4852,13 @@
         "releaseHistoryCursor": null
       },
       "meta/dotslash": {
-        "lastPublishedAt": "2026-04-09T23:18:53Z",
         "lastReleaseId": "RE_kwDOLOhyvs4SUUGO",
+        "lastPublishedAt": "2026-04-09T23:18:53Z",
+        "releaseHistoryCursor": null
+      },
+      "waydabber/m1ddc": {
+        "lastPublishedAt": "2024-01-10T14:34:24Z",
+        "lastReleaseId": "RE_kwDOFxE1Fs4IItKq",
         "releaseHistoryCursor": null
       }
     }
