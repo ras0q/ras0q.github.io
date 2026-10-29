@@ -2463,6 +2463,33 @@
       ],
       "2026-10-29": [
         {
+          "id": "RE_kwDOIvux3s4Zfi5n",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.23",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.23",
+          "publishedAt": "2026-10-29T10:12:05Z",
+          "name": "v2026.10.23: Dotfile groups can apply edits, INI merges, and fnox-stored dotfiles"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Ze3Za",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.606.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.606.0",
+          "publishedAt": "2026-10-29T06:13:44Z",
+          "name": "v0.606.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZerHw",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.605.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.605.0",
+          "publishedAt": "2026-10-29T04:38:12Z",
+          "name": "v0.605.0"
+        },
+        {
           "id": "RE_kwDOF0rAvc4ZejoU",
           "owner": "OpenWonderLabs",
           "repo": "homebridge-switchbot",
@@ -2709,8 +2736,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZcFqm",
-        "lastPublishedAt": "2026-10-28T14:44:37Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Ze3Za",
+        "lastPublishedAt": "2026-10-29T06:13:44Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3555,8 +3582,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4ZdkS-",
-        "lastPublishedAt": "2026-10-28T21:00:51Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Zfi5n",
+        "lastPublishedAt": "2026-10-29T10:12:05Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4857,8 +4884,8 @@
         "releaseHistoryCursor": null
       },
       "waydabber/m1ddc": {
-        "lastPublishedAt": "2024-01-10T14:34:24Z",
         "lastReleaseId": "RE_kwDOFxE1Fs4IItKq",
+        "lastPublishedAt": "2024-01-10T14:34:24Z",
         "releaseHistoryCursor": null
       }
     }
