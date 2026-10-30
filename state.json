@@ -2259,6 +2259,42 @@
       ],
       "2026-10-30": [
         {
+          "id": "RE_kwDOIvux3s4ZkDtJ",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.24",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.24",
+          "publishedAt": "2026-10-30T10:15:02Z",
+          "name": "v2026.10.24: Container daemons, append-position PATH entries, and extra CA certificates"
+        },
+        {
+          "id": "RE_kwDOJKcikM4ZjunA",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.8",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.8",
+          "publishedAt": "2026-10-30T08:27:42Z",
+          "name": "@astrojs/starlight@0.42.8"
+        },
+        {
+          "id": "RE_kwDOAeC4a84ZjN9s",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.4.4",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.4.4",
+          "publishedAt": "2026-10-30T04:46:36Z",
+          "name": "v5.4.4"
+        },
+        {
+          "id": "RE_kwDOAeC4a84ZjML8",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v4.16.3",
+          "url": "https://github.com/labstack/echo/releases/tag/v4.16.3",
+          "publishedAt": "2026-10-30T04:31:49Z",
+          "name": "v4.16.3"
+        },
+        {
           "id": "RE_kwDOAeC4a84ZjEYR",
           "owner": "labstack",
           "repo": "echo",
@@ -2622,8 +2658,8 @@
         "releaseHistoryCursor": null
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84ZjEYR",
-        "lastPublishedAt": "2026-10-30T03:27:01Z",
+        "lastReleaseId": "RE_kwDOAeC4a84ZjN9s",
+        "lastPublishedAt": "2026-10-30T04:46:36Z",
         "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
@@ -2732,8 +2768,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4ZJxUy",
-        "lastPublishedAt": "2026-10-23T15:14:47Z",
+        "lastReleaseId": "RE_kwDOJKcikM4ZjunA",
+        "lastPublishedAt": "2026-10-30T08:27:42Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -3369,8 +3405,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Zfi5n",
-        "lastPublishedAt": "2026-10-29T10:12:05Z",
+        "lastReleaseId": "RE_kwDOIvux3s4ZkDtJ",
+        "lastPublishedAt": "2026-10-30T10:15:02Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
