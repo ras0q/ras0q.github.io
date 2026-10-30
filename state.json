@@ -2259,6 +2259,42 @@
       ],
       "2026-10-30": [
         {
+          "id": "RE_kwDOF0rAvc4ZmrYQ",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.10",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.10",
+          "publishedAt": "2026-10-30T23:04:16Z",
+          "name": "v5.2.10"
+        },
+        {
+          "id": "RE_kwDOB21G7c4ZmIG7",
+          "owner": "cel-expr",
+          "repo": "cel-go",
+          "tag": "v0.33.2",
+          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.33.2",
+          "publishedAt": "2026-10-30T19:44:00Z",
+          "name": "Release v0.33.2"
+        },
+        {
+          "id": "RE_kwDOINrldM4ZmAZI",
+          "owner": "Akifyss",
+          "repo": "obsidian-border",
+          "tag": "1.13.9",
+          "url": "https://github.com/Akifyss/obsidian-border/releases/tag/1.13.9",
+          "publishedAt": "2026-10-30T19:08:32Z",
+          "name": "1.13.9"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4Zl91d",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.194",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.194",
+          "publishedAt": "2026-10-30T18:54:49Z",
+          "name": "v8.4.194 - `ultralytics 8.4.194` Size AutoBatch from the train dataset for every task (#26956)"
+        },
+        {
           "id": "RE_kwDORKDUAs4Zln5b",
           "owner": "alberti42",
           "repo": "zsh-appearance-control",
@@ -2494,7 +2530,11 @@
         "lastPublishedAt": "2026-10-24T19:06:27Z",
         "releaseHistoryCursor": null
       },
-      "Akifyss/obsidian-border": {},
+      "Akifyss/obsidian-border": {
+        "lastReleaseId": "RE_kwDOINrldM4ZmAZI",
+        "lastPublishedAt": "2026-10-30T19:08:32Z",
+        "releaseHistoryCursor": null
+      },
       "actions/upload-code-coverage": {
         "lastReleaseId": "RE_kwDOSLpYXs4X5e-R",
         "lastPublishedAt": "2026-10-01T12:27:47Z",
@@ -3726,8 +3766,8 @@
         "lastPublishedAt": "2025-06-13T14:11:11Z"
       },
       "cel-expr/cel-go": {
-        "lastReleaseId": "RE_kwDOB21G7c4ZZPde",
-        "lastPublishedAt": "2026-10-27T22:18:50Z",
+        "lastReleaseId": "RE_kwDOB21G7c4ZmIG7",
+        "lastPublishedAt": "2026-10-30T19:44:00Z",
         "releaseHistoryCursor": null
       },
       "glanceapp/glance": {
@@ -3917,8 +3957,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZirhO",
-        "lastPublishedAt": "2026-10-30T00:13:43Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Zl91d",
+        "lastPublishedAt": "2026-10-30T18:54:49Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4503,8 +4543,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4ZgVyX",
-        "lastPublishedAt": "2026-10-29T13:34:11Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4ZmrYQ",
+        "lastPublishedAt": "2026-10-30T23:04:16Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
