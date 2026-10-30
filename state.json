@@ -2259,6 +2259,78 @@
       ],
       "2026-10-30": [
         {
+          "id": "RE_kwDORKDUAs4Zln5b",
+          "owner": "alberti42",
+          "repo": "zsh-appearance-control",
+          "tag": "v2.3.0",
+          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.3.0",
+          "publishedAt": "2026-10-30T17:13:05Z",
+          "name": "v2.3.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4ZlgzF",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.43",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.43",
+          "publishedAt": "2026-10-30T17:12:16Z",
+          "name": "1.0.43"
+        },
+        {
+          "id": "RE_kwDOIF_Mq84Zljy6",
+          "owner": "pointfreeco",
+          "repo": "swift-dependencies",
+          "tag": "1.17.2",
+          "url": "https://github.com/pointfreeco/swift-dependencies/releases/tag/1.17.2",
+          "publishedAt": "2026-10-30T16:53:20Z",
+          "name": "1.17.2"
+        },
+        {
+          "id": "RE_kwDOOfp6ts4ZlVWW",
+          "owner": "nickjvandyke",
+          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
+          "tag": "v1.0.3",
+          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.0.3",
+          "publishedAt": "2026-10-30T15:53:52Z",
+          "name": "v1.0.3"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4ZlGhr",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.12.0",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.12.0",
+          "publishedAt": "2026-10-30T14:56:37Z",
+          "name": "v0.12.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4ZkXWL",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.28.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.28.0",
+          "publishedAt": "2026-10-30T11:40:04Z",
+          "name": "Schema v1.28.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4ZkXVz",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.14.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.14.0",
+          "publishedAt": "2026-10-30T11:40:02Z",
+          "name": "Rust Crate v1.14.0"
+        },
+        {
+          "id": "RE_kwDOEcv33s4ZkTHO",
+          "owner": "quarto-dev",
+          "repo": "quarto-cli",
+          "tag": "v1.10.20",
+          "url": "https://github.com/quarto-dev/quarto-cli/releases/tag/v1.10.20",
+          "publishedAt": "2026-10-30T11:21:01Z",
+          "name": "v1.10.20"
+        },
+        {
           "id": "RE_kwDOIvux3s4ZkDtJ",
           "owner": "jdx",
           "repo": "mise",
@@ -2610,8 +2682,8 @@
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
-        "lastReleaseId": "RE_kwDORKDUAs4WP1nb",
-        "lastPublishedAt": "2026-08-19T18:04:47Z",
+        "lastReleaseId": "RE_kwDORKDUAs4Zln5b",
+        "lastPublishedAt": "2026-10-30T17:13:05Z",
         "releaseHistoryCursor": null
       },
       "DaltonSW/prism": {
@@ -2762,8 +2834,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4ZSeR9",
-        "lastPublishedAt": "2026-10-26T13:17:44Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4ZlGhr",
+        "lastPublishedAt": "2026-10-30T14:56:37Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -2783,8 +2855,8 @@
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastReleaseId": "RE_kwDOOfp6ts4WSxod",
-        "lastPublishedAt": "2026-08-20T20:45:29Z",
+        "lastReleaseId": "RE_kwDOOfp6ts4ZlVWW",
+        "lastPublishedAt": "2026-10-30T15:53:52Z",
         "releaseHistoryCursor": null
       },
       "ghostty-org/ghostty": {},
@@ -2849,8 +2921,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4ZZKt6",
-        "lastPublishedAt": "2026-10-27T21:56:51Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4ZkXWL",
+        "lastPublishedAt": "2026-10-30T11:40:04Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -3778,8 +3850,8 @@
       },
       "bluesky-social/indigo": {},
       "quarto-dev/quarto-cli": {
-        "lastReleaseId": "RE_kwDOEcv33s4YHFFP",
-        "lastPublishedAt": "2026-10-06T08:59:49Z",
+        "lastReleaseId": "RE_kwDOEcv33s4ZkTHO",
+        "lastPublishedAt": "2026-10-30T11:21:01Z",
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
@@ -3887,8 +3959,8 @@
         "releaseHistoryCursor": null
       },
       "pointfreeco/swift-dependencies": {
-        "lastReleaseId": "RE_kwDOIF_Mq84WkzdO",
-        "lastPublishedAt": "2026-08-28T20:25:16Z",
+        "lastReleaseId": "RE_kwDOIF_Mq84Zljy6",
+        "lastPublishedAt": "2026-10-30T16:53:20Z",
         "releaseHistoryCursor": null
       },
       "kalupas226/tca-workshop": {},
@@ -3976,8 +4048,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4ZVZcd",
-        "lastPublishedAt": "2026-10-27T04:50:00Z",
+        "lastReleaseId": "RE_kwDOGNEXps4ZlgzF",
+        "lastPublishedAt": "2026-10-30T17:12:16Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
