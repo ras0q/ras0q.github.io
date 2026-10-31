@@ -1953,6 +1953,222 @@
       ],
       "2026-10-31": [
         {
+          "id": "RE_kwDOQvjuaM4ZoeIv",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.620.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.620.0",
+          "publishedAt": "2026-10-31T16:10:29Z",
+          "name": "v0.620.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZoZ_N",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.619.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.619.0",
+          "publishedAt": "2026-10-31T15:38:13Z",
+          "name": "v0.619.0"
+        },
+        {
+          "id": "RE_kwDOGgFgVM4ZoYet",
+          "owner": "usememos",
+          "repo": "memos",
+          "tag": "26.10.0",
+          "url": "https://github.com/usememos/memos/releases/tag/26.10.0",
+          "publishedAt": "2026-10-31T15:26:12Z",
+          "name": "26.10.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZoU-I",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.618.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.618.0",
+          "publishedAt": "2026-10-31T14:59:58Z",
+          "name": "v0.618.0"
+        },
+        {
+          "id": "RE_kwDOEXrCM84ZoQ2y",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v140_2",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v140_2",
+          "publishedAt": "2026-10-31T14:27:35Z",
+          "name": "Server v140_2"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84ZoPN3",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.23.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.23.0",
+          "publishedAt": "2026-10-31T14:14:48Z",
+          "name": "v1.23.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZoNl7",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.617.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.617.0",
+          "publishedAt": "2026-10-31T14:02:12Z",
+          "name": "v0.617.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4ZoJjw",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.26.2",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.26.2",
+          "publishedAt": "2026-10-31T13:30:29Z",
+          "name": "v1.26.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZoJaw",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.616.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.616.0",
+          "publishedAt": "2026-10-31T13:28:51Z",
+          "name": "v0.616.0"
+        },
+        {
+          "id": "RE_kwDOCN71Oc4ZoFb0",
+          "owner": "o2sh",
+          "repo": "onefetch",
+          "tag": "3.2.0",
+          "url": "https://github.com/o2sh/onefetch/releases/tag/3.2.0",
+          "publishedAt": "2026-10-31T12:55:36Z",
+          "name": "3.2.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZoCeZ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.615.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.615.0",
+          "publishedAt": "2026-10-31T12:33:28Z",
+          "name": "v0.615.0"
+        },
+        {
+          "id": "RE_kwDOPrEI7s4ZoBE1",
+          "owner": "Gaurav-Gosain",
+          "repo": "tuios",
+          "tag": "v0.12.1",
+          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.12.1",
+          "publishedAt": "2026-10-31T12:22:39Z",
+          "name": "v0.12.1"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Zn_HR",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-wasi-v1.0.60",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-wasi-v1.0.60",
+          "publishedAt": "2026-10-31T12:08:09Z",
+          "name": "detect-wasi-v1.0.60"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Zn_Gz",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.29.6",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.6",
+          "publishedAt": "2026-10-31T12:08:04Z",
+          "name": "binstalk-v0.29.6"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Zn--U",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-registry-v0.12.12",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.12",
+          "publishedAt": "2026-10-31T12:06:52Z",
+          "name": "binstalk-registry-v0.12.12"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Zn-8y",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-fetchers-v0.10.53",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.53",
+          "publishedAt": "2026-10-31T12:06:40Z",
+          "name": "binstalk-fetchers-v0.10.53"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Zn-7s",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-git-repo-api-v0.5.53",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.53",
+          "publishedAt": "2026-10-31T12:06:32Z",
+          "name": "binstalk-git-repo-api-v0.5.53"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4Zn-6j",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-downloader-v0.14.1",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.14.1",
+          "publishedAt": "2026-10-31T12:06:22Z",
+          "name": "binstalk-downloader-v0.14.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zn6Pt",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.614.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.614.0",
+          "publishedAt": "2026-10-31T11:26:20Z",
+          "name": "v0.614.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zn3GO",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.613.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.613.0",
+          "publishedAt": "2026-10-31T10:59:04Z",
+          "name": "v0.613.0"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4Zn1Be",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.44.1",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.44.1",
+          "publishedAt": "2026-10-31T10:39:38Z",
+          "name": "Release 6.44.1"
+        },
+        {
+          "id": "RE_kwDOIvux3s4Znyxg",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.10.25",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.25",
+          "publishedAt": "2026-10-31T10:24:21Z",
+          "name": "v2026.10.25: Edit and remove tasks from the CLI, and `mise watch --once`"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZnyB1",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.612.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.612.0",
+          "publishedAt": "2026-10-31T10:12:14Z",
+          "name": "v0.612.0"
+        },
+        {
+          "id": "RE_kwDOUNMECc4ZbJ6u",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.11.3",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.3",
+          "publishedAt": "2026-10-31T10:07:37Z",
+          "name": "v1.11.3: More reliable APT and RPM repository publishing"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZnvSj",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2266,8 +2482,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZnvSj",
-        "lastPublishedAt": "2026-10-31T09:47:46Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZoeIv",
+        "lastPublishedAt": "2026-10-31T16:10:29Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2469,8 +2685,8 @@
       },
       "kamecha/bimove": {},
       "Gaurav-Gosain/tuios": {
-        "lastReleaseId": "RE_kwDOPrEI7s4ZlGhr",
-        "lastPublishedAt": "2026-10-30T14:56:37Z",
+        "lastReleaseId": "RE_kwDOPrEI7s4ZoBE1",
+        "lastPublishedAt": "2026-10-31T12:22:39Z",
         "releaseHistoryCursor": null
       },
       "Monster0506/obsidian-neovim": {},
@@ -2539,8 +2755,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4Zh5zM",
-        "lastPublishedAt": "2026-10-29T19:40:54Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4Zn1Be",
+        "lastPublishedAt": "2026-10-31T10:39:38Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -3005,8 +3221,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4ZMr9e",
-        "lastPublishedAt": "2026-10-24T13:44:03Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4ZoJjw",
+        "lastPublishedAt": "2026-10-31T13:30:29Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -3075,8 +3291,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84ZRogW",
-        "lastPublishedAt": "2026-10-26T09:27:21Z",
+        "lastReleaseId": "RE_kwDOEXrCM84ZoQ2y",
+        "lastPublishedAt": "2026-10-31T14:27:35Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -3112,8 +3328,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4ZkDtJ",
-        "lastPublishedAt": "2026-10-30T10:15:02Z",
+        "lastReleaseId": "RE_kwDOIvux3s4Znyxg",
+        "lastPublishedAt": "2026-10-31T10:24:21Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3132,8 +3348,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84ZajQY",
-        "lastPublishedAt": "2026-10-28T07:57:42Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84ZoPN3",
+        "lastPublishedAt": "2026-10-31T14:14:48Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -3623,8 +3839,8 @@
       },
       "kaityo256/yaml_cv": {},
       "usememos/memos": {
-        "lastReleaseId": "RE_kwDOGgFgVM4XX55h",
-        "lastPublishedAt": "2026-09-19T16:50:57Z",
+        "lastReleaseId": "RE_kwDOGgFgVM4ZoYet",
+        "lastPublishedAt": "2026-10-31T15:26:12Z",
         "releaseHistoryCursor": null
       },
       "antimatter15/splat": {},
@@ -4270,8 +4486,8 @@
       "dersvenhesse/awesome-scriptable": {},
       "SSlime-s/afk-animation": {},
       "o2sh/onefetch": {
-        "lastReleaseId": "RE_kwDOCN71Oc4Y1knF",
-        "lastPublishedAt": "2026-10-18T20:35:02Z",
+        "lastReleaseId": "RE_kwDOCN71Oc4ZoFb0",
+        "lastPublishedAt": "2026-10-31T12:55:36Z",
         "releaseHistoryCursor": null
       },
       "tesso57/WinterHack2020": {},
@@ -4352,8 +4568,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4ZRREC",
-        "lastPublishedAt": "2026-10-28T10:07:46Z",
+        "lastReleaseId": "RE_kwDOUNMECc4ZbJ6u",
+        "lastPublishedAt": "2026-10-31T10:07:37Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
