@@ -1953,6 +1953,123 @@
       ],
       "2026-10-31": [
         {
+          "id": "RE_kwDOCk_pzs4ZLZqj",
+          "owner": "oapi-codegen",
+          "repo": "oapi-codegen",
+          "tag": "v2.8.2",
+          "url": "https://github.com/oapi-codegen/oapi-codegen/releases/tag/v2.8.2",
+          "publishedAt": "2026-10-31T21:34:53Z",
+          "name": "v2.8.2: Security fixes for code generation"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zo8Jl",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.627.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.627.0",
+          "publishedAt": "2026-10-31T20:17:31Z",
+          "name": "v0.627.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zo4Y1",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.626.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.626.0",
+          "publishedAt": "2026-10-31T19:45:13Z",
+          "name": "v0.626.0"
+        },
+        {
+          "id": "RE_kwDOCcSpD84Zo3Ze",
+          "owner": "nektos",
+          "repo": "act",
+          "tag": "v0.2.94",
+          "url": "https://github.com/nektos/act/releases/tag/v0.2.94",
+          "publishedAt": "2026-10-31T19:36:11Z",
+          "name": "v0.2.94"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zo0Ns",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.625.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.625.0",
+          "publishedAt": "2026-10-31T19:08:49Z",
+          "name": "v0.625.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZowkV",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.624.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.624.0",
+          "publishedAt": "2026-10-31T18:37:52Z",
+          "name": "v0.624.0"
+        },
+        {
+          "id": "RE_kwDOMjjYJM4ZoweU",
+          "owner": "avante-corp",
+          "repo": "avante.nvim",
+          "tag": "v0.5.0",
+          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.5.0",
+          "publishedAt": "2026-10-31T18:36:29Z",
+          "name": "v0.5.0"
+        },
+        {
+          "id": "RE_kwDOCcSpD84ZowMI",
+          "owner": "nektos",
+          "repo": "act",
+          "tag": "v0.2.93",
+          "url": "https://github.com/nektos/act/releases/tag/v0.2.93",
+          "publishedAt": "2026-10-31T18:34:15Z",
+          "name": "v0.2.93"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZotqD",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.623.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.623.0",
+          "publishedAt": "2026-10-31T18:13:44Z",
+          "name": "v0.623.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ZostJ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.195",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.195",
+          "publishedAt": "2026-10-31T18:05:20Z",
+          "name": "v8.4.195 - `ultralytics 8.4.195` Add Python 3.15 CI and classifier (#26975)"
+        },
+        {
+          "id": "RE_kwDOAZfQX84ZoqRx",
+          "owner": "go-swagger",
+          "repo": "go-swagger",
+          "tag": "v0.36.7",
+          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.7",
+          "publishedAt": "2026-10-31T17:45:54Z",
+          "name": "v0.36.7"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zomwe",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.622.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.622.0",
+          "publishedAt": "2026-10-31T17:16:59Z",
+          "name": "v0.622.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zoifo",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.621.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.621.0",
+          "publishedAt": "2026-10-31T16:44:14Z",
+          "name": "v0.621.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZoeIv",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2482,8 +2599,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZoeIv",
-        "lastPublishedAt": "2026-10-31T16:10:29Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Zo8Jl",
+        "lastPublishedAt": "2026-10-31T20:17:31Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3768,8 +3885,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Zl91d",
-        "lastPublishedAt": "2026-10-30T18:54:49Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZostJ",
+        "lastPublishedAt": "2026-10-31T18:05:20Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4408,8 +4525,8 @@
       "yamadashy/tech-blog-rss-feed": {},
       "laobubu/HyperMD": {},
       "nektos/act": {
-        "lastReleaseId": "RE_kwDOCcSpD84Zc-FH",
-        "lastPublishedAt": "2026-10-28T18:14:27Z",
+        "lastReleaseId": "RE_kwDOCcSpD84Zo3Ze",
+        "lastPublishedAt": "2026-10-31T19:36:11Z",
         "releaseHistoryCursor": null
       },
       "ibraheemdev/modern-unix": {},
@@ -4453,13 +4570,13 @@
       },
       "dave/jennifer": {},
       "go-swagger/go-swagger": {
-        "lastReleaseId": "RE_kwDOAZfQX84XA1mv",
-        "lastPublishedAt": "2026-09-10T07:58:01Z",
+        "lastReleaseId": "RE_kwDOAZfQX84ZoqRx",
+        "lastPublishedAt": "2026-10-31T17:45:54Z",
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
-        "lastReleaseId": "RE_kwDOCk_pzs4VM_Hn",
-        "lastPublishedAt": "2026-10-24T00:20:07Z",
+        "lastReleaseId": "RE_kwDOCk_pzs4ZLZqj",
+        "lastPublishedAt": "2026-10-31T21:34:53Z",
         "releaseHistoryCursor": null
       },
       "AMAI-GmbH/AI-Expert-Roadmap": {},
@@ -4543,8 +4660,8 @@
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
-        "lastReleaseId": "RE_kwDOMjjYJM4ZcCwz",
-        "lastPublishedAt": "2026-10-28T14:34:02Z",
+        "lastReleaseId": "RE_kwDOMjjYJM4ZoweU",
+        "lastPublishedAt": "2026-10-31T18:36:29Z",
         "releaseHistoryCursor": null
       },
       "natalie-o-perret/go-functionalish": {
