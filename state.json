@@ -1953,6 +1953,69 @@
       ],
       "2026-10-31": [
         {
+          "id": "RE_kwDOQvjuaM4ZnvSj",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.611.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.611.0",
+          "publishedAt": "2026-10-31T09:47:46Z",
+          "name": "v0.611.0"
+        },
+        {
+          "id": "RE_kwDOE4ox_c4ZntGd",
+          "owner": "hummingbird-project",
+          "repo": "hummingbird",
+          "tag": "2.28.1",
+          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.28.1",
+          "publishedAt": "2026-10-31T09:27:50Z",
+          "name": "v2.28.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Znq_X",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.610.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.610.0",
+          "publishedAt": "2026-10-31T09:09:55Z",
+          "name": "v0.610.0"
+        },
+        {
+          "id": "RE_kwDORKDUAs4ZnldR",
+          "owner": "alberti42",
+          "repo": "zsh-appearance-control",
+          "tag": "v2.3.1",
+          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.3.1",
+          "publishedAt": "2026-10-31T08:19:00Z",
+          "name": "v2.3.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZnkxS",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.609.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.609.0",
+          "publishedAt": "2026-10-31T08:11:58Z",
+          "name": "v0.609.0"
+        },
+        {
+          "id": "RE_kwDOAoUxF84ZnTBi",
+          "owner": "preactjs",
+          "repo": "preact",
+          "tag": "11.1.1",
+          "url": "https://github.com/preactjs/preact/releases/tag/11.1.1",
+          "publishedAt": "2026-10-31T04:59:58Z",
+          "name": "11.1.1"
+        },
+        {
+          "id": "RE_kwDOAoUxF84ZWu9y",
+          "owner": "preactjs",
+          "repo": "preact",
+          "tag": "11.1.0",
+          "url": "https://github.com/preactjs/preact/releases/tag/11.1.0",
+          "publishedAt": "2026-10-31T04:59:38Z",
+          "name": "11.1.0"
+        },
+        {
           "id": "RE_kwDOAvORMc4ZnEjR",
           "owner": "xwmx",
           "repo": "nb",
@@ -2203,8 +2266,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZiUOu",
-        "lastPublishedAt": "2026-10-29T21:43:57Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZnvSj",
+        "lastPublishedAt": "2026-10-31T09:47:46Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2254,8 +2317,8 @@
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
-        "lastReleaseId": "RE_kwDORKDUAs4Zln5b",
-        "lastPublishedAt": "2026-10-30T17:13:05Z",
+        "lastReleaseId": "RE_kwDORKDUAs4ZnldR",
+        "lastPublishedAt": "2026-10-31T08:19:00Z",
         "releaseHistoryCursor": null
       },
       "DaltonSW/prism": {
@@ -3039,8 +3102,8 @@
         "lastPublishedAt": "2024-12-24T12:10:23Z"
       },
       "preactjs/preact": {
-        "lastReleaseId": "RE_kwDOAoUxF84ZJ4p3",
-        "lastPublishedAt": "2026-10-23T15:47:35Z",
+        "lastReleaseId": "RE_kwDOAoUxF84ZnTBi",
+        "lastPublishedAt": "2026-10-31T04:59:58Z",
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
@@ -3204,8 +3267,8 @@
       },
       "nerdsupremacist/memes": {},
       "hummingbird-project/hummingbird": {
-        "lastReleaseId": "RE_kwDOE4ox_c4Yhjnq",
-        "lastPublishedAt": "2026-10-13T08:23:33Z",
+        "lastReleaseId": "RE_kwDOE4ox_c4ZntGd",
+        "lastPublishedAt": "2026-10-31T09:27:50Z",
         "releaseHistoryCursor": null
       },
       "darlinghq/darling": {
