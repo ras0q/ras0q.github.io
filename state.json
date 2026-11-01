@@ -2016,6 +2016,114 @@
       ],
       "2026-11-01": [
         {
+          "id": "RE_kwDOQvjuaM4ZrHrB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.636.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.636.0",
+          "publishedAt": "2026-11-01T17:19:37Z",
+          "name": "v0.636.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zq-GX",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.635.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.635.0",
+          "publishedAt": "2026-11-01T16:09:39Z",
+          "name": "v0.635.0"
+        },
+        {
+          "id": "RE_kwDOQ52_2c4Zq52q",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.21.4",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.21.4",
+          "publishedAt": "2026-11-01T15:39:13Z",
+          "name": "v0.21.4"
+        },
+        {
+          "id": "RE_kwDOOfp6ts4Zq5wb",
+          "owner": "nickjvandyke",
+          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
+          "tag": "v1.1.0",
+          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.1.0",
+          "publishedAt": "2026-11-01T15:38:26Z",
+          "name": "v1.1.0"
+        },
+        {
+          "id": "RE_kwDORQ3jDc4Zq4qs",
+          "owner": "vercel-labs",
+          "repo": "portless",
+          "tag": "v0.15.13",
+          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.13",
+          "publishedAt": "2026-11-01T15:30:55Z",
+          "name": "v0.15.13"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zq1-F",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.634.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.634.0",
+          "publishedAt": "2026-11-01T15:11:54Z",
+          "name": "v0.634.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4ZqzDt",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.44",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.44",
+          "publishedAt": "2026-11-01T14:55:36Z",
+          "name": "1.0.44"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4ZqvFx",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.34",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.34",
+          "publishedAt": "2026-11-01T14:21:47Z",
+          "name": "v1.10.34"
+        },
+        {
+          "id": "RE_kwDOGgFgVM4Zqss4",
+          "owner": "usememos",
+          "repo": "memos",
+          "tag": "26.11.0",
+          "url": "https://github.com/usememos/memos/releases/tag/26.11.0",
+          "publishedAt": "2026-11-01T14:04:41Z",
+          "name": "26.11.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zqo0w",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.633.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.633.0",
+          "publishedAt": "2026-11-01T13:37:07Z",
+          "name": "v0.633.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Zqgcs",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.632.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.632.0",
+          "publishedAt": "2026-11-01T12:34:20Z",
+          "name": "v0.632.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZqZJj",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.631.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.631.0",
+          "publishedAt": "2026-11-01T11:40:51Z",
+          "name": "v0.631.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZqTpY",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2356,8 +2464,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZqTpY",
-        "lastPublishedAt": "2026-11-01T10:56:34Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZrHrB",
+        "lastPublishedAt": "2026-11-01T17:19:37Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2369,8 +2477,8 @@
         "lastPublishedAt": "2024-07-24T20:05:33Z"
       },
       "vercel-labs/portless": {
-        "lastReleaseId": "RE_kwDORQ3jDc4ZQmxP",
-        "lastPublishedAt": "2026-10-26T01:43:15Z",
+        "lastReleaseId": "RE_kwDORQ3jDc4Zq4qs",
+        "lastPublishedAt": "2026-11-01T15:30:55Z",
         "releaseHistoryCursor": null
       },
       "mitchellh/vouch": {
@@ -2429,8 +2537,8 @@
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastReleaseId": "RE_kwDOQ52_2c4ZLlwz",
-        "lastPublishedAt": "2026-10-24T02:31:45Z",
+        "lastReleaseId": "RE_kwDOQ52_2c4Zq52q",
+        "lastPublishedAt": "2026-11-01T15:39:13Z",
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
@@ -2580,8 +2688,8 @@
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastReleaseId": "RE_kwDOOfp6ts4ZlVWW",
-        "lastPublishedAt": "2026-10-30T15:53:52Z",
+        "lastReleaseId": "RE_kwDOOfp6ts4Zq5wb",
+        "lastPublishedAt": "2026-11-01T15:38:26Z",
         "releaseHistoryCursor": null
       },
       "ghostty-org/ghostty": {},
@@ -3713,8 +3821,8 @@
       },
       "kaityo256/yaml_cv": {},
       "usememos/memos": {
-        "lastReleaseId": "RE_kwDOGgFgVM4ZoYet",
-        "lastPublishedAt": "2026-10-31T15:26:12Z",
+        "lastReleaseId": "RE_kwDOGgFgVM4Zqss4",
+        "lastPublishedAt": "2026-11-01T14:04:41Z",
         "releaseHistoryCursor": null
       },
       "antimatter15/splat": {},
@@ -3773,8 +3881,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4ZlgzF",
-        "lastPublishedAt": "2026-10-30T17:12:16Z",
+        "lastReleaseId": "RE_kwDOGNEXps4ZqzDt",
+        "lastPublishedAt": "2026-11-01T14:55:36Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -3879,8 +3987,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4ZEUVe",
-        "lastPublishedAt": "2026-10-22T10:04:15Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4ZqvFx",
+        "lastPublishedAt": "2026-11-01T14:21:47Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
