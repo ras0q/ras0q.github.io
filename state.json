@@ -2016,6 +2016,78 @@
       ],
       "2026-11-01": [
         {
+          "id": "RE_kwDOQvjuaM4ZqTpY",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.630.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.630.0",
+          "publishedAt": "2026-11-01T10:56:34Z",
+          "name": "v0.630.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZqKwS",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.629.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.629.0",
+          "publishedAt": "2026-11-01T09:41:47Z",
+          "name": "v0.629.0"
+        },
+        {
+          "id": "RE_kwDORsUayc4ZqJa-",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.18.0",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.18.0",
+          "publishedAt": "2026-11-01T09:29:33Z",
+          "name": "v0.18.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZqCYy",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.628.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.628.0",
+          "publishedAt": "2026-11-01T09:27:59Z",
+          "name": "v0.628.0"
+        },
+        {
+          "id": "RE_kwDOBD9I4s4ZqAyh",
+          "owner": "sachaos",
+          "repo": "todoist",
+          "tag": "v0.25.0",
+          "url": "https://github.com/sachaos/todoist/releases/tag/v0.25.0",
+          "publishedAt": "2026-11-01T09:12:33Z",
+          "name": "v0.25.0"
+        },
+        {
+          "id": "RE_kwDOR0FRxs4Zp5VI",
+          "owner": "sngazm",
+          "repo": "sate",
+          "tag": "v0.2.0",
+          "url": "https://github.com/sngazm/sate/releases/tag/v0.2.0",
+          "publishedAt": "2026-11-01T07:21:53Z",
+          "name": "Sate v0.2.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84Zp6mr",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.23.1",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.23.1",
+          "publishedAt": "2026-11-01T07:09:01Z",
+          "name": "v1.23.1"
+        },
+        {
+          "id": "RE_kwDOKMzyM84Zpt4O",
+          "owner": "OpenSwiftUIProject",
+          "repo": "OpenSwiftUI",
+          "tag": "0.25.0",
+          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.25.0",
+          "publishedAt": "2026-11-01T04:42:33Z",
+          "name": "0.25.0: Controls, Symbols and Gradients"
+        },
+        {
           "id": "RE_kwDOH-jzvc4ZpiC4",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -2193,8 +2265,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4ZPoTI",
-        "lastPublishedAt": "2026-10-25T16:43:01Z",
+        "lastReleaseId": "RE_kwDORsUayc4ZqJa-",
+        "lastPublishedAt": "2026-11-01T09:29:33Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -2284,8 +2356,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Zo8Jl",
-        "lastPublishedAt": "2026-10-31T20:17:31Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ZqTpY",
+        "lastPublishedAt": "2026-11-01T10:56:34Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2477,8 +2549,8 @@
       "RUNFUNRUN/ime-toggle": {},
       "baku89/tweeq": {},
       "OpenSwiftUIProject/OpenSwiftUI": {
-        "lastReleaseId": "RE_kwDOKMzyM84ZCFoI",
-        "lastPublishedAt": "2026-10-21T19:37:57Z",
+        "lastReleaseId": "RE_kwDOKMzyM84Zpt4O",
+        "lastPublishedAt": "2026-11-01T04:42:33Z",
         "releaseHistoryCursor": null
       },
       "thedonutfactory/go-tfhe": {
@@ -3150,8 +3222,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84ZoPN3",
-        "lastPublishedAt": "2026-10-31T14:14:48Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84Zp6mr",
+        "lastPublishedAt": "2026-11-01T07:09:01Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
@@ -4056,8 +4128,9 @@
         "releaseHistoryCursor": null
       },
       "sachaos/todoist": {
-        "lastReleaseId": "RE_kwDOBD9I4s4S37Pu",
-        "lastPublishedAt": "2026-05-02T06:00:52Z"
+        "lastReleaseId": "RE_kwDOBD9I4s4ZqAyh",
+        "lastPublishedAt": "2026-11-01T09:12:33Z",
+        "releaseHistoryCursor": null
       },
       "elastic/go-elasticsearch": {
         "lastReleaseId": "RE_kwDOBSXbR84WrEsz",
@@ -4417,8 +4490,8 @@
         "releaseHistoryCursor": null
       },
       "sngazm/sate": {
-        "lastReleaseId": "RE_kwDOR0FRxs4ZX_OL",
-        "lastPublishedAt": "2026-10-27T16:51:57Z",
+        "lastReleaseId": "RE_kwDOR0FRxs4Zp5VI",
+        "lastPublishedAt": "2026-11-01T07:21:53Z",
         "releaseHistoryCursor": null
       },
       "akimon658/qonstellation": {
