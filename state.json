@@ -2,377 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-24",
       "2026-10-25",
       "2026-10-26",
       "2026-10-27",
       "2026-10-28",
       "2026-10-29",
-      "2026-10-30"
+      "2026-10-30",
+      "2026-10-31"
     ],
     "days": {
-      "2026-10-24": [
-        {
-          "id": "RE_kwDOQvjuaM4ZNzsJ",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.557.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.557.0",
-          "publishedAt": "2026-10-24T23:53:43Z",
-          "name": "v0.557.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZNvKo",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.556.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.556.0",
-          "publishedAt": "2026-10-24T23:03:54Z",
-          "name": "v0.556.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZNoRz",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.555.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.555.0",
-          "publishedAt": "2026-10-24T21:55:15Z",
-          "name": "v0.555.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZNjm7",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.554.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.554.0",
-          "publishedAt": "2026-10-24T21:11:05Z",
-          "name": "v0.554.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZNg0c",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.188",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.188",
-          "publishedAt": "2026-10-24T20:45:49Z",
-          "name": "v8.4.188 - ultralytics 8.4.188 Fix Android loading and depth speed of QNN exports (#26872)"
-        },
-        {
-          "id": "RE_kwDOIvux3s4ZNac_",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.19",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.19",
-          "publishedAt": "2026-10-24T20:02:03Z",
-          "name": "v2026.10.19: Security hardening across trust, installs and provenance; lockfiles now rebuilt completely by default"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZNZEg",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.553.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.553.0",
-          "publishedAt": "2026-10-24T19:37:11Z",
-          "name": "v0.553.0"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4ZNVhv",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.15.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.15.0",
-          "publishedAt": "2026-10-24T19:06:27Z",
-          "name": "v1.15.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZNVBG",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.552.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.552.0",
-          "publishedAt": "2026-10-24T19:02:20Z",
-          "name": "v0.552.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZNRJv",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.551.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.551.0",
-          "publishedAt": "2026-10-24T18:29:36Z",
-          "name": "v0.551.0"
-        },
-        {
-          "id": "RE_kwDOOAhtcs4ZM9mg",
-          "owner": "kepano",
-          "repo": "defuddle",
-          "tag": "0.19.6",
-          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.6",
-          "publishedAt": "2026-10-24T15:56:41Z",
-          "name": "0.19.6"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4ZM4Gr",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.9.4",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.4",
-          "publishedAt": "2026-10-24T15:14:24Z",
-          "name": "v1.9.4"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZM2J3",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.550.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.550.0",
-          "publishedAt": "2026-10-24T15:02:00Z",
-          "name": "v0.550.0"
-        },
-        {
-          "id": "RE_kwDONcE2Ic4ZMyOn",
-          "owner": "traPtitech",
-          "repo": "piscon-portal-v2",
-          "tag": "v0.3.3",
-          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.3.3",
-          "publishedAt": "2026-10-24T14:32:21Z",
-          "name": "v0.3.3"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZMu2W",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.2",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.2",
-          "publishedAt": "2026-10-24T14:06:57Z",
-          "name": "v5.2.2"
-        },
-        {
-          "id": "RE_kwDOOC1fY84ZKCtp",
-          "owner": "lynx-family",
-          "repo": "lynx",
-          "tag": "4.1.2",
-          "url": "https://github.com/lynx-family/lynx/releases/tag/4.1.2",
-          "publishedAt": "2026-10-24T13:51:54Z",
-          "name": "4.1.2"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4ZMr9e",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "v1.26.1",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.26.1",
-          "publishedAt": "2026-10-24T13:44:03Z",
-          "name": "v1.26.1"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZMmVq",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.187",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.187",
-          "publishedAt": "2026-10-24T12:57:02Z",
-          "name": "v8.4.187 - ultralytics 8.4.187 OKS-only label assignment with a pyramid-level gate for YOLO26-pose (#26843)"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZMmC2",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.1",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.1",
-          "publishedAt": "2026-10-24T12:54:49Z",
-          "name": "v5.2.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZMgAc",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.549.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.549.0",
-          "publishedAt": "2026-10-24T12:04:54Z",
-          "name": "v0.549.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZMdB3",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.186",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.186",
-          "publishedAt": "2026-10-24T11:38:28Z",
-          "name": "v8.4.186 - Load torch 1.10-1.12 on glibc 2.41+ with one shared executable-stack fix for torch and MNN (#26866)"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZMakC",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.548.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.548.0",
-          "publishedAt": "2026-10-24T11:16:55Z",
-          "name": "v0.548.0"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4ZMStR",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "detect-wasi-v1.0.59",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-wasi-v1.0.59",
-          "publishedAt": "2026-10-24T10:05:50Z",
-          "name": "detect-wasi-v1.0.59"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4ZMSs0",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-manifests-v0.19.11",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.11",
-          "publishedAt": "2026-10-24T10:05:46Z",
-          "name": "binstalk-manifests-v0.19.11"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4ZMSqx",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-v0.29.5",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.5",
-          "publishedAt": "2026-10-24T10:05:31Z",
-          "name": "binstalk-v0.29.5"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4ZMShf",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "detect-targets-v0.1.96",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.96",
-          "publishedAt": "2026-10-24T10:04:09Z",
-          "name": "detect-targets-v0.1.96"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZMN4k",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.547.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.547.0",
-          "publishedAt": "2026-10-24T09:22:32Z",
-          "name": "v0.547.0"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4ZMLvt",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.9.3",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.3",
-          "publishedAt": "2026-10-24T09:03:52Z",
-          "name": "v1.9.3"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4ZMIKW",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.43.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.43.0",
-          "publishedAt": "2026-10-24T08:30:11Z",
-          "name": "Release 6.43.0"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4ZL54h",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.9.2",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.2",
-          "publishedAt": "2026-10-24T06:05:52Z",
-          "name": "v1.9.2"
-        },
-        {
-          "id": "RE_kwDODVAw7c4ZLy5b",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.14",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.14",
-          "publishedAt": "2026-10-24T04:47:58Z",
-          "name": "v3.33.14"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZLxD2",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.185",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.185",
-          "publishedAt": "2026-10-24T04:28:25Z",
-          "name": "v8.4.185 - Load MNN on glibc 2.41+ by clearing its unused executable-stack flag (#26861)"
-        },
-        {
-          "id": "RE_kwDONcE2Ic4ZLwQ0",
-          "owner": "traPtitech",
-          "repo": "piscon-portal-v2",
-          "tag": "v0.3.1",
-          "url": "https://github.com/traPtitech/piscon-portal-v2/releases/tag/v0.3.1",
-          "publishedAt": "2026-10-24T04:19:09Z",
-          "name": "v0.3.1"
-        },
-        {
-          "id": "RE_kwDOGNEXps4ZLsrM",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.40",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.40",
-          "publishedAt": "2026-10-24T04:00:33Z",
-          "name": "1.0.40"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZLojc",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.546.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.546.0",
-          "publishedAt": "2026-10-24T03:01:02Z",
-          "name": "v0.546.0"
-        },
-        {
-          "id": "RE_kwDOQ52_2c4ZLlwz",
-          "owner": "vercel-labs",
-          "repo": "json-render",
-          "tag": "v0.21.3",
-          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.21.3",
-          "publishedAt": "2026-10-24T02:31:45Z",
-          "name": "v0.21.3"
-        },
-        {
-          "id": "RE_kwDOPYoUTM4ZLcMP",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.15.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.15.0",
-          "publishedAt": "2026-10-24T00:50:05Z",
-          "name": "v1.15.0 - Standalone install, update dry run"
-        },
-        {
-          "id": "RE_kwDORSib_s4ZLbTh",
-          "owner": "openclaw",
-          "repo": "acpx",
-          "tag": "v0.21.0",
-          "url": "https://github.com/openclaw/acpx/releases/tag/v0.21.0",
-          "publishedAt": "2026-10-24T00:41:26Z",
-          "name": "v0.21.0"
-        },
-        {
-          "id": "RE_kwDORQ3jDc4ZLZGM",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.15.11",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.11",
-          "publishedAt": "2026-10-24T00:20:15Z",
-          "name": "v0.15.11"
-        },
-        {
-          "id": "RE_kwDOCk_pzs4VM_Hn",
-          "owner": "oapi-codegen",
-          "repo": "oapi-codegen",
-          "tag": "v2.8.1",
-          "url": "https://github.com/oapi-codegen/oapi-codegen/releases/tag/v2.8.1",
-          "publishedAt": "2026-10-24T00:20:07Z",
-          "name": "v2.8.1: Security fixes for codegen and at runtime"
-        }
-      ],
       "2026-10-25": [
         {
           "id": "RE_kwDOQvjuaM4ZQXhX",
@@ -1953,6 +1591,15 @@
       ],
       "2026-10-31": [
         {
+          "id": "RE_kwDOH-jzvc4ZpOcg",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.196",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.196",
+          "publishedAt": "2026-10-31T23:00:52Z",
+          "name": "v8.4.196 - `ultralytics 8.4.196` Improve ONNX INT8 accuracy with per-channel weight quantization (#26978)"
+        },
+        {
           "id": "RE_kwDOCk_pzs4ZLZqj",
           "owner": "oapi-codegen",
           "repo": "oapi-codegen",
@@ -2365,6 +2012,44 @@
           "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.16",
           "publishedAt": "2026-10-31T00:24:30Z",
           "name": "cli-v0.1.16"
+        }
+      ],
+      "2026-11-01": [
+        {
+          "id": "RE_kwDOH-jzvc4ZpiC4",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.197",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.197",
+          "publishedAt": "2026-11-01T02:29:38Z",
+          "name": "v8.4.197 - `ultralytics 8.4.197` Check AMP on an untrained YOLO26n without downloading weights (#26967)"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84ZpfY5",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.15.0",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.15.0",
+          "publishedAt": "2026-11-01T02:08:28Z",
+          "name": "4.15.0"
+        },
+        {
+          "id": "RE_kwDOJYD24s4Zpeql",
+          "owner": "google",
+          "repo": "heir",
+          "tag": "v2026.11.01",
+          "url": "https://github.com/google/heir/releases/tag/v2026.11.01",
+          "publishedAt": "2026-11-01T01:52:10Z",
+          "name": "v2026.11.01"
+        },
+        {
+          "id": "RE_kwDOII1H084ZpUPu",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.29",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.29",
+          "publishedAt": "2026-11-01T00:02:09Z",
+          "name": "v0.5.29"
         }
       ]
     }
@@ -2894,8 +2579,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84ZEolG",
-        "lastPublishedAt": "2026-10-22T11:37:40Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84ZpfY5",
+        "lastPublishedAt": "2026-11-01T02:08:28Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -3011,8 +2696,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084XTwER",
-        "lastPublishedAt": "2026-09-17T20:54:58Z",
+        "lastReleaseId": "RE_kwDOII1H084ZpUPu",
+        "lastPublishedAt": "2026-11-01T00:02:09Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -3885,8 +3570,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZostJ",
-        "lastPublishedAt": "2026-10-31T18:05:20Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZpiC4",
+        "lastPublishedAt": "2026-11-01T02:29:38Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4655,8 +4340,8 @@
         "releaseHistoryCursor": null
       },
       "google/heir": {
-        "lastReleaseId": "RE_kwDOJYD24s4X4IQ7",
-        "lastPublishedAt": "2026-10-01T02:03:58Z",
+        "lastReleaseId": "RE_kwDOJYD24s4Zpeql",
+        "lastPublishedAt": "2026-11-01T01:52:10Z",
         "releaseHistoryCursor": null
       },
       "avante-corp/avante.nvim": {
