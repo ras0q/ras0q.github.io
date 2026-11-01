@@ -2016,6 +2016,87 @@
       ],
       "2026-11-01": [
         {
+          "id": "RE_kwDOQvjuaM4Zr0Bq",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.639.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.639.0",
+          "publishedAt": "2026-11-01T23:00:50Z",
+          "name": "v0.639.0"
+        },
+        {
+          "id": "RE_kwDOBMN_y84Zrvxq",
+          "owner": "chromedp",
+          "repo": "chromedp",
+          "tag": "v0.21.1",
+          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.21.1",
+          "publishedAt": "2026-11-01T22:24:13Z",
+          "name": "v0.21.1"
+        },
+        {
+          "id": "RE_kwDOM46ZXs4ZrnBb",
+          "owner": "VitalAudio",
+          "repo": "visage",
+          "tag": "v0.1.0",
+          "url": "https://github.com/VitalAudio/visage/releases/tag/v0.1.0",
+          "publishedAt": "2026-11-01T21:27:07Z",
+          "name": "v0.1.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4ZrkAv",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.29.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.29.0",
+          "publishedAt": "2026-11-01T20:52:17Z",
+          "name": "Schema v1.29.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4ZrkAf",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.15.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.15.0",
+          "publishedAt": "2026-11-01T20:52:15Z",
+          "name": "Rust Crate v1.15.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZrdUz",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.638.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.638.0",
+          "publishedAt": "2026-11-01T20:01:06Z",
+          "name": "v0.638.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ZrXH0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.637.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.637.0",
+          "publishedAt": "2026-11-01T19:13:18Z",
+          "name": "v0.637.0"
+        },
+        {
+          "id": "RE_kwDOO2B60c4ZrOj3",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.3.3",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.3.3",
+          "publishedAt": "2026-11-01T18:11:51Z",
+          "name": "2.3.3"
+        },
+        {
+          "id": "RE_kwDOO2B60c4ZrLfQ",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.3.2",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.3.2",
+          "publishedAt": "2026-11-01T17:48:47Z",
+          "name": "2.3.2"
+        },
+        {
           "id": "RE_kwDOQvjuaM4ZrHrB",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2464,8 +2545,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ZrHrB",
-        "lastPublishedAt": "2026-11-01T17:19:37Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Zr0Bq",
+        "lastPublishedAt": "2026-11-01T23:00:50Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2641,8 +2722,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4ZS7Tv",
-        "lastPublishedAt": "2026-10-26T15:02:18Z",
+        "lastReleaseId": "RE_kwDOO2B60c4ZrOj3",
+        "lastPublishedAt": "2026-11-01T18:11:51Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -2754,8 +2835,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4ZkXWL",
-        "lastPublishedAt": "2026-10-30T11:40:04Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4ZrkAv",
+        "lastPublishedAt": "2026-11-01T20:52:17Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -3267,7 +3348,11 @@
         "lastPublishedAt": "2026-10-26T07:05:26Z",
         "releaseHistoryCursor": null
       },
-      "VitalAudio/visage": {},
+      "VitalAudio/visage": {
+        "lastReleaseId": "RE_kwDOM46ZXs4ZrnBb",
+        "lastPublishedAt": "2026-11-01T21:27:07Z",
+        "releaseHistoryCursor": null
+      },
       "picocss/pico": {
         "lastReleaseId": "RE_kwDODTnQZ84MR2BR",
         "lastPublishedAt": "2025-03-15T06:49:00Z"
@@ -4226,8 +4311,8 @@
         "releaseHistoryCursor": null
       },
       "chromedp/chromedp": {
-        "lastReleaseId": "RE_kwDOBMN_y84YZyHk",
-        "lastPublishedAt": "2026-10-11T04:29:08Z",
+        "lastReleaseId": "RE_kwDOBMN_y84Zrvxq",
+        "lastPublishedAt": "2026-11-01T22:24:13Z",
         "releaseHistoryCursor": null
       },
       "tkuchiki/slp": {
