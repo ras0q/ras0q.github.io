@@ -2,323 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-25",
       "2026-10-26",
       "2026-10-27",
       "2026-10-28",
       "2026-10-29",
       "2026-10-30",
-      "2026-10-31"
+      "2026-10-31",
+      "2026-11-01"
     ],
     "days": {
-      "2026-10-25": [
-        {
-          "id": "RE_kwDOQvjuaM4ZQXhX",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.574.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.574.0",
-          "publishedAt": "2026-10-25T23:15:00Z",
-          "name": "v0.574.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZQTwJ",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.573.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.573.0",
-          "publishedAt": "2026-10-25T22:39:58Z",
-          "name": "v0.573.0"
-        },
-        {
-          "id": "RE_kwDOH1-qgs4ZQLHB",
-          "owner": "jetify-com",
-          "repo": "devbox",
-          "tag": "0.18.5",
-          "url": "https://github.com/jetify-com/devbox/releases/tag/0.18.5",
-          "publishedAt": "2026-10-25T21:45:37Z",
-          "name": "0.18.5"
-        },
-        {
-          "id": "RE_kwDOE7TOLM4ZQIoA",
-          "owner": "evrone",
-          "repo": "go-clean-template",
-          "tag": "v1.19.2",
-          "url": "https://github.com/evrone/go-clean-template/releases/tag/v1.19.2",
-          "publishedAt": "2026-10-25T21:01:09Z",
-          "name": "v1.19.2"
-        },
-        {
-          "id": "RE_kwDOE4c3is4ZQDCj",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.7.4",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.4",
-          "publishedAt": "2026-10-25T20:15:42Z",
-          "name": "9.7.4"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZP66O",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.572.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.572.0",
-          "publishedAt": "2026-10-25T19:09:09Z",
-          "name": "v0.572.0"
-        },
-        {
-          "id": "RE_kwDOQ_KVhM4ZPyGU",
-          "owner": "rtk-ai",
-          "repo": "rtk",
-          "tag": "v1.1.0",
-          "url": "https://github.com/rtk-ai/rtk/releases/tag/v1.1.0",
-          "publishedAt": "2026-10-25T18:00:11Z",
-          "name": "v1.1.0"
-        },
-        {
-          "id": "RE_kwDOO2B60c4ZPvca",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.3.0",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.3.0",
-          "publishedAt": "2026-10-25T17:40:12Z",
-          "name": "2.3.0"
-        },
-        {
-          "id": "RE_kwDORsUayc4ZPoTI",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.17.5",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.17.5",
-          "publishedAt": "2026-10-25T16:43:01Z",
-          "name": "v0.17.5"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZPhwB",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.571.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.571.0",
-          "publishedAt": "2026-10-25T15:55:08Z",
-          "name": "v0.571.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZPcvh",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.570.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.570.0",
-          "publishedAt": "2026-10-25T15:18:07Z",
-          "name": "v0.570.0"
-        },
-        {
-          "id": "RE_kwDOKDDt4c4ZGFEI",
-          "owner": "docmost",
-          "repo": "docmost",
-          "tag": "v0.97.0",
-          "url": "https://github.com/docmost/docmost/releases/tag/v0.97.0",
-          "publishedAt": "2026-10-25T14:12:25Z",
-          "name": "v0.97.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZPNu9",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.189",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.189",
-          "publishedAt": "2026-10-25T13:24:25Z",
-          "name": "v8.4.189 - `ultralytics 8.4.189` Fix IMX requirements, Hailo seg end nodes and unreadable-dataset errors (#26883)"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4ZPKdM",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "v0.2.20",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/v0.2.20",
-          "publishedAt": "2026-10-25T12:59:29Z",
-          "name": "v0.2.20"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4ZPKFb",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.14",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.14",
-          "publishedAt": "2026-10-25T12:56:36Z",
-          "name": "cli-v0.1.14"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZPBSI",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.569.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.569.0",
-          "publishedAt": "2026-10-25T11:50:24Z",
-          "name": "v0.569.0"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4ZO_90",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.11.0",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.11.0",
-          "publishedAt": "2026-10-25T11:40:35Z",
-          "name": "v0.11.0"
-        },
-        {
-          "id": "RE_kwDOUNMECc4ZIqv3",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.11.1",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.1",
-          "publishedAt": "2026-10-25T10:08:12Z",
-          "name": "v1.11.1: Go module helpers for build targets, monorepo bundle names, and signer checks"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOyXK",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.568.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.568.0",
-          "publishedAt": "2026-10-25T10:00:27Z",
-          "name": "v0.568.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOozV",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.567.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.567.0",
-          "publishedAt": "2026-10-25T08:53:34Z",
-          "name": "v0.567.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOgTC",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.566.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.566.0",
-          "publishedAt": "2026-10-25T07:56:20Z",
-          "name": "v0.566.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84ZOe-T",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.21.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.21.0",
-          "publishedAt": "2026-10-25T07:46:44Z",
-          "name": "v1.21.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOaGs",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.565.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.565.0",
-          "publishedAt": "2026-10-25T07:13:40Z",
-          "name": "v0.565.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOVgt",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.564.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.564.0",
-          "publishedAt": "2026-10-25T06:28:39Z",
-          "name": "v0.564.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOSCC",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.563.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.563.0",
-          "publishedAt": "2026-10-25T05:48:43Z",
-          "name": "v0.563.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOOsm",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.562.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.562.0",
-          "publishedAt": "2026-10-25T05:09:02Z",
-          "name": "v0.562.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOLs0",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.561.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.561.0",
-          "publishedAt": "2026-10-25T04:33:48Z",
-          "name": "v0.561.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOEh7",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.560.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.560.0",
-          "publishedAt": "2026-10-25T03:10:27Z",
-          "name": "v0.560.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZOB9Q",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.559.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.559.0",
-          "publishedAt": "2026-10-25T02:39:50Z",
-          "name": "v0.559.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZN_Gp",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.558.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.558.0",
-          "publishedAt": "2026-10-25T02:06:30Z",
-          "name": "v0.558.0"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZN487",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.5",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.5",
-          "publishedAt": "2026-10-25T00:52:50Z",
-          "name": "v5.2.5"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZN4gJ",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.4",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.4",
-          "publishedAt": "2026-10-25T00:47:55Z",
-          "name": "v5.2.4"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4ZN38T",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.9.5",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.5",
-          "publishedAt": "2026-10-25T00:41:35Z",
-          "name": "v1.9.5"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZN2kT",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.3",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.3",
-          "publishedAt": "2026-10-25T00:25:58Z",
-          "name": "v5.2.3"
-        }
-      ],
       "2026-10-26": [
         {
           "id": "RE_kwDOIvux3s4ZUZhg",
@@ -2312,6 +2004,17 @@
           "publishedAt": "2026-11-01T00:02:09Z",
           "name": "v0.5.29"
         }
+      ],
+      "2026-11-02": [
+        {
+          "id": "RE_kwDOH-jzvc4ZsCvC",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.198",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.198",
+          "publishedAt": "2026-11-02T01:14:07Z",
+          "name": "v8.4.198 - `ultralytics 8.4.198` Save NumPy float64 values as numbers in YAML files (#26993)"
+        }
       ]
     }
   },
@@ -3835,8 +3538,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ZpiC4",
-        "lastPublishedAt": "2026-11-01T02:29:38Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ZsCvC",
+        "lastPublishedAt": "2026-11-02T01:14:07Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
