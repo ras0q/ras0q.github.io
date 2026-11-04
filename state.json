@@ -2303,6 +2303,60 @@
       ],
       "2026-11-04": [
         {
+          "id": "RE_kwDOE4c3is4Z3Mz4",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.7.5",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.5",
+          "publishedAt": "2026-11-04T12:37:56Z",
+          "name": "9.7.5"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4Z2yjh",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.10.0",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.10.0",
+          "publishedAt": "2026-11-04T10:43:16Z",
+          "name": "v1.10.0"
+        },
+        {
+          "id": "RE_kwDON7Gnt84Z2rVy",
+          "owner": "whitphx",
+          "repo": "slidev-addon-fancy-arrow",
+          "tag": "slidev-addon-fancy-arrow@0.20.4",
+          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.20.4",
+          "publishedAt": "2026-11-04T10:02:55Z",
+          "name": "slidev-addon-fancy-arrow@0.20.4"
+        },
+        {
+          "id": "RE_kwDODVAw7c4Z10VU",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.18",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.18",
+          "publishedAt": "2026-11-04T05:13:21Z",
+          "name": "v3.33.18"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z1wq9",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.680.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.680.0",
+          "publishedAt": "2026-11-04T04:46:47Z",
+          "name": "v0.680.0"
+        },
+        {
+          "id": "RE_kwDOOELNJM4Z1wVq",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.5.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.5.0",
+          "publishedAt": "2026-11-04T04:43:52Z",
+          "name": "vite-plus v1.5.0"
+        },
+        {
           "id": "RE_kwDON7Gnt84Z1pa0",
           "owner": "whitphx",
           "repo": "slidev-addon-fancy-arrow",
@@ -2560,8 +2614,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4ZHn-Q",
-        "lastPublishedAt": "2026-10-23T03:46:21Z",
+        "lastReleaseId": "RE_kwDOOELNJM4Z1wVq",
+        "lastPublishedAt": "2026-11-04T04:43:52Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -2580,8 +2634,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Z1Leq",
-        "lastPublishedAt": "2026-11-04T00:31:17Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Z1wq9",
+        "lastPublishedAt": "2026-11-04T04:46:47Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2864,8 +2918,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4ZxDkT",
-        "lastPublishedAt": "2026-11-03T04:51:07Z",
+        "lastReleaseId": "RE_kwDODVAw7c4Z10VU",
+        "lastPublishedAt": "2026-11-04T05:13:21Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -3140,8 +3194,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4Zwc9b",
-        "lastPublishedAt": "2026-11-03T00:55:01Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4Z2yjh",
+        "lastPublishedAt": "2026-11-04T10:43:16Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3175,8 +3229,8 @@
         "lastPublishedAt": "2025-01-27T18:16:50Z"
       },
       "whitphx/slidev-addon-fancy-arrow": {
-        "lastReleaseId": "RE_kwDON7Gnt84Z1pa0",
-        "lastPublishedAt": "2026-11-04T03:54:35Z",
+        "lastReleaseId": "RE_kwDON7Gnt84Z2rVy",
+        "lastPublishedAt": "2026-11-04T10:02:55Z",
         "releaseHistoryCursor": null
       },
       "flowershow/markdowndb": {
@@ -4116,8 +4170,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4ZQDCj",
-        "lastPublishedAt": "2026-10-25T20:15:42Z",
+        "lastReleaseId": "RE_kwDOE4c3is4Z3Mz4",
+        "lastPublishedAt": "2026-11-04T12:37:56Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
@@ -4740,8 +4794,8 @@
         "releaseHistoryCursor": null
       },
       "docker/sbx-releases": {
-        "lastPublishedAt": "2026-11-03T14:06:45Z",
         "lastReleaseId": "RE_kwDORdcLgM4Zy6hc",
+        "lastPublishedAt": "2026-11-03T14:06:45Z",
         "releaseHistoryCursor": null
       }
     }
