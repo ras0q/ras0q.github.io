@@ -2653,6 +2653,42 @@
       ],
       "2026-11-05": [
         {
+          "id": "RE_kwDOH-jzvc4Z9wPJ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.203",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.203",
+          "publishedAt": "2026-11-05T19:12:31Z",
+          "name": "v8.4.203 - Add NXP i.MX95 Neutron export (#27047)"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4Z9rar",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.17.4",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.17.4",
+          "publishedAt": "2026-11-05T18:53:24Z",
+          "name": "0.17.4"
+        },
+        {
+          "id": "RE_kwDOO2B60c4Z9gQJ",
+          "owner": "anareaty",
+          "repo": "pretty-properties",
+          "tag": "2.3.4",
+          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.3.4",
+          "publishedAt": "2026-11-05T18:16:09Z",
+          "name": "2.3.4"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4Z9aBO",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.100.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.100.0",
+          "publishedAt": "2026-11-05T17:47:22Z",
+          "name": "v0.100.0"
+        },
+        {
           "id": "RE_kwDOGNEXps4Z84Gq",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -3239,8 +3275,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4ZhIRX",
-        "lastPublishedAt": "2026-10-29T16:25:08Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4Z9aBO",
+        "lastPublishedAt": "2026-11-05T17:47:22Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -3270,8 +3306,8 @@
       },
       "traP-jp/go-proposal-minutes-subscriber": {},
       "anareaty/pretty-properties": {
-        "lastReleaseId": "RE_kwDOO2B60c4ZrOj3",
-        "lastPublishedAt": "2026-11-01T18:11:51Z",
+        "lastReleaseId": "RE_kwDOO2B60c4Z9gQJ",
+        "lastPublishedAt": "2026-11-05T18:16:09Z",
         "releaseHistoryCursor": null
       },
       "mehm8128/rehype-toc": {
@@ -4385,8 +4421,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Z1I7F",
-        "lastPublishedAt": "2026-11-04T00:14:40Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4Z9wPJ",
+        "lastPublishedAt": "2026-11-05T19:12:31Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4441,8 +4477,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4ZU6yg",
-        "lastPublishedAt": "2026-10-27T00:35:07Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4Z9rar",
+        "lastPublishedAt": "2026-11-05T18:53:24Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
