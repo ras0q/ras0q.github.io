@@ -2,179 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-28",
       "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
-      "2026-11-03"
+      "2026-11-03",
+      "2026-11-04"
     ],
     "days": {
-      "2026-10-28": [
-        {
-          "id": "RE_kwDOH-jzvc4ZeELq",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.192",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.192",
-          "publishedAt": "2026-10-28T23:46:20Z",
-          "name": "v8.4.192 - Support torch 2.15 CUDA in DDP training and ONNX Runtime inference (#26928)"
-        },
-        {
-          "id": "RE_kwDOIvux3s4ZdkS-",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.22",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.22",
-          "publishedAt": "2026-10-28T21:00:51Z",
-          "name": "v2026.10.22: Project-scoped uninstall, JSONC dotfile merges, and node@lts moves to Node.js 26"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4ZdhII",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.154.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.154.0",
-          "publishedAt": "2026-10-28T20:39:47Z",
-          "name": "v1.154.0"
-        },
-        {
-          "id": "RE_kwDOCcSpD84Zc-FH",
-          "owner": "nektos",
-          "repo": "act",
-          "tag": "v0.2.92",
-          "url": "https://github.com/nektos/act/releases/tag/v0.2.92",
-          "publishedAt": "2026-10-28T18:14:27Z",
-          "name": "v0.2.92"
-        },
-        {
-          "id": "RE_kwDOGMspX84ZcfqG",
-          "owner": "mo-seph",
-          "repo": "obsidian-copy-as-latex",
-          "tag": "0.1.10",
-          "url": "https://github.com/mo-seph/obsidian-copy-as-latex/releases/tag/0.1.10",
-          "publishedAt": "2026-10-28T16:13:30Z",
-          "name": "v0.1.10"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4ZcOR7",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.153.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.153.0",
-          "publishedAt": "2026-10-28T15:13:02Z",
-          "name": "v1.153.0"
-        },
-        {
-          "id": "RE_kwDOCcSpD84ZcJcc",
-          "owner": "nektos",
-          "repo": "act",
-          "tag": "v0.2.91",
-          "url": "https://github.com/nektos/act/releases/tag/v0.2.91",
-          "publishedAt": "2026-10-28T14:56:52Z",
-          "name": "v0.2.91"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZcFqm",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.604.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.604.0",
-          "publishedAt": "2026-10-28T14:44:37Z",
-          "name": "v0.604.0"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4ZcCwz",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.4.8",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.8",
-          "publishedAt": "2026-10-28T14:34:02Z",
-          "name": "v0.4.8"
-        },
-        {
-          "id": "RE_kwDOCcSpD84Zbp7t",
-          "owner": "nektos",
-          "repo": "act",
-          "tag": "v0.2.90",
-          "url": "https://github.com/nektos/act/releases/tag/v0.2.90",
-          "publishedAt": "2026-10-28T13:06:46Z",
-          "name": "v0.2.90"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4ZbmlS",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.4.7",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.4.7",
-          "publishedAt": "2026-10-28T12:53:56Z",
-          "name": "v0.4.7"
-        },
-        {
-          "id": "RE_kwDODeVIac4ZbCLH",
-          "owner": "charmbracelet",
-          "repo": "bubbletea",
-          "tag": "v2.1.1",
-          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.1",
-          "publishedAt": "2026-10-28T10:19:27Z",
-          "name": "v2.1.1"
-        },
-        {
-          "id": "RE_kwDOUNMECc4ZRREC",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.11.2",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.2",
-          "publishedAt": "2026-10-28T10:07:46Z",
-          "name": "v1.11.2: Detect replaced public keys that reuse the old key ID"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84ZajQY",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.22.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.22.0",
-          "publishedAt": "2026-10-28T07:57:42Z",
-          "name": "v1.22.0"
-        },
-        {
-          "id": "RE_kwDOKTvXgc4ZaK5I",
-          "owner": "github",
-          "repo": "innovationgraph",
-          "tag": "v1.0.12",
-          "url": "https://github.com/github/innovationgraph/releases/tag/v1.0.12",
-          "publishedAt": "2026-10-28T05:23:35Z",
-          "name": "v1.0.12"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4ZaBJk",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.9.7",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.7",
-          "publishedAt": "2026-10-28T04:05:50Z",
-          "name": "v1.9.7"
-        },
-        {
-          "id": "RE_kwDOK40UVM4ZZ0Je",
-          "owner": "lintnet",
-          "repo": "lintnet",
-          "tag": "v1.0.1",
-          "url": "https://github.com/lintnet/lintnet/releases/tag/v1.0.1",
-          "publishedAt": "2026-10-28T02:25:54Z",
-          "name": "v1.0.1"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4ZZpQT",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.28",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.28",
-          "publishedAt": "2026-10-28T01:01:32Z",
-          "name": "v1.0.28"
-        }
-      ],
       "2026-10-29": [
         {
           "id": "RE_kwDOQvjuaM4ZiUOu",
@@ -2303,6 +2139,59 @@
       ],
       "2026-11-04": [
         {
+          "id": "RE_kwDOQvjuaM4Z53Zc",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.682.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.682.0",
+          "publishedAt": "2026-11-04T23:56:29Z",
+          "name": "v0.682.0"
+        },
+        {
+          "id": "RE_kwDOF9Sih84Z5237",
+          "owner": "aquaproj",
+          "repo": "aqua",
+          "tag": "v2.66.1",
+          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.66.1",
+          "publishedAt": "2026-11-04T23:52:40Z"
+        },
+        {
+          "id": "RE_kwDOFOI1Cc4Z51Wl",
+          "owner": "vslinko",
+          "repo": "obsidian-outliner",
+          "tag": "4.11.0",
+          "url": "https://github.com/vslinko/obsidian-outliner/releases/tag/4.11.0",
+          "publishedAt": "2026-11-04T23:42:42Z",
+          "name": "4.11.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z5qyn",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.681.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.681.0",
+          "publishedAt": "2026-11-04T22:56:38Z",
+          "name": "v0.681.0"
+        },
+        {
+          "id": "RE_kwDOBMN_y84Z5mBK",
+          "owner": "chromedp",
+          "repo": "chromedp",
+          "tag": "v0.22.1",
+          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.22.1",
+          "publishedAt": "2026-11-04T22:30:29Z",
+          "name": "v0.22.1"
+        },
+        {
+          "id": "RE_kwDOQ52_2c4Z5dAg",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.22.0",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.22.0",
+          "publishedAt": "2026-11-04T21:47:03Z",
+          "name": "v0.22.0"
+        },
+        {
           "id": "RE_kwDORWiFDM4Z5ZgM",
           "owner": "mksglu",
           "repo": "context-mode",
@@ -2761,6 +2650,80 @@
           "publishedAt": "2026-11-04T00:14:40Z",
           "name": "v8.4.202 - `ultralytics 8.4.202` Save stream prediction videos at the stream's frame rate (#27016)"
         }
+      ],
+      "2026-11-05": [
+        {
+          "id": "RE_kwDOQvjuaM4Z6j1J",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.688.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.688.0",
+          "publishedAt": "2026-11-05T04:26:36Z",
+          "name": "v0.688.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z6gJw",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.687.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.687.0",
+          "publishedAt": "2026-11-05T03:59:28Z",
+          "name": "v0.687.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z6dZW",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.686.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.686.0",
+          "publishedAt": "2026-11-05T03:38:52Z",
+          "name": "v0.686.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z6aDG",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.685.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.685.0",
+          "publishedAt": "2026-11-05T03:14:41Z",
+          "name": "v0.685.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z6Sh_",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.684.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.684.0",
+          "publishedAt": "2026-11-05T02:32:27Z",
+          "name": "v0.684.0"
+        },
+        {
+          "id": "RE_kwDOElf8_c4Z6LYt",
+          "owner": "Vinzent03",
+          "repo": "obsidian-git",
+          "tag": "2.43.0",
+          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.43.0",
+          "publishedAt": "2026-11-05T02:04:20Z",
+          "name": "2.43.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z6LB2",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.683.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.683.0",
+          "publishedAt": "2026-11-05T02:02:26Z",
+          "name": "v0.683.0"
+        },
+        {
+          "id": "RE_kwDORWiFDM4Z6CPG",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.0",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.0",
+          "publishedAt": "2026-11-05T01:03:31Z",
+          "name": "v2.1.0"
+        }
       ]
     }
   },
@@ -2830,8 +2793,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4Z5ZgM",
-        "lastPublishedAt": "2026-11-04T21:30:47Z",
+        "lastReleaseId": "RE_kwDORWiFDM4Z6CPG",
+        "lastPublishedAt": "2026-11-05T01:03:31Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2995,8 +2958,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Z1wq9",
-        "lastPublishedAt": "2026-11-04T04:46:47Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Z6j1J",
+        "lastPublishedAt": "2026-11-05T04:26:36Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3068,8 +3031,8 @@
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastReleaseId": "RE_kwDOQ52_2c4Zq52q",
-        "lastPublishedAt": "2026-11-01T15:39:13Z",
+        "lastReleaseId": "RE_kwDOQ52_2c4Z5dAg",
+        "lastPublishedAt": "2026-11-04T21:47:03Z",
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
@@ -4224,8 +4187,8 @@
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
-        "lastReleaseId": "RE_kwDOElf8_c4Y09SL",
-        "lastPublishedAt": "2026-10-18T15:40:36Z",
+        "lastReleaseId": "RE_kwDOElf8_c4Z6LYt",
+        "lastPublishedAt": "2026-11-05T02:04:20Z",
         "releaseHistoryCursor": null
       },
       "ish-app/ish": {
@@ -4277,8 +4240,8 @@
         "lastPublishedAt": "2023-10-16T02:12:45Z"
       },
       "vslinko/obsidian-outliner": {
-        "lastReleaseId": "RE_kwDOFOI1Cc4Z4esg",
-        "lastPublishedAt": "2026-11-04T17:30:57Z",
+        "lastReleaseId": "RE_kwDOFOI1Cc4Z51Wl",
+        "lastPublishedAt": "2026-11-04T23:42:42Z",
         "releaseHistoryCursor": null
       },
       "omnivore-app/omnivore": {
@@ -4312,8 +4275,8 @@
         "lastPublishedAt": "2025-12-31T12:07:55Z"
       },
       "aquaproj/aqua": {
-        "lastReleaseId": "RE_kwDOF9Sih84ZtiNO",
-        "lastPublishedAt": "2026-11-02T11:12:47Z",
+        "lastReleaseId": "RE_kwDOF9Sih84Z5237",
+        "lastPublishedAt": "2026-11-04T23:52:40Z",
         "releaseHistoryCursor": null
       },
       "ikasam/yaml_cv": {},
@@ -4764,8 +4727,8 @@
         "releaseHistoryCursor": null
       },
       "chromedp/chromedp": {
-        "lastReleaseId": "RE_kwDOBMN_y84Z0ml1",
-        "lastPublishedAt": "2026-11-03T21:09:12Z",
+        "lastReleaseId": "RE_kwDOBMN_y84Z5mBK",
+        "lastPublishedAt": "2026-11-04T22:30:29Z",
         "releaseHistoryCursor": null
       },
       "tkuchiki/slp": {
