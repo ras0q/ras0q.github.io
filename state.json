@@ -2608,6 +2608,123 @@
       ],
       "2026-11-06": [
         {
+          "id": "RE_kwDOF0rAvc4aBuIZ",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.11",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.11",
+          "publishedAt": "2026-11-06T15:24:21Z",
+          "name": "v5.2.11"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aBa4w",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.699.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.699.0",
+          "publishedAt": "2026-11-06T14:12:22Z",
+          "name": "v0.699.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aBO0F",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.698.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.698.0",
+          "publishedAt": "2026-11-06T13:24:53Z",
+          "name": "v0.698.0"
+        },
+        {
+          "id": "RE_kwDOLj4zss4aA3wc",
+          "owner": "obsidianmd",
+          "repo": "eslint-plugin",
+          "tag": "0.5.1",
+          "url": "https://github.com/obsidianmd/eslint-plugin/releases/tag/0.5.1",
+          "publishedAt": "2026-11-06T11:44:59Z",
+          "name": "0.5.1"
+        },
+        {
+          "id": "RE_kwDOIvux3s4aAwt9",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.3",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.3",
+          "publishedAt": "2026-11-06T11:18:41Z",
+          "name": "v2026.11.3: Task history, saved task logs, and source-based --affected outside monorepos"
+        },
+        {
+          "id": "RE_kwDOCv6UO84aAKau",
+          "owner": "microsoft",
+          "repo": "PowerToys",
+          "tag": "v0.102.3101",
+          "url": "https://github.com/microsoft/PowerToys/releases/tag/v0.102.3101",
+          "publishedAt": "2026-11-06T09:54:30Z",
+          "name": "Release v0.102.3101.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aAabl",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.697.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.697.0",
+          "publishedAt": "2026-11-06T09:33:29Z",
+          "name": "v0.697.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aATOu",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.696.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.696.0",
+          "publishedAt": "2026-11-06T09:00:21Z",
+          "name": "v0.696.0"
+        },
+        {
+          "id": "RE_kwDOAoUxF84aAK2-",
+          "owner": "preactjs",
+          "repo": "preact",
+          "tag": "11.2.0",
+          "url": "https://github.com/preactjs/preact/releases/tag/11.2.0",
+          "publishedAt": "2026-11-06T08:18:41Z",
+          "name": "11.2.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aAAiA",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.695.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.695.0",
+          "publishedAt": "2026-11-06T07:20:52Z",
+          "name": "v0.695.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z_6D8",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.694.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.694.0",
+          "publishedAt": "2026-11-06T06:42:00Z",
+          "name": "v0.694.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z_2k4",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.693.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.693.0",
+          "publishedAt": "2026-11-06T06:18:28Z",
+          "name": "v0.693.0"
+        },
+        {
+          "id": "RE_kwDOQ63fjM4Z_osB",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.11.0",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.11.0",
+          "publishedAt": "2026-11-06T04:52:27Z",
+          "name": "v1.11.0"
+        },
+        {
           "id": "RE_kwDODVAw7c4Z_DXg",
           "owner": "traPtitech",
           "repo": "traQ_S-UI",
@@ -2859,8 +2976,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Z-7Qd",
-        "lastPublishedAt": "2026-11-06T00:19:26Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aBa4w",
+        "lastPublishedAt": "2026-11-06T14:12:22Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3161,8 +3278,8 @@
       },
       "taskgenius/taskgenius-plugin": {},
       "obsidianmd/eslint-plugin": {
-        "lastReleaseId": "RE_kwDOLj4zss4Z8bv5",
-        "lastPublishedAt": "2026-11-05T13:58:43Z",
+        "lastReleaseId": "RE_kwDOLj4zss4aA3wc",
+        "lastPublishedAt": "2026-11-06T11:44:59Z",
         "releaseHistoryCursor": null
       },
       "gocica-go/gocica": {
@@ -3700,8 +3817,8 @@
         "lastPublishedAt": "2024-12-24T12:10:23Z"
       },
       "preactjs/preact": {
-        "lastReleaseId": "RE_kwDOAoUxF84ZnTBi",
-        "lastPublishedAt": "2026-10-31T04:59:58Z",
+        "lastReleaseId": "RE_kwDOAoUxF84aAK2-",
+        "lastPublishedAt": "2026-11-06T08:18:41Z",
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
@@ -3710,8 +3827,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4Z7_9X",
-        "lastPublishedAt": "2026-11-05T12:19:06Z",
+        "lastReleaseId": "RE_kwDOIvux3s4aAwt9",
+        "lastPublishedAt": "2026-11-06T11:18:41Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3977,8 +4094,8 @@
       },
       "H4kor/fedi-games": {},
       "microsoft/PowerToys": {
-        "lastReleaseId": "RE_kwDOCv6UO84ZWO8p",
-        "lastPublishedAt": "2026-10-27T10:10:02Z",
+        "lastReleaseId": "RE_kwDOCv6UO84aAKau",
+        "lastPublishedAt": "2026-11-06T09:54:30Z",
         "releaseHistoryCursor": null
       },
       "SSlime-s/authjs-traq-sample": {},
@@ -4739,8 +4856,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4ZmrYQ",
-        "lastPublishedAt": "2026-10-30T23:04:16Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4aBuIZ",
+        "lastPublishedAt": "2026-11-06T15:24:21Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
@@ -4918,8 +5035,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4ZizbO",
-        "lastPublishedAt": "2026-10-30T01:14:47Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4Z_osB",
+        "lastPublishedAt": "2026-11-06T04:52:27Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {
