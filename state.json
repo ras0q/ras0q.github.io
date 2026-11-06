@@ -2,323 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
-      "2026-11-04"
+      "2026-11-04",
+      "2026-11-05"
     ],
     "days": {
-      "2026-10-29": [
-        {
-          "id": "RE_kwDOQvjuaM4ZiUOu",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.608.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.608.0",
-          "publishedAt": "2026-10-29T21:43:57Z",
-          "name": "v0.608.0"
-        },
-        {
-          "id": "RE_kwDOH1-qgs4ZiLiH",
-          "owner": "jetify-com",
-          "repo": "devbox",
-          "tag": "0.19.0",
-          "url": "https://github.com/jetify-com/devbox/releases/tag/0.19.0",
-          "publishedAt": "2026-10-29T21:26:41Z",
-          "name": "0.19.0 — Devbox is its own launcher"
-        },
-        {
-          "id": "RE_kwDOCawmHs4ZiNNH",
-          "owner": "Wilfred",
-          "repo": "difftastic",
-          "tag": "0.72.0",
-          "url": "https://github.com/Wilfred/difftastic/releases/tag/0.72.0",
-          "publishedAt": "2026-10-29T21:17:13Z",
-          "name": "0.72.0"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4Zh5zM",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.44.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.44.0",
-          "publishedAt": "2026-10-29T19:40:54Z",
-          "name": "Release 6.44.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zhpkr",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.607.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.607.0",
-          "publishedAt": "2026-10-29T18:33:23Z",
-          "name": "v0.607.0"
-        },
-        {
-          "id": "RE_kwDOFxE1Fs4ZhezL",
-          "owner": "waydabber",
-          "repo": "m1ddc",
-          "tag": "v1.3.1",
-          "url": "https://github.com/waydabber/m1ddc/releases/tag/v1.3.1",
-          "publishedAt": "2026-10-29T17:49:42Z",
-          "name": "v1.3.1"
-        },
-        {
-          "id": "RE_kwDOFxE1Fs4ZhcYZ",
-          "owner": "waydabber",
-          "repo": "m1ddc",
-          "tag": "v1.3.0",
-          "url": "https://github.com/waydabber/m1ddc/releases/tag/v1.3.0",
-          "publishedAt": "2026-10-29T17:41:28Z",
-          "name": "v1.3.0"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4ZhIRX",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.99.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.99.0",
-          "publishedAt": "2026-10-29T16:25:08Z",
-          "name": "v0.99.0"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4Zgysm",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.9.8",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.9.8",
-          "publishedAt": "2026-10-29T15:12:36Z",
-          "name": "v1.9.8"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZgVyX",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.9",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.9",
-          "publishedAt": "2026-10-29T13:34:11Z",
-          "name": "v5.2.9"
-        },
-        {
-          "id": "RE_kwDODVAw7c4ZgT8C",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.16",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.16",
-          "publishedAt": "2026-10-29T13:27:26Z",
-          "name": "v3.33.16"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNYr",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-test@0.2.11",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-test%400.2.11",
-          "publishedAt": "2026-10-29T13:03:21Z",
-          "name": "@emdash-cms/plugin-test@0.2.11"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNXz",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/sandbox-workerd@0.9.6",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/sandbox-workerd%400.9.6",
-          "publishedAt": "2026-10-29T13:03:18Z",
-          "name": "@emdash-cms/sandbox-workerd@0.9.6"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNW8",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-forms@0.2.12",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-forms%400.2.12",
-          "publishedAt": "2026-10-29T13:03:15Z",
-          "name": "@emdash-cms/plugin-forms@0.2.12"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNWO",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-embeds@0.1.58",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-embeds%400.1.58",
-          "publishedAt": "2026-10-29T13:03:12Z",
-          "name": "@emdash-cms/plugin-embeds@0.1.58"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNVi",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-ai-search@0.1.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-ai-search%400.1.0",
-          "publishedAt": "2026-10-29T13:03:09Z",
-          "name": "@emdash-cms/plugin-ai-search@0.1.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNUu",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/cloudflare@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/cloudflare%401.4.0",
-          "publishedAt": "2026-10-29T13:03:06Z",
-          "name": "@emdash-cms/cloudflare@1.4.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNUC",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "emdash@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/emdash%401.4.0",
-          "publishedAt": "2026-10-29T13:03:03Z",
-          "name": "emdash@1.4.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNTN",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/auth-atproto@0.2.50",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth-atproto%400.2.50",
-          "publishedAt": "2026-10-29T13:03:00Z",
-          "name": "@emdash-cms/auth-atproto@0.2.50"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNSP",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/admin@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/admin%401.4.0",
-          "publishedAt": "2026-10-29T13:02:57Z",
-          "name": "@emdash-cms/admin@1.4.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNRb",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/x402@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/x402%401.4.0",
-          "publishedAt": "2026-10-29T13:02:54Z",
-          "name": "@emdash-cms/x402@1.4.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNQn",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/plugin-cli@0.13.5",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-cli%400.13.5",
-          "publishedAt": "2026-10-29T13:02:51Z",
-          "name": "@emdash-cms/plugin-cli@0.13.5"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNP5",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/gutenberg-to-portable-text@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/gutenberg-to-portable-text%401.4.0",
-          "publishedAt": "2026-10-29T13:02:48Z",
-          "name": "@emdash-cms/gutenberg-to-portable-text@1.4.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNPF",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "create-emdash@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/create-emdash%401.4.0",
-          "publishedAt": "2026-10-29T13:02:45Z",
-          "name": "create-emdash@1.4.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNOG",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/blocks@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/blocks%401.4.0",
-          "publishedAt": "2026-10-29T13:02:42Z",
-          "name": "@emdash-cms/blocks@1.4.0"
-        },
-        {
-          "id": "RE_kwDOR2vLLM4ZgNNV",
-          "owner": "emdash-cms",
-          "repo": "emdash",
-          "tag": "@emdash-cms/auth@1.4.0",
-          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth%401.4.0",
-          "publishedAt": "2026-10-29T13:02:39Z",
-          "name": "@emdash-cms/auth@1.4.0"
-        },
-        {
-          "id": "RE_kwDOBLlNSM4Zf_tL",
-          "owner": "lingui",
-          "repo": "js-lingui",
-          "tag": "v6.11.0",
-          "url": "https://github.com/lingui/js-lingui/releases/tag/v6.11.0",
-          "publishedAt": "2026-10-29T12:08:23Z",
-          "name": "v6.11.0"
-        },
-        {
-          "id": "RE_kwDOGvUVTs4Zf9VS",
-          "owner": "nitrojs",
-          "repo": "nitro",
-          "tag": "v3.0.261029-rc",
-          "url": "https://github.com/nitrojs/nitro/releases/tag/v3.0.261029-rc",
-          "publishedAt": "2026-10-29T11:58:13Z",
-          "name": "v3.0.261029-rc"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4Zf4dK",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.8",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.8",
-          "publishedAt": "2026-10-29T11:37:54Z",
-          "name": "v5.2.8"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Zfi5n",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.23",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.23",
-          "publishedAt": "2026-10-29T10:12:05Z",
-          "name": "v2026.10.23: Dotfile groups can apply edits, INI merges, and fnox-stored dotfiles"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Ze3Za",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.606.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.606.0",
-          "publishedAt": "2026-10-29T06:13:44Z",
-          "name": "v0.606.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZerHw",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.605.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.605.0",
-          "publishedAt": "2026-10-29T04:38:12Z",
-          "name": "v0.605.0"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZejoU",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.7",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.7",
-          "publishedAt": "2026-10-29T03:44:19Z",
-          "name": "v5.2.7"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZejJx",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.6",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.6",
-          "publishedAt": "2026-10-29T03:40:33Z",
-          "name": "v5.2.6"
-        }
-      ],
       "2026-10-30": [
         {
           "id": "RE_kwDOPYoUTM4Zmv3e",
@@ -2653,6 +2345,24 @@
       ],
       "2026-11-05": [
         {
+          "id": "RE_kwDOBMN_y84Z-mKC",
+          "owner": "chromedp",
+          "repo": "chromedp",
+          "tag": "v0.23.0",
+          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.23.0",
+          "publishedAt": "2026-11-05T22:33:20Z",
+          "name": "v0.23.0"
+        },
+        {
+          "id": "RE_kwDORWiFDM4Z-cC4",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.4",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.4",
+          "publishedAt": "2026-11-05T22:06:22Z",
+          "name": "v2.1.4"
+        },
+        {
           "id": "RE_kwDOH-jzvc4Z9wPJ",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -2895,6 +2605,26 @@
           "publishedAt": "2026-11-05T01:03:31Z",
           "name": "v2.1.0"
         }
+      ],
+      "2026-11-06": [
+        {
+          "id": "RE_kwDODVAw7c4Z_DXg",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.33.19",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.19",
+          "publishedAt": "2026-11-06T01:14:06Z",
+          "name": "v3.33.19"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4Z-7Qd",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.692.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.692.0",
+          "publishedAt": "2026-11-06T00:19:26Z",
+          "name": "v0.692.0"
+        }
       ]
     }
   },
@@ -2964,8 +2694,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4Z82qd",
-        "lastPublishedAt": "2026-11-05T15:30:43Z",
+        "lastReleaseId": "RE_kwDORWiFDM4Z-cC4",
+        "lastPublishedAt": "2026-11-05T22:06:22Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -3129,8 +2859,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4Z6uw8",
-        "lastPublishedAt": "2026-11-05T05:46:39Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4Z-7Qd",
+        "lastPublishedAt": "2026-11-06T00:19:26Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3413,8 +3143,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4Z10VU",
-        "lastPublishedAt": "2026-11-04T05:13:21Z",
+        "lastReleaseId": "RE_kwDODVAw7c4Z_DXg",
+        "lastPublishedAt": "2026-11-06T01:14:06Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -4898,8 +4628,8 @@
         "releaseHistoryCursor": null
       },
       "chromedp/chromedp": {
-        "lastReleaseId": "RE_kwDOBMN_y84Z5mBK",
-        "lastPublishedAt": "2026-11-04T22:30:29Z",
+        "lastReleaseId": "RE_kwDOBMN_y84Z-mKC",
+        "lastPublishedAt": "2026-11-05T22:33:20Z",
         "releaseHistoryCursor": null
       },
       "tkuchiki/slp": {
@@ -5293,7 +5023,8 @@
         "lastReleaseId": "RE_kwDORdcLgM4Zy6hc",
         "lastPublishedAt": "2026-11-03T14:06:45Z",
         "releaseHistoryCursor": null
-      }
+      },
+      "petamoriken/yuzuko": {}
     }
   }
 }
