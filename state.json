@@ -2608,6 +2608,123 @@
       ],
       "2026-11-06": [
         {
+          "id": "RE_kwDOQ5Wxys4aDGMt",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.29",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.29",
+          "publishedAt": "2026-11-06T20:52:10Z",
+          "name": "v1.0.29"
+        },
+        {
+          "id": "RE_kwDOR1G_Qs4aCnyw",
+          "owner": "zonuexe",
+          "repo": "riida",
+          "tag": "v0.9.5",
+          "url": "https://github.com/zonuexe/riida/releases/tag/v0.9.5",
+          "publishedAt": "2026-11-06T19:15:01Z",
+          "name": "[0.9.5] - 2026-11-07"
+        },
+        {
+          "id": "RE_kwDOR1G_Qs4aCg3l",
+          "owner": "zonuexe",
+          "repo": "riida",
+          "tag": "v0.9.4",
+          "url": "https://github.com/zonuexe/riida/releases/tag/v0.9.4",
+          "publishedAt": "2026-11-06T18:50:15Z",
+          "name": "[0.9.4] - 2026-11-07"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aCZkr",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.702.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.702.0",
+          "publishedAt": "2026-11-06T18:16:45Z",
+          "name": "v0.702.0"
+        },
+        {
+          "id": "RE_kwDOJKcikM4aCY-t",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight-docsearch@0.8.1",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight-docsearch%400.8.1",
+          "publishedAt": "2026-11-06T18:13:21Z",
+          "name": "@astrojs/starlight-docsearch@0.8.1"
+        },
+        {
+          "id": "RE_kwDOJKcikM4aCY-P",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.10",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.10",
+          "publishedAt": "2026-11-06T18:13:18Z",
+          "name": "@astrojs/starlight@0.42.10"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aCS4x",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.701.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.701.0",
+          "publishedAt": "2026-11-06T17:46:02Z",
+          "name": "v0.701.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aB4WW",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.700.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.700.0",
+          "publishedAt": "2026-11-06T15:57:26Z",
+          "name": "v0.700.0"
+        },
+        {
+          "id": "RE_kwDOEE38qM4aB3Ne",
+          "owner": "foambubble",
+          "repo": "foam",
+          "tag": "vscode@0.48.0",
+          "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.48.0",
+          "publishedAt": "2026-11-06T15:52:20Z",
+          "name": "vscode@0.48.0"
+        },
+        {
+          "id": "RE_kwDOEE38qM4aB3M8",
+          "owner": "foambubble",
+          "repo": "foam",
+          "tag": "cli@0.48.0",
+          "url": "https://github.com/foambubble/foam/releases/tag/cli%400.48.0",
+          "publishedAt": "2026-11-06T15:52:18Z",
+          "name": "cli@0.48.0"
+        },
+        {
+          "id": "RE_kwDOEE38qM4aB3Mk",
+          "owner": "foambubble",
+          "repo": "foam",
+          "tag": "core@0.51.0",
+          "url": "https://github.com/foambubble/foam/releases/tag/core%400.51.0",
+          "publishedAt": "2026-11-06T15:52:17Z",
+          "name": "core@0.51.0"
+        },
+        {
+          "id": "RE_kwDORWiFDM4aB0qO",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.5",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.5",
+          "publishedAt": "2026-11-06T15:44:08Z",
+          "name": "v2.1.5"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4aByne",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.12",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.12",
+          "publishedAt": "2026-11-06T15:39:30Z",
+          "name": "v5.2.12"
+        },
+        {
           "id": "RE_kwDOF0rAvc4aBuIZ",
           "owner": "OpenWonderLabs",
           "repo": "homebridge-switchbot",
@@ -2811,8 +2928,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4Z-cC4",
-        "lastPublishedAt": "2026-11-05T22:06:22Z",
+        "lastReleaseId": "RE_kwDORWiFDM4aB0qO",
+        "lastPublishedAt": "2026-11-06T15:44:08Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2913,8 +3030,8 @@
       "parsimonhi/animCJK": {},
       "pirosiki197/nvim-config": {},
       "zonuexe/riida": {
-        "lastReleaseId": "RE_kwDOR1G_Qs4Zt2iO",
-        "lastPublishedAt": "2026-11-02T12:43:11Z",
+        "lastReleaseId": "RE_kwDOR1G_Qs4aCnyw",
+        "lastPublishedAt": "2026-11-06T19:15:01Z",
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
@@ -2976,8 +3093,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aBa4w",
-        "lastPublishedAt": "2026-11-06T14:12:22Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aCZkr",
+        "lastPublishedAt": "2026-11-06T18:16:45Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3054,8 +3171,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4ZZpQT",
-        "lastPublishedAt": "2026-10-28T01:01:32Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4aDGMt",
+        "lastPublishedAt": "2026-11-06T20:52:10Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -3185,8 +3302,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4Z4fqF",
-        "lastPublishedAt": "2026-11-04T17:35:12Z",
+        "lastReleaseId": "RE_kwDOJKcikM4aCY-t",
+        "lastPublishedAt": "2026-11-06T18:13:21Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -4648,8 +4765,8 @@
         "lastPublishedAt": "2025-06-18T21:21:40Z"
       },
       "foambubble/foam": {
-        "lastReleaseId": "RE_kwDOEE38qM4Z4KCM",
-        "lastPublishedAt": "2026-11-04T16:11:17Z",
+        "lastReleaseId": "RE_kwDOEE38qM4aB3Ne",
+        "lastPublishedAt": "2026-11-06T15:52:20Z",
         "releaseHistoryCursor": null
       },
       "maruel/panicparse": {
@@ -4856,8 +4973,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4aBuIZ",
-        "lastPublishedAt": "2026-11-06T15:24:21Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4aByne",
+        "lastPublishedAt": "2026-11-06T15:39:30Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
