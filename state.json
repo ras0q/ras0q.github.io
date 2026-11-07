@@ -2698,6 +2698,123 @@
       ],
       "2026-11-07": [
         {
+          "id": "RE_kwDOFOI1Cc4aFP33",
+          "owner": "vslinko",
+          "repo": "obsidian-outliner",
+          "tag": "4.12.0",
+          "url": "https://github.com/vslinko/obsidian-outliner/releases/tag/4.12.0",
+          "publishedAt": "2026-11-07T13:07:54Z",
+          "name": "4.12.0"
+        },
+        {
+          "id": "RE_kwDOBoRDs84aFKC-",
+          "owner": "traPtitech",
+          "repo": "traQ",
+          "tag": "v3.32.0",
+          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.32.0",
+          "publishedAt": "2026-11-07T12:21:26Z",
+          "name": "v3.32.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aFIwS",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.712.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.712.0",
+          "publishedAt": "2026-11-07T12:11:47Z",
+          "name": "v0.712.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aE9L2",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.711.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.711.0",
+          "publishedAt": "2026-11-07T10:39:18Z",
+          "name": "v0.711.0"
+        },
+        {
+          "id": "RE_kwDOCGKeh84aE4Nj",
+          "owner": "git-bug",
+          "repo": "git-bug",
+          "tag": "v0.12.0",
+          "url": "https://github.com/git-bug/git-bug/releases/tag/v0.12.0",
+          "publishedAt": "2026-11-07T10:05:02Z",
+          "name": "v0.12.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aE2No",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.710.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.710.0",
+          "publishedAt": "2026-11-07T09:44:41Z",
+          "name": "v0.710.0"
+        },
+        {
+          "id": "RE_kwDOJ9MC-c4aEmzU",
+          "owner": "importantimport",
+          "repo": "hatsu",
+          "tag": "v0.3.6",
+          "url": "https://github.com/importantimport/hatsu/releases/tag/v0.3.6",
+          "publishedAt": "2026-11-07T07:34:37Z",
+          "name": "v0.3.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aEiMB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.709.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.709.0",
+          "publishedAt": "2026-11-07T06:48:56Z",
+          "name": "v0.709.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aEf6K",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.708.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.708.0",
+          "publishedAt": "2026-11-07T06:26:23Z",
+          "name": "v0.708.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aEcd9",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.707.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.707.0",
+          "publishedAt": "2026-11-07T05:57:33Z",
+          "name": "v0.707.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aEX5C",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.706.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.706.0",
+          "publishedAt": "2026-11-07T05:14:27Z",
+          "name": "v0.706.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aEUrB",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.705.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.705.0",
+          "publishedAt": "2026-11-07T04:48:24Z",
+          "name": "v0.705.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4aESf1",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.22.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.22.0",
+          "publishedAt": "2026-11-07T04:30:38Z",
+          "name": "v0.22.0"
+        },
+        {
           "id": "RE_kwDOGNEXps4aEJe4",
           "owner": "vrtmrz",
           "repo": "obsidian-livesync",
@@ -2806,8 +2923,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4ZVQSR",
-        "lastPublishedAt": "2026-10-27T03:22:42Z",
+        "lastReleaseId": "RE_kwDORSib_s4aESf1",
+        "lastPublishedAt": "2026-11-07T04:30:38Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2976,8 +3093,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aECnK",
-        "lastPublishedAt": "2026-11-07T02:27:26Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aFIwS",
+        "lastPublishedAt": "2026-11-07T12:11:47Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3038,8 +3155,8 @@
       "sainnhe/edge": {},
       "carlos-algms/agentic.nvim": {},
       "importantimport/hatsu": {
-        "lastReleaseId": "RE_kwDOJ9MC-c4X5mBr",
-        "lastPublishedAt": "2026-10-01T13:10:42Z",
+        "lastReleaseId": "RE_kwDOJ9MC-c4aEmzU",
+        "lastPublishedAt": "2026-11-07T07:34:37Z",
         "releaseHistoryCursor": null
       },
       "nitrojs/nitro": {
@@ -3531,8 +3648,8 @@
         "releaseHistoryCursor": null
       },
       "git-bug/git-bug": {
-        "lastReleaseId": "RE_kwDOCGKeh84Xebrc",
-        "lastPublishedAt": "2026-09-22T15:14:19Z",
+        "lastReleaseId": "RE_kwDOCGKeh84aE4Nj",
+        "lastPublishedAt": "2026-11-07T10:05:02Z",
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
@@ -4258,8 +4375,8 @@
         "lastPublishedAt": "2023-10-16T02:12:45Z"
       },
       "vslinko/obsidian-outliner": {
-        "lastReleaseId": "RE_kwDOFOI1Cc4Z51Wl",
-        "lastPublishedAt": "2026-11-04T23:42:42Z",
+        "lastReleaseId": "RE_kwDOFOI1Cc4aFP33",
+        "lastPublishedAt": "2026-11-07T13:07:54Z",
         "releaseHistoryCursor": null
       },
       "omnivore-app/omnivore": {
@@ -4893,8 +5010,8 @@
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastReleaseId": "RE_kwDOBoRDs84ZWyGz",
-        "lastPublishedAt": "2026-10-27T12:03:03Z",
+        "lastReleaseId": "RE_kwDOBoRDs84aFKC-",
+        "lastPublishedAt": "2026-11-07T12:21:26Z",
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
@@ -5143,8 +5260,8 @@
       },
       "petamoriken/yuzuko": {},
       "nolabs-ai/nono": {
-        "lastPublishedAt": "2026-10-29T17:25:24Z",
         "lastReleaseId": "RE_kwDORFb4ys4ZhYS6",
+        "lastPublishedAt": "2026-10-29T17:25:24Z",
         "releaseHistoryCursor": null
       }
     }
