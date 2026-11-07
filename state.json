@@ -2,206 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
       "2026-11-04",
-      "2026-11-05"
+      "2026-11-05",
+      "2026-11-06"
     ],
     "days": {
-      "2026-10-30": [
-        {
-          "id": "RE_kwDOPYoUTM4Zmv3e",
-          "owner": "Fission-AI",
-          "repo": "OpenSpec",
-          "tag": "v1.16.0",
-          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.16.0",
-          "publishedAt": "2026-10-30T23:38:25Z",
-          "name": "v1.16.0 - openspec.dev installs, Node 22"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4ZmrYQ",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.10",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.10",
-          "publishedAt": "2026-10-30T23:04:16Z",
-          "name": "v5.2.10"
-        },
-        {
-          "id": "RE_kwDOB21G7c4ZmIG7",
-          "owner": "cel-expr",
-          "repo": "cel-go",
-          "tag": "v0.33.2",
-          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.33.2",
-          "publishedAt": "2026-10-30T19:44:00Z",
-          "name": "Release v0.33.2"
-        },
-        {
-          "id": "RE_kwDOINrldM4ZmAZI",
-          "owner": "Akifyss",
-          "repo": "obsidian-border",
-          "tag": "1.13.9",
-          "url": "https://github.com/Akifyss/obsidian-border/releases/tag/1.13.9",
-          "publishedAt": "2026-10-30T19:08:32Z",
-          "name": "1.13.9"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Zl91d",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.194",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.194",
-          "publishedAt": "2026-10-30T18:54:49Z",
-          "name": "v8.4.194 - `ultralytics 8.4.194` Size AutoBatch from the train dataset for every task (#26956)"
-        },
-        {
-          "id": "RE_kwDORKDUAs4Zln5b",
-          "owner": "alberti42",
-          "repo": "zsh-appearance-control",
-          "tag": "v2.3.0",
-          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.3.0",
-          "publishedAt": "2026-10-30T17:13:05Z",
-          "name": "v2.3.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4ZlgzF",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.43",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.43",
-          "publishedAt": "2026-10-30T17:12:16Z",
-          "name": "1.0.43"
-        },
-        {
-          "id": "RE_kwDOIF_Mq84Zljy6",
-          "owner": "pointfreeco",
-          "repo": "swift-dependencies",
-          "tag": "1.17.2",
-          "url": "https://github.com/pointfreeco/swift-dependencies/releases/tag/1.17.2",
-          "publishedAt": "2026-10-30T16:53:20Z",
-          "name": "1.17.2"
-        },
-        {
-          "id": "RE_kwDOOfp6ts4ZlVWW",
-          "owner": "nickjvandyke",
-          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
-          "tag": "v1.0.3",
-          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.0.3",
-          "publishedAt": "2026-10-30T15:53:52Z",
-          "name": "v1.0.3"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4ZlGhr",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.12.0",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.12.0",
-          "publishedAt": "2026-10-30T14:56:37Z",
-          "name": "v0.12.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4ZkXWL",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "schema-v1.28.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.28.0",
-          "publishedAt": "2026-10-30T11:40:04Z",
-          "name": "Schema v1.28.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4ZkXVz",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "v1.14.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.14.0",
-          "publishedAt": "2026-10-30T11:40:02Z",
-          "name": "Rust Crate v1.14.0"
-        },
-        {
-          "id": "RE_kwDOEcv33s4ZkTHO",
-          "owner": "quarto-dev",
-          "repo": "quarto-cli",
-          "tag": "v1.10.20",
-          "url": "https://github.com/quarto-dev/quarto-cli/releases/tag/v1.10.20",
-          "publishedAt": "2026-10-30T11:21:01Z",
-          "name": "v1.10.20"
-        },
-        {
-          "id": "RE_kwDOIvux3s4ZkDtJ",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.24",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.24",
-          "publishedAt": "2026-10-30T10:15:02Z",
-          "name": "v2026.10.24: Container daemons, append-position PATH entries, and extra CA certificates"
-        },
-        {
-          "id": "RE_kwDOJKcikM4ZjunA",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.8",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.8",
-          "publishedAt": "2026-10-30T08:27:42Z",
-          "name": "@astrojs/starlight@0.42.8"
-        },
-        {
-          "id": "RE_kwDOAeC4a84ZjN9s",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v5.4.4",
-          "url": "https://github.com/labstack/echo/releases/tag/v5.4.4",
-          "publishedAt": "2026-10-30T04:46:36Z",
-          "name": "v5.4.4"
-        },
-        {
-          "id": "RE_kwDOAeC4a84ZjML8",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v4.16.3",
-          "url": "https://github.com/labstack/echo/releases/tag/v4.16.3",
-          "publishedAt": "2026-10-30T04:31:49Z",
-          "name": "v4.16.3"
-        },
-        {
-          "id": "RE_kwDOAeC4a84ZjEYR",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v5.4.3",
-          "url": "https://github.com/labstack/echo/releases/tag/v5.4.3",
-          "publishedAt": "2026-10-30T03:27:01Z",
-          "name": "v5.4.3"
-        },
-        {
-          "id": "RE_kwDONw8d0M4Zi-qT",
-          "owner": "swiftlang",
-          "repo": "swift-build",
-          "tag": "swift-6.4.2-RELEASE",
-          "url": "https://github.com/swiftlang/swift-build/releases/tag/swift-6.4.2-RELEASE",
-          "publishedAt": "2026-10-30T02:42:07Z",
-          "name": "Swift 6.4.2 Release"
-        },
-        {
-          "id": "RE_kwDOQ63fjM4ZizbO",
-          "owner": "eugenioenko",
-          "repo": "ttt",
-          "tag": "v1.10.0",
-          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.10.0",
-          "publishedAt": "2026-10-30T01:14:47Z",
-          "name": "v1.10.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZirhO",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.193",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.193",
-          "publishedAt": "2026-10-30T00:13:43Z",
-          "name": "v8.4.193 - `ultralytics 8.4.193` Up to 2x faster CPU ONNX Runtime and OpenVINO prediction (#26942)"
-        }
-      ],
       "2026-10-31": [
         {
           "id": "RE_kwDOH-jzvc4ZpOcg",
@@ -2608,6 +2417,33 @@
       ],
       "2026-11-06": [
         {
+          "id": "RE_kwDOOzc9Ss4aDuIN",
+          "owner": "apple",
+          "repo": "container",
+          "tag": "1.7.1",
+          "url": "https://github.com/apple/container/releases/tag/1.7.1",
+          "publishedAt": "2026-11-06T23:56:02Z",
+          "name": "1.7.1"
+        },
+        {
+          "id": "RE_kwDOQzKeuM4aDt2m",
+          "owner": "tfcace",
+          "repo": "hash",
+          "tag": "v0.9.1",
+          "url": "https://github.com/tfcace/hash/releases/tag/v0.9.1",
+          "publishedAt": "2026-11-06T23:37:34Z",
+          "name": "v0.9.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4aDU4F",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.204",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.204",
+          "publishedAt": "2026-11-06T21:34:18Z",
+          "name": "v8.4.204 - Release 8.4.204 with High Resolution Tiling documentation (#27069)"
+        },
+        {
           "id": "RE_kwDOQ5Wxys4aDGMt",
           "owner": "github",
           "repo": "copilot-sdk",
@@ -2859,6 +2695,53 @@
           "publishedAt": "2026-11-06T00:19:26Z",
           "name": "v0.692.0"
         }
+      ],
+      "2026-11-07": [
+        {
+          "id": "RE_kwDOGNEXps4aEJe4",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.46",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.46",
+          "publishedAt": "2026-11-07T03:28:53Z",
+          "name": "1.0.46"
+        },
+        {
+          "id": "RE_kwDOMRmaUs4aEDcs",
+          "owner": "amnweb",
+          "repo": "yasb",
+          "tag": "v2.0.8",
+          "url": "https://github.com/amnweb/yasb/releases/tag/v2.0.8",
+          "publishedAt": "2026-11-07T02:36:05Z",
+          "name": "v2.0.8"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aECnK",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.704.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.704.0",
+          "publishedAt": "2026-11-07T02:27:26Z",
+          "name": "v0.704.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aD_-w",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.703.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.703.0",
+          "publishedAt": "2026-11-07T02:04:57Z",
+          "name": "v0.703.0"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4aD2dk",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v1.16.1",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v1.16.1",
+          "publishedAt": "2026-11-07T00:44:30Z",
+          "name": "v1.16.1 - Spec parsing, version checks"
+        }
       ]
     }
   },
@@ -2918,8 +2801,8 @@
         "releaseHistoryCursor": null
       },
       "tfcace/hash": {
-        "lastReleaseId": "RE_kwDOQzKeuM4YWpbR",
-        "lastPublishedAt": "2026-10-10T03:23:22Z",
+        "lastReleaseId": "RE_kwDOQzKeuM4aDt2m",
+        "lastPublishedAt": "2026-11-06T23:37:34Z",
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
@@ -3093,8 +2976,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aCZkr",
-        "lastPublishedAt": "2026-11-06T18:16:45Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aECnK",
+        "lastPublishedAt": "2026-11-07T02:27:26Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3139,8 +3022,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4Zmv3e",
-        "lastPublishedAt": "2026-10-30T23:38:25Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4aD2dk",
+        "lastPublishedAt": "2026-11-07T00:44:30Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -3574,8 +3457,8 @@
       },
       "tohutohu/discord-claude-code": {},
       "apple/container": {
-        "lastReleaseId": "RE_kwDOOzc9Ss4ZLIZS",
-        "lastPublishedAt": "2026-10-23T23:26:12Z",
+        "lastReleaseId": "RE_kwDOOzc9Ss4aDuIN",
+        "lastPublishedAt": "2026-11-06T23:56:02Z",
         "releaseHistoryCursor": null
       },
       "anaisbetts/mcp-installer": {},
@@ -4026,8 +3909,8 @@
       },
       "WinterTC55/proposal-minimum-common-api": {},
       "amnweb/yasb": {
-        "lastReleaseId": "RE_kwDOMRmaUs4XFEW1",
-        "lastPublishedAt": "2026-09-11T17:03:25Z",
+        "lastReleaseId": "RE_kwDOMRmaUs4aEDcs",
+        "lastPublishedAt": "2026-11-07T02:36:05Z",
         "releaseHistoryCursor": null
       },
       "3b1b/manim": {
@@ -4385,8 +4268,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4Z9wPJ",
-        "lastPublishedAt": "2026-11-05T19:12:31Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4aDU4F",
+        "lastPublishedAt": "2026-11-06T21:34:18Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4516,8 +4399,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4Z84Gq",
-        "lastPublishedAt": "2026-11-05T15:42:42Z",
+        "lastReleaseId": "RE_kwDOGNEXps4aEJe4",
+        "lastPublishedAt": "2026-11-07T03:28:53Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -5258,7 +5141,12 @@
         "lastPublishedAt": "2026-11-03T14:06:45Z",
         "releaseHistoryCursor": null
       },
-      "petamoriken/yuzuko": {}
+      "petamoriken/yuzuko": {},
+      "nolabs-ai/nono": {
+        "lastPublishedAt": "2026-10-29T17:25:24Z",
+        "lastReleaseId": "RE_kwDORFb4ys4ZhYS6",
+        "releaseHistoryCursor": null
+      }
     }
   }
 }
