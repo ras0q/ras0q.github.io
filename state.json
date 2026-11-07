@@ -2698,6 +2698,42 @@
       ],
       "2026-11-07": [
         {
+          "id": "RE_kwDOH-jzvc4aGCvW",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.206",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.206",
+          "publishedAt": "2026-11-07T19:26:37Z",
+          "name": "v8.4.206 - `ultralytics 8.4.206` Read upside-down and bottom-to-top text in OCR (#27083)"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4aFsl2",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.205",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.205",
+          "publishedAt": "2026-11-07T16:42:21Z",
+          "name": "v8.4.205 - `ultralytics 8.4.205` Add scene text OCR solution with YOLO26-Text and PaddleOCR (#27061)"
+        },
+        {
+          "id": "RE_kwDOIvux3s4aFozM",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.4",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.4",
+          "publishedAt": "2026-11-07T16:27:30Z",
+          "name": "v2026.11.4: zip:: includes for config and tasks"
+        },
+        {
+          "id": "RE_kwDOL0IZ084aFmqX",
+          "owner": "glanceapp",
+          "repo": "glance",
+          "tag": "v0.8.8",
+          "url": "https://github.com/glanceapp/glance/releases/tag/v0.8.8",
+          "publishedAt": "2026-11-07T15:59:45Z",
+          "name": "v0.8.8"
+        },
+        {
           "id": "RE_kwDOFOI1Cc4aFP33",
           "owner": "vslinko",
           "repo": "obsidian-outliner",
@@ -3944,8 +3980,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4aAwt9",
-        "lastPublishedAt": "2026-11-06T11:18:41Z",
+        "lastReleaseId": "RE_kwDOIvux3s4aFozM",
+        "lastPublishedAt": "2026-11-07T16:27:30Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4198,8 +4234,8 @@
         "releaseHistoryCursor": null
       },
       "glanceapp/glance": {
-        "lastReleaseId": "RE_kwDOL0IZ084YqdaI",
-        "lastPublishedAt": "2026-10-15T12:27:36Z",
+        "lastReleaseId": "RE_kwDOL0IZ084aFmqX",
+        "lastPublishedAt": "2026-11-07T15:59:45Z",
         "releaseHistoryCursor": null
       },
       "cp-20/dotfiles": {},
@@ -4385,8 +4421,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4aDU4F",
-        "lastPublishedAt": "2026-11-06T21:34:18Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4aGCvW",
+        "lastPublishedAt": "2026-11-07T19:26:37Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
