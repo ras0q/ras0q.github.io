@@ -2698,6 +2698,24 @@
       ],
       "2026-11-07": [
         {
+          "id": "RE_kwDOH-jzvc4aGSnm",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.207",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.207",
+          "publishedAt": "2026-11-07T21:30:54Z",
+          "name": "v8.4.207 - `ultralytics 8.4.207` Fix PaddlePaddle export on new installs and CUDA machines (#27088)"
+        },
+        {
+          "id": "RE_kwDOD54DEc4aGQUp",
+          "owner": "leits",
+          "repo": "MeetingBar",
+          "tag": "v5.0.0",
+          "url": "https://github.com/leits/MeetingBar/releases/tag/v5.0.0",
+          "publishedAt": "2026-11-07T21:13:40Z",
+          "name": "5.0.0"
+        },
+        {
           "id": "RE_kwDOH-jzvc4aGCvW",
           "owner": "ultralytics",
           "repo": "ultralytics",
@@ -3086,8 +3104,8 @@
         "lastPublishedAt": "2026-04-01T14:33:36Z"
       },
       "leits/MeetingBar": {
-        "lastReleaseId": "RE_kwDOD54DEc4NbFt2",
-        "lastPublishedAt": "2025-06-13T15:33:21Z",
+        "lastReleaseId": "RE_kwDOD54DEc4aGQUp",
+        "lastPublishedAt": "2026-11-07T21:13:40Z",
         "releaseHistoryCursor": null
       },
       "ushironoko/abbrs": {
@@ -4421,8 +4439,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4aGCvW",
-        "lastPublishedAt": "2026-11-07T19:26:37Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4aGSnm",
+        "lastPublishedAt": "2026-11-07T21:30:54Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
