@@ -2,440 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
-      "2026-11-06"
+      "2026-11-06",
+      "2026-11-07"
     ],
     "days": {
-      "2026-10-31": [
-        {
-          "id": "RE_kwDOH-jzvc4ZpOcg",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.196",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.196",
-          "publishedAt": "2026-10-31T23:00:52Z",
-          "name": "v8.4.196 - `ultralytics 8.4.196` Improve ONNX INT8 accuracy with per-channel weight quantization (#26978)"
-        },
-        {
-          "id": "RE_kwDOCk_pzs4ZLZqj",
-          "owner": "oapi-codegen",
-          "repo": "oapi-codegen",
-          "tag": "v2.8.2",
-          "url": "https://github.com/oapi-codegen/oapi-codegen/releases/tag/v2.8.2",
-          "publishedAt": "2026-10-31T21:34:53Z",
-          "name": "v2.8.2: Security fixes for code generation"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zo8Jl",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.627.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.627.0",
-          "publishedAt": "2026-10-31T20:17:31Z",
-          "name": "v0.627.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zo4Y1",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.626.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.626.0",
-          "publishedAt": "2026-10-31T19:45:13Z",
-          "name": "v0.626.0"
-        },
-        {
-          "id": "RE_kwDOCcSpD84Zo3Ze",
-          "owner": "nektos",
-          "repo": "act",
-          "tag": "v0.2.94",
-          "url": "https://github.com/nektos/act/releases/tag/v0.2.94",
-          "publishedAt": "2026-10-31T19:36:11Z",
-          "name": "v0.2.94"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zo0Ns",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.625.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.625.0",
-          "publishedAt": "2026-10-31T19:08:49Z",
-          "name": "v0.625.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZowkV",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.624.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.624.0",
-          "publishedAt": "2026-10-31T18:37:52Z",
-          "name": "v0.624.0"
-        },
-        {
-          "id": "RE_kwDOMjjYJM4ZoweU",
-          "owner": "avante-corp",
-          "repo": "avante.nvim",
-          "tag": "v0.5.0",
-          "url": "https://github.com/avante-corp/avante.nvim/releases/tag/v0.5.0",
-          "publishedAt": "2026-10-31T18:36:29Z",
-          "name": "v0.5.0"
-        },
-        {
-          "id": "RE_kwDOCcSpD84ZowMI",
-          "owner": "nektos",
-          "repo": "act",
-          "tag": "v0.2.93",
-          "url": "https://github.com/nektos/act/releases/tag/v0.2.93",
-          "publishedAt": "2026-10-31T18:34:15Z",
-          "name": "v0.2.93"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZotqD",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.623.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.623.0",
-          "publishedAt": "2026-10-31T18:13:44Z",
-          "name": "v0.623.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZostJ",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.195",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.195",
-          "publishedAt": "2026-10-31T18:05:20Z",
-          "name": "v8.4.195 - `ultralytics 8.4.195` Add Python 3.15 CI and classifier (#26975)"
-        },
-        {
-          "id": "RE_kwDOAZfQX84ZoqRx",
-          "owner": "go-swagger",
-          "repo": "go-swagger",
-          "tag": "v0.36.7",
-          "url": "https://github.com/go-swagger/go-swagger/releases/tag/v0.36.7",
-          "publishedAt": "2026-10-31T17:45:54Z",
-          "name": "v0.36.7"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zomwe",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.622.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.622.0",
-          "publishedAt": "2026-10-31T17:16:59Z",
-          "name": "v0.622.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zoifo",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.621.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.621.0",
-          "publishedAt": "2026-10-31T16:44:14Z",
-          "name": "v0.621.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZoeIv",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.620.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.620.0",
-          "publishedAt": "2026-10-31T16:10:29Z",
-          "name": "v0.620.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZoZ_N",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.619.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.619.0",
-          "publishedAt": "2026-10-31T15:38:13Z",
-          "name": "v0.619.0"
-        },
-        {
-          "id": "RE_kwDOGgFgVM4ZoYet",
-          "owner": "usememos",
-          "repo": "memos",
-          "tag": "26.10.0",
-          "url": "https://github.com/usememos/memos/releases/tag/26.10.0",
-          "publishedAt": "2026-10-31T15:26:12Z",
-          "name": "26.10.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZoU-I",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.618.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.618.0",
-          "publishedAt": "2026-10-31T14:59:58Z",
-          "name": "v0.618.0"
-        },
-        {
-          "id": "RE_kwDOEXrCM84ZoQ2y",
-          "owner": "esm-dev",
-          "repo": "esm.sh",
-          "tag": "v140_2",
-          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v140_2",
-          "publishedAt": "2026-10-31T14:27:35Z",
-          "name": "Server v140_2"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84ZoPN3",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.23.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.23.0",
-          "publishedAt": "2026-10-31T14:14:48Z",
-          "name": "v1.23.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZoNl7",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.617.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.617.0",
-          "publishedAt": "2026-10-31T14:02:12Z",
-          "name": "v0.617.0"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4ZoJjw",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "v1.26.2",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.26.2",
-          "publishedAt": "2026-10-31T13:30:29Z",
-          "name": "v1.26.2"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZoJaw",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.616.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.616.0",
-          "publishedAt": "2026-10-31T13:28:51Z",
-          "name": "v0.616.0"
-        },
-        {
-          "id": "RE_kwDOCN71Oc4ZoFb0",
-          "owner": "o2sh",
-          "repo": "onefetch",
-          "tag": "3.2.0",
-          "url": "https://github.com/o2sh/onefetch/releases/tag/3.2.0",
-          "publishedAt": "2026-10-31T12:55:36Z",
-          "name": "3.2.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZoCeZ",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.615.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.615.0",
-          "publishedAt": "2026-10-31T12:33:28Z",
-          "name": "v0.615.0"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4ZoBE1",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.12.1",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.12.1",
-          "publishedAt": "2026-10-31T12:22:39Z",
-          "name": "v0.12.1"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Zn_HR",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "detect-wasi-v1.0.60",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-wasi-v1.0.60",
-          "publishedAt": "2026-10-31T12:08:09Z",
-          "name": "detect-wasi-v1.0.60"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Zn_Gz",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-v0.29.6",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.29.6",
-          "publishedAt": "2026-10-31T12:08:04Z",
-          "name": "binstalk-v0.29.6"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Zn--U",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-registry-v0.12.12",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.12",
-          "publishedAt": "2026-10-31T12:06:52Z",
-          "name": "binstalk-registry-v0.12.12"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Zn-8y",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-fetchers-v0.10.53",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.53",
-          "publishedAt": "2026-10-31T12:06:40Z",
-          "name": "binstalk-fetchers-v0.10.53"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Zn-7s",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-git-repo-api-v0.5.53",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.53",
-          "publishedAt": "2026-10-31T12:06:32Z",
-          "name": "binstalk-git-repo-api-v0.5.53"
-        },
-        {
-          "id": "RE_kwDOEyYzbs4Zn-6j",
-          "owner": "cargo-bins",
-          "repo": "cargo-binstall",
-          "tag": "binstalk-downloader-v0.14.1",
-          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.14.1",
-          "publishedAt": "2026-10-31T12:06:22Z",
-          "name": "binstalk-downloader-v0.14.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zn6Pt",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.614.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.614.0",
-          "publishedAt": "2026-10-31T11:26:20Z",
-          "name": "v0.614.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zn3GO",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.613.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.613.0",
-          "publishedAt": "2026-10-31T10:59:04Z",
-          "name": "v0.613.0"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4Zn1Be",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.44.1",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.44.1",
-          "publishedAt": "2026-10-31T10:39:38Z",
-          "name": "Release 6.44.1"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Znyxg",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.10.25",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.10.25",
-          "publishedAt": "2026-10-31T10:24:21Z",
-          "name": "v2026.10.25: Edit and remove tasks from the CLI, and `mise watch --once`"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZnyB1",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.612.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.612.0",
-          "publishedAt": "2026-10-31T10:12:14Z",
-          "name": "v0.612.0"
-        },
-        {
-          "id": "RE_kwDOUNMECc4ZbJ6u",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.11.3",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.3",
-          "publishedAt": "2026-10-31T10:07:37Z",
-          "name": "v1.11.3: More reliable APT and RPM repository publishing"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZnvSj",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.611.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.611.0",
-          "publishedAt": "2026-10-31T09:47:46Z",
-          "name": "v0.611.0"
-        },
-        {
-          "id": "RE_kwDOE4ox_c4ZntGd",
-          "owner": "hummingbird-project",
-          "repo": "hummingbird",
-          "tag": "2.28.1",
-          "url": "https://github.com/hummingbird-project/hummingbird/releases/tag/2.28.1",
-          "publishedAt": "2026-10-31T09:27:50Z",
-          "name": "v2.28.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Znq_X",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.610.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.610.0",
-          "publishedAt": "2026-10-31T09:09:55Z",
-          "name": "v0.610.0"
-        },
-        {
-          "id": "RE_kwDORKDUAs4ZnldR",
-          "owner": "alberti42",
-          "repo": "zsh-appearance-control",
-          "tag": "v2.3.1",
-          "url": "https://github.com/alberti42/zsh-appearance-control/releases/tag/v2.3.1",
-          "publishedAt": "2026-10-31T08:19:00Z",
-          "name": "v2.3.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZnkxS",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.609.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.609.0",
-          "publishedAt": "2026-10-31T08:11:58Z",
-          "name": "v0.609.0"
-        },
-        {
-          "id": "RE_kwDOAoUxF84ZnTBi",
-          "owner": "preactjs",
-          "repo": "preact",
-          "tag": "11.1.1",
-          "url": "https://github.com/preactjs/preact/releases/tag/11.1.1",
-          "publishedAt": "2026-10-31T04:59:58Z",
-          "name": "11.1.1"
-        },
-        {
-          "id": "RE_kwDOAoUxF84ZWu9y",
-          "owner": "preactjs",
-          "repo": "preact",
-          "tag": "11.1.0",
-          "url": "https://github.com/preactjs/preact/releases/tag/11.1.0",
-          "publishedAt": "2026-10-31T04:59:38Z",
-          "name": "11.1.0"
-        },
-        {
-          "id": "RE_kwDOAvORMc4ZnEjR",
-          "owner": "xwmx",
-          "repo": "nb",
-          "tag": "7.25.6",
-          "url": "https://github.com/xwmx/nb/releases/tag/7.25.6",
-          "publishedAt": "2026-10-31T02:35:20Z",
-          "name": "7.25.6"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4Zm2DE",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.16",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.16",
-          "publishedAt": "2026-10-31T00:24:30Z",
-          "name": "cli-v0.1.16"
-        }
-      ],
       "2026-11-01": [
         {
           "id": "RE_kwDOQvjuaM4Zr0Bq",
@@ -2913,6 +2488,53 @@
           "publishedAt": "2026-11-07T00:44:30Z",
           "name": "v1.16.1 - Spec parsing, version checks"
         }
+      ],
+      "2026-11-08": [
+        {
+          "id": "RE_kwDOOfp6ts4aG3ME",
+          "owner": "nickjvandyke",
+          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
+          "tag": "v1.2.0",
+          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.2.0",
+          "publishedAt": "2026-11-08T03:22:22Z",
+          "name": "v1.2.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aG2vr",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.714.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.714.0",
+          "publishedAt": "2026-11-08T03:18:14Z",
+          "name": "v0.714.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aGytj",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.713.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.713.0",
+          "publishedAt": "2026-11-08T02:36:02Z",
+          "name": "v0.713.0"
+        },
+        {
+          "id": "RE_kwDOMtN2Z84aGrxn",
+          "owner": "eyemono-moe",
+          "repo": "streets",
+          "tag": "v1.24.0",
+          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.24.0",
+          "publishedAt": "2026-11-08T01:23:16Z",
+          "name": "v1.24.0"
+        },
+        {
+          "id": "RE_kwDORWiFDM4aGqHF",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.6",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.6",
+          "publishedAt": "2026-11-08T01:05:53Z",
+          "name": "v2.1.6"
+        }
       ]
     }
   },
@@ -2982,8 +2604,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4aB0qO",
-        "lastPublishedAt": "2026-11-06T15:44:08Z",
+        "lastReleaseId": "RE_kwDORWiFDM4aGqHF",
+        "lastPublishedAt": "2026-11-08T01:05:53Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -3147,8 +2769,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aFIwS",
-        "lastPublishedAt": "2026-11-07T12:11:47Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aG2vr",
+        "lastPublishedAt": "2026-11-08T03:18:14Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3371,8 +2993,8 @@
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastReleaseId": "RE_kwDOOfp6ts4Zq5wb",
-        "lastPublishedAt": "2026-11-01T15:38:26Z",
+        "lastReleaseId": "RE_kwDOOfp6ts4aG3ME",
+        "lastPublishedAt": "2026-11-08T03:22:22Z",
         "releaseHistoryCursor": null
       },
       "ghostty-org/ghostty": {},
@@ -4018,8 +3640,8 @@
         "releaseHistoryCursor": null
       },
       "eyemono-moe/streets": {
-        "lastReleaseId": "RE_kwDOMtN2Z84Zp6mr",
-        "lastPublishedAt": "2026-11-01T07:09:01Z",
+        "lastReleaseId": "RE_kwDOMtN2Z84aGrxn",
+        "lastPublishedAt": "2026-11-08T01:23:16Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete-ml": {
