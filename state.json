@@ -2491,6 +2491,24 @@
       ],
       "2026-11-08": [
         {
+          "id": "RE_kwDOQ_KVhM4aHhnN",
+          "owner": "rtk-ai",
+          "repo": "rtk",
+          "tag": "v1.2.0",
+          "url": "https://github.com/rtk-ai/rtk/releases/tag/v1.2.0",
+          "publishedAt": "2026-11-08T10:46:00Z",
+          "name": "v1.2.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aG8ah",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.715.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.715.0",
+          "publishedAt": "2026-11-08T04:20:16Z",
+          "name": "v0.715.0"
+        },
+        {
           "id": "RE_kwDOOfp6ts4aG3ME",
           "owner": "nickjvandyke",
           "repo": "eslint-plugin-react-you-might-not-need-an-effect",
@@ -2769,8 +2787,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aG2vr",
-        "lastPublishedAt": "2026-11-08T03:18:14Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aG8ah",
+        "lastPublishedAt": "2026-11-08T04:20:16Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4905,8 +4923,8 @@
       },
       "daliusd/ghlite.nvim": {},
       "rtk-ai/rtk": {
-        "lastReleaseId": "RE_kwDOQ_KVhM4ZPyGU",
-        "lastPublishedAt": "2026-10-25T18:00:11Z",
+        "lastReleaseId": "RE_kwDOQ_KVhM4aHhnN",
+        "lastPublishedAt": "2026-11-08T10:46:00Z",
         "releaseHistoryCursor": null
       },
       "sngazm/sate": {
@@ -4939,7 +4957,8 @@
         "lastReleaseId": "RE_kwDORFb4ys4ZhYS6",
         "lastPublishedAt": "2026-10-29T17:25:24Z",
         "releaseHistoryCursor": null
-      }
+      },
+      "tesso57/pi-extension-template": {}
     }
   }
 }
