@@ -2491,6 +2491,60 @@
       ],
       "2026-11-08": [
         {
+          "id": "RE_kwDOQvjuaM4aIQVV",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.716.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.716.0",
+          "publishedAt": "2026-11-08T16:35:00Z",
+          "name": "v0.716.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4aIK9O",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v32.0.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v32.0.0",
+          "publishedAt": "2026-11-08T15:56:31Z",
+          "name": "v32.0.0"
+        },
+        {
+          "id": "RE_kwDORWiFDM4aIDC_",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.7",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.7",
+          "publishedAt": "2026-11-08T15:00:33Z",
+          "name": "v2.1.7"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4aICKV",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.208",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.208",
+          "publishedAt": "2026-11-08T14:54:08Z",
+          "name": "v8.4.208 - `ultralytics 8.4.208` Release the 0.5 predict NMS IoU default (#27102)"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4aIBYN",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.18",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.18",
+          "publishedAt": "2026-11-08T14:48:41Z",
+          "name": "cli-v0.1.18"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4aH89m",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.11.0",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.11.0",
+          "publishedAt": "2026-11-08T14:16:58Z",
+          "name": "v1.11.0"
+        },
+        {
           "id": "RE_kwDOQ_KVhM4aHhnN",
           "owner": "rtk-ai",
           "repo": "rtk",
@@ -2622,8 +2676,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4aGqHF",
-        "lastPublishedAt": "2026-11-08T01:05:53Z",
+        "lastReleaseId": "RE_kwDORWiFDM4aIDC_",
+        "lastPublishedAt": "2026-11-08T15:00:33Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2787,8 +2841,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aG8ah",
-        "lastPublishedAt": "2026-11-08T04:20:16Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aIQVV",
+        "lastPublishedAt": "2026-11-08T16:35:00Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3347,8 +3401,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4Z2yjh",
-        "lastPublishedAt": "2026-11-04T10:43:16Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4aH89m",
+        "lastPublishedAt": "2026-11-08T14:16:58Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3696,8 +3750,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4ZvzQ1",
-        "lastPublishedAt": "2026-11-02T20:57:09Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4aIBYN",
+        "lastPublishedAt": "2026-11-08T14:48:41Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -4079,8 +4133,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4aGSnm",
-        "lastPublishedAt": "2026-11-07T21:30:54Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4aICKV",
+        "lastPublishedAt": "2026-11-08T14:54:08Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4692,8 +4746,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4Y7U70",
-        "lastPublishedAt": "2026-10-20T09:11:00Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4aIK9O",
+        "lastPublishedAt": "2026-11-08T15:56:31Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
