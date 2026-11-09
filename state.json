@@ -2,314 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-01",
       "2026-11-02",
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
       "2026-11-06",
-      "2026-11-07"
+      "2026-11-07",
+      "2026-11-08"
     ],
     "days": {
-      "2026-11-01": [
-        {
-          "id": "RE_kwDOQvjuaM4Zr0Bq",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.639.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.639.0",
-          "publishedAt": "2026-11-01T23:00:50Z",
-          "name": "v0.639.0"
-        },
-        {
-          "id": "RE_kwDOBMN_y84Zrvxq",
-          "owner": "chromedp",
-          "repo": "chromedp",
-          "tag": "v0.21.1",
-          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.21.1",
-          "publishedAt": "2026-11-01T22:24:13Z",
-          "name": "v0.21.1"
-        },
-        {
-          "id": "RE_kwDOM46ZXs4ZrnBb",
-          "owner": "VitalAudio",
-          "repo": "visage",
-          "tag": "v0.1.0",
-          "url": "https://github.com/VitalAudio/visage/releases/tag/v0.1.0",
-          "publishedAt": "2026-11-01T21:27:07Z",
-          "name": "v0.1.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4ZrkAv",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "schema-v1.29.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.29.0",
-          "publishedAt": "2026-11-01T20:52:17Z",
-          "name": "Schema v1.29.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4ZrkAf",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "v1.15.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.15.0",
-          "publishedAt": "2026-11-01T20:52:15Z",
-          "name": "Rust Crate v1.15.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZrdUz",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.638.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.638.0",
-          "publishedAt": "2026-11-01T20:01:06Z",
-          "name": "v0.638.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZrXH0",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.637.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.637.0",
-          "publishedAt": "2026-11-01T19:13:18Z",
-          "name": "v0.637.0"
-        },
-        {
-          "id": "RE_kwDOO2B60c4ZrOj3",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.3.3",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.3.3",
-          "publishedAt": "2026-11-01T18:11:51Z",
-          "name": "2.3.3"
-        },
-        {
-          "id": "RE_kwDOO2B60c4ZrLfQ",
-          "owner": "anareaty",
-          "repo": "pretty-properties",
-          "tag": "2.3.2",
-          "url": "https://github.com/anareaty/pretty-properties/releases/tag/2.3.2",
-          "publishedAt": "2026-11-01T17:48:47Z",
-          "name": "2.3.2"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZrHrB",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.636.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.636.0",
-          "publishedAt": "2026-11-01T17:19:37Z",
-          "name": "v0.636.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zq-GX",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.635.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.635.0",
-          "publishedAt": "2026-11-01T16:09:39Z",
-          "name": "v0.635.0"
-        },
-        {
-          "id": "RE_kwDOQ52_2c4Zq52q",
-          "owner": "vercel-labs",
-          "repo": "json-render",
-          "tag": "v0.21.4",
-          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.21.4",
-          "publishedAt": "2026-11-01T15:39:13Z",
-          "name": "v0.21.4"
-        },
-        {
-          "id": "RE_kwDOOfp6ts4Zq5wb",
-          "owner": "nickjvandyke",
-          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
-          "tag": "v1.1.0",
-          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.1.0",
-          "publishedAt": "2026-11-01T15:38:26Z",
-          "name": "v1.1.0"
-        },
-        {
-          "id": "RE_kwDORQ3jDc4Zq4qs",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.15.13",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.15.13",
-          "publishedAt": "2026-11-01T15:30:55Z",
-          "name": "v0.15.13"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zq1-F",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.634.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.634.0",
-          "publishedAt": "2026-11-01T15:11:54Z",
-          "name": "v0.634.0"
-        },
-        {
-          "id": "RE_kwDOGNEXps4ZqzDt",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.44",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.44",
-          "publishedAt": "2026-11-01T14:55:36Z",
-          "name": "1.0.44"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4ZqvFx",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.34",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.34",
-          "publishedAt": "2026-11-01T14:21:47Z",
-          "name": "v1.10.34"
-        },
-        {
-          "id": "RE_kwDOGgFgVM4Zqss4",
-          "owner": "usememos",
-          "repo": "memos",
-          "tag": "26.11.0",
-          "url": "https://github.com/usememos/memos/releases/tag/26.11.0",
-          "publishedAt": "2026-11-01T14:04:41Z",
-          "name": "26.11.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zqo0w",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.633.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.633.0",
-          "publishedAt": "2026-11-01T13:37:07Z",
-          "name": "v0.633.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Zqgcs",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.632.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.632.0",
-          "publishedAt": "2026-11-01T12:34:20Z",
-          "name": "v0.632.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZqZJj",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.631.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.631.0",
-          "publishedAt": "2026-11-01T11:40:51Z",
-          "name": "v0.631.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZqTpY",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.630.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.630.0",
-          "publishedAt": "2026-11-01T10:56:34Z",
-          "name": "v0.630.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZqKwS",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.629.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.629.0",
-          "publishedAt": "2026-11-01T09:41:47Z",
-          "name": "v0.629.0"
-        },
-        {
-          "id": "RE_kwDORsUayc4ZqJa-",
-          "owner": "babarot",
-          "repo": "gh-infra",
-          "tag": "v0.18.0",
-          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.18.0",
-          "publishedAt": "2026-11-01T09:29:33Z",
-          "name": "v0.18.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ZqCYy",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.628.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.628.0",
-          "publishedAt": "2026-11-01T09:27:59Z",
-          "name": "v0.628.0"
-        },
-        {
-          "id": "RE_kwDOBD9I4s4ZqAyh",
-          "owner": "sachaos",
-          "repo": "todoist",
-          "tag": "v0.25.0",
-          "url": "https://github.com/sachaos/todoist/releases/tag/v0.25.0",
-          "publishedAt": "2026-11-01T09:12:33Z",
-          "name": "v0.25.0"
-        },
-        {
-          "id": "RE_kwDOR0FRxs4Zp5VI",
-          "owner": "sngazm",
-          "repo": "sate",
-          "tag": "v0.2.0",
-          "url": "https://github.com/sngazm/sate/releases/tag/v0.2.0",
-          "publishedAt": "2026-11-01T07:21:53Z",
-          "name": "Sate v0.2.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84Zp6mr",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.23.1",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.23.1",
-          "publishedAt": "2026-11-01T07:09:01Z",
-          "name": "v1.23.1"
-        },
-        {
-          "id": "RE_kwDOKMzyM84Zpt4O",
-          "owner": "OpenSwiftUIProject",
-          "repo": "OpenSwiftUI",
-          "tag": "0.25.0",
-          "url": "https://github.com/OpenSwiftUIProject/OpenSwiftUI/releases/tag/0.25.0",
-          "publishedAt": "2026-11-01T04:42:33Z",
-          "name": "0.25.0: Controls, Symbols and Gradients"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ZpiC4",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.197",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.197",
-          "publishedAt": "2026-11-01T02:29:38Z",
-          "name": "v8.4.197 - `ultralytics 8.4.197` Check AMP on an untrained YOLO26n without downloading weights (#26967)"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84ZpfY5",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.15.0",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.15.0",
-          "publishedAt": "2026-11-01T02:08:28Z",
-          "name": "4.15.0"
-        },
-        {
-          "id": "RE_kwDOJYD24s4Zpeql",
-          "owner": "google",
-          "repo": "heir",
-          "tag": "v2026.11.01",
-          "url": "https://github.com/google/heir/releases/tag/v2026.11.01",
-          "publishedAt": "2026-11-01T01:52:10Z",
-          "name": "v2026.11.01"
-        },
-        {
-          "id": "RE_kwDOII1H084ZpUPu",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.29",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.29",
-          "publishedAt": "2026-11-01T00:02:09Z",
-          "name": "v0.5.29"
-        }
-      ],
       "2026-11-02": [
         {
           "id": "RE_kwDOQvjuaM4ZwTXo",
@@ -2634,6 +2335,35 @@
           "publishedAt": "2026-11-08T01:05:53Z",
           "name": "v2.1.6"
         }
+      ],
+      "2026-11-09": [
+        {
+          "id": "RE_kwDOAcjBfM4aJn9x",
+          "owner": "fluent",
+          "repo": "fluent-bit",
+          "tag": "v5.2.0",
+          "url": "https://github.com/fluent/fluent-bit/releases/tag/v5.2.0",
+          "publishedAt": "2026-11-09T04:04:12Z",
+          "name": "Fluent Bit 5.2.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4aJZLI",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.5",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.5",
+          "publishedAt": "2026-11-09T02:10:15Z",
+          "name": "v2026.11.5: `mise dot files` shows what is tracked in a directory"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4aJMFx",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.11.1",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.11.1",
+          "publishedAt": "2026-11-09T00:12:35Z",
+          "name": "v1.11.1"
+        }
       ]
     }
   },
@@ -3428,8 +3158,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4aH89m",
-        "lastPublishedAt": "2026-11-08T14:16:58Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4aJMFx",
+        "lastPublishedAt": "2026-11-09T00:12:35Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3719,8 +3449,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4aFozM",
-        "lastPublishedAt": "2026-11-07T16:27:30Z",
+        "lastReleaseId": "RE_kwDOIvux3s4aJZLI",
+        "lastPublishedAt": "2026-11-09T02:10:15Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4708,8 +4438,8 @@
       },
       "viraptor/reverse-interview": {},
       "fluent/fluent-bit": {
-        "lastReleaseId": "RE_kwDOAcjBfM4ZA5Wl",
-        "lastPublishedAt": "2026-10-21T14:34:35Z",
+        "lastReleaseId": "RE_kwDOAcjBfM4aJn9x",
+        "lastPublishedAt": "2026-11-09T04:04:12Z",
         "releaseHistoryCursor": null
       },
       "spf13/cobra-cli": {
