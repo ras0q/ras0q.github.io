@@ -2096,6 +2096,69 @@
       ],
       "2026-11-10": [
         {
+          "id": "RE_kwDOQvjuaM4aPdls",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.732.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.732.0",
+          "publishedAt": "2026-11-10T11:13:31Z",
+          "name": "v0.732.0"
+        },
+        {
+          "id": "RE_kwDOD6wJuM4aOz61",
+          "owner": "47ng",
+          "repo": "nuqs",
+          "tag": "v2.10.3",
+          "url": "https://github.com/47ng/nuqs/releases/tag/v2.10.3",
+          "publishedAt": "2026-11-10T08:22:51Z",
+          "name": "v2.10.3"
+        },
+        {
+          "id": "RE_kwDOSP9SeM4aOp2e",
+          "owner": "abap34",
+          "repo": "ss",
+          "tag": "v0.9.1",
+          "url": "https://github.com/abap34/ss/releases/tag/v0.9.1",
+          "publishedAt": "2026-11-10T07:16:39Z",
+          "name": "ss v0.9.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aOWPq",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.731.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.731.0",
+          "publishedAt": "2026-11-10T05:09:26Z",
+          "name": "v0.731.0"
+        },
+        {
+          "id": "RE_kwDORsUayc4aOSGU",
+          "owner": "babarot",
+          "repo": "gh-infra",
+          "tag": "v0.20.0",
+          "url": "https://github.com/babarot/gh-infra/releases/tag/v0.20.0",
+          "publishedAt": "2026-11-10T04:38:04Z",
+          "name": "v0.20.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aOOvb",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.730.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.730.0",
+          "publishedAt": "2026-11-10T04:14:24Z",
+          "name": "v0.730.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aODnV",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.729.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.729.0",
+          "publishedAt": "2026-11-10T02:55:32Z",
+          "name": "v0.729.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4aN9m9",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2246,8 +2309,8 @@
         "releaseHistoryCursor": null
       },
       "abap34/ss": {
-        "lastReleaseId": "RE_kwDOSP9SeM4Z8K_7",
-        "lastPublishedAt": "2026-11-05T12:57:05Z",
+        "lastReleaseId": "RE_kwDOSP9SeM4aOp2e",
+        "lastPublishedAt": "2026-11-10T07:16:39Z",
         "releaseHistoryCursor": null
       },
       "kavinsood/yaos": {
@@ -2256,8 +2319,8 @@
         "releaseHistoryCursor": null
       },
       "babarot/gh-infra": {
-        "lastReleaseId": "RE_kwDORsUayc4ZwxJo",
-        "lastPublishedAt": "2026-11-03T02:34:39Z",
+        "lastReleaseId": "RE_kwDORsUayc4aOSGU",
+        "lastPublishedAt": "2026-11-10T04:38:04Z",
         "releaseHistoryCursor": null
       },
       "ras0q/noy": {
@@ -2347,8 +2410,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aN9m9",
-        "lastPublishedAt": "2026-11-10T02:14:59Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aPdls",
+        "lastPublishedAt": "2026-11-10T11:13:31Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3193,8 +3256,8 @@
         "releaseHistoryCursor": null
       },
       "47ng/nuqs": {
-        "lastReleaseId": "RE_kwDOD6wJuM4YPyEz",
-        "lastPublishedAt": "2026-10-08T12:20:52Z",
+        "lastReleaseId": "RE_kwDOD6wJuM4aOz61",
+        "lastPublishedAt": "2026-11-10T08:22:51Z",
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
