@@ -2096,6 +2096,141 @@
       ],
       "2026-11-10": [
         {
+          "id": "RE_kwDOH-jzvc4aRbXT",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.209",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.209",
+          "publishedAt": "2026-11-10T18:54:50Z",
+          "name": "v8.4.209 - Correct results for every request when serving YOLO to many users at once (#27140)"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4aRMYb",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.159.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.159.0",
+          "publishedAt": "2026-11-10T17:57:41Z",
+          "name": "v1.159.0"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4aRB5M",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.31",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.31",
+          "publishedAt": "2026-11-10T17:19:40Z",
+          "name": "v1.0.31"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aQwSp",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.734.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.734.0",
+          "publishedAt": "2026-11-10T16:16:05Z",
+          "name": "v0.734.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4aQhda",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-manifests-v0.19.12",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.12",
+          "publishedAt": "2026-11-10T15:27:15Z",
+          "name": "binstalk-manifests-v0.19.12"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4aQhaF",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.30.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.30.0",
+          "publishedAt": "2026-11-10T15:27:04Z",
+          "name": "binstalk-v0.30.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4aQhFq",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-targets-v0.1.97",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.97",
+          "publishedAt": "2026-11-10T15:26:01Z",
+          "name": "detect-targets-v0.1.97"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4aQhDm",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-registry-v0.12.13",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.12.13",
+          "publishedAt": "2026-11-10T15:25:55Z",
+          "name": "binstalk-registry-v0.12.13"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4aQdM7",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.11.2",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.11.2",
+          "publishedAt": "2026-11-10T15:13:30Z",
+          "name": "v1.11.2"
+        },
+        {
+          "id": "RE_kwDOAyHt9s4aQSq_",
+          "owner": "pressly",
+          "repo": "goose",
+          "tag": "v3.30.0",
+          "url": "https://github.com/pressly/goose/releases/tag/v3.30.0",
+          "publishedAt": "2026-11-10T14:37:32Z",
+          "name": "v3.30.0"
+        },
+        {
+          "id": "RE_kwDOEXrCM84aQNOv",
+          "owner": "esm-dev",
+          "repo": "esm.sh",
+          "tag": "v140_3",
+          "url": "https://github.com/esm-dev/esm.sh/releases/tag/v140_3",
+          "publishedAt": "2026-11-10T14:18:52Z",
+          "name": "Server v140_3"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4aQLcF",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.45.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.45.0",
+          "publishedAt": "2026-11-10T14:12:19Z",
+          "name": "Release 6.45.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4aP_je",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.6",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.6",
+          "publishedAt": "2026-11-10T13:36:08Z",
+          "name": "v2026.11.6: Pick several tasks with mise run --multi, and use unprefixed bootstrap packages"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aP_fS",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.733.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.733.0",
+          "publishedAt": "2026-11-10T13:29:59Z",
+          "name": "v0.733.0"
+        },
+        {
+          "id": "RE_kwDOPbFNk84aPpew",
+          "owner": "earendil-works",
+          "repo": "pi",
+          "tag": "v1.5.2",
+          "url": "https://github.com/earendil-works/pi/releases/tag/v1.5.2",
+          "publishedAt": "2026-11-10T12:25:43Z",
+          "name": "v1.5.2"
+        },
+        {
           "id": "RE_kwDOQvjuaM4aPdls",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2410,8 +2545,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aPdls",
-        "lastPublishedAt": "2026-11-10T11:13:31Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aQwSp",
+        "lastPublishedAt": "2026-11-10T16:16:05Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2488,8 +2623,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4aDGMt",
-        "lastPublishedAt": "2026-11-06T20:52:10Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4aRB5M",
+        "lastPublishedAt": "2026-11-10T17:19:40Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2650,8 +2785,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4aKpzq",
-        "lastPublishedAt": "2026-11-09T10:36:20Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4aRMYb",
+        "lastPublishedAt": "2026-11-10T17:57:41Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2683,8 +2818,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4Zz8ms",
-        "lastPublishedAt": "2026-11-03T18:04:32Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4aQLcF",
+        "lastPublishedAt": "2026-11-10T14:12:19Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -2970,8 +3105,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4aJMFx",
-        "lastPublishedAt": "2026-11-09T00:12:35Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4aQdM7",
+        "lastPublishedAt": "2026-11-10T15:13:30Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3150,8 +3285,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4ZoJjw",
-        "lastPublishedAt": "2026-10-31T13:30:29Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4aQhda",
+        "lastPublishedAt": "2026-11-10T15:27:15Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -3224,8 +3359,8 @@
         "lastPublishedAt": "2025-03-15T06:49:00Z"
       },
       "esm-dev/esm.sh": {
-        "lastReleaseId": "RE_kwDOEXrCM84ZoQ2y",
-        "lastPublishedAt": "2026-10-31T14:27:35Z",
+        "lastReleaseId": "RE_kwDOEXrCM84aQNOv",
+        "lastPublishedAt": "2026-11-10T14:18:52Z",
         "releaseHistoryCursor": null
       },
       "stackblitz-labs/pkg.pr.new": {},
@@ -3261,8 +3396,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4aJZLI",
-        "lastPublishedAt": "2026-11-09T02:10:15Z",
+        "lastReleaseId": "RE_kwDOIvux3s4aP_je",
+        "lastPublishedAt": "2026-11-10T13:36:08Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3702,8 +3837,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4aICKV",
-        "lastPublishedAt": "2026-11-08T14:54:08Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4aRbXT",
+        "lastPublishedAt": "2026-11-10T18:54:50Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3885,8 +4020,8 @@
         "lastPublishedAt": "2025-03-12T16:38:48Z"
       },
       "pressly/goose": {
-        "lastReleaseId": "RE_kwDOAyHt9s4YbWt1",
-        "lastPublishedAt": "2026-10-11T17:48:18Z",
+        "lastReleaseId": "RE_kwDOAyHt9s4aQSq_",
+        "lastPublishedAt": "2026-11-10T14:37:32Z",
         "releaseHistoryCursor": null
       },
       "mantinedev/ui.mantine.dev": {},
@@ -4534,8 +4669,8 @@
         "releaseHistoryCursor": null
       },
       "earendil-works/pi": {
-        "lastReleaseId": "RE_kwDOPbFNk84aNj9C",
-        "lastPublishedAt": "2026-11-09T23:47:44Z",
+        "lastReleaseId": "RE_kwDOPbFNk84aPpew",
+        "lastPublishedAt": "2026-11-10T12:25:43Z",
         "releaseHistoryCursor": null
       },
       "go-fynx/deadcode": {},
