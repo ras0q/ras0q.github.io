@@ -1976,6 +1976,152 @@
           "publishedAt": "2026-11-10T01:11:32Z",
           "name": "v0.727.0"
         }
+      ],
+      "2026-11-11": [
+        {
+          "id": "RE_kwDOQvjuaM4aUY_c",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.743.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.743.0",
+          "publishedAt": "2026-11-11T10:41:36Z",
+          "name": "v0.743.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4aUKZ1",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.27.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.27.0",
+          "publishedAt": "2026-11-11T09:51:30Z",
+          "name": "v1.27.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4aUBGT",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.160.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.160.0",
+          "publishedAt": "2026-11-11T09:18:23Z",
+          "name": "v1.160.0"
+        },
+        {
+          "id": "RE_kwDORdcLgM4aTw_T",
+          "owner": "docker",
+          "repo": "sbx-releases",
+          "tag": "v0.53.0",
+          "url": "https://github.com/docker/sbx-releases/releases/tag/v0.53.0",
+          "publishedAt": "2026-11-11T08:02:42Z",
+          "name": "v0.53.0"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4aTv8g",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.45.1",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.45.1",
+          "publishedAt": "2026-11-11T07:56:48Z",
+          "name": "Release 6.45.1"
+        },
+        {
+          "id": "RE_kwDODVAw7c4aTfdO",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.1",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.1",
+          "publishedAt": "2026-11-11T06:39:02Z",
+          "name": "v3.34.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aTfNv",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.742.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.742.0",
+          "publishedAt": "2026-11-11T06:37:56Z",
+          "name": "v0.742.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aTWTF",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.741.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.741.0",
+          "publishedAt": "2026-11-11T05:38:02Z",
+          "name": "v0.741.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aTNGO",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.740.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.740.0",
+          "publishedAt": "2026-11-11T04:33:40Z",
+          "name": "v0.740.0"
+        },
+        {
+          "id": "RE_kwDOOELNJM4aTL3D",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.6.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.6.0",
+          "publishedAt": "2026-11-11T04:24:13Z",
+          "name": "vite-plus v1.6.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4aTG2B",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.48",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.48",
+          "publishedAt": "2026-11-11T03:55:47Z",
+          "name": "1.0.48"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aTATG",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.739.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.739.0",
+          "publishedAt": "2026-11-11T03:06:22Z",
+          "name": "v0.739.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aS5y6",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.738.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.738.0",
+          "publishedAt": "2026-11-11T02:21:16Z",
+          "name": "v0.738.0"
+        },
+        {
+          "id": "RE_kwDODVAw7c4aS4R0",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.0",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.0",
+          "publishedAt": "2026-11-11T02:10:47Z",
+          "name": "v3.34.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aSxvy",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.737.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.737.0",
+          "publishedAt": "2026-11-11T01:28:12Z",
+          "name": "v0.737.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aSqDr",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.736.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.736.0",
+          "publishedAt": "2026-11-11T00:41:38Z",
+          "name": "v0.736.0"
+        }
       ]
     }
   },
@@ -2190,8 +2336,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4aLdFy",
-        "lastPublishedAt": "2026-11-09T14:08:10Z",
+        "lastReleaseId": "RE_kwDOOELNJM4aTL3D",
+        "lastPublishedAt": "2026-11-11T04:24:13Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -2210,8 +2356,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aSjCo",
-        "lastPublishedAt": "2026-11-10T23:57:15Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aUY_c",
+        "lastPublishedAt": "2026-11-11T10:41:36Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2450,8 +2596,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4aRMYb",
-        "lastPublishedAt": "2026-11-10T17:57:41Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4aUBGT",
+        "lastPublishedAt": "2026-11-11T09:18:23Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2483,8 +2629,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4aQLcF",
-        "lastPublishedAt": "2026-11-10T14:12:19Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4aTv8g",
+        "lastPublishedAt": "2026-11-11T07:56:48Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -2494,8 +2640,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4Z_DXg",
-        "lastPublishedAt": "2026-11-06T01:14:06Z",
+        "lastReleaseId": "RE_kwDODVAw7c4aTfdO",
+        "lastPublishedAt": "2026-11-11T06:39:02Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2950,8 +3096,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4aQhda",
-        "lastPublishedAt": "2026-11-10T15:27:15Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4aUKZ1",
+        "lastPublishedAt": "2026-11-11T09:51:30Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -3633,8 +3779,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4aLVgC",
-        "lastPublishedAt": "2026-11-09T13:43:50Z",
+        "lastReleaseId": "RE_kwDOGNEXps4aTG2B",
+        "lastPublishedAt": "2026-11-11T03:55:47Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -4371,8 +4517,8 @@
         "releaseHistoryCursor": null
       },
       "docker/sbx-releases": {
-        "lastReleaseId": "RE_kwDORdcLgM4Zy6hc",
-        "lastPublishedAt": "2026-11-03T14:06:45Z",
+        "lastReleaseId": "RE_kwDORdcLgM4aTw_T",
+        "lastPublishedAt": "2026-11-11T08:02:42Z",
         "releaseHistoryCursor": null
       },
       "petamoriken/yuzuko": {
@@ -4385,7 +4531,13 @@
         "lastPublishedAt": "2026-10-29T17:25:24Z",
         "releaseHistoryCursor": null
       },
-      "tesso57/pi-extension-template": {}
+      "tesso57/pi-extension-template": {},
+      "docker/sandbox-kit-spec": {},
+      "willothy/flatten.nvim": {
+        "lastPublishedAt": "2024-01-26T22:23:58Z",
+        "lastReleaseId": "RE_kwDOJHvKrs4IRQF3",
+        "releaseHistoryCursor": null
+      }
     }
   }
 }
