@@ -1980,6 +1980,150 @@
       ],
       "2026-11-12": [
         {
+          "id": "RE_kwDOIQJ2Xs4ab0sS",
+          "owner": "awaescher",
+          "repo": "StageManager",
+          "tag": "0.0.31",
+          "url": "https://github.com/awaescher/StageManager/releases/tag/0.0.31",
+          "publishedAt": "2026-11-12T20:58:14Z",
+          "name": "Release 0.0.31"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84abjiP",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "4.18.2",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.18.2",
+          "publishedAt": "2026-11-12T19:53:24Z",
+          "name": "4.18.2"
+        },
+        {
+          "id": "RE_kwDOHy0Bzc4abIJ6",
+          "owner": "astral-sh",
+          "repo": "ruff",
+          "tag": "0.17.5",
+          "url": "https://github.com/astral-sh/ruff/releases/tag/0.17.5",
+          "publishedAt": "2026-11-12T17:55:55Z",
+          "name": "0.17.5"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4aa5Td",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.13.8",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.8",
+          "publishedAt": "2026-11-12T17:03:07Z",
+          "name": "0.13.8"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aaxPN",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.751.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.751.0",
+          "publishedAt": "2026-11-12T16:37:27Z",
+          "name": "v0.751.0"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4aamh1",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.101.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.101.0",
+          "publishedAt": "2026-11-12T16:02:35Z",
+          "name": "v0.101.0"
+        },
+        {
+          "id": "RE_kwDOD6MHws4aaOms",
+          "owner": "obsidianmd",
+          "repo": "obsidian-releases",
+          "tag": "v1.15.1",
+          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.15.1",
+          "publishedAt": "2026-11-12T15:43:18Z",
+          "name": "1.15.1"
+        },
+        {
+          "id": "RE_kwDORWiFDM4aae39",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.10",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.10",
+          "publishedAt": "2026-11-12T15:38:16Z",
+          "name": "v2.1.10"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aaSoY",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.750.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.750.0",
+          "publishedAt": "2026-11-12T15:00:42Z",
+          "name": "v0.750.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aaI48",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.749.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.749.0",
+          "publishedAt": "2026-11-12T14:29:10Z",
+          "name": "v0.749.0"
+        },
+        {
+          "id": "RE_kwDOJKcikM4aaBK5",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight-docsearch@0.8.2",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight-docsearch%400.8.2",
+          "publishedAt": "2026-11-12T14:03:08Z",
+          "name": "@astrojs/starlight-docsearch@0.8.2"
+        },
+        {
+          "id": "RE_kwDOJKcikM4aaBJ5",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.42.11",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.11",
+          "publishedAt": "2026-11-12T14:03:05Z",
+          "name": "@astrojs/starlight@0.42.11"
+        },
+        {
+          "id": "RE_kwDOAyHt9s4aaBFO",
+          "owner": "pressly",
+          "repo": "goose",
+          "tag": "v3.30.1",
+          "url": "https://github.com/pressly/goose/releases/tag/v3.30.1",
+          "publishedAt": "2026-11-12T14:02:56Z",
+          "name": "v3.30.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aZ5RJ",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.748.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.748.0",
+          "publishedAt": "2026-11-12T13:37:09Z",
+          "name": "v0.748.0"
+        },
+        {
+          "id": "RE_kwDOBOOjGs4aZtNb",
+          "owner": "j0k3r",
+          "repo": "banditore",
+          "tag": "6.1.0",
+          "url": "https://github.com/j0k3r/banditore/releases/tag/6.1.0",
+          "publishedAt": "2026-11-12T12:54:18Z",
+          "name": "6.1.0"
+        },
+        {
+          "id": "RE_kwDODVAw7c4aZqap",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.3",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.3",
+          "publishedAt": "2026-11-12T12:44:16Z",
+          "name": "v3.34.3"
+        },
+        {
           "id": "RE_kwDORWiFDM4aZaEZ",
           "owner": "mksglu",
           "repo": "context-mode",
@@ -2129,8 +2273,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4aZaEZ",
-        "lastPublishedAt": "2026-11-12T11:43:07Z",
+        "lastReleaseId": "RE_kwDORWiFDM4aae39",
+        "lastPublishedAt": "2026-11-12T15:38:16Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2294,8 +2438,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aYm4D",
-        "lastPublishedAt": "2026-11-12T08:18:02Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aaxPN",
+        "lastPublishedAt": "2026-11-12T16:37:27Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2440,8 +2584,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4Z9aBO",
-        "lastPublishedAt": "2026-11-05T17:47:22Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4aamh1",
+        "lastPublishedAt": "2026-11-12T16:02:35Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -2503,14 +2647,14 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4aCY-t",
-        "lastPublishedAt": "2026-11-06T18:13:21Z",
+        "lastReleaseId": "RE_kwDOJKcikM4aaBK5",
+        "lastPublishedAt": "2026-11-12T14:03:08Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
       "awaescher/StageManager": {
-        "lastReleaseId": "RE_kwDOIQJ2Xs4aWro4",
-        "lastPublishedAt": "2026-11-11T20:01:08Z",
+        "lastReleaseId": "RE_kwDOIQJ2Xs4ab0sS",
+        "lastPublishedAt": "2026-11-12T20:58:14Z",
         "releaseHistoryCursor": null
       },
       "folke/sidekick.nvim": {
@@ -2579,8 +2723,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4aXUTZ",
-        "lastPublishedAt": "2026-11-11T23:55:38Z",
+        "lastReleaseId": "RE_kwDODVAw7c4aZqap",
+        "lastPublishedAt": "2026-11-12T12:44:16Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2591,8 +2735,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84aR78E",
-        "lastPublishedAt": "2026-11-10T21:13:13Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84abjiP",
+        "lastPublishedAt": "2026-11-12T19:53:24Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -3480,8 +3624,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4ZwyoV",
-        "lastPublishedAt": "2026-11-03T02:45:04Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4aa5Td",
+        "lastPublishedAt": "2026-11-12T17:03:07Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3504,13 +3648,14 @@
       "hijiki51/thesis": {},
       "sheepla/sheepla": {},
       "obsidianmd/obsidian-releases": {
-        "lastReleaseId": "RE_kwDOD6MHws4ZmRJw",
-        "lastPublishedAt": "2026-11-02T15:39:05Z",
+        "lastReleaseId": "RE_kwDOD6MHws4aaOms",
+        "lastPublishedAt": "2026-11-12T15:43:18Z",
         "releaseHistoryCursor": null
       },
       "j0k3r/banditore": {
-        "lastReleaseId": "RE_kwDOBOOjGs4O9-vJ",
-        "lastPublishedAt": "2025-09-30T13:52:18Z"
+        "lastReleaseId": "RE_kwDOBOOjGs4aZtNb",
+        "lastPublishedAt": "2026-11-12T12:54:18Z",
+        "releaseHistoryCursor": null
       },
       "youta-t/its": {},
       "modular/modular": {
@@ -3644,8 +3789,8 @@
       "hustvl/4DGaussians": {},
       "Kazuhito00/MoveNet-Python-Example": {},
       "astral-sh/ruff": {
-        "lastReleaseId": "RE_kwDOHy0Bzc4Z9rar",
-        "lastPublishedAt": "2026-11-05T18:53:24Z",
+        "lastReleaseId": "RE_kwDOHy0Bzc4abIJ6",
+        "lastPublishedAt": "2026-11-12T17:55:55Z",
         "releaseHistoryCursor": null
       },
       "astral-sh/rye": {
@@ -3771,8 +3916,8 @@
         "lastPublishedAt": "2025-03-12T16:38:48Z"
       },
       "pressly/goose": {
-        "lastReleaseId": "RE_kwDOAyHt9s4aQSq_",
-        "lastPublishedAt": "2026-11-10T14:37:32Z",
+        "lastReleaseId": "RE_kwDOAyHt9s4aaBFO",
+        "lastPublishedAt": "2026-11-12T14:02:56Z",
         "releaseHistoryCursor": null
       },
       "mantinedev/ui.mantine.dev": {},
