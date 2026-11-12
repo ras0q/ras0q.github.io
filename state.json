@@ -1980,6 +1980,78 @@
       ],
       "2026-11-12": [
         {
+          "id": "RE_kwDORWiFDM4aZaEZ",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.9",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.9",
+          "publishedAt": "2026-11-12T11:43:07Z",
+          "name": "v2.1.9"
+        },
+        {
+          "id": "RE_kwDOAeC4a84aY0o1",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.4.5",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.4.5",
+          "publishedAt": "2026-11-12T09:14:32Z",
+          "name": "v5.4.5"
+        },
+        {
+          "id": "RE_kwDOAeC4a84aY0og",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v4.16.4",
+          "url": "https://github.com/labstack/echo/releases/tag/v4.16.4",
+          "publishedAt": "2026-11-12T09:14:30Z",
+          "name": "v4.16.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aYm4D",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.747.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.747.0",
+          "publishedAt": "2026-11-12T08:18:02Z",
+          "name": "v0.747.0"
+        },
+        {
+          "id": "RE_kwDOFUJ2Oc4aYhqi",
+          "owner": "a-h",
+          "repo": "templ",
+          "tag": "v0.3.1118",
+          "url": "https://github.com/a-h/templ/releases/tag/v0.3.1118",
+          "publishedAt": "2026-11-12T07:54:14Z",
+          "name": "v0.3.1118"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4aX-L5",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.35",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.35",
+          "publishedAt": "2026-11-12T04:18:53Z",
+          "name": "v1.10.35"
+        },
+        {
+          "id": "RE_kwDOUNMECc4ZszWc",
+          "owner": "jdx",
+          "repo": "packslip",
+          "tag": "v1.11.4",
+          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.4",
+          "publishedAt": "2026-11-12T02:41:59Z",
+          "name": "v1.11.4: Maintenance release"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4aXt-p",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.22",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.22",
+          "publishedAt": "2026-11-12T02:31:36Z",
+          "name": "cli-v0.1.22"
+        },
+        {
           "id": "RE_kwDOIvux3s4aXbmB",
           "owner": "jdx",
           "repo": "mise",
@@ -2057,8 +2129,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4aXBac",
-        "lastPublishedAt": "2026-11-11T22:09:13Z",
+        "lastReleaseId": "RE_kwDORWiFDM4aZaEZ",
+        "lastPublishedAt": "2026-11-12T11:43:07Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2222,8 +2294,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aWomL",
-        "lastPublishedAt": "2026-11-11T19:48:19Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aYm4D",
+        "lastPublishedAt": "2026-11-12T08:18:02Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2321,8 +2393,8 @@
         "releaseHistoryCursor": null
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84ZjN9s",
-        "lastPublishedAt": "2026-10-30T04:46:36Z",
+        "lastReleaseId": "RE_kwDOAeC4a84aY0o1",
+        "lastPublishedAt": "2026-11-12T09:14:32Z",
         "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
@@ -3133,8 +3205,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4aXQLE",
-        "lastPublishedAt": "2026-11-11T23:30:48Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4aXt-p",
+        "lastPublishedAt": "2026-11-12T02:31:36Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -3497,8 +3569,8 @@
         "lastPublishedAt": "2024-10-20T09:14:34Z"
       },
       "a-h/templ": {
-        "lastReleaseId": "RE_kwDOFUJ2Oc4ZRhZq",
-        "lastPublishedAt": "2026-10-26T08:55:31Z",
+        "lastReleaseId": "RE_kwDOFUJ2Oc4aYhqi",
+        "lastPublishedAt": "2026-11-12T07:54:14Z",
         "releaseHistoryCursor": null
       },
       "L7Cy/obsidian-2hop-links-plus": {
@@ -3754,8 +3826,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4ZqvFx",
-        "lastPublishedAt": "2026-11-01T14:21:47Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4aX-L5",
+        "lastPublishedAt": "2026-11-12T04:18:53Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
@@ -4319,8 +4391,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/packslip": {
-        "lastReleaseId": "RE_kwDOUNMECc4ZbJ6u",
-        "lastPublishedAt": "2026-10-31T10:07:37Z",
+        "lastReleaseId": "RE_kwDOUNMECc4ZszWc",
+        "lastPublishedAt": "2026-11-12T02:41:59Z",
         "releaseHistoryCursor": null
       },
       "getsentry/MobileBuildMCP": {
