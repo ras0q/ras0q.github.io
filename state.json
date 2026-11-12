@@ -2,529 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
       "2026-11-08",
       "2026-11-09",
-      "2026-11-10"
+      "2026-11-10",
+      "2026-11-11"
     ],
     "days": {
-      "2026-11-04": [
-        {
-          "id": "RE_kwDOQvjuaM4Z53Zc",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.682.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.682.0",
-          "publishedAt": "2026-11-04T23:56:29Z",
-          "name": "v0.682.0"
-        },
-        {
-          "id": "RE_kwDOF9Sih84Z5237",
-          "owner": "aquaproj",
-          "repo": "aqua",
-          "tag": "v2.66.1",
-          "url": "https://github.com/aquaproj/aqua/releases/tag/v2.66.1",
-          "publishedAt": "2026-11-04T23:52:40Z"
-        },
-        {
-          "id": "RE_kwDOFOI1Cc4Z51Wl",
-          "owner": "vslinko",
-          "repo": "obsidian-outliner",
-          "tag": "4.11.0",
-          "url": "https://github.com/vslinko/obsidian-outliner/releases/tag/4.11.0",
-          "publishedAt": "2026-11-04T23:42:42Z",
-          "name": "4.11.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Z5qyn",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.681.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.681.0",
-          "publishedAt": "2026-11-04T22:56:38Z",
-          "name": "v0.681.0"
-        },
-        {
-          "id": "RE_kwDOBMN_y84Z5mBK",
-          "owner": "chromedp",
-          "repo": "chromedp",
-          "tag": "v0.22.1",
-          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.22.1",
-          "publishedAt": "2026-11-04T22:30:29Z",
-          "name": "v0.22.1"
-        },
-        {
-          "id": "RE_kwDOQ52_2c4Z5dAg",
-          "owner": "vercel-labs",
-          "repo": "json-render",
-          "tag": "v0.22.0",
-          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.22.0",
-          "publishedAt": "2026-11-04T21:47:03Z",
-          "name": "v0.22.0"
-        },
-        {
-          "id": "RE_kwDORWiFDM4Z5ZgM",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.0.2",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.0.2",
-          "publishedAt": "2026-11-04T21:30:47Z",
-          "name": "v2.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZNJ",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "ui@0.13.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/ui%400.13.1",
-          "publishedAt": "2026-11-04T21:29:28Z",
-          "name": "ui v0.13.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZMz",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "remix@3.2.0",
-          "url": "https://github.com/remix-run/remix/releases/tag/remix%403.2.0",
-          "publishedAt": "2026-11-04T21:29:27Z",
-          "name": "remix v3.2.0"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZMl",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "static-middleware@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/static-middleware%401.0.2",
-          "publishedAt": "2026-11-04T21:29:25Z",
-          "name": "static-middleware v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZMQ",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "spa@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/spa%401.0.2",
-          "publishedAt": "2026-11-04T21:29:24Z",
-          "name": "spa v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZL-",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "render-middleware@1.1.0",
-          "url": "https://github.com/remix-run/remix/releases/tag/render-middleware%401.1.0",
-          "publishedAt": "2026-11-04T21:29:23Z",
-          "name": "render-middleware v1.1.0"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZLt",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "session-storage-redis@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/session-storage-redis%401.0.1",
-          "publishedAt": "2026-11-04T21:29:22Z",
-          "name": "session-storage-redis v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZLa",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "session-storage-memcache@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/session-storage-memcache%401.0.1",
-          "publishedAt": "2026-11-04T21:29:21Z",
-          "name": "session-storage-memcache v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZKX",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "session-middleware@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/session-middleware%401.0.2",
-          "publishedAt": "2026-11-04T21:29:20Z",
-          "name": "session-middleware v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZKD",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "multiple-import-maps-polyfill@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/multiple-import-maps-polyfill%401.0.1",
-          "publishedAt": "2026-11-04T21:29:19Z",
-          "name": "multiple-import-maps-polyfill v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZJv",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "form-data-middleware@1.1.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/form-data-middleware%401.1.1",
-          "publishedAt": "2026-11-04T21:29:17Z",
-          "name": "form-data-middleware v1.1.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZJm",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "form-data-parser@1.1.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/form-data-parser%401.1.1",
-          "publishedAt": "2026-11-04T21:29:16Z",
-          "name": "form-data-parser v1.1.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZJa",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "multipart-parser@1.1.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/multipart-parser%401.1.1",
-          "publishedAt": "2026-11-04T21:29:16Z",
-          "name": "multipart-parser v1.1.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZJP",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "file-storage-s3@1.1.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/file-storage-s3%401.1.1",
-          "publishedAt": "2026-11-04T21:29:15Z",
-          "name": "file-storage-s3 v1.1.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZI-",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "fetch-proxy@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/fetch-proxy%401.0.2",
-          "publishedAt": "2026-11-04T21:29:14Z",
-          "name": "fetch-proxy v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZIw",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "csrf-middleware@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/csrf-middleware%401.0.1",
-          "publishedAt": "2026-11-04T21:29:13Z",
-          "name": "csrf-middleware v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZIg",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "csp-middleware@1.0.0",
-          "url": "https://github.com/remix-run/remix/releases/tag/csp-middleware%401.0.0",
-          "publishedAt": "2026-11-04T21:29:12Z",
-          "name": "csp-middleware v1.0.0"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZIN",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "cors-middleware@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/cors-middleware%401.0.2",
-          "publishedAt": "2026-11-04T21:29:11Z",
-          "name": "cors-middleware v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZH-",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "cookie@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/cookie%401.0.2",
-          "publishedAt": "2026-11-04T21:29:10Z",
-          "name": "cookie v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZHt",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "compression-middleware@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/compression-middleware%401.0.2",
-          "publishedAt": "2026-11-04T21:29:09Z",
-          "name": "compression-middleware v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZHi",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "response@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/response%401.0.2",
-          "publishedAt": "2026-11-04T21:29:08Z",
-          "name": "response v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZHN",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "component-hmr@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/component-hmr%401.0.1",
-          "publishedAt": "2026-11-04T21:29:06Z",
-          "name": "component-hmr v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZG9",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "component@1.2.0",
-          "url": "https://github.com/remix-run/remix/releases/tag/component%401.2.0",
-          "publishedAt": "2026-11-04T21:29:05Z",
-          "name": "component v1.2.0"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZGn",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "cli@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/cli%401.0.2",
-          "publishedAt": "2026-11-04T21:29:04Z",
-          "name": "cli v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZGW",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "test@1.1.0",
-          "url": "https://github.com/remix-run/remix/releases/tag/test%401.1.0",
-          "publishedAt": "2026-11-04T21:29:03Z",
-          "name": "test v1.1.0"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZGB",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "auth-middleware@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/auth-middleware%401.0.1",
-          "publishedAt": "2026-11-04T21:29:01Z",
-          "name": "auth-middleware v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZFu",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "auth@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/auth%401.0.1",
-          "publishedAt": "2026-11-04T21:29:00Z",
-          "name": "auth v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZFc",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "session@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/session%401.0.1",
-          "publishedAt": "2026-11-04T21:28:59Z",
-          "name": "session v1.0.1"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZFJ",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "assets@1.0.2",
-          "url": "https://github.com/remix-run/remix/releases/tag/assets%401.0.2",
-          "publishedAt": "2026-11-04T21:28:58Z",
-          "name": "assets v1.0.2"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZE3",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "headers@1.1.0",
-          "url": "https://github.com/remix-run/remix/releases/tag/headers%401.1.0",
-          "publishedAt": "2026-11-04T21:28:57Z",
-          "name": "headers v1.1.0"
-        },
-        {
-          "id": "RE_kwDOElPqBM4Z5ZEo",
-          "owner": "remix-run",
-          "repo": "remix",
-          "tag": "file-storage@1.0.1",
-          "url": "https://github.com/remix-run/remix/releases/tag/file-storage%401.0.1",
-          "publishedAt": "2026-11-04T21:28:55Z",
-          "name": "file-storage v1.0.1"
-        },
-        {
-          "id": "RE_kwDOObWEYM4Z5Kb1",
-          "owner": "google-gemini",
-          "repo": "gemini-cli",
-          "tag": "v0.67.0",
-          "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0",
-          "publishedAt": "2026-11-04T20:27:11Z",
-          "name": "Release v0.67.0"
-        },
-        {
-          "id": "RE_kwDORWiFDM4Z4-hp",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.0.1",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.0.1",
-          "publishedAt": "2026-11-04T19:39:39Z",
-          "name": "v2.0.1"
-        },
-        {
-          "id": "RE_kwDOIvux3s4Z41jg",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.11.1",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.1",
-          "publishedAt": "2026-11-04T19:13:36Z",
-          "name": "v2026.11.1: npm provenance verified by default, with repository pins in mise.lock"
-        },
-        {
-          "id": "RE_kwDOJKcikM4Z4fqF",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.9",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.9",
-          "publishedAt": "2026-11-04T17:35:12Z",
-          "name": "@astrojs/starlight@0.42.9"
-        },
-        {
-          "id": "RE_kwDOFOI1Cc4Z4esg",
-          "owner": "vslinko",
-          "repo": "obsidian-outliner",
-          "tag": "4.10.3",
-          "url": "https://github.com/vslinko/obsidian-outliner/releases/tag/4.10.3",
-          "publishedAt": "2026-11-04T17:30:57Z",
-          "name": "4.10.3"
-        },
-        {
-          "id": "RE_kwDORWiFDM4Z4ZAa",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.0.0",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.0.0",
-          "publishedAt": "2026-11-04T17:08:00Z",
-          "name": "Context Mode 2.0"
-        },
-        {
-          "id": "RE_kwDOCcSpD84Z4P0m",
-          "owner": "nektos",
-          "repo": "act",
-          "tag": "v0.2.97",
-          "url": "https://github.com/nektos/act/releases/tag/v0.2.97",
-          "publishedAt": "2026-11-04T16:35:28Z",
-          "name": "v0.2.97"
-        },
-        {
-          "id": "RE_kwDOEE38qM4Z4KCM",
-          "owner": "foambubble",
-          "repo": "foam",
-          "tag": "vscode@0.47.0",
-          "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.47.0",
-          "publishedAt": "2026-11-04T16:11:17Z",
-          "name": "vscode@0.47.0"
-        },
-        {
-          "id": "RE_kwDOEE38qM4Z4Iv6",
-          "owner": "foambubble",
-          "repo": "foam",
-          "tag": "vscode@0.47.1",
-          "url": "https://github.com/foambubble/foam/releases/tag/vscode%400.47.1",
-          "publishedAt": "2026-11-04T16:04:55Z",
-          "name": "vscode@0.47.1"
-        },
-        {
-          "id": "RE_kwDOE4c3is4Z3Mz4",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.7.5",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.7.5",
-          "publishedAt": "2026-11-04T12:37:56Z",
-          "name": "9.7.5"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4Z2yjh",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.10.0",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.10.0",
-          "publishedAt": "2026-11-04T10:43:16Z",
-          "name": "v1.10.0"
-        },
-        {
-          "id": "RE_kwDON7Gnt84Z2rVy",
-          "owner": "whitphx",
-          "repo": "slidev-addon-fancy-arrow",
-          "tag": "slidev-addon-fancy-arrow@0.20.4",
-          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.20.4",
-          "publishedAt": "2026-11-04T10:02:55Z",
-          "name": "slidev-addon-fancy-arrow@0.20.4"
-        },
-        {
-          "id": "RE_kwDODVAw7c4Z10VU",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.33.18",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.33.18",
-          "publishedAt": "2026-11-04T05:13:21Z",
-          "name": "v3.33.18"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Z1wq9",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.680.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.680.0",
-          "publishedAt": "2026-11-04T04:46:47Z",
-          "name": "v0.680.0"
-        },
-        {
-          "id": "RE_kwDOOELNJM4Z1wVq",
-          "owner": "voidzero-dev",
-          "repo": "vite-plus",
-          "tag": "v1.5.0",
-          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.5.0",
-          "publishedAt": "2026-11-04T04:43:52Z",
-          "name": "vite-plus v1.5.0"
-        },
-        {
-          "id": "RE_kwDON7Gnt84Z1pa0",
-          "owner": "whitphx",
-          "repo": "slidev-addon-fancy-arrow",
-          "tag": "slidev-addon-fancy-arrow@0.20.3",
-          "url": "https://github.com/whitphx/slidev-addon-fancy-arrow/releases/tag/slidev-addon-fancy-arrow%400.20.3",
-          "publishedAt": "2026-11-04T03:54:35Z",
-          "name": "slidev-addon-fancy-arrow@0.20.3"
-        },
-        {
-          "id": "RE_kwDOI-CNzc4Z1mdU",
-          "owner": "container2wasm",
-          "repo": "container2wasm",
-          "tag": "v0.8.5",
-          "url": "https://github.com/container2wasm/container2wasm/releases/tag/v0.8.5",
-          "publishedAt": "2026-11-04T03:45:04Z",
-          "name": "v0.8.5"
-        },
-        {
-          "id": "RE_kwDORQ3jDc4Z1nrE",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.16.0",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.16.0",
-          "publishedAt": "2026-11-04T03:41:51Z",
-          "name": "v0.16.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4Z1Leq",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.679.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.679.0",
-          "publishedAt": "2026-11-04T00:31:17Z",
-          "name": "v0.679.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4Z1I7F",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.202",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.202",
-          "publishedAt": "2026-11-04T00:14:40Z",
-          "name": "v8.4.202 - `ultralytics 8.4.202` Save stream prediction videos at the stream's frame rate (#27016)"
-        }
-      ],
       "2026-11-05": [
         {
           "id": "RE_kwDOBMN_y84Z-mKC",
@@ -1979,6 +1465,96 @@
       ],
       "2026-11-11": [
         {
+          "id": "RE_kwDODVAw7c4aXUTZ",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.2",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.2",
+          "publishedAt": "2026-11-11T23:55:38Z",
+          "name": "v3.34.2"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4aXQLE",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.21",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.21",
+          "publishedAt": "2026-11-11T23:30:48Z",
+          "name": "cli-v0.1.21"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4aXMgZ",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.211",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.211",
+          "publishedAt": "2026-11-11T23:09:15Z",
+          "name": "v8.4.211 - Encode images up to 9% faster with compiled SAM 3 (#27158)"
+        },
+        {
+          "id": "RE_kwDOPYoUTM4aXHle",
+          "owner": "Fission-AI",
+          "repo": "OpenSpec",
+          "tag": "v2.0.0",
+          "url": "https://github.com/Fission-AI/OpenSpec/releases/tag/v2.0.0",
+          "publishedAt": "2026-11-11T22:41:44Z",
+          "name": "v2.0.0 - Skills in .agents/skills, /opsx commands removed"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4aXFFJ",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.20",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.20",
+          "publishedAt": "2026-11-11T22:28:12Z",
+          "name": "cli-v0.1.20"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4aXCxj",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.35.1",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.35.1",
+          "publishedAt": "2026-11-11T22:16:15Z",
+          "name": "v0.35.1"
+        },
+        {
+          "id": "RE_kwDORWiFDM4aXBac",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.1.8",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.8",
+          "publishedAt": "2026-11-11T22:09:13Z",
+          "name": "v2.1.8"
+        },
+        {
+          "id": "RE_kwDOIQJ2Xs4aWro4",
+          "owner": "awaescher",
+          "repo": "StageManager",
+          "tag": "0.0.30",
+          "url": "https://github.com/awaescher/StageManager/releases/tag/0.0.30",
+          "publishedAt": "2026-11-11T20:01:08Z",
+          "name": "Release 0.0.30"
+        },
+        {
+          "id": "RE_kwDOIQJ2Xs4aWpJT",
+          "owner": "awaescher",
+          "repo": "StageManager",
+          "tag": "0.0.29",
+          "url": "https://github.com/awaescher/StageManager/releases/tag/0.0.29",
+          "publishedAt": "2026-11-11T19:50:29Z",
+          "name": "Release 0.0.29"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aWomL",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.746.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.746.0",
+          "publishedAt": "2026-11-11T19:48:19Z",
+          "name": "v0.746.0"
+        },
+        {
           "id": "RE_kwDOLFvGAc4aWZMm",
           "owner": "sweetpad-dev",
           "repo": "sweetpad",
@@ -2401,6 +1977,17 @@
           "publishedAt": "2026-11-11T00:41:38Z",
           "name": "v0.736.0"
         }
+      ],
+      "2026-11-12": [
+        {
+          "id": "RE_kwDOIvux3s4aXbmB",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.7",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.7",
+          "publishedAt": "2026-11-12T00:46:36Z",
+          "name": "v2026.11.7: Shorter shim errors, task run history in JSON, and dotfiles safety fixes"
+        }
       ]
     }
   },
@@ -2470,8 +2057,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4aIDC_",
-        "lastPublishedAt": "2026-11-08T15:00:33Z",
+        "lastReleaseId": "RE_kwDORWiFDM4aXBac",
+        "lastPublishedAt": "2026-11-11T22:09:13Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2577,8 +2164,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4ZHDLA",
-        "lastPublishedAt": "2026-10-22T22:51:41Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4aXCxj",
+        "lastPublishedAt": "2026-11-11T22:16:15Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -2635,8 +2222,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aVJyE",
-        "lastPublishedAt": "2026-11-11T13:45:54Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aWomL",
+        "lastPublishedAt": "2026-11-11T19:48:19Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2681,8 +2268,8 @@
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
-        "lastReleaseId": "RE_kwDOPYoUTM4aNnYk",
-        "lastPublishedAt": "2026-11-09T23:46:31Z",
+        "lastReleaseId": "RE_kwDOPYoUTM4aXHle",
+        "lastPublishedAt": "2026-11-11T22:41:44Z",
         "releaseHistoryCursor": null
       },
       "alberti42/zsh-appearance-control": {
@@ -2850,8 +2437,9 @@
       },
       "boltlessengineer/NativeVim": {},
       "awaescher/StageManager": {
-        "lastReleaseId": "RE_kwDOIQJ2Xs4JSXKj",
-        "lastPublishedAt": "2024-05-15T05:35:48Z"
+        "lastReleaseId": "RE_kwDOIQJ2Xs4aWro4",
+        "lastPublishedAt": "2026-11-11T20:01:08Z",
+        "releaseHistoryCursor": null
       },
       "folke/sidekick.nvim": {
         "lastReleaseId": "RE_kwDOP3UQ9s4R15N2",
@@ -2919,8 +2507,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4aTfdO",
-        "lastPublishedAt": "2026-11-11T06:39:02Z",
+        "lastReleaseId": "RE_kwDODVAw7c4aXUTZ",
+        "lastPublishedAt": "2026-11-11T23:55:38Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -3487,8 +3075,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4aP_je",
-        "lastPublishedAt": "2026-11-10T13:36:08Z",
+        "lastReleaseId": "RE_kwDOIvux3s4aXbmB",
+        "lastPublishedAt": "2026-11-12T00:46:36Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3545,8 +3133,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4aWZMm",
-        "lastPublishedAt": "2026-11-11T18:41:22Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4aXQLE",
+        "lastPublishedAt": "2026-11-11T23:30:48Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -3928,8 +3516,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4aScCM",
-        "lastPublishedAt": "2026-11-10T23:13:22Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4aXMgZ",
+        "lastPublishedAt": "2026-11-11T23:09:15Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
