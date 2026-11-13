@@ -1971,6 +1971,123 @@
       ],
       "2026-11-13": [
         {
+          "id": "RE_kwDOF0rAvc4afQfC",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.3.1",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.3.1",
+          "publishedAt": "2026-11-13T15:33:34Z",
+          "name": "v5.3.1"
+        },
+        {
+          "id": "RE_kwDOQ63fjM4afO5e",
+          "owner": "eugenioenko",
+          "repo": "ttt",
+          "tag": "v1.12.1",
+          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.12.1",
+          "publishedAt": "2026-11-13T15:27:59Z",
+          "name": "v1.12.1"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4afN_W",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.3.0",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.3.0",
+          "publishedAt": "2026-11-13T15:24:35Z",
+          "name": "v5.3.0"
+        },
+        {
+          "id": "RE_kwDOIQJ2Xs4afGVS",
+          "owner": "awaescher",
+          "repo": "StageManager",
+          "tag": "0.0.33",
+          "url": "https://github.com/awaescher/StageManager/releases/tag/0.0.33",
+          "publishedAt": "2026-11-13T14:56:47Z",
+          "name": "Release 0.0.33"
+        },
+        {
+          "id": "RE_kwDOII1H084afEvR",
+          "owner": "raphamorim",
+          "repo": "rio",
+          "tag": "v0.5.31",
+          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.31",
+          "publishedAt": "2026-11-13T14:50:46Z",
+          "name": "v0.5.31"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4afA-l",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.2.13",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.13",
+          "publishedAt": "2026-11-13T14:36:55Z",
+          "name": "v5.2.13"
+        },
+        {
+          "id": "RE_kwDOBoRDs84ae3ov",
+          "owner": "traPtitech",
+          "repo": "traQ",
+          "tag": "v3.32.1",
+          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.32.1",
+          "publishedAt": "2026-11-13T14:02:56Z",
+          "name": "v3.32.1"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4ae19i",
+          "owner": "github",
+          "repo": "copilot-sdk",
+          "tag": "v1.0.33",
+          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.33",
+          "publishedAt": "2026-11-13T13:56:31Z",
+          "name": "v1.0.33"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4aepu4",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.212",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.212",
+          "publishedAt": "2026-11-13T13:08:32Z",
+          "name": "v8.4.212 - `ultralytics 8.4.212` Read Korean, Cyrillic, Arabic and other scripts with OCR (#27167)"
+        },
+        {
+          "id": "RE_kwDOIvux3s4aem8S",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.8",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.8",
+          "publishedAt": "2026-11-13T13:07:07Z",
+          "name": "v2026.11.8: Bootstrap settings plugins, block edits in bootstrap files, and argv in command wrappers"
+        },
+        {
+          "id": "RE_kwDOK-QCA84adoao",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v20.2.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.2.0",
+          "publishedAt": "2026-11-13T08:17:25Z",
+          "name": "v20.2.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4adas0",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.161.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.161.0",
+          "publishedAt": "2026-11-13T07:08:00Z",
+          "name": "v1.161.0"
+        },
+        {
+          "id": "RE_kwDOQHjZG84adY7D",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.7",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.7",
+          "publishedAt": "2026-11-13T06:58:03Z",
+          "name": "Release v4.0.7"
+        },
+        {
           "id": "RE_kwDOQ63fjM4aczAt",
           "owner": "eugenioenko",
           "repo": "ttt",
@@ -2022,8 +2139,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84XLFr0",
-        "lastPublishedAt": "2026-09-15T00:03:53Z",
+        "lastReleaseId": "RE_kwDOQHjZG84adY7D",
+        "lastPublishedAt": "2026-11-13T06:58:03Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2291,8 +2408,8 @@
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4acSMW",
-        "lastPublishedAt": "2026-11-12T23:17:27Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4ae19i",
+        "lastPublishedAt": "2026-11-13T13:56:31Z",
         "releaseHistoryCursor": null
       },
       "KentBeck/kent-beck-prompt-experiment": {},
@@ -2428,8 +2545,8 @@
       },
       "boltlessengineer/NativeVim": {},
       "awaescher/StageManager": {
-        "lastReleaseId": "RE_kwDOIQJ2Xs4ab0sS",
-        "lastPublishedAt": "2026-11-12T20:58:14Z",
+        "lastReleaseId": "RE_kwDOIQJ2Xs4afGVS",
+        "lastPublishedAt": "2026-11-13T14:56:47Z",
         "releaseHistoryCursor": null
       },
       "folke/sidekick.nvim": {
@@ -2454,8 +2571,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4aUBGT",
-        "lastPublishedAt": "2026-11-11T09:18:23Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4adas0",
+        "lastPublishedAt": "2026-11-13T07:08:00Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2545,8 +2662,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84aIbrM",
-        "lastPublishedAt": "2026-11-08T17:56:17Z",
+        "lastReleaseId": "RE_kwDOK-QCA84adoao",
+        "lastPublishedAt": "2026-11-13T08:17:25Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -2627,8 +2744,8 @@
         "lastPublishedAt": "2025-01-24T05:45:27Z"
       },
       "raphamorim/rio": {
-        "lastReleaseId": "RE_kwDOII1H084acM9T",
-        "lastPublishedAt": "2026-11-12T22:49:31Z",
+        "lastReleaseId": "RE_kwDOII1H084afEvR",
+        "lastPublishedAt": "2026-11-13T14:50:46Z",
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
@@ -3066,8 +3183,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4aXbmB",
-        "lastPublishedAt": "2026-11-12T00:46:36Z",
+        "lastReleaseId": "RE_kwDOIvux3s4aem8S",
+        "lastPublishedAt": "2026-11-13T13:07:07Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3508,8 +3625,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4aXMgZ",
-        "lastPublishedAt": "2026-11-11T23:09:15Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4aepu4",
+        "lastPublishedAt": "2026-11-13T13:08:32Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4097,8 +4214,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4aByne",
-        "lastPublishedAt": "2026-11-06T15:39:30Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4afQfC",
+        "lastPublishedAt": "2026-11-13T15:33:34Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
@@ -4134,8 +4251,8 @@
       },
       "olahol/melody": {},
       "traPtitech/traQ": {
-        "lastReleaseId": "RE_kwDOBoRDs84aFKC-",
-        "lastPublishedAt": "2026-11-07T12:21:26Z",
+        "lastReleaseId": "RE_kwDOBoRDs84ae3ov",
+        "lastPublishedAt": "2026-11-13T14:02:56Z",
         "releaseHistoryCursor": null
       },
       "ryanoasis/nerd-fonts": {
@@ -4276,8 +4393,8 @@
         "releaseHistoryCursor": null
       },
       "eugenioenko/ttt": {
-        "lastReleaseId": "RE_kwDOQ63fjM4aczAt",
-        "lastPublishedAt": "2026-11-13T02:49:05Z",
+        "lastReleaseId": "RE_kwDOQ63fjM4afO5e",
+        "lastPublishedAt": "2026-11-13T15:27:59Z",
         "releaseHistoryCursor": null
       },
       "google/heir": {
