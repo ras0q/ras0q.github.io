@@ -1971,6 +1971,69 @@
       ],
       "2026-11-13": [
         {
+          "id": "RE_kwDOQHjZG84agm7g",
+          "owner": "esmuellert",
+          "repo": "codediff.nvim",
+          "tag": "v4.0.8",
+          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.8",
+          "publishedAt": "2026-11-13T21:26:54Z",
+          "name": "Release v4.0.8"
+        },
+        {
+          "id": "RE_kwDOJKcikM4agd0g",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.43.1",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.43.1",
+          "publishedAt": "2026-11-13T20:43:02Z",
+          "name": "@astrojs/starlight@0.43.1"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4af5LW",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.4.0",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.4.0",
+          "publishedAt": "2026-11-13T18:07:30Z",
+          "name": "v5.4.0"
+        },
+        {
+          "id": "RE_kwDOOC1fY84afukZ",
+          "owner": "lynx-family",
+          "repo": "lynx",
+          "tag": "4.3.0-rc.1",
+          "url": "https://github.com/lynx-family/lynx/releases/tag/4.3.0-rc.1",
+          "publishedAt": "2026-11-13T17:30:26Z",
+          "name": "4.3.0-rc.1"
+        },
+        {
+          "id": "RE_kwDOJKcikM4afrJZ",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.43.0",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.43.0",
+          "publishedAt": "2026-11-13T17:16:14Z",
+          "name": "@astrojs/starlight@0.43.0"
+        },
+        {
+          "id": "RE_kwDOH1-qgs4afisf",
+          "owner": "jetify-com",
+          "repo": "devbox",
+          "tag": "0.21.0",
+          "url": "https://github.com/jetify-com/devbox/releases/tag/0.21.0",
+          "publishedAt": "2026-11-13T17:03:10Z",
+          "name": "0.21.0"
+        },
+        {
+          "id": "RE_kwDOGN5wJc4afjGp",
+          "owner": "dlvhdr",
+          "repo": "gh-dash",
+          "tag": "v4.26.3",
+          "url": "https://github.com/dlvhdr/gh-dash/releases/tag/v4.26.3",
+          "publishedAt": "2026-11-13T16:45:21Z",
+          "name": "v4.26.3"
+        },
+        {
           "id": "RE_kwDOF0rAvc4afQfC",
           "owner": "OpenWonderLabs",
           "repo": "homebridge-switchbot",
@@ -2139,8 +2202,8 @@
         "releaseHistoryCursor": null
       },
       "esmuellert/codediff.nvim": {
-        "lastReleaseId": "RE_kwDOQHjZG84adY7D",
-        "lastPublishedAt": "2026-11-13T06:58:03Z",
+        "lastReleaseId": "RE_kwDOQHjZG84agm7g",
+        "lastPublishedAt": "2026-11-13T21:26:54Z",
         "releaseHistoryCursor": null
       },
       "kyoh86/vim-jsonl": {},
@@ -2539,8 +2602,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4aaBK5",
-        "lastPublishedAt": "2026-11-12T14:03:08Z",
+        "lastReleaseId": "RE_kwDOJKcikM4agd0g",
+        "lastPublishedAt": "2026-11-13T20:43:02Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -3066,8 +3129,8 @@
       },
       "swiftlang/swift-evolution": {},
       "lynx-family/lynx": {
-        "lastReleaseId": "RE_kwDOOC1fY84ZQzZQ",
-        "lastPublishedAt": "2026-10-27T15:44:59Z",
+        "lastReleaseId": "RE_kwDOOC1fY84afukZ",
+        "lastPublishedAt": "2026-11-13T17:30:26Z",
         "releaseHistoryCursor": null
       },
       "ykwe/MNoto-Sans-alpha": {},
@@ -3388,8 +3451,8 @@
         "lastPublishedAt": "2025-04-05T13:50:09Z"
       },
       "dlvhdr/gh-dash": {
-        "lastReleaseId": "RE_kwDOGN5wJc4YurKv",
-        "lastPublishedAt": "2026-10-16T11:29:38Z",
+        "lastReleaseId": "RE_kwDOGN5wJc4afjGp",
+        "lastPublishedAt": "2026-11-13T16:45:21Z",
         "releaseHistoryCursor": null
       },
       "zama-ai/concrete": {
@@ -3992,8 +4055,8 @@
         "releaseHistoryCursor": null
       },
       "jetify-com/devbox": {
-        "lastReleaseId": "RE_kwDOH1-qgs4aNbFt",
-        "lastPublishedAt": "2026-11-09T22:52:55Z",
+        "lastReleaseId": "RE_kwDOH1-qgs4afisf",
+        "lastPublishedAt": "2026-11-13T17:03:10Z",
         "releaseHistoryCursor": null
       },
       "fedibird/mastodon": {},
@@ -4214,8 +4277,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4afQfC",
-        "lastPublishedAt": "2026-11-13T15:33:34Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4af5LW",
+        "lastPublishedAt": "2026-11-13T18:07:30Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
