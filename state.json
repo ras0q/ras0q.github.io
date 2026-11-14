@@ -1881,6 +1881,60 @@
       ],
       "2026-11-14": [
         {
+          "id": "RE_kwDORFb4ys4ajnSp",
+          "owner": "nolabs-ai",
+          "repo": "nono",
+          "tag": "v0.82.0",
+          "url": "https://github.com/nolabs-ai/nono/releases/tag/v0.82.0",
+          "publishedAt": "2026-11-14T19:39:52Z",
+          "name": "v0.82.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4ajkJg",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.753.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.753.0",
+          "publishedAt": "2026-11-14T19:17:53Z",
+          "name": "v0.753.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4ajgBU",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.213",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.213",
+          "publishedAt": "2026-11-14T18:48:08Z",
+          "name": "v8.4.213 - `ultralytics 8.4.213` Decode large segmentation mask stacks inside their boxes (#27197)"
+        },
+        {
+          "id": "RE_kwDOPG9juM4ajHip",
+          "owner": "him0",
+          "repo": "gh-sync",
+          "tag": "v0.7.1",
+          "url": "https://github.com/him0/gh-sync/releases/tag/v0.7.1",
+          "publishedAt": "2026-11-14T16:02:26Z",
+          "name": "gh-sync 0.7.1"
+        },
+        {
+          "id": "RE_kwDORWiFDM4ajGXY",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.2.0",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.2.0",
+          "publishedAt": "2026-11-14T15:54:28Z",
+          "name": "v2.2.0"
+        },
+        {
+          "id": "RE_kwDOPG9juM4ajFn4",
+          "owner": "him0",
+          "repo": "gh-sync",
+          "tag": "v0.7.0",
+          "url": "https://github.com/him0/gh-sync/releases/tag/v0.7.0",
+          "publishedAt": "2026-11-14T15:49:48Z",
+          "name": "gh-sync 0.7.0"
+        },
+        {
           "id": "RE_kwDOLFvGAc4aiqEn",
           "owner": "sweetpad-dev",
           "repo": "sweetpad",
@@ -2021,8 +2075,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4aae39",
-        "lastPublishedAt": "2026-11-12T15:38:16Z",
+        "lastReleaseId": "RE_kwDORWiFDM4ajGXY",
+        "lastPublishedAt": "2026-11-14T15:54:28Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2186,8 +2240,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aibCe",
-        "lastPublishedAt": "2026-11-14T11:05:34Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4ajkJg",
+        "lastPublishedAt": "2026-11-14T19:17:53Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2605,8 +2659,8 @@
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
-        "lastReleaseId": "RE_kwDOPG9juM4ahxaR",
-        "lastPublishedAt": "2026-11-14T06:07:05Z",
+        "lastReleaseId": "RE_kwDOPG9juM4ajHip",
+        "lastPublishedAt": "2026-11-14T16:02:26Z",
         "releaseHistoryCursor": null
       },
       "charmbracelet/mods": {
@@ -3481,8 +3535,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4aepu4",
-        "lastPublishedAt": "2026-11-13T13:08:32Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4ajgBU",
+        "lastPublishedAt": "2026-11-14T18:48:08Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4361,8 +4415,8 @@
         "releaseHistoryCursor": null
       },
       "nolabs-ai/nono": {
-        "lastReleaseId": "RE_kwDORFb4ys4ZhYS6",
-        "lastPublishedAt": "2026-10-29T17:25:24Z",
+        "lastReleaseId": "RE_kwDORFb4ys4ajnSp",
+        "lastPublishedAt": "2026-11-14T19:39:52Z",
         "releaseHistoryCursor": null
       },
       "tesso57/pi-extension-template": {},
