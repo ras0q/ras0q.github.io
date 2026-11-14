@@ -1881,6 +1881,51 @@
       ],
       "2026-11-14": [
         {
+          "id": "RE_kwDOLFvGAc4aiqEn",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.23",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.23",
+          "publishedAt": "2026-11-14T12:49:53Z",
+          "name": "cli-v0.1.23"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4aiiGu",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.32.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.32.0",
+          "publishedAt": "2026-11-14T11:52:32Z",
+          "name": "Schema v1.32.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4aiiGg",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.18.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.18.0",
+          "publishedAt": "2026-11-14T11:52:30Z",
+          "name": "Rust Crate v1.18.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aibCe",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.752.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.752.0",
+          "publishedAt": "2026-11-14T11:05:34Z",
+          "name": "v0.752.0"
+        },
+        {
+          "id": "RE_kwDOPG9juM4ahxaR",
+          "owner": "him0",
+          "repo": "gh-sync",
+          "tag": "v0.6.0",
+          "url": "https://github.com/him0/gh-sync/releases/tag/v0.6.0",
+          "publishedAt": "2026-11-14T06:07:05Z",
+          "name": "gh-sync 0.6.0"
+        },
+        {
           "id": "RE_kwDOQzKeuM4ahi4J",
           "owner": "tfcace",
           "repo": "hash",
@@ -2141,8 +2186,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4aaxPN",
-        "lastPublishedAt": "2026-11-12T16:37:27Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aibCe",
+        "lastPublishedAt": "2026-11-14T11:05:34Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2433,8 +2478,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4aR3ZM",
-        "lastPublishedAt": "2026-11-10T20:46:20Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4aiiGu",
+        "lastPublishedAt": "2026-11-14T11:52:32Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -2560,8 +2605,8 @@
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
-        "lastReleaseId": "RE_kwDOPG9juM4aWZLS",
-        "lastPublishedAt": "2026-11-11T18:41:16Z",
+        "lastReleaseId": "RE_kwDOPG9juM4ahxaR",
+        "lastPublishedAt": "2026-11-14T06:07:05Z",
         "releaseHistoryCursor": null
       },
       "charmbracelet/mods": {
@@ -3052,8 +3097,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4aXt-p",
-        "lastPublishedAt": "2026-11-12T02:31:36Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4aiqEn",
+        "lastPublishedAt": "2026-11-14T12:49:53Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
