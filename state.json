@@ -1809,6 +1809,96 @@
       ],
       "2026-11-15": [
         {
+          "id": "RE_kwDOEDZuds4al0a4",
+          "owner": "honkit",
+          "repo": "honkit",
+          "tag": "v7.0.0",
+          "url": "https://github.com/honkit/honkit/releases/tag/v7.0.0",
+          "publishedAt": "2026-11-15T14:33:34Z",
+          "name": "Release v7.0.0"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4alzOu",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.214",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.214",
+          "publishedAt": "2026-11-15T14:25:58Z",
+          "name": "v8.4.214 - Read every image upright: apply EXIF orientation for all formats and flags (#27168)"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4alwyj",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.756.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.756.0",
+          "publishedAt": "2026-11-15T14:10:51Z",
+          "name": "v0.756.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4alqLp",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v32.1.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v32.1.0",
+          "publishedAt": "2026-11-15T13:26:29Z",
+          "name": "v32.1.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4almgo",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.24",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.24",
+          "publishedAt": "2026-11-15T13:01:49Z",
+          "name": "cli-v0.1.24"
+        },
+        {
+          "id": "RE_kwDOE4c3is4alLIO",
+          "owner": "mantinedev",
+          "repo": "mantine",
+          "tag": "9.8.1",
+          "url": "https://github.com/mantinedev/mantine/releases/tag/9.8.1",
+          "publishedAt": "2026-11-15T09:48:17Z",
+          "name": "9.8.1"
+        },
+        {
+          "id": "RE_kwDOFHnna84ak02n",
+          "owner": "charmbracelet",
+          "repo": "lipgloss",
+          "tag": "v2.1.1",
+          "url": "https://github.com/charmbracelet/lipgloss/releases/tag/v2.1.1",
+          "publishedAt": "2026-11-15T06:35:57Z",
+          "name": "v2.1.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aktte",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.755.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.755.0",
+          "publishedAt": "2026-11-15T05:25:44Z",
+          "name": "v0.755.0"
+        },
+        {
+          "id": "RE_kwDOAeC4a84aks8L",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.4.6",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.4.6",
+          "publishedAt": "2026-11-15T05:17:35Z",
+          "name": "v5.4.6"
+        },
+        {
+          "id": "RE_kwDOAeC4a84aks79",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v4.16.5",
+          "url": "https://github.com/labstack/echo/releases/tag/v4.16.5",
+          "publishedAt": "2026-11-15T05:17:34Z",
+          "name": "v4.16.5"
+        },
+        {
           "id": "RE_kwDOOr4uZ84akj0Z",
           "owner": "callumalpass",
           "repo": "tasknotes",
@@ -2087,8 +2177,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4akZKg",
-        "lastPublishedAt": "2026-11-15T02:02:47Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4alwyj",
+        "lastPublishedAt": "2026-11-15T14:10:51Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2186,8 +2276,8 @@
         "releaseHistoryCursor": null
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84aY0o1",
-        "lastPublishedAt": "2026-11-12T09:14:32Z",
+        "lastReleaseId": "RE_kwDOAeC4a84aks8L",
+        "lastPublishedAt": "2026-11-15T05:17:35Z",
         "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
@@ -2998,8 +3088,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4aiqEn",
-        "lastPublishedAt": "2026-11-14T12:49:53Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4almgo",
+        "lastPublishedAt": "2026-11-15T13:01:49Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -3382,8 +3472,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4ajgBU",
-        "lastPublishedAt": "2026-11-14T18:48:08Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4alzOu",
+        "lastPublishedAt": "2026-11-15T14:25:58Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3627,8 +3717,8 @@
       "toshusai/one": {},
       "twitter/the-algorithm": {},
       "mantinedev/mantine": {
-        "lastReleaseId": "RE_kwDOE4c3is4aKAjC",
-        "lastPublishedAt": "2026-11-09T07:16:21Z",
+        "lastReleaseId": "RE_kwDOE4c3is4alLIO",
+        "lastPublishedAt": "2026-11-15T09:48:17Z",
         "releaseHistoryCursor": null
       },
       "mgechev/revive": {
@@ -3920,8 +4010,8 @@
         "releaseHistoryCursor": null
       },
       "charmbracelet/lipgloss": {
-        "lastReleaseId": "RE_kwDOFHnna84aLPpu",
-        "lastPublishedAt": "2026-11-09T13:17:03Z",
+        "lastReleaseId": "RE_kwDOFHnna84ak02n",
+        "lastPublishedAt": "2026-11-15T06:35:57Z",
         "releaseHistoryCursor": null
       },
       "charmbracelet/bubbletea": {
@@ -3996,14 +4086,14 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4aIK9O",
-        "lastPublishedAt": "2026-11-08T15:56:31Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4alqLp",
+        "lastPublishedAt": "2026-11-15T13:26:29Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
       "honkit/honkit": {
-        "lastReleaseId": "RE_kwDOEDZuds4akj7u",
-        "lastPublishedAt": "2026-11-15T03:46:45Z",
+        "lastReleaseId": "RE_kwDOEDZuds4al0a4",
+        "lastPublishedAt": "2026-11-15T14:33:34Z",
         "releaseHistoryCursor": null
       },
       "olahol/melody": {},
