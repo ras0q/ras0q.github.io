@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-08",
       "2026-11-09",
       "2026-11-10",
       "2026-11-11",
       "2026-11-12",
       "2026-11-13",
-      "2026-11-14"
+      "2026-11-14",
+      "2026-11-15"
     ],
     "days": {
-      "2026-11-08": [
-        {
-          "id": "RE_kwDORQ3jDc4aI88D",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.17.0",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.17.0",
-          "publishedAt": "2026-11-08T22:06:33Z",
-          "name": "v0.17.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aId7y",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.717.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.717.0",
-          "publishedAt": "2026-11-08T18:13:49Z",
-          "name": "v0.717.0"
-        },
-        {
-          "id": "RE_kwDOK-QCA84aIbrM",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v20.1.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.1.0",
-          "publishedAt": "2026-11-08T17:56:17Z",
-          "name": "v20.1.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aIQVV",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.716.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.716.0",
-          "publishedAt": "2026-11-08T16:35:00Z",
-          "name": "v0.716.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4aIK9O",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v32.0.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v32.0.0",
-          "publishedAt": "2026-11-08T15:56:31Z",
-          "name": "v32.0.0"
-        },
-        {
-          "id": "RE_kwDORWiFDM4aIDC_",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.1.7",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.7",
-          "publishedAt": "2026-11-08T15:00:33Z",
-          "name": "v2.1.7"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4aICKV",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.208",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.208",
-          "publishedAt": "2026-11-08T14:54:08Z",
-          "name": "v8.4.208 - `ultralytics 8.4.208` Release the 0.5 predict NMS IoU default (#27102)"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4aIBYN",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.18",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.18",
-          "publishedAt": "2026-11-08T14:48:41Z",
-          "name": "cli-v0.1.18"
-        },
-        {
-          "id": "RE_kwDOM9WtiM4aH89m",
-          "owner": "tombi-toml",
-          "repo": "tombi",
-          "tag": "v1.11.0",
-          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.11.0",
-          "publishedAt": "2026-11-08T14:16:58Z",
-          "name": "v1.11.0"
-        },
-        {
-          "id": "RE_kwDOQ_KVhM4aHhnN",
-          "owner": "rtk-ai",
-          "repo": "rtk",
-          "tag": "v1.2.0",
-          "url": "https://github.com/rtk-ai/rtk/releases/tag/v1.2.0",
-          "publishedAt": "2026-11-08T10:46:00Z",
-          "name": "v1.2.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aG8ah",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.715.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.715.0",
-          "publishedAt": "2026-11-08T04:20:16Z",
-          "name": "v0.715.0"
-        },
-        {
-          "id": "RE_kwDOOfp6ts4aG3ME",
-          "owner": "nickjvandyke",
-          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
-          "tag": "v1.2.0",
-          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.2.0",
-          "publishedAt": "2026-11-08T03:22:22Z",
-          "name": "v1.2.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aG2vr",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.714.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.714.0",
-          "publishedAt": "2026-11-08T03:18:14Z",
-          "name": "v0.714.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aGytj",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.713.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.713.0",
-          "publishedAt": "2026-11-08T02:36:02Z",
-          "name": "v0.713.0"
-        },
-        {
-          "id": "RE_kwDOMtN2Z84aGrxn",
-          "owner": "eyemono-moe",
-          "repo": "streets",
-          "tag": "v1.24.0",
-          "url": "https://github.com/eyemono-moe/streets/releases/tag/v1.24.0",
-          "publishedAt": "2026-11-08T01:23:16Z",
-          "name": "v1.24.0"
-        },
-        {
-          "id": "RE_kwDORWiFDM4aGqHF",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.1.6",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.6",
-          "publishedAt": "2026-11-08T01:05:53Z",
-          "name": "v2.1.6"
-        }
-      ],
       "2026-11-09": [
         {
           "id": "RE_kwDOPbFNk84aNj9C",
@@ -1809,6 +1663,15 @@
       ],
       "2026-11-15": [
         {
+          "id": "RE_kwDOQ52_2c4anEYZ",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.23.0",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.23.0",
+          "publishedAt": "2026-11-15T23:33:00Z",
+          "name": "v0.23.0"
+        },
+        {
           "id": "RE_kwDOOr4uZ84ampX_",
           "owner": "callumalpass",
           "repo": "tasknotes",
@@ -2032,6 +1895,53 @@
           "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.32",
           "publishedAt": "2026-11-15T00:24:19Z",
           "name": "v0.5.32"
+        }
+      ],
+      "2026-11-16": [
+        {
+          "id": "RE_kwDOCcSpD84ani9t",
+          "owner": "nektos",
+          "repo": "act",
+          "tag": "v0.2.98",
+          "url": "https://github.com/nektos/act/releases/tag/v0.2.98",
+          "publishedAt": "2026-11-16T03:26:32Z",
+          "name": "v0.2.98"
+        },
+        {
+          "id": "RE_kwDOCk1n-s4anXzd",
+          "owner": "eure",
+          "repo": "swift-storybook",
+          "tag": "3.3.1",
+          "url": "https://github.com/eure/swift-storybook/releases/tag/3.3.1",
+          "publishedAt": "2026-11-16T02:04:29Z",
+          "name": "3.3.1"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4anRuv",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.215",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.215",
+          "publishedAt": "2026-11-16T01:18:10Z",
+          "name": "v8.4.215 - `ultralytics 8.4.215` Plot, convert and prompt segmentation masks without the dense mask stack (#27216)"
+        },
+        {
+          "id": "RE_kwDOGgFgVM4anQ9q",
+          "owner": "usememos",
+          "repo": "memos",
+          "tag": "26.11.1",
+          "url": "https://github.com/usememos/memos/releases/tag/26.11.1",
+          "publishedAt": "2026-11-16T01:12:25Z",
+          "name": "26.11.1"
+        },
+        {
+          "id": "RE_kwDOQ52_2c4anLR5",
+          "owner": "vercel-labs",
+          "repo": "json-render",
+          "tag": "v0.23.1",
+          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.23.1",
+          "publishedAt": "2026-11-16T00:27:17Z",
+          "name": "v0.23.1"
         }
       ]
     }
@@ -2340,8 +2250,8 @@
       },
       "openresponses/openresponses": {},
       "vercel-labs/json-render": {
-        "lastReleaseId": "RE_kwDOQ52_2c4Z5dAg",
-        "lastPublishedAt": "2026-11-04T21:47:03Z",
+        "lastReleaseId": "RE_kwDOQ52_2c4anLR5",
+        "lastPublishedAt": "2026-11-16T00:27:17Z",
         "releaseHistoryCursor": null
       },
       "github/copilot-sdk": {
@@ -2965,8 +2875,8 @@
       },
       "tmc/nlm": {},
       "eure/swift-storybook": {
-        "lastReleaseId": "RE_kwDOCk1n-s4YYXK2",
-        "lastPublishedAt": "2026-10-10T15:41:36Z",
+        "lastReleaseId": "RE_kwDOCk1n-s4anXzd",
+        "lastPublishedAt": "2026-11-16T02:04:29Z",
         "releaseHistoryCursor": null
       },
       "subframe7536/maple-font": {
@@ -3562,8 +3472,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4alzOu",
-        "lastPublishedAt": "2026-11-15T14:25:58Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4anRuv",
+        "lastPublishedAt": "2026-11-16T01:18:10Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -3633,8 +3543,8 @@
       },
       "kaityo256/yaml_cv": {},
       "usememos/memos": {
-        "lastReleaseId": "RE_kwDOGgFgVM4Zqss4",
-        "lastPublishedAt": "2026-11-01T14:04:41Z",
+        "lastReleaseId": "RE_kwDOGgFgVM4anQ9q",
+        "lastPublishedAt": "2026-11-16T01:12:25Z",
         "releaseHistoryCursor": null
       },
       "antimatter15/splat": {},
@@ -4205,8 +4115,8 @@
       "yamadashy/tech-blog-rss-feed": {},
       "laobubu/HyperMD": {},
       "nektos/act": {
-        "lastReleaseId": "RE_kwDOCcSpD84Z4P0m",
-        "lastPublishedAt": "2026-11-04T16:35:28Z",
+        "lastReleaseId": "RE_kwDOCcSpD84ani9t",
+        "lastPublishedAt": "2026-11-16T03:26:32Z",
         "releaseHistoryCursor": null
       },
       "ibraheemdev/modern-unix": {},
