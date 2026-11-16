@@ -1899,6 +1899,168 @@
       ],
       "2026-11-16": [
         {
+          "id": "RE_kwDOQvjuaM4aqmfE",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.771.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.771.0",
+          "publishedAt": "2026-11-16T17:40:23Z",
+          "name": "v0.771.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4aqlaT",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.27",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.27",
+          "publishedAt": "2026-11-16T17:35:35Z",
+          "name": "cli-v0.1.27"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aqdFa",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.770.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.770.0",
+          "publishedAt": "2026-11-16T17:04:18Z",
+          "name": "v0.770.0"
+        },
+        {
+          "id": "RE_kwDOM9WtiM4aqYIf",
+          "owner": "tombi-toml",
+          "repo": "tombi",
+          "tag": "v1.11.3",
+          "url": "https://github.com/tombi-toml/tombi/releases/tag/v1.11.3",
+          "publishedAt": "2026-11-16T16:45:39Z",
+          "name": "v1.11.3"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aqPzx",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.769.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.769.0",
+          "publishedAt": "2026-11-16T16:17:22Z",
+          "name": "v0.769.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aqEkO",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.768.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.768.0",
+          "publishedAt": "2026-11-16T15:38:43Z",
+          "name": "v0.768.0"
+        },
+        {
+          "id": "RE_kwDONpzSS84aqCVy",
+          "owner": "open-telemetry",
+          "repo": "opentelemetry-go-compile-instrumentation",
+          "tag": "v1.2.1",
+          "url": "https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/releases/tag/v1.2.1",
+          "publishedAt": "2026-11-16T15:30:33Z",
+          "name": "v1.2.1"
+        },
+        {
+          "id": "RE_kwDODVAw7c4apvqV",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.5",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.5",
+          "publishedAt": "2026-11-16T14:29:03Z",
+          "name": "v3.34.5"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4apn_W",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.767.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.767.0",
+          "publishedAt": "2026-11-16T14:03:48Z",
+          "name": "v0.767.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4apEcl",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.766.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.766.0",
+          "publishedAt": "2026-11-16T11:53:27Z",
+          "name": "v0.766.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4ao5iQ",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.9",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.9",
+          "publishedAt": "2026-11-16T11:14:16Z",
+          "name": "v2026.11.9: Task lock pools, tag-based task dependencies and Unix socket sandboxing"
+        },
+        {
+          "id": "RE_kwDORdcLgM4ao2mD",
+          "owner": "docker",
+          "repo": "sbx-releases",
+          "tag": "v0.54.0",
+          "url": "https://github.com/docker/sbx-releases/releases/tag/v0.54.0",
+          "publishedAt": "2026-11-16T10:56:28Z",
+          "name": "v0.54.0"
+        },
+        {
+          "id": "RE_kwDODVAw7c4aoofw",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.4",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.4",
+          "publishedAt": "2026-11-16T10:00:06Z",
+          "name": "v3.34.4"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aogcn",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.765.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.765.0",
+          "publishedAt": "2026-11-16T09:28:33Z",
+          "name": "v0.765.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4aoVFW",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.26",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.26",
+          "publishedAt": "2026-11-16T08:39:31Z",
+          "name": "cli-v0.1.26"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4aoTjM",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.764.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.764.0",
+          "publishedAt": "2026-11-16T08:33:02Z",
+          "name": "v0.764.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4an5ve",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.763.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.763.0",
+          "publishedAt": "2026-11-16T06:10:48Z",
+          "name": "v0.763.0"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4anwfE",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.4.1",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.4.1",
+          "publishedAt": "2026-11-16T05:09:08Z",
+          "name": "v5.4.1"
+        },
+        {
           "id": "RE_kwDOCcSpD84ani9t",
           "owner": "nektos",
           "repo": "act",
@@ -2027,8 +2189,8 @@
         "releaseHistoryCursor": null
       },
       "open-telemetry/opentelemetry-go-compile-instrumentation": {
-        "lastReleaseId": "RE_kwDONpzSS84YdQTt",
-        "lastPublishedAt": "2026-10-12T07:36:59Z",
+        "lastReleaseId": "RE_kwDONpzSS84aqCVy",
+        "lastPublishedAt": "2026-11-16T15:30:33Z",
         "releaseHistoryCursor": null
       },
       "pionxzh/wakaru": {
@@ -2177,8 +2339,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4ampt5",
-        "lastPublishedAt": "2026-11-15T20:22:27Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4aqmfE",
+        "lastPublishedAt": "2026-11-16T17:40:23Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2462,8 +2624,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4aZqap",
-        "lastPublishedAt": "2026-11-12T12:44:16Z",
+        "lastReleaseId": "RE_kwDODVAw7c4apvqV",
+        "lastPublishedAt": "2026-11-16T14:29:03Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -2739,8 +2901,8 @@
         "releaseHistoryCursor": null
       },
       "tombi-toml/tombi": {
-        "lastReleaseId": "RE_kwDOM9WtiM4aQdM7",
-        "lastPublishedAt": "2026-11-10T15:13:30Z",
+        "lastReleaseId": "RE_kwDOM9WtiM4aqYIf",
+        "lastPublishedAt": "2026-11-16T16:45:39Z",
         "releaseHistoryCursor": null
       },
       "ManimCommunity/manim": {
@@ -3030,8 +3192,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4aem8S",
-        "lastPublishedAt": "2026-11-13T13:07:07Z",
+        "lastReleaseId": "RE_kwDOIvux3s4ao5iQ",
+        "lastPublishedAt": "2026-11-16T11:14:16Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -3088,8 +3250,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4amGRy",
-        "lastPublishedAt": "2026-11-15T16:28:20Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4aqlaT",
+        "lastPublishedAt": "2026-11-16T17:35:35Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -4061,8 +4223,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4af5LW",
-        "lastPublishedAt": "2026-11-13T18:07:30Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4anwfE",
+        "lastPublishedAt": "2026-11-16T05:09:08Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
@@ -4342,8 +4504,8 @@
         "releaseHistoryCursor": null
       },
       "docker/sbx-releases": {
-        "lastReleaseId": "RE_kwDORdcLgM4aTw_T",
-        "lastPublishedAt": "2026-11-11T08:02:42Z",
+        "lastReleaseId": "RE_kwDORdcLgM4ao2mD",
+        "lastPublishedAt": "2026-11-16T10:56:28Z",
         "releaseHistoryCursor": null
       },
       "petamoriken/yuzuko": {
