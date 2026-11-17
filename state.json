@@ -1926,6 +1926,114 @@
       ],
       "2026-11-17": [
         {
+          "id": "RE_kwDOB21G7c4ax_4C",
+          "owner": "cel-expr",
+          "repo": "cel-go",
+          "tag": "v0.33.3",
+          "url": "https://github.com/cel-expr/cel-go/releases/tag/v0.33.3",
+          "publishedAt": "2026-11-17T23:14:56Z",
+          "name": "Release v0.33.3"
+        },
+        {
+          "id": "RE_kwDOBSXbR84axpN1",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v9.5.3",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.5.3",
+          "publishedAt": "2026-11-17T21:30:59Z",
+          "name": "v9.5.3"
+        },
+        {
+          "id": "RE_kwDOBSXbR84axpLw",
+          "owner": "elastic",
+          "repo": "go-elasticsearch",
+          "tag": "v9.4.4",
+          "url": "https://github.com/elastic/go-elasticsearch/releases/tag/v9.4.4",
+          "publishedAt": "2026-11-17T21:30:51Z",
+          "name": "v9.4.4"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84axRGE",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "5.0.0",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/5.0.0",
+          "publishedAt": "2026-11-17T19:53:44Z",
+          "name": "5.0.0"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4aw4Eu",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.36.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.36.0",
+          "publishedAt": "2026-11-17T18:15:05Z",
+          "name": "v0.36.0"
+        },
+        {
+          "id": "RE_kwDORWiFDM4awnfB",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.2.1",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.2.1",
+          "publishedAt": "2026-11-17T17:11:43Z",
+          "name": "v2.2.1"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4awhd4",
+          "owner": "microsoft",
+          "repo": "copilot-sdk",
+          "tag": "v2.0.0",
+          "url": "https://github.com/microsoft/copilot-sdk/releases/tag/v2.0.0",
+          "publishedAt": "2026-11-17T16:50:04Z",
+          "name": "v2.0.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4av70z",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.778.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.778.0",
+          "publishedAt": "2026-11-17T14:51:06Z",
+          "name": "v0.778.0"
+        },
+        {
+          "id": "RE_kwDOSU62XM4avrUC",
+          "owner": "pkgdeps",
+          "repo": "automerge-gate",
+          "tag": "v5.1.0",
+          "url": "https://github.com/pkgdeps/automerge-gate/releases/tag/v5.1.0",
+          "publishedAt": "2026-11-17T13:58:06Z",
+          "name": "v5.1.0"
+        },
+        {
+          "id": "RE_kwDOBdMHVM4avnhO",
+          "owner": "yonaskolb",
+          "repo": "XcodeGen",
+          "tag": "2.47.0",
+          "url": "https://github.com/yonaskolb/XcodeGen/releases/tag/2.47.0",
+          "publishedAt": "2026-11-17T13:45:19Z",
+          "name": "2.47.0"
+        },
+        {
+          "id": "RE_kwDOVLaI-84avbRe",
+          "owner": "petamoriken",
+          "repo": "yuzuko",
+          "tag": "v0.3.0",
+          "url": "https://github.com/petamoriken/yuzuko/releases/tag/v0.3.0",
+          "publishedAt": "2026-11-17T13:02:51Z",
+          "name": "v0.3.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4avVsi",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v33.0.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.0.0",
+          "publishedAt": "2026-11-17T12:43:14Z",
+          "name": "v33.0.0"
+        },
+        {
           "id": "RE_kwDOSU62XM4auumh",
           "owner": "pkgdeps",
           "repo": "automerge-gate",
@@ -2075,8 +2183,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4ajGXY",
-        "lastPublishedAt": "2026-11-14T15:54:28Z",
+        "lastReleaseId": "RE_kwDORWiFDM4awnfB",
+        "lastPublishedAt": "2026-11-17T17:11:43Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2127,8 +2235,8 @@
         "releaseHistoryCursor": null
       },
       "pkgdeps/automerge-gate": {
-        "lastReleaseId": "RE_kwDOSU62XM4auumh",
-        "lastPublishedAt": "2026-11-17T10:22:07Z",
+        "lastReleaseId": "RE_kwDOSU62XM4avrUC",
+        "lastPublishedAt": "2026-11-17T13:58:06Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/ooo": {},
@@ -2182,8 +2290,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4aXCxj",
-        "lastPublishedAt": "2026-11-11T22:16:15Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4aw4Eu",
+        "lastPublishedAt": "2026-11-17T18:15:05Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -2240,8 +2348,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4at4L0",
-        "lastPublishedAt": "2026-11-17T06:22:57Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4av70z",
+        "lastPublishedAt": "2026-11-17T14:51:06Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2537,8 +2645,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84ampX_",
-        "lastPublishedAt": "2026-11-15T20:25:54Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84axRGE",
+        "lastPublishedAt": "2026-11-17T19:53:44Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -3342,8 +3450,8 @@
         "lastPublishedAt": "2025-06-13T14:11:11Z"
       },
       "cel-expr/cel-go": {
-        "lastReleaseId": "RE_kwDOB21G7c4ZmIG7",
-        "lastPublishedAt": "2026-10-30T19:44:00Z",
+        "lastReleaseId": "RE_kwDOB21G7c4ax_4C",
+        "lastPublishedAt": "2026-11-17T23:14:56Z",
         "releaseHistoryCursor": null
       },
       "glanceapp/glance": {
@@ -4029,8 +4137,8 @@
         "releaseHistoryCursor": null
       },
       "elastic/go-elasticsearch": {
-        "lastReleaseId": "RE_kwDOBSXbR84WrEsz",
-        "lastPublishedAt": "2026-09-01T10:04:09Z",
+        "lastReleaseId": "RE_kwDOBSXbR84axpN1",
+        "lastPublishedAt": "2026-11-17T21:30:59Z",
         "releaseHistoryCursor": null
       },
       "peaks-cc/iOS_architecture_samplecode": {},
@@ -4104,8 +4212,9 @@
         "lastPublishedAt": "2017-09-18T14:16:52Z"
       },
       "yonaskolb/XcodeGen": {
-        "lastReleaseId": "RE_kwDOBdMHVM4VJ3ap",
-        "lastPublishedAt": "2026-07-16T06:43:31Z"
+        "lastReleaseId": "RE_kwDOBdMHVM4avnhO",
+        "lastPublishedAt": "2026-11-17T13:45:19Z",
+        "releaseHistoryCursor": null
       },
       "darquro/GithubViewer": {},
       "yukikurage/1-day-reminder": {
@@ -4150,8 +4259,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4alqLp",
-        "lastPublishedAt": "2026-11-15T13:26:29Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4avVsi",
+        "lastPublishedAt": "2026-11-17T12:43:14Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -4411,8 +4520,8 @@
         "releaseHistoryCursor": null
       },
       "petamoriken/yuzuko": {
-        "lastReleaseId": "RE_kwDOVLaI-84aRr2P",
-        "lastPublishedAt": "2026-11-10T19:58:17Z",
+        "lastReleaseId": "RE_kwDOVLaI-84avbRe",
+        "lastPublishedAt": "2026-11-17T13:02:51Z",
         "releaseHistoryCursor": null
       },
       "nolabs-ai/nono": {
@@ -4428,8 +4537,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4ahDJK",
-        "lastPublishedAt": "2026-11-14T00:16:37Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4awhd4",
+        "lastPublishedAt": "2026-11-17T16:50:04Z",
         "releaseHistoryCursor": null
       }
     }
