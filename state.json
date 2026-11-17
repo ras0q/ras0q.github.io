@@ -1926,6 +1926,60 @@
       ],
       "2026-11-17": [
         {
+          "id": "RE_kwDOSU62XM4auumh",
+          "owner": "pkgdeps",
+          "repo": "automerge-gate",
+          "tag": "v5.0.6",
+          "url": "https://github.com/pkgdeps/automerge-gate/releases/tag/v5.0.6",
+          "publishedAt": "2026-11-17T10:22:07Z",
+          "name": "v5.0.6"
+        },
+        {
+          "id": "RE_kwDOKbIFZc4auoJz",
+          "owner": "astral-sh",
+          "repo": "uv",
+          "tag": "0.13.9",
+          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.9",
+          "publishedAt": "2026-11-17T09:57:55Z",
+          "name": "0.13.9"
+        },
+        {
+          "id": "RE_kwDODVAw7c4at63V",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.6",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.6",
+          "publishedAt": "2026-11-17T06:37:18Z",
+          "name": "v3.34.6"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4at4L0",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.777.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.777.0",
+          "publishedAt": "2026-11-17T06:22:57Z",
+          "name": "v0.777.0"
+        },
+        {
+          "id": "RE_kwDOH1-qgs4atbor",
+          "owner": "jetify-com",
+          "repo": "devbox",
+          "tag": "0.22.0",
+          "url": "https://github.com/jetify-com/devbox/releases/tag/0.22.0",
+          "publishedAt": "2026-11-17T05:38:10Z",
+          "name": "0.22.0"
+        },
+        {
+          "id": "RE_kwDOOELNJM4atUhk",
+          "owner": "voidzero-dev",
+          "repo": "vite-plus",
+          "tag": "v1.7.0",
+          "url": "https://github.com/voidzero-dev/vite-plus/releases/tag/v1.7.0",
+          "publishedAt": "2026-11-17T03:42:20Z",
+          "name": "vite-plus v1.7.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4asmP7",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2073,8 +2127,8 @@
         "releaseHistoryCursor": null
       },
       "pkgdeps/automerge-gate": {
-        "lastReleaseId": "RE_kwDOSU62XM4YGH3m",
-        "lastPublishedAt": "2026-10-06T02:43:52Z",
+        "lastReleaseId": "RE_kwDOSU62XM4auumh",
+        "lastPublishedAt": "2026-11-17T10:22:07Z",
         "releaseHistoryCursor": null
       },
       "ikura-hamu/ooo": {},
@@ -2166,8 +2220,8 @@
       },
       "berserkdisruptors/contextual-commits": {},
       "voidzero-dev/vite-plus": {
-        "lastReleaseId": "RE_kwDOOELNJM4aTL3D",
-        "lastPublishedAt": "2026-11-11T04:24:13Z",
+        "lastReleaseId": "RE_kwDOOELNJM4atUhk",
+        "lastPublishedAt": "2026-11-17T03:42:20Z",
         "releaseHistoryCursor": null
       },
       "mixigroup/mixi2-api": {
@@ -2186,8 +2240,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4asmP7",
-        "lastPublishedAt": "2026-11-17T01:29:23Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4at4L0",
+        "lastPublishedAt": "2026-11-17T06:22:57Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2471,8 +2525,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4apvqV",
-        "lastPublishedAt": "2026-11-16T14:29:03Z",
+        "lastReleaseId": "RE_kwDODVAw7c4at63V",
+        "lastPublishedAt": "2026-11-17T06:37:18Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -3373,8 +3427,8 @@
         "lastPublishedAt": "2026-03-22T10:54:09Z"
       },
       "astral-sh/uv": {
-        "lastReleaseId": "RE_kwDOKbIFZc4aa5Td",
-        "lastPublishedAt": "2026-11-12T17:03:07Z",
+        "lastReleaseId": "RE_kwDOKbIFZc4auoJz",
+        "lastPublishedAt": "2026-11-17T09:57:55Z",
         "releaseHistoryCursor": null
       },
       "snarfed/bridgy-fed": {},
@@ -3849,8 +3903,8 @@
         "releaseHistoryCursor": null
       },
       "jetify-com/devbox": {
-        "lastReleaseId": "RE_kwDOH1-qgs4afisf",
-        "lastPublishedAt": "2026-11-13T17:03:10Z",
+        "lastReleaseId": "RE_kwDOH1-qgs4atbor",
+        "lastPublishedAt": "2026-11-17T05:38:10Z",
         "releaseHistoryCursor": null
       },
       "fedibird/mastodon": {},
@@ -4374,8 +4428,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/copilot-sdk": {
-        "lastPublishedAt": "2026-11-14T00:16:37Z",
         "lastReleaseId": "RE_kwDOQ5Wxys4ahDJK",
+        "lastPublishedAt": "2026-11-14T00:16:37Z",
         "releaseHistoryCursor": null
       }
     }
