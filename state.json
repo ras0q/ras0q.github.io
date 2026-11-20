@@ -2,269 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-12",
       "2026-11-13",
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
       "2026-11-17",
-      "2026-11-18"
+      "2026-11-18",
+      "2026-11-19"
     ],
     "days": {
-      "2026-11-12": [
-        {
-          "id": "RE_kwDOQ5Wxys4acSMW",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.32",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.32",
-          "publishedAt": "2026-11-12T23:17:27Z",
-          "name": "v1.0.32"
-        },
-        {
-          "id": "RE_kwDOII1H084acM9T",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.30",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.30",
-          "publishedAt": "2026-11-12T22:49:31Z",
-          "name": "v0.5.30"
-        },
-        {
-          "id": "RE_kwDOIQJ2Xs4ab0sS",
-          "owner": "awaescher",
-          "repo": "StageManager",
-          "tag": "0.0.31",
-          "url": "https://github.com/awaescher/StageManager/releases/tag/0.0.31",
-          "publishedAt": "2026-11-12T20:58:14Z",
-          "name": "Release 0.0.31"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84abjiP",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.18.2",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.18.2",
-          "publishedAt": "2026-11-12T19:53:24Z",
-          "name": "4.18.2"
-        },
-        {
-          "id": "RE_kwDOGNEXps4abern",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.50",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.50",
-          "publishedAt": "2026-11-12T19:30:27Z",
-          "name": "1.0.50"
-        },
-        {
-          "id": "RE_kwDOHy0Bzc4abIJ6",
-          "owner": "astral-sh",
-          "repo": "ruff",
-          "tag": "0.17.5",
-          "url": "https://github.com/astral-sh/ruff/releases/tag/0.17.5",
-          "publishedAt": "2026-11-12T17:55:55Z",
-          "name": "0.17.5"
-        },
-        {
-          "id": "RE_kwDOKbIFZc4aa5Td",
-          "owner": "astral-sh",
-          "repo": "uv",
-          "tag": "0.13.8",
-          "url": "https://github.com/astral-sh/uv/releases/tag/0.13.8",
-          "publishedAt": "2026-11-12T17:03:07Z",
-          "name": "0.13.8"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aaxPN",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.751.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.751.0",
-          "publishedAt": "2026-11-12T16:37:27Z",
-          "name": "v0.751.0"
-        },
-        {
-          "id": "RE_kwDOOt6mSM4aamh1",
-          "owner": "charmbracelet",
-          "repo": "crush",
-          "tag": "v0.101.0",
-          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.101.0",
-          "publishedAt": "2026-11-12T16:02:35Z",
-          "name": "v0.101.0"
-        },
-        {
-          "id": "RE_kwDOD6MHws4aaOms",
-          "owner": "obsidianmd",
-          "repo": "obsidian-releases",
-          "tag": "v1.15.1",
-          "url": "https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.15.1",
-          "publishedAt": "2026-11-12T15:43:18Z",
-          "name": "1.15.1"
-        },
-        {
-          "id": "RE_kwDORWiFDM4aae39",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.1.10",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.10",
-          "publishedAt": "2026-11-12T15:38:16Z",
-          "name": "v2.1.10"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aaSoY",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.750.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.750.0",
-          "publishedAt": "2026-11-12T15:00:42Z",
-          "name": "v0.750.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aaI48",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.749.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.749.0",
-          "publishedAt": "2026-11-12T14:29:10Z",
-          "name": "v0.749.0"
-        },
-        {
-          "id": "RE_kwDOJKcikM4aaBK5",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight-docsearch@0.8.2",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight-docsearch%400.8.2",
-          "publishedAt": "2026-11-12T14:03:08Z",
-          "name": "@astrojs/starlight-docsearch@0.8.2"
-        },
-        {
-          "id": "RE_kwDOJKcikM4aaBJ5",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.42.11",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.42.11",
-          "publishedAt": "2026-11-12T14:03:05Z",
-          "name": "@astrojs/starlight@0.42.11"
-        },
-        {
-          "id": "RE_kwDOAyHt9s4aaBFO",
-          "owner": "pressly",
-          "repo": "goose",
-          "tag": "v3.30.1",
-          "url": "https://github.com/pressly/goose/releases/tag/v3.30.1",
-          "publishedAt": "2026-11-12T14:02:56Z",
-          "name": "v3.30.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aZ5RJ",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.748.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.748.0",
-          "publishedAt": "2026-11-12T13:37:09Z",
-          "name": "v0.748.0"
-        },
-        {
-          "id": "RE_kwDOBOOjGs4aZtNb",
-          "owner": "j0k3r",
-          "repo": "banditore",
-          "tag": "6.1.0",
-          "url": "https://github.com/j0k3r/banditore/releases/tag/6.1.0",
-          "publishedAt": "2026-11-12T12:54:18Z",
-          "name": "6.1.0"
-        },
-        {
-          "id": "RE_kwDODVAw7c4aZqap",
-          "owner": "traPtitech",
-          "repo": "traQ_S-UI",
-          "tag": "v3.34.3",
-          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.3",
-          "publishedAt": "2026-11-12T12:44:16Z",
-          "name": "v3.34.3"
-        },
-        {
-          "id": "RE_kwDORWiFDM4aZaEZ",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.1.9",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.9",
-          "publishedAt": "2026-11-12T11:43:07Z",
-          "name": "v2.1.9"
-        },
-        {
-          "id": "RE_kwDOAeC4a84aY0o1",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v5.4.5",
-          "url": "https://github.com/labstack/echo/releases/tag/v5.4.5",
-          "publishedAt": "2026-11-12T09:14:32Z",
-          "name": "v5.4.5"
-        },
-        {
-          "id": "RE_kwDOAeC4a84aY0og",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v4.16.4",
-          "url": "https://github.com/labstack/echo/releases/tag/v4.16.4",
-          "publishedAt": "2026-11-12T09:14:30Z",
-          "name": "v4.16.4"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aYm4D",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.747.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.747.0",
-          "publishedAt": "2026-11-12T08:18:02Z",
-          "name": "v0.747.0"
-        },
-        {
-          "id": "RE_kwDOFUJ2Oc4aYhqi",
-          "owner": "a-h",
-          "repo": "templ",
-          "tag": "v0.3.1118",
-          "url": "https://github.com/a-h/templ/releases/tag/v0.3.1118",
-          "publishedAt": "2026-11-12T07:54:14Z",
-          "name": "v0.3.1118"
-        },
-        {
-          "id": "RE_kwDOEd6VoM4aX-L5",
-          "owner": "traPtitech",
-          "repo": "NeoShowcase",
-          "tag": "v1.10.35",
-          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.35",
-          "publishedAt": "2026-11-12T04:18:53Z",
-          "name": "v1.10.35"
-        },
-        {
-          "id": "RE_kwDOUNMECc4ZszWc",
-          "owner": "jdx",
-          "repo": "packslip",
-          "tag": "v1.11.4",
-          "url": "https://github.com/jdx/packslip/releases/tag/v1.11.4",
-          "publishedAt": "2026-11-12T02:41:59Z",
-          "name": "v1.11.4: Maintenance release"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4aXt-p",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.22",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.22",
-          "publishedAt": "2026-11-12T02:31:36Z",
-          "name": "cli-v0.1.22"
-        },
-        {
-          "id": "RE_kwDOIvux3s4aXbmB",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.11.7",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.7",
-          "publishedAt": "2026-11-12T00:46:36Z",
-          "name": "v2026.11.7: Shorter shim errors, task run history in JSON, and dotfiles safety fixes"
-        }
-      ],
       "2026-11-13": [
         {
           "id": "RE_kwDOQHjZG84agm7g",
@@ -1639,6 +1385,15 @@
       ],
       "2026-11-19": [
         {
+          "id": "RE_kwDOOAhtcs4a8jb8",
+          "owner": "kepano",
+          "repo": "defuddle",
+          "tag": "0.19.9",
+          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.9",
+          "publishedAt": "2026-11-19T23:55:34Z",
+          "name": "0.19.9"
+        },
+        {
           "id": "RE_kwDOPn2YWs4a8SQ5",
           "owner": "docker",
           "repo": "docker-agent",
@@ -2457,6 +2212,71 @@
           "publishedAt": "2026-11-19T01:45:47Z",
           "name": "Release v0.69.0"
         }
+      ],
+      "2026-11-20": [
+        {
+          "id": "RE_kwDOQvjuaM4a9YBx",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.785.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.785.0",
+          "publishedAt": "2026-11-20T05:16:45Z",
+          "name": "v0.785.0"
+        },
+        {
+          "id": "RE_kwDOAB79bM4a9TpJ",
+          "owner": "foliojs",
+          "repo": "pdfkit",
+          "tag": "v0.21.0",
+          "url": "https://github.com/foliojs/pdfkit/releases/tag/v0.21.0",
+          "publishedAt": "2026-11-20T04:48:30Z",
+          "name": "v0.21.0"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4a9Swe",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.39",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.39",
+          "publishedAt": "2026-11-20T04:40:28Z",
+          "name": "v1.10.39"
+        },
+        {
+          "id": "RE_kwDOH-jzvc4a9Iat",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.216",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.216",
+          "publishedAt": "2026-11-20T03:30:18Z",
+          "name": "v8.4.216 - `ultralytics 8.4.216` ST Edge AI export for STM32 devices (#27291)"
+        },
+        {
+          "id": "RE_kwDOOAhtcs4a9Fnq",
+          "owner": "kepano",
+          "repo": "defuddle",
+          "tag": "0.19.11",
+          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.11",
+          "publishedAt": "2026-11-20T03:11:32Z",
+          "name": "0.19.11"
+        },
+        {
+          "id": "RE_kwDOOAhtcs4a87Y1",
+          "owner": "kepano",
+          "repo": "defuddle",
+          "tag": "0.19.10",
+          "url": "https://github.com/kepano/defuddle/releases/tag/0.19.10",
+          "publishedAt": "2026-11-20T02:10:02Z",
+          "name": "0.19.10"
+        },
+        {
+          "id": "RE_kwDOMqJZbM4a8mLy",
+          "owner": "obsidianmd",
+          "repo": "obsidian-clipper",
+          "tag": "1.8.3",
+          "url": "https://github.com/obsidianmd/obsidian-clipper/releases/tag/1.8.3",
+          "publishedAt": "2026-11-20T00:07:57Z",
+          "name": "1.8.3"
+        }
       ]
     }
   },
@@ -2692,8 +2512,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4a6utk",
-        "lastPublishedAt": "2026-11-19T16:21:44Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4a9YBx",
+        "lastPublishedAt": "2026-11-20T05:16:45Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -3214,8 +3034,8 @@
         "releaseHistoryCursor": null
       },
       "foliojs/pdfkit": {
-        "lastReleaseId": "RE_kwDOAB79bM4WmXNb",
-        "lastPublishedAt": "2026-08-30T01:58:45Z",
+        "lastReleaseId": "RE_kwDOAB79bM4a9TpJ",
+        "lastPublishedAt": "2026-11-20T04:48:30Z",
         "releaseHistoryCursor": null
       },
       "Mekann2904/obsidian-pdf-mistral-plugin": {
@@ -3384,8 +3204,8 @@
       },
       "typedgrammar/typed-japanese": {},
       "kepano/defuddle": {
-        "lastReleaseId": "RE_kwDOOAhtcs4a7d5u",
-        "lastPublishedAt": "2026-11-19T19:11:25Z",
+        "lastReleaseId": "RE_kwDOOAhtcs4a9Fnq",
+        "lastPublishedAt": "2026-11-20T03:11:32Z",
         "releaseHistoryCursor": null
       },
       "tmc/nlm": {},
@@ -3598,8 +3418,8 @@
         "releaseHistoryCursor": null
       },
       "obsidianmd/obsidian-clipper": {
-        "lastReleaseId": "RE_kwDOMqJZbM4a7hJo",
-        "lastPublishedAt": "2026-11-19T19:11:51Z",
+        "lastReleaseId": "RE_kwDOMqJZbM4a8mLy",
+        "lastPublishedAt": "2026-11-20T00:07:57Z",
         "releaseHistoryCursor": null
       },
       "drbap/dashboard-navigator-for-obsidian": {
@@ -3992,8 +3812,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4anRuv",
-        "lastPublishedAt": "2026-11-16T01:18:10Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4a9Iat",
+        "lastPublishedAt": "2026-11-20T03:30:18Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4230,8 +4050,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4a7MKq",
-        "lastPublishedAt": "2026-11-19T18:02:44Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4a9Swe",
+        "lastPublishedAt": "2026-11-20T04:40:28Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
