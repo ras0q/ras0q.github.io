@@ -2,206 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-13",
       "2026-11-14",
       "2026-11-15",
       "2026-11-16",
       "2026-11-17",
       "2026-11-18",
-      "2026-11-19"
+      "2026-11-19",
+      "2026-11-20"
     ],
     "days": {
-      "2026-11-13": [
-        {
-          "id": "RE_kwDOQHjZG84agm7g",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v4.0.8",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.8",
-          "publishedAt": "2026-11-13T21:26:54Z",
-          "name": "Release v4.0.8"
-        },
-        {
-          "id": "RE_kwDOJKcikM4agd0g",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.43.1",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.43.1",
-          "publishedAt": "2026-11-13T20:43:02Z",
-          "name": "@astrojs/starlight@0.43.1"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4af5LW",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.4.0",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.4.0",
-          "publishedAt": "2026-11-13T18:07:30Z",
-          "name": "v5.4.0"
-        },
-        {
-          "id": "RE_kwDOOC1fY84afukZ",
-          "owner": "lynx-family",
-          "repo": "lynx",
-          "tag": "4.3.0-rc.1",
-          "url": "https://github.com/lynx-family/lynx/releases/tag/4.3.0-rc.1",
-          "publishedAt": "2026-11-13T17:30:26Z",
-          "name": "4.3.0-rc.1"
-        },
-        {
-          "id": "RE_kwDOJKcikM4afrJZ",
-          "owner": "withastro",
-          "repo": "starlight",
-          "tag": "@astrojs/starlight@0.43.0",
-          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.43.0",
-          "publishedAt": "2026-11-13T17:16:14Z",
-          "name": "@astrojs/starlight@0.43.0"
-        },
-        {
-          "id": "RE_kwDOH1-qgs4afisf",
-          "owner": "jetify-com",
-          "repo": "devbox",
-          "tag": "0.21.0",
-          "url": "https://github.com/jetify-com/devbox/releases/tag/0.21.0",
-          "publishedAt": "2026-11-13T17:03:10Z",
-          "name": "0.21.0"
-        },
-        {
-          "id": "RE_kwDOGN5wJc4afjGp",
-          "owner": "dlvhdr",
-          "repo": "gh-dash",
-          "tag": "v4.26.3",
-          "url": "https://github.com/dlvhdr/gh-dash/releases/tag/v4.26.3",
-          "publishedAt": "2026-11-13T16:45:21Z",
-          "name": "v4.26.3"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4afQfC",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.3.1",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.3.1",
-          "publishedAt": "2026-11-13T15:33:34Z",
-          "name": "v5.3.1"
-        },
-        {
-          "id": "RE_kwDOQ63fjM4afO5e",
-          "owner": "eugenioenko",
-          "repo": "ttt",
-          "tag": "v1.12.1",
-          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.12.1",
-          "publishedAt": "2026-11-13T15:27:59Z",
-          "name": "v1.12.1"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4afN_W",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.3.0",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.3.0",
-          "publishedAt": "2026-11-13T15:24:35Z",
-          "name": "v5.3.0"
-        },
-        {
-          "id": "RE_kwDOIQJ2Xs4afGVS",
-          "owner": "awaescher",
-          "repo": "StageManager",
-          "tag": "0.0.33",
-          "url": "https://github.com/awaescher/StageManager/releases/tag/0.0.33",
-          "publishedAt": "2026-11-13T14:56:47Z",
-          "name": "Release 0.0.33"
-        },
-        {
-          "id": "RE_kwDOII1H084afEvR",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.31",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.31",
-          "publishedAt": "2026-11-13T14:50:46Z",
-          "name": "v0.5.31"
-        },
-        {
-          "id": "RE_kwDOF0rAvc4afA-l",
-          "owner": "OpenWonderLabs",
-          "repo": "homebridge-switchbot",
-          "tag": "v5.2.13",
-          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.2.13",
-          "publishedAt": "2026-11-13T14:36:55Z",
-          "name": "v5.2.13"
-        },
-        {
-          "id": "RE_kwDOBoRDs84ae3ov",
-          "owner": "traPtitech",
-          "repo": "traQ",
-          "tag": "v3.32.1",
-          "url": "https://github.com/traPtitech/traQ/releases/tag/v3.32.1",
-          "publishedAt": "2026-11-13T14:02:56Z",
-          "name": "v3.32.1"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4ae19i",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.33",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.33",
-          "publishedAt": "2026-11-13T13:56:31Z",
-          "name": "v1.0.33"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4aepu4",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.212",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.212",
-          "publishedAt": "2026-11-13T13:08:32Z",
-          "name": "v8.4.212 - `ultralytics 8.4.212` Read Korean, Cyrillic, Arabic and other scripts with OCR (#27167)"
-        },
-        {
-          "id": "RE_kwDOIvux3s4aem8S",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.11.8",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.8",
-          "publishedAt": "2026-11-13T13:07:07Z",
-          "name": "v2026.11.8: Bootstrap settings plugins, block edits in bootstrap files, and argv in command wrappers"
-        },
-        {
-          "id": "RE_kwDOK-QCA84adoao",
-          "owner": "olimorris",
-          "repo": "codecompanion.nvim",
-          "tag": "v20.2.0",
-          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.2.0",
-          "publishedAt": "2026-11-13T08:17:25Z",
-          "name": "v20.2.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4adas0",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.161.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.161.0",
-          "publishedAt": "2026-11-13T07:08:00Z",
-          "name": "v1.161.0"
-        },
-        {
-          "id": "RE_kwDOQHjZG84adY7D",
-          "owner": "esmuellert",
-          "repo": "codediff.nvim",
-          "tag": "v4.0.7",
-          "url": "https://github.com/esmuellert/codediff.nvim/releases/tag/v4.0.7",
-          "publishedAt": "2026-11-13T06:58:03Z",
-          "name": "Release v4.0.7"
-        },
-        {
-          "id": "RE_kwDOQ63fjM4aczAt",
-          "owner": "eugenioenko",
-          "repo": "ttt",
-          "tag": "v1.12.0",
-          "url": "https://github.com/eugenioenko/ttt/releases/tag/v1.12.0",
-          "publishedAt": "2026-11-13T02:49:05Z",
-          "name": "v1.12.0"
-        }
-      ],
       "2026-11-14": [
         {
           "id": "RE_kwDOJCIvuc4aj9xp",
@@ -2215,6 +2024,141 @@
       ],
       "2026-11-20": [
         {
+          "id": "RE_kwDOKDDt4c4bAoh3",
+          "owner": "docmost",
+          "repo": "docmost",
+          "tag": "v0.98.0",
+          "url": "https://github.com/docmost/docmost/releases/tag/v0.98.0",
+          "publishedAt": "2026-11-20T22:04:19Z",
+          "name": "v0.98.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4bA31y",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "schema-v1.34.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.34.0",
+          "publishedAt": "2026-11-20T21:51:54Z",
+          "name": "Schema v1.34.0"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4bA31j",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.20.0",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.20.0",
+          "publishedAt": "2026-11-20T21:51:52Z",
+          "name": "Rust Crate v1.20.0"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4bAzsv",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.4.4",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.4.4",
+          "publishedAt": "2026-11-20T21:29:21Z",
+          "name": "v2.4.4"
+        },
+        {
+          "id": "RE_kwDOE2oqQs4bAzmu",
+          "owner": "grafana",
+          "repo": "pyroscope",
+          "tag": "v2.3.6",
+          "url": "https://github.com/grafana/pyroscope/releases/tag/v2.3.6",
+          "publishedAt": "2026-11-20T21:28:48Z",
+          "name": "v2.3.6"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4bAknt",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.5.1",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.5.1",
+          "publishedAt": "2026-11-20T20:12:19Z",
+          "name": "v5.5.1"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4bAgrB",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.5.0",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.5.0",
+          "publishedAt": "2026-11-20T19:52:42Z",
+          "name": "v5.5.0"
+        },
+        {
+          "id": "RE_kwDOPG9juM4bAdv8",
+          "owner": "him0",
+          "repo": "gh-sync",
+          "tag": "v0.8.2",
+          "url": "https://github.com/him0/gh-sync/releases/tag/v0.8.2",
+          "publishedAt": "2026-11-20T19:39:18Z",
+          "name": "gh-sync 0.8.2"
+        },
+        {
+          "id": "RE_kwDOPG9juM4bAakJ",
+          "owner": "him0",
+          "repo": "gh-sync",
+          "tag": "v0.8.1",
+          "url": "https://github.com/him0/gh-sync/releases/tag/v0.8.1",
+          "publishedAt": "2026-11-20T19:24:00Z",
+          "name": "gh-sync 0.8.1"
+        },
+        {
+          "id": "RE_kwDONw8d0M4bAW8l",
+          "owner": "swiftlang",
+          "repo": "swift-build",
+          "tag": "swift-6.4.3-RELEASE",
+          "url": "https://github.com/swiftlang/swift-build/releases/tag/swift-6.4.3-RELEASE",
+          "publishedAt": "2026-11-20T19:07:14Z",
+          "name": "Swift 6.4.3 Release"
+        },
+        {
+          "id": "RE_kwDOF0rAvc4bAU6t",
+          "owner": "OpenWonderLabs",
+          "repo": "homebridge-switchbot",
+          "tag": "v5.4.2",
+          "url": "https://github.com/OpenWonderLabs/homebridge-switchbot/releases/tag/v5.4.2",
+          "publishedAt": "2026-11-20T18:58:13Z",
+          "name": "v5.4.2"
+        },
+        {
+          "id": "RE_kwDOLil1MM4bANC_",
+          "owner": "yorukot",
+          "repo": "superfile",
+          "tag": "v1.6.1",
+          "url": "https://github.com/yorukot/superfile/releases/tag/v1.6.1",
+          "publishedAt": "2026-11-20T18:37:40Z",
+          "name": "v1.6.1"
+        },
+        {
+          "id": "RE_kwDOAeC4a84bALNs",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v4.16.6",
+          "url": "https://github.com/labstack/echo/releases/tag/v4.16.6",
+          "publishedAt": "2026-11-20T18:13:55Z",
+          "name": "v4.16.6"
+        },
+        {
+          "id": "RE_kwDOAeC4a84bALNa",
+          "owner": "labstack",
+          "repo": "echo",
+          "tag": "v5.4.7",
+          "url": "https://github.com/labstack/echo/releases/tag/v5.4.7",
+          "publishedAt": "2026-11-20T18:13:54Z",
+          "name": "v5.4.7"
+        },
+        {
+          "id": "RE_kwDOHwJrxc4a_6cN",
+          "owner": "open-telemetry",
+          "repo": "opentelemetry-go-instrumentation",
+          "tag": "v0.25.0",
+          "url": "https://github.com/open-telemetry/opentelemetry-go-instrumentation/releases/tag/v0.25.0",
+          "publishedAt": "2026-11-20T17:02:14Z",
+          "name": "v0.25.0/v1.2.2"
+        },
+        {
           "id": "RE_kwDOC1Nn4M4a_yVr",
           "owner": "sue445",
           "repo": "gitpanda",
@@ -2436,8 +2380,8 @@
         "releaseHistoryCursor": null
       },
       "docmost/docmost": {
-        "lastReleaseId": "RE_kwDOKDDt4c4ZGFEI",
-        "lastPublishedAt": "2026-10-25T14:12:25Z",
+        "lastReleaseId": "RE_kwDOKDDt4c4bAoh3",
+        "lastPublishedAt": "2026-11-20T22:04:19Z",
         "releaseHistoryCursor": null
       },
       "outline/outline": {
@@ -2737,8 +2681,8 @@
         "releaseHistoryCursor": null
       },
       "labstack/echo": {
-        "lastReleaseId": "RE_kwDOAeC4a84aks8L",
-        "lastPublishedAt": "2026-11-15T05:17:35Z",
+        "lastReleaseId": "RE_kwDOAeC4a84bALNs",
+        "lastPublishedAt": "2026-11-20T18:13:55Z",
         "releaseHistoryCursor": null
       },
       "adrian-thurston/ragel": {},
@@ -2930,8 +2874,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4a0WYt",
-        "lastPublishedAt": "2026-11-18T12:07:29Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4bA31y",
+        "lastPublishedAt": "2026-11-20T21:51:54Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -2955,8 +2899,9 @@
       },
       "rasbt/LLMs-from-scratch": {},
       "open-telemetry/opentelemetry-go-instrumentation": {
-        "lastReleaseId": "RE_kwDOHwJrxc4SuXkj",
-        "lastPublishedAt": "2026-04-27T16:01:31Z"
+        "lastReleaseId": "RE_kwDOHwJrxc4a_6cN",
+        "lastPublishedAt": "2026-11-20T17:02:14Z",
+        "releaseHistoryCursor": null
       },
       "izumin5210/any-script-mcp": {
         "lastReleaseId": "RE_kwDOPbv22c4OcYSe",
@@ -3057,8 +3002,8 @@
         "releaseHistoryCursor": null
       },
       "him0/gh-sync": {
-        "lastReleaseId": "RE_kwDOPG9juM4a6r4l",
-        "lastPublishedAt": "2026-11-19T16:12:03Z",
+        "lastReleaseId": "RE_kwDOPG9juM4bAdv8",
+        "lastPublishedAt": "2026-11-20T19:39:18Z",
         "releaseHistoryCursor": null
       },
       "charmbracelet/mods": {
@@ -3275,8 +3220,9 @@
       },
       "Shoryu-Y/At-UIEnvironment": {},
       "yorukot/superfile": {
-        "lastReleaseId": "RE_kwDOLil1MM4UAYAK",
-        "lastPublishedAt": "2026-06-07T17:54:13Z"
+        "lastReleaseId": "RE_kwDOLil1MM4bANC_",
+        "lastPublishedAt": "2026-11-20T18:37:40Z",
+        "releaseHistoryCursor": null
       },
       "science-tokyo/Science-Tokyo-UI": {},
       "actions/ai-inference": {
@@ -3418,8 +3364,8 @@
         "releaseHistoryCursor": null
       },
       "swiftlang/swift-build": {
-        "lastReleaseId": "RE_kwDONw8d0M4Zi-qT",
-        "lastPublishedAt": "2026-10-30T02:42:07Z",
+        "lastReleaseId": "RE_kwDONw8d0M4bAW8l",
+        "lastPublishedAt": "2026-11-20T19:07:14Z",
         "releaseHistoryCursor": null
       },
       "yassinebenaid/bunster": {
@@ -3949,8 +3895,8 @@
       },
       "narusejun/isucon13-final": {},
       "grafana/pyroscope": {
-        "lastReleaseId": "RE_kwDOE2oqQs4Z0muT",
-        "lastPublishedAt": "2026-11-03T21:09:57Z",
+        "lastReleaseId": "RE_kwDOE2oqQs4bAzsv",
+        "lastPublishedAt": "2026-11-20T21:29:21Z",
         "releaseHistoryCursor": null
       },
       "reactive-futakotamagawa/isu-isu-h-13": {},
@@ -4528,8 +4474,8 @@
         "lastPublishedAt": "2025-03-14T14:38:07Z"
       },
       "OpenWonderLabs/homebridge-switchbot": {
-        "lastReleaseId": "RE_kwDOF0rAvc4anwfE",
-        "lastPublishedAt": "2026-11-16T05:09:08Z",
+        "lastReleaseId": "RE_kwDOF0rAvc4bAknt",
+        "lastPublishedAt": "2026-11-20T20:12:19Z",
         "releaseHistoryCursor": null
       },
       "magefile/mage": {
