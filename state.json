@@ -2350,6 +2350,195 @@
       ],
       "2026-11-21": [
         {
+          "id": "RE_kwDOOfp6ts4bDZ0Z",
+          "owner": "nickjvandyke",
+          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
+          "tag": "v1.3.0",
+          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.3.0",
+          "publishedAt": "2026-11-21T17:59:50Z",
+          "name": "v1.3.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bDFbR",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "v1.28.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.28.0",
+          "publishedAt": "2026-11-21T15:42:02Z",
+          "name": "v1.28.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4bDByr",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.28",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.28",
+          "publishedAt": "2026-11-21T15:17:52Z",
+          "name": "cli-v0.1.28"
+        },
+        {
+          "id": "RE_kwDOFxE1Fs4bDAj7",
+          "owner": "waydabber",
+          "repo": "m1ddc",
+          "tag": "v1.3.3",
+          "url": "https://github.com/waydabber/m1ddc/releases/tag/v1.3.3",
+          "publishedAt": "2026-11-21T15:09:33Z",
+          "name": "v1.3.3"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Ue",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-wasi-v1.0.61",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-wasi-v1.0.61",
+          "publishedAt": "2026-11-21T15:01:23Z",
+          "name": "detect-wasi-v1.0.61"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Tg",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-manifests-v0.19.13",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-manifests-v0.19.13",
+          "publishedAt": "2026-11-21T15:01:18Z",
+          "name": "binstalk-manifests-v0.19.13"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Sa",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "fs-lock-v0.1.17",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/fs-lock-v0.1.17",
+          "publishedAt": "2026-11-21T15:01:11Z",
+          "name": "fs-lock-v0.1.17"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Ru",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-v0.31.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-v0.31.0",
+          "publishedAt": "2026-11-21T15:01:08Z",
+          "name": "binstalk-v0.31.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Gq",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "detect-targets-v0.1.98",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/detect-targets-v0.1.98",
+          "publishedAt": "2026-11-21T14:59:58Z",
+          "name": "detect-targets-v0.1.98"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Fd",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-registry-v0.13.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-registry-v0.13.0",
+          "publishedAt": "2026-11-21T14:59:50Z",
+          "name": "binstalk-registry-v0.13.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_D2",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "cargo-toml-workspace-v7.0.12",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/cargo-toml-workspace-v7.0.12",
+          "publishedAt": "2026-11-21T14:59:40Z",
+          "name": "cargo-toml-workspace-v7.0.12"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Cp",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-fetchers-v0.10.54",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-fetchers-v0.10.54",
+          "publishedAt": "2026-11-21T14:59:31Z",
+          "name": "binstalk-fetchers-v0.10.54"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Bo",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-git-repo-api-v0.5.54",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-git-repo-api-v0.5.54",
+          "publishedAt": "2026-11-21T14:59:24Z",
+          "name": "binstalk-git-repo-api-v0.5.54"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC_Ai",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-downloader-v0.14.2",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-downloader-v0.14.2",
+          "publishedAt": "2026-11-21T14:59:16Z",
+          "name": "binstalk-downloader-v0.14.2"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC-3t",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-bins-v0.8.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-bins-v0.8.0",
+          "publishedAt": "2026-11-21T14:58:22Z",
+          "name": "binstalk-bins-v0.8.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC-2j",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "normalize-path-v0.2.3",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/normalize-path-v0.2.3",
+          "publishedAt": "2026-11-21T14:58:14Z",
+          "name": "normalize-path-v0.2.3"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC-12",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "binstalk-types-v0.11.0",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/binstalk-types-v0.11.0",
+          "publishedAt": "2026-11-21T14:58:10Z",
+          "name": "binstalk-types-v0.11.0"
+        },
+        {
+          "id": "RE_kwDOEyYzbs4bC-0B",
+          "owner": "cargo-bins",
+          "repo": "cargo-binstall",
+          "tag": "atomic-file-install-v1.0.15",
+          "url": "https://github.com/cargo-bins/cargo-binstall/releases/tag/atomic-file-install-v1.0.15",
+          "publishedAt": "2026-11-21T14:57:58Z",
+          "name": "atomic-file-install-v1.0.15"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4bC3aV",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.21.2",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.21.2",
+          "publishedAt": "2026-11-21T14:07:51Z",
+          "name": "Rust Crate v1.21.2"
+        },
+        {
+          "id": "RE_kwDOLk0b284bCze9",
+          "owner": "ymtdzzz",
+          "repo": "otel-tui",
+          "tag": "v0.7.6",
+          "url": "https://github.com/ymtdzzz/otel-tui/releases/tag/v0.7.6",
+          "publishedAt": "2026-11-21T13:41:32Z",
+          "name": "v0.7.6"
+        },
+        {
+          "id": "RE_kwDOPAlvYM4bCxyb",
+          "owner": "agentclientprotocol",
+          "repo": "agent-client-protocol",
+          "tag": "v1.21.1",
+          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.21.1",
+          "publishedAt": "2026-11-21T13:29:53Z",
+          "name": "Rust Crate v1.21.1"
+        },
+        {
           "id": "RE_kwDOPAlvYM4bCiBE",
           "owner": "agentclientprotocol",
           "repo": "agent-client-protocol",
@@ -2899,8 +3088,8 @@
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastReleaseId": "RE_kwDOOfp6ts4aG3ME",
-        "lastPublishedAt": "2026-11-08T03:22:22Z",
+        "lastReleaseId": "RE_kwDOOfp6ts4bDZ0Z",
+        "lastPublishedAt": "2026-11-21T17:59:50Z",
         "releaseHistoryCursor": null
       },
       "ghostty-org/ghostty": {},
@@ -2966,8 +3155,8 @@
       "yadm-dev/yadm": {},
       "dahlia/optique": {},
       "agentclientprotocol/agent-client-protocol": {
-        "lastReleaseId": "RE_kwDOPAlvYM4bCiBE",
-        "lastPublishedAt": "2026-11-21T11:39:16Z",
+        "lastReleaseId": "RE_kwDOPAlvYM4bC3aV",
+        "lastPublishedAt": "2026-11-21T14:07:51Z",
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
@@ -3029,8 +3218,8 @@
       },
       "Deep-ai-inc/ch.at": {},
       "ymtdzzz/otel-tui": {
-        "lastReleaseId": "RE_kwDOLk0b284bChr8",
-        "lastPublishedAt": "2026-11-21T11:36:30Z",
+        "lastReleaseId": "RE_kwDOLk0b284bCze9",
+        "lastPublishedAt": "2026-11-21T13:41:32Z",
         "releaseHistoryCursor": null
       },
       "kaakaa/slidev-resources-template": {
@@ -3422,8 +3611,8 @@
       },
       "ykwe/MNoto-Sans-alpha": {},
       "cargo-bins/cargo-binstall": {
-        "lastReleaseId": "RE_kwDOEyYzbs4aUKZ1",
-        "lastPublishedAt": "2026-11-11T09:51:30Z",
+        "lastReleaseId": "RE_kwDOEyYzbs4bDFbR",
+        "lastPublishedAt": "2026-11-21T15:42:02Z",
         "releaseHistoryCursor": null
       },
       "jesseduffield/lazydocker": {
@@ -3591,8 +3780,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4aqlaT",
-        "lastPublishedAt": "2026-11-16T17:35:35Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4bDByr",
+        "lastPublishedAt": "2026-11-21T15:17:52Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -4842,8 +5031,8 @@
         "releaseHistoryCursor": null
       },
       "waydabber/m1ddc": {
-        "lastReleaseId": "RE_kwDOFxE1Fs4a2Fg1",
-        "lastPublishedAt": "2026-11-18T18:23:44Z",
+        "lastReleaseId": "RE_kwDOFxE1Fs4bDAj7",
+        "lastPublishedAt": "2026-11-21T15:09:33Z",
         "releaseHistoryCursor": null
       },
       "docker/sbx-releases": {
