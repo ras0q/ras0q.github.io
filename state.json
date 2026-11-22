@@ -2,161 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-14",
       "2026-11-15",
       "2026-11-16",
       "2026-11-17",
       "2026-11-18",
       "2026-11-19",
-      "2026-11-20"
+      "2026-11-20",
+      "2026-11-21"
     ],
     "days": {
-      "2026-11-14": [
-        {
-          "id": "RE_kwDOJCIvuc4aj9xp",
-          "owner": "skiptools",
-          "repo": "skip",
-          "tag": "1.9.21",
-          "url": "https://github.com/skiptools/skip/releases/tag/1.9.21",
-          "publishedAt": "2026-11-14T22:32:45Z",
-          "name": "1.9.21"
-        },
-        {
-          "id": "RE_kwDOLj4zss4ajscS",
-          "owner": "obsidianmd",
-          "repo": "eslint-plugin",
-          "tag": "0.6.0",
-          "url": "https://github.com/obsidianmd/eslint-plugin/releases/tag/0.6.0",
-          "publishedAt": "2026-11-14T20:18:53Z",
-          "name": "0.6.0"
-        },
-        {
-          "id": "RE_kwDORFb4ys4ajnSp",
-          "owner": "nolabs-ai",
-          "repo": "nono",
-          "tag": "v0.82.0",
-          "url": "https://github.com/nolabs-ai/nono/releases/tag/v0.82.0",
-          "publishedAt": "2026-11-14T19:39:52Z",
-          "name": "v0.82.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ajkJg",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.753.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.753.0",
-          "publishedAt": "2026-11-14T19:17:53Z",
-          "name": "v0.753.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4ajgBU",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.213",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.213",
-          "publishedAt": "2026-11-14T18:48:08Z",
-          "name": "v8.4.213 - `ultralytics 8.4.213` Decode large segmentation mask stacks inside their boxes (#27197)"
-        },
-        {
-          "id": "RE_kwDOPG9juM4ajHip",
-          "owner": "him0",
-          "repo": "gh-sync",
-          "tag": "v0.7.1",
-          "url": "https://github.com/him0/gh-sync/releases/tag/v0.7.1",
-          "publishedAt": "2026-11-14T16:02:26Z",
-          "name": "gh-sync 0.7.1"
-        },
-        {
-          "id": "RE_kwDORWiFDM4ajGXY",
-          "owner": "mksglu",
-          "repo": "context-mode",
-          "tag": "v2.2.0",
-          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.2.0",
-          "publishedAt": "2026-11-14T15:54:28Z",
-          "name": "v2.2.0"
-        },
-        {
-          "id": "RE_kwDOPG9juM4ajFn4",
-          "owner": "him0",
-          "repo": "gh-sync",
-          "tag": "v0.7.0",
-          "url": "https://github.com/him0/gh-sync/releases/tag/v0.7.0",
-          "publishedAt": "2026-11-14T15:49:48Z",
-          "name": "gh-sync 0.7.0"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4aiqEn",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.23",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.23",
-          "publishedAt": "2026-11-14T12:49:53Z",
-          "name": "cli-v0.1.23"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4aiiGu",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "schema-v1.32.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.32.0",
-          "publishedAt": "2026-11-14T11:52:32Z",
-          "name": "Schema v1.32.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4aiiGg",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "v1.18.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.18.0",
-          "publishedAt": "2026-11-14T11:52:30Z",
-          "name": "Rust Crate v1.18.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aibCe",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.752.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.752.0",
-          "publishedAt": "2026-11-14T11:05:34Z",
-          "name": "v0.752.0"
-        },
-        {
-          "id": "RE_kwDOPG9juM4ahxaR",
-          "owner": "him0",
-          "repo": "gh-sync",
-          "tag": "v0.6.0",
-          "url": "https://github.com/him0/gh-sync/releases/tag/v0.6.0",
-          "publishedAt": "2026-11-14T06:07:05Z",
-          "name": "gh-sync 0.6.0"
-        },
-        {
-          "id": "RE_kwDOQzKeuM4ahi4J",
-          "owner": "tfcace",
-          "repo": "hash",
-          "tag": "v0.10.0",
-          "url": "https://github.com/tfcace/hash/releases/tag/v0.10.0",
-          "publishedAt": "2026-11-14T04:04:09Z",
-          "name": "v0.10.0"
-        },
-        {
-          "id": "RE_kwDOBMN_y84ahWrK",
-          "owner": "chromedp",
-          "repo": "chromedp",
-          "tag": "v0.23.1",
-          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.23.1",
-          "publishedAt": "2026-11-14T02:20:56Z",
-          "name": "v0.23.1"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4ahDJK",
-          "owner": "github",
-          "repo": "copilot-sdk",
-          "tag": "v1.0.34",
-          "url": "https://github.com/github/copilot-sdk/releases/tag/v1.0.34",
-          "publishedAt": "2026-11-14T00:16:37Z",
-          "name": "v1.0.34"
-        }
-      ],
       "2026-11-15": [
         {
           "id": "RE_kwDOQ52_2c4anEYZ",
@@ -2350,6 +2204,42 @@
       ],
       "2026-11-21": [
         {
+          "id": "RE_kwDOCk_pzs4ZpG30",
+          "owner": "oapi-codegen",
+          "repo": "oapi-codegen",
+          "tag": "v2.9.0",
+          "url": "https://github.com/oapi-codegen/oapi-codegen/releases/tag/v2.9.0",
+          "publishedAt": "2026-11-21T20:24:58Z",
+          "name": "v2.9.0: OpenAPI 3.2 methods, smarter schema merging, more naming control"
+        },
+        {
+          "id": "RE_kwDOCN71Oc4bDrTk",
+          "owner": "o2sh",
+          "repo": "onefetch",
+          "tag": "3.3.0",
+          "url": "https://github.com/o2sh/onefetch/releases/tag/3.3.0",
+          "publishedAt": "2026-11-21T20:03:27Z",
+          "name": "3.3.0"
+        },
+        {
+          "id": "RE_kwDOMqJZbM4bDqQ1",
+          "owner": "obsidianmd",
+          "repo": "obsidian-clipper",
+          "tag": "1.8.5",
+          "url": "https://github.com/obsidianmd/obsidian-clipper/releases/tag/1.8.5",
+          "publishedAt": "2026-11-21T19:55:33Z",
+          "name": "1.8.5"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4bDpOK",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v33.2.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.2.0",
+          "publishedAt": "2026-11-21T19:49:39Z",
+          "name": "v33.2.0"
+        },
+        {
           "id": "RE_kwDOOfp6ts4bDZ0Z",
           "owner": "nickjvandyke",
           "repo": "eslint-plugin-react-you-might-not-need-an-effect",
@@ -3771,8 +3661,8 @@
         "releaseHistoryCursor": null
       },
       "obsidianmd/obsidian-clipper": {
-        "lastReleaseId": "RE_kwDOMqJZbM4a_MBQ",
-        "lastPublishedAt": "2026-11-20T14:10:59Z",
+        "lastReleaseId": "RE_kwDOMqJZbM4bDqQ1",
+        "lastPublishedAt": "2026-11-21T19:55:33Z",
         "releaseHistoryCursor": null
       },
       "drbap/dashboard-navigator-for-obsidian": {
@@ -4780,8 +4670,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4bCbTz",
-        "lastPublishedAt": "2026-11-21T10:49:02Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4bDpOK",
+        "lastPublishedAt": "2026-11-21T19:49:39Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -4859,8 +4749,8 @@
         "releaseHistoryCursor": null
       },
       "oapi-codegen/oapi-codegen": {
-        "lastReleaseId": "RE_kwDOCk_pzs4ZLZqj",
-        "lastPublishedAt": "2026-10-31T21:34:53Z",
+        "lastReleaseId": "RE_kwDOCk_pzs4ZpG30",
+        "lastPublishedAt": "2026-11-21T20:24:58Z",
         "releaseHistoryCursor": null
       },
       "AMAI-GmbH/AI-Expert-Roadmap": {},
@@ -4887,8 +4777,8 @@
       "dersvenhesse/awesome-scriptable": {},
       "SSlime-s/afk-animation": {},
       "o2sh/onefetch": {
-        "lastReleaseId": "RE_kwDOCN71Oc4ZoFb0",
-        "lastPublishedAt": "2026-10-31T12:55:36Z",
+        "lastReleaseId": "RE_kwDOCN71Oc4bDrTk",
+        "lastPublishedAt": "2026-11-21T20:03:27Z",
         "releaseHistoryCursor": null
       },
       "tesso57/WinterHack2020": {},
