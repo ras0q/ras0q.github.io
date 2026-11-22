@@ -2521,6 +2521,258 @@
       ],
       "2026-11-22": [
         {
+          "id": "RE_kwDOK-QCA84bGo83",
+          "owner": "olimorris",
+          "repo": "codecompanion.nvim",
+          "tag": "v20.3.0",
+          "url": "https://github.com/olimorris/codecompanion.nvim/releases/tag/v20.3.0",
+          "publishedAt": "2026-11-22T20:23:02Z",
+          "name": "v20.3.0"
+        },
+        {
+          "id": "RE_kwDOIIPL1M4bGkcq",
+          "owner": "webpro-nl",
+          "repo": "knip",
+          "tag": "knip@6.48.0",
+          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.48.0",
+          "publishedAt": "2026-11-22T19:51:34Z",
+          "name": "Release 6.48.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjeA",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-test@0.2.13",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-test%400.2.13",
+          "publishedAt": "2026-11-22T19:45:01Z",
+          "name": "@emdash-cms/plugin-test@0.2.13"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjdm",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/sandbox-workerd@0.9.8",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/sandbox-workerd%400.9.8",
+          "publishedAt": "2026-11-22T19:44:58Z",
+          "name": "@emdash-cms/sandbox-workerd@0.9.8"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjdW",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-webhook-notifier@0.2.4",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-webhook-notifier%400.2.4",
+          "publishedAt": "2026-11-22T19:44:55Z",
+          "name": "@emdash-cms/plugin-webhook-notifier@0.2.4"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjcz",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-forms@0.2.14",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-forms%400.2.14",
+          "publishedAt": "2026-11-22T19:44:52Z",
+          "name": "@emdash-cms/plugin-forms@0.2.14"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjcV",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-field-kit@0.1.4",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-field-kit%400.1.4",
+          "publishedAt": "2026-11-22T19:44:49Z",
+          "name": "@emdash-cms/plugin-field-kit@0.1.4"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjby",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-embeds@0.1.60",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-embeds%400.1.60",
+          "publishedAt": "2026-11-22T19:44:46Z",
+          "name": "@emdash-cms/plugin-embeds@0.1.60"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjbO",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-ai-search@0.1.2",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-ai-search%400.1.2",
+          "publishedAt": "2026-11-22T19:44:43Z",
+          "name": "@emdash-cms/plugin-ai-search@0.1.2"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjak",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-ai-moderation@0.2.4",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-ai-moderation%400.2.4",
+          "publishedAt": "2026-11-22T19:44:40Z",
+          "name": "@emdash-cms/plugin-ai-moderation@0.2.4"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjaJ",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/cloudflare@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/cloudflare%401.6.0",
+          "publishedAt": "2026-11-22T19:44:37Z",
+          "name": "@emdash-cms/cloudflare@1.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjZu",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "emdash@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/emdash%401.6.0",
+          "publishedAt": "2026-11-22T19:44:34Z",
+          "name": "emdash@1.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjZT",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/auth-atproto@0.2.52",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth-atproto%400.2.52",
+          "publishedAt": "2026-11-22T19:44:31Z",
+          "name": "@emdash-cms/auth-atproto@0.2.52"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjYw",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/registry-loader@0.1.5",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-loader%400.1.5",
+          "publishedAt": "2026-11-22T19:44:28Z",
+          "name": "@emdash-cms/registry-loader@0.1.5"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjYY",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/plugin-cli@0.13.7",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/plugin-cli%400.13.7",
+          "publishedAt": "2026-11-22T19:44:25Z",
+          "name": "@emdash-cms/plugin-cli@0.13.7"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjYE",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/admin@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/admin%401.6.0",
+          "publishedAt": "2026-11-22T19:44:22Z",
+          "name": "@emdash-cms/admin@1.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjXp",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/registry-client@0.7.3",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-client%400.7.3",
+          "publishedAt": "2026-11-22T19:44:19Z",
+          "name": "@emdash-cms/registry-client@0.7.3"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjXC",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/x402@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/x402%401.6.0",
+          "publishedAt": "2026-11-22T19:44:16Z",
+          "name": "@emdash-cms/x402@1.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjWm",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/registry-verification@0.4.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-verification%400.4.0",
+          "publishedAt": "2026-11-22T19:44:13Z",
+          "name": "@emdash-cms/registry-verification@0.4.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjWJ",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/registry-moderation@0.3.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/registry-moderation%400.3.0",
+          "publishedAt": "2026-11-22T19:44:10Z",
+          "name": "@emdash-cms/registry-moderation@0.3.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjVd",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/gutenberg-to-portable-text@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/gutenberg-to-portable-text%401.6.0",
+          "publishedAt": "2026-11-22T19:44:07Z",
+          "name": "@emdash-cms/gutenberg-to-portable-text@1.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjVC",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "create-emdash@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/create-emdash%401.6.0",
+          "publishedAt": "2026-11-22T19:44:04Z",
+          "name": "create-emdash@1.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjUf",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/blocks@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/blocks%401.6.0",
+          "publishedAt": "2026-11-22T19:44:01Z",
+          "name": "@emdash-cms/blocks@1.6.0"
+        },
+        {
+          "id": "RE_kwDOR2vLLM4bGjT5",
+          "owner": "emdash-cms",
+          "repo": "emdash",
+          "tag": "@emdash-cms/auth@1.6.0",
+          "url": "https://github.com/emdash-cms/emdash/releases/tag/%40emdash-cms/auth%401.6.0",
+          "publishedAt": "2026-11-22T19:43:58Z",
+          "name": "@emdash-cms/auth@1.6.0"
+        },
+        {
+          "id": "RE_kwDOLFvGAc4bGc7-",
+          "owner": "sweetpad-dev",
+          "repo": "sweetpad",
+          "tag": "cli-v0.1.29",
+          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.29",
+          "publishedAt": "2026-11-22T19:00:28Z",
+          "name": "cli-v0.1.29"
+        },
+        {
+          "id": "RE_kwDORWiFDM4bGW0r",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.2.2",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.2.2",
+          "publishedAt": "2026-11-22T18:19:09Z",
+          "name": "v2.2.2"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4bGJpn",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v33.3.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.3.0",
+          "publishedAt": "2026-11-22T16:52:11Z",
+          "name": "v33.3.0"
+        },
+        {
+          "id": "RE_kwDOGNEXps4bF682",
+          "owner": "vrtmrz",
+          "repo": "obsidian-livesync",
+          "tag": "1.0.52",
+          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.52",
+          "publishedAt": "2026-11-22T15:21:21Z",
+          "name": "1.0.52"
+        },
+        {
           "id": "RE_kwDOGgFgVM4bFIsf",
           "owner": "usememos",
           "repo": "memos",
@@ -2607,8 +2859,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4awnfB",
-        "lastPublishedAt": "2026-11-17T17:11:43Z",
+        "lastReleaseId": "RE_kwDORWiFDM4bGW0r",
+        "lastPublishedAt": "2026-11-22T18:19:09Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -3047,8 +3299,8 @@
         "releaseHistoryCursor": null
       },
       "webpro-nl/knip": {
-        "lastReleaseId": "RE_kwDOIIPL1M4a-mwi",
-        "lastPublishedAt": "2026-11-20T11:38:27Z",
+        "lastReleaseId": "RE_kwDOIIPL1M4bGkcq",
+        "lastPublishedAt": "2026-11-22T19:51:34Z",
         "releaseHistoryCursor": null
       },
       "mmulet/term.everything": {},
@@ -3106,8 +3358,8 @@
         "lastPublishedAt": "2026-04-02T16:28:05Z"
       },
       "olimorris/codecompanion.nvim": {
-        "lastReleaseId": "RE_kwDOK-QCA84adoao",
-        "lastPublishedAt": "2026-11-13T08:17:25Z",
+        "lastReleaseId": "RE_kwDOK-QCA84bGo83",
+        "lastPublishedAt": "2026-11-22T20:23:02Z",
         "releaseHistoryCursor": null
       },
       "agentsmd/agents.md": {},
@@ -3690,8 +3942,8 @@
         "lastPublishedAt": "2026-02-17T15:41:47Z"
       },
       "sweetpad-dev/sweetpad": {
-        "lastReleaseId": "RE_kwDOLFvGAc4bDByr",
-        "lastPublishedAt": "2026-11-21T15:17:52Z",
+        "lastReleaseId": "RE_kwDOLFvGAc4bGc7-",
+        "lastPublishedAt": "2026-11-22T19:00:28Z",
         "releaseHistoryCursor": null
       },
       "glzr-io/glazewm": {
@@ -4206,8 +4458,8 @@
         "lastPublishedAt": "2024-03-07T07:09:53Z"
       },
       "vrtmrz/obsidian-livesync": {
-        "lastReleaseId": "RE_kwDOGNEXps4azY95",
-        "lastPublishedAt": "2026-11-18T08:14:20Z",
+        "lastReleaseId": "RE_kwDOGNEXps4bF682",
+        "lastPublishedAt": "2026-11-22T15:21:21Z",
         "releaseHistoryCursor": null
       },
       "gtjamesa/obsidian-livesync": {},
@@ -4690,8 +4942,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4bDpOK",
-        "lastPublishedAt": "2026-11-21T19:49:39Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4bGJpn",
+        "lastPublishedAt": "2026-11-22T16:52:11Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
@@ -4899,8 +5151,8 @@
         "releaseHistoryCursor": null
       },
       "emdash-cms/emdash": {
-        "lastReleaseId": "RE_kwDOR2vLLM4aWSPk",
-        "lastPublishedAt": "2026-11-11T18:12:42Z",
+        "lastReleaseId": "RE_kwDOR2vLLM4bGjeA",
+        "lastPublishedAt": "2026-11-22T19:45:01Z",
         "releaseHistoryCursor": null
       },
       "github/gh-actions-lock": {
