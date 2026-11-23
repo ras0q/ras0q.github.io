@@ -2572,6 +2572,62 @@
           "publishedAt": "2026-11-22T01:09:03Z",
           "name": "v1.3.1"
         }
+      ],
+      "2026-11-23": [
+        {
+          "id": "RE_kwDOCnR4Zc4bK2m2",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v33.4.0",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.4.0",
+          "publishedAt": "2026-11-23T18:33:47Z",
+          "name": "v33.4.0"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4bKU5A",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.164.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.164.0",
+          "publishedAt": "2026-11-23T16:33:43Z",
+          "name": "v1.164.0"
+        },
+        {
+          "id": "RE_kwDOElf8_c4bJD-o",
+          "owner": "Vinzent03",
+          "repo": "obsidian-git",
+          "tag": "2.44.0",
+          "url": "https://github.com/Vinzent03/obsidian-git/releases/tag/2.44.0",
+          "publishedAt": "2026-11-23T11:58:00Z",
+          "name": "2.44.0"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84bIdg8",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "5.0.2",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/5.0.2",
+          "publishedAt": "2026-11-23T09:24:26Z",
+          "name": "5.0.2"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4bIaNu",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.38.1",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.38.1",
+          "publishedAt": "2026-11-23T09:07:58Z",
+          "name": "v0.38.1"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4bID7Z",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v33.3.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.3.1",
+          "publishedAt": "2026-11-23T07:20:23Z",
+          "name": "v33.3.1"
+        }
       ]
     }
   },
@@ -2748,8 +2804,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4bHC3v",
-        "lastPublishedAt": "2026-11-22T23:33:53Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4bIaNu",
+        "lastPublishedAt": "2026-11-23T09:07:58Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -3048,8 +3104,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4a8SQ5",
-        "lastPublishedAt": "2026-11-19T22:32:31Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4bKU5A",
+        "lastPublishedAt": "2026-11-23T16:33:43Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3104,8 +3160,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84a3guF",
-        "lastPublishedAt": "2026-11-19T01:54:37Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84bIdg8",
+        "lastPublishedAt": "2026-11-23T09:24:26Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -4046,8 +4102,8 @@
         "releaseHistoryCursor": null
       },
       "Vinzent03/obsidian-git": {
-        "lastReleaseId": "RE_kwDOElf8_c4Z6LYt",
-        "lastPublishedAt": "2026-11-05T02:04:20Z",
+        "lastReleaseId": "RE_kwDOElf8_c4bJD-o",
+        "lastPublishedAt": "2026-11-23T11:58:00Z",
         "releaseHistoryCursor": null
       },
       "ish-app/ish": {
@@ -4724,8 +4780,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4bGJpn",
-        "lastPublishedAt": "2026-11-22T16:52:11Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4bK2m2",
+        "lastPublishedAt": "2026-11-23T18:33:47Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
