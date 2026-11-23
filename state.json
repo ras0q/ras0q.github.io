@@ -2,251 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-15",
       "2026-11-16",
       "2026-11-17",
       "2026-11-18",
       "2026-11-19",
       "2026-11-20",
-      "2026-11-21"
+      "2026-11-21",
+      "2026-11-22"
     ],
     "days": {
-      "2026-11-15": [
-        {
-          "id": "RE_kwDOQ52_2c4anEYZ",
-          "owner": "vercel-labs",
-          "repo": "json-render",
-          "tag": "v0.23.0",
-          "url": "https://github.com/vercel-labs/json-render/releases/tag/v0.23.0",
-          "publishedAt": "2026-11-15T23:33:00Z",
-          "name": "v0.23.0"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84ampX_",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.18.4",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.18.4",
-          "publishedAt": "2026-11-15T20:25:54Z",
-          "name": "4.18.4"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ampt5",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.762.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.762.0",
-          "publishedAt": "2026-11-15T20:22:27Z",
-          "name": "v0.762.0"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4amoPo",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.13.2",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.13.2",
-          "publishedAt": "2026-11-15T20:12:29Z",
-          "name": "v0.13.2"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4amjMe",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.761.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.761.0",
-          "publishedAt": "2026-11-15T19:38:05Z",
-          "name": "v0.761.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ameLC",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.760.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.760.0",
-          "publishedAt": "2026-11-15T19:04:49Z",
-          "name": "v0.760.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4amVtX",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.759.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.759.0",
-          "publishedAt": "2026-11-15T18:09:14Z",
-          "name": "v0.759.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4amK9y",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.758.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.758.0",
-          "publishedAt": "2026-11-15T16:59:00Z",
-          "name": "v0.758.0"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4amGRy",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.25",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.25",
-          "publishedAt": "2026-11-15T16:28:20Z",
-          "name": "cli-v0.1.25"
-        },
-        {
-          "id": "RE_kwDOA4rpZM4al_uE",
-          "owner": "outline",
-          "repo": "outline",
-          "tag": "v1.13.0",
-          "url": "https://github.com/outline/outline/releases/tag/v1.13.0",
-          "publishedAt": "2026-11-15T15:56:39Z",
-          "name": "v1.13.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4al-xx",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.757.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.757.0",
-          "publishedAt": "2026-11-15T15:40:43Z",
-          "name": "v0.757.0"
-        },
-        {
-          "id": "RE_kwDOEDZuds4al0a4",
-          "owner": "honkit",
-          "repo": "honkit",
-          "tag": "v7.0.0",
-          "url": "https://github.com/honkit/honkit/releases/tag/v7.0.0",
-          "publishedAt": "2026-11-15T14:33:34Z",
-          "name": "Release v7.0.0"
-        },
-        {
-          "id": "RE_kwDOH-jzvc4alzOu",
-          "owner": "ultralytics",
-          "repo": "ultralytics",
-          "tag": "v8.4.214",
-          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.214",
-          "publishedAt": "2026-11-15T14:25:58Z",
-          "name": "v8.4.214 - Read every image upright: apply EXIF orientation for all formats and flags (#27168)"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4alwyj",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.756.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.756.0",
-          "publishedAt": "2026-11-15T14:10:51Z",
-          "name": "v0.756.0"
-        },
-        {
-          "id": "RE_kwDOCnR4Zc4alqLp",
-          "owner": "JanDeDobbeleer",
-          "repo": "oh-my-posh",
-          "tag": "v32.1.0",
-          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v32.1.0",
-          "publishedAt": "2026-11-15T13:26:29Z",
-          "name": "v32.1.0"
-        },
-        {
-          "id": "RE_kwDOLFvGAc4almgo",
-          "owner": "sweetpad-dev",
-          "repo": "sweetpad",
-          "tag": "cli-v0.1.24",
-          "url": "https://github.com/sweetpad-dev/sweetpad/releases/tag/cli-v0.1.24",
-          "publishedAt": "2026-11-15T13:01:49Z",
-          "name": "cli-v0.1.24"
-        },
-        {
-          "id": "RE_kwDOE4c3is4alLIO",
-          "owner": "mantinedev",
-          "repo": "mantine",
-          "tag": "9.8.1",
-          "url": "https://github.com/mantinedev/mantine/releases/tag/9.8.1",
-          "publishedAt": "2026-11-15T09:48:17Z",
-          "name": "9.8.1"
-        },
-        {
-          "id": "RE_kwDOFHnna84ak02n",
-          "owner": "charmbracelet",
-          "repo": "lipgloss",
-          "tag": "v2.1.1",
-          "url": "https://github.com/charmbracelet/lipgloss/releases/tag/v2.1.1",
-          "publishedAt": "2026-11-15T06:35:57Z",
-          "name": "v2.1.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4aktte",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.755.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.755.0",
-          "publishedAt": "2026-11-15T05:25:44Z",
-          "name": "v0.755.0"
-        },
-        {
-          "id": "RE_kwDOAeC4a84aks8L",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v5.4.6",
-          "url": "https://github.com/labstack/echo/releases/tag/v5.4.6",
-          "publishedAt": "2026-11-15T05:17:35Z",
-          "name": "v5.4.6"
-        },
-        {
-          "id": "RE_kwDOAeC4a84aks79",
-          "owner": "labstack",
-          "repo": "echo",
-          "tag": "v4.16.5",
-          "url": "https://github.com/labstack/echo/releases/tag/v4.16.5",
-          "publishedAt": "2026-11-15T05:17:34Z",
-          "name": "v4.16.5"
-        },
-        {
-          "id": "RE_kwDOOr4uZ84akj0Z",
-          "owner": "callumalpass",
-          "repo": "tasknotes",
-          "tag": "4.18.3",
-          "url": "https://github.com/callumalpass/tasknotes/releases/tag/4.18.3",
-          "publishedAt": "2026-11-15T03:53:44Z",
-          "name": "4.18.3"
-        },
-        {
-          "id": "RE_kwDOPrEI7s4akkmk",
-          "owner": "Gaurav-Gosain",
-          "repo": "tuios",
-          "tag": "v0.13.1",
-          "url": "https://github.com/Gaurav-Gosain/tuios/releases/tag/v0.13.1",
-          "publishedAt": "2026-11-15T03:53:44Z",
-          "name": "v0.13.1"
-        },
-        {
-          "id": "RE_kwDOEDZuds4akj7u",
-          "owner": "honkit",
-          "repo": "honkit",
-          "tag": "v6.2.6",
-          "url": "https://github.com/honkit/honkit/releases/tag/v6.2.6",
-          "publishedAt": "2026-11-15T03:46:45Z",
-          "name": "Release v6.2.6"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4akZKg",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.754.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.754.0",
-          "publishedAt": "2026-11-15T02:02:47Z",
-          "name": "v0.754.0"
-        },
-        {
-          "id": "RE_kwDOII1H084akNbO",
-          "owner": "raphamorim",
-          "repo": "rio",
-          "tag": "v0.5.32",
-          "url": "https://github.com/raphamorim/rio/releases/tag/v0.5.32",
-          "publishedAt": "2026-11-15T00:24:19Z",
-          "name": "v0.5.32"
-        }
-      ],
       "2026-11-16": [
         {
           "id": "RE_kwDOQvjuaM4asJY7",
@@ -2521,6 +2285,24 @@
       ],
       "2026-11-22": [
         {
+          "id": "RE_kwDOQvjuaM4bHFlL",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.790.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.790.0",
+          "publishedAt": "2026-11-22T23:57:13Z",
+          "name": "v0.790.0"
+        },
+        {
+          "id": "RE_kwDOPyZEpc4bHC3v",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.38.0",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.38.0",
+          "publishedAt": "2026-11-22T23:33:53Z",
+          "name": "v0.38.0"
+        },
+        {
           "id": "RE_kwDOK-QCA84bGo83",
           "owner": "olimorris",
           "repo": "codecompanion.nvim",
@@ -2966,8 +2748,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4bB-mP",
-        "lastPublishedAt": "2026-11-21T06:55:29Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4bHC3v",
+        "lastPublishedAt": "2026-11-22T23:33:53Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -3025,8 +2807,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4bCa0r",
-        "lastPublishedAt": "2026-11-21T10:45:27Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4bHFlL",
+        "lastPublishedAt": "2026-11-22T23:57:13Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
