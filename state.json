@@ -2431,6 +2431,105 @@
       ],
       "2026-11-24": [
         {
+          "id": "RE_kwDOOfp6ts4bO-Ah",
+          "owner": "nickjvandyke",
+          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
+          "tag": "v1.3.2",
+          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.3.2",
+          "publishedAt": "2026-11-24T14:51:48Z",
+          "name": "v1.3.2"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bO0Lp",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.793.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.793.0",
+          "publishedAt": "2026-11-24T14:21:25Z",
+          "name": "v0.793.0"
+        },
+        {
+          "id": "RE_kwDORdcLgM4bOu5s",
+          "owner": "docker",
+          "repo": "sbx-releases",
+          "tag": "v0.54.1",
+          "url": "https://github.com/docker/sbx-releases/releases/tag/v0.54.1",
+          "publishedAt": "2026-11-24T14:04:12Z",
+          "name": "v0.54.1"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4bOinC",
+          "owner": "microsoft",
+          "repo": "copilot-sdk",
+          "tag": "v2.0.2",
+          "url": "https://github.com/microsoft/copilot-sdk/releases/tag/v2.0.2",
+          "publishedAt": "2026-11-24T13:23:08Z",
+          "name": "v2.0.2"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4bOStx",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.165.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.165.0",
+          "publishedAt": "2026-11-24T12:26:56Z",
+          "name": "v1.165.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bOAet",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.792.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.792.0",
+          "publishedAt": "2026-11-24T11:17:30Z",
+          "name": "v0.792.0"
+        },
+        {
+          "id": "RE_kwDOIvux3s4bN62t",
+          "owner": "jdx",
+          "repo": "mise",
+          "tag": "v2026.11.14",
+          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.14",
+          "publishedAt": "2026-11-24T11:00:43Z",
+          "name": "v2026.11.14: Experimental cache.sandbox for cached tasks"
+        },
+        {
+          "id": "RE_kwDODVAw7c4bNzKK",
+          "owner": "traPtitech",
+          "repo": "traQ_S-UI",
+          "tag": "v3.34.8",
+          "url": "https://github.com/traPtitech/traQ_S-UI/releases/tag/v3.34.8",
+          "publishedAt": "2026-11-24T10:25:56Z",
+          "name": "v3.34.8"
+        },
+        {
+          "id": "RE_kwDOFOI1Cc4bNrO1",
+          "owner": "vslinko",
+          "repo": "obsidian-outliner",
+          "tag": "4.12.1",
+          "url": "https://github.com/vslinko/obsidian-outliner/releases/tag/4.12.1",
+          "publishedAt": "2026-11-24T09:56:00Z",
+          "name": "4.12.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bNdxW",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.791.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.791.0",
+          "publishedAt": "2026-11-24T09:04:04Z",
+          "name": "v0.791.0"
+        },
+        {
+          "id": "RE_kwDOPf38cc4bNdHe",
+          "owner": "docker",
+          "repo": "github-builder",
+          "tag": "v1.20.0",
+          "url": "https://github.com/docker/github-builder/releases/tag/v1.20.0",
+          "publishedAt": "2026-11-24T09:00:57Z",
+          "name": "v1.20.0"
+        },
+        {
           "id": "RE_kwDOObWEYM4bMlTe",
           "owner": "google-gemini",
           "repo": "gemini-cli",
@@ -2709,8 +2808,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4bHFlL",
-        "lastPublishedAt": "2026-11-22T23:57:13Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4bO0Lp",
+        "lastPublishedAt": "2026-11-24T14:21:25Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2750,8 +2849,8 @@
       },
       "fand/ratride": {},
       "docker/github-builder": {
-        "lastReleaseId": "RE_kwDOPf38cc4Z8q5V",
-        "lastPublishedAt": "2026-11-05T14:51:15Z",
+        "lastReleaseId": "RE_kwDOPf38cc4bNdHe",
+        "lastPublishedAt": "2026-11-24T09:00:57Z",
         "releaseHistoryCursor": null
       },
       "Fission-AI/OpenSpec": {
@@ -2934,8 +3033,8 @@
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastReleaseId": "RE_kwDOOfp6ts4bERM5",
-        "lastPublishedAt": "2026-11-22T01:09:03Z",
+        "lastReleaseId": "RE_kwDOOfp6ts4bO-Ah",
+        "lastPublishedAt": "2026-11-24T14:51:48Z",
         "releaseHistoryCursor": null
       },
       "ghostty-org/ghostty": {},
@@ -2950,8 +3049,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4bKU5A",
-        "lastPublishedAt": "2026-11-23T16:33:43Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4bOStx",
+        "lastPublishedAt": "2026-11-24T12:26:56Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -2994,8 +3093,8 @@
         "releaseHistoryCursor": null
       },
       "traPtitech/traQ_S-UI": {
-        "lastReleaseId": "RE_kwDODVAw7c4a6SGH",
-        "lastPublishedAt": "2026-11-19T14:48:45Z",
+        "lastReleaseId": "RE_kwDODVAw7c4bNzKK",
+        "lastPublishedAt": "2026-11-24T10:25:56Z",
         "releaseHistoryCursor": null
       },
       "yadm-dev/yadm": {},
@@ -3568,8 +3667,8 @@
         "releaseHistoryCursor": null
       },
       "jdx/mise": {
-        "lastReleaseId": "RE_kwDOIvux3s4bL7Lv",
-        "lastPublishedAt": "2026-11-23T23:20:03Z",
+        "lastReleaseId": "RE_kwDOIvux3s4bN62t",
+        "lastPublishedAt": "2026-11-24T11:00:43Z",
         "releaseHistoryCursor": null
       },
       "NomarCub/obsidian-hide-sidebars-on-window-resize": {
@@ -4001,8 +4100,8 @@
         "lastPublishedAt": "2023-10-16T02:12:45Z"
       },
       "vslinko/obsidian-outliner": {
-        "lastReleaseId": "RE_kwDOFOI1Cc4aFP33",
-        "lastPublishedAt": "2026-11-07T13:07:54Z",
+        "lastReleaseId": "RE_kwDOFOI1Cc4bNrO1",
+        "lastPublishedAt": "2026-11-24T09:56:00Z",
         "releaseHistoryCursor": null
       },
       "omnivore-app/omnivore": {
@@ -4882,8 +4981,8 @@
         "releaseHistoryCursor": null
       },
       "docker/sbx-releases": {
-        "lastReleaseId": "RE_kwDORdcLgM4ao2mD",
-        "lastPublishedAt": "2026-11-16T10:56:28Z",
+        "lastReleaseId": "RE_kwDORdcLgM4bOu5s",
+        "lastPublishedAt": "2026-11-24T14:04:12Z",
         "releaseHistoryCursor": null
       },
       "petamoriken/yuzuko": {
@@ -4904,8 +5003,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4azEtn",
-        "lastPublishedAt": "2026-11-18T06:17:55Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4bOinC",
+        "lastPublishedAt": "2026-11-24T13:23:08Z",
         "releaseHistoryCursor": null
       },
       "aidnetic/deadcode": {}
