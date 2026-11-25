@@ -2421,6 +2421,87 @@
       ],
       "2026-11-25": [
         {
+          "id": "RE_kwDOH-jzvc4bWCWc",
+          "owner": "ultralytics",
+          "repo": "ultralytics",
+          "tag": "v8.4.219",
+          "url": "https://github.com/ultralytics/ultralytics/releases/tag/v8.4.219",
+          "publishedAt": "2026-11-25T23:28:37Z",
+          "name": "v8.4.219 - Native detection mAP matches pycocotools to machine precision (#27370)"
+        },
+        {
+          "id": "RE_kwDOBdMHVM4bV8ff",
+          "owner": "yonaskolb",
+          "repo": "XcodeGen",
+          "tag": "2.49.0",
+          "url": "https://github.com/yonaskolb/XcodeGen/releases/tag/2.49.0",
+          "publishedAt": "2026-11-25T22:53:59Z",
+          "name": "2.49.0"
+        },
+        {
+          "id": "RE_kwDOOr4uZ84bVcHh",
+          "owner": "callumalpass",
+          "repo": "tasknotes",
+          "tag": "5.0.5",
+          "url": "https://github.com/callumalpass/tasknotes/releases/tag/5.0.5",
+          "publishedAt": "2026-11-25T20:25:01Z",
+          "name": "5.0.5"
+        },
+        {
+          "id": "RE_kwDOAyHt9s4bVM-v",
+          "owner": "pressly",
+          "repo": "goose",
+          "tag": "v3.30.2",
+          "url": "https://github.com/pressly/goose/releases/tag/v3.30.2",
+          "publishedAt": "2026-11-25T19:16:54Z",
+          "name": "v3.30.2"
+        },
+        {
+          "id": "RE_kwDOFNWFc84bU1iT",
+          "owner": "obsidian-tasks-group",
+          "repo": "obsidian-tasks",
+          "tag": "8.7.0",
+          "url": "https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/8.7.0",
+          "publishedAt": "2026-11-25T17:57:02Z",
+          "name": "8.7.0: Edit multiple statuses and priorities; Tasks API now runs searches"
+        },
+        {
+          "id": "RE_kwDOQ5Wxys4bUuBd",
+          "owner": "microsoft",
+          "repo": "copilot-sdk",
+          "tag": "v2.0.3",
+          "url": "https://github.com/microsoft/copilot-sdk/releases/tag/v2.0.3",
+          "publishedAt": "2026-11-25T17:20:45Z",
+          "name": "v2.0.3"
+        },
+        {
+          "id": "RE_kwDORWiFDM4bUd4j",
+          "owner": "mksglu",
+          "repo": "context-mode",
+          "tag": "v2.2.4",
+          "url": "https://github.com/mksglu/context-mode/releases/tag/v2.2.4",
+          "publishedAt": "2026-11-25T16:25:03Z",
+          "name": "v2.2.4"
+        },
+        {
+          "id": "RE_kwDOOfp6ts4bT-66",
+          "owner": "nickjvandyke",
+          "repo": "eslint-plugin-react-you-might-not-need-an-effect",
+          "tag": "v1.3.3",
+          "url": "https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect/releases/tag/v1.3.3",
+          "publishedAt": "2026-11-25T14:25:05Z",
+          "name": "v1.3.3"
+        },
+        {
+          "id": "RE_kwDOINrldM4bT57n",
+          "owner": "Akifyss",
+          "repo": "obsidian-border",
+          "tag": "1.13.10",
+          "url": "https://github.com/Akifyss/obsidian-border/releases/tag/1.13.10",
+          "publishedAt": "2026-11-25T14:14:35Z",
+          "name": "1.13.10"
+        },
+        {
           "id": "RE_kwDOFOI1Cc4bTzcz",
           "owner": "vslinko",
           "repo": "obsidian-outliner",
@@ -2614,8 +2695,8 @@
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
-        "lastReleaseId": "RE_kwDORWiFDM4bQd2b",
-        "lastPublishedAt": "2026-11-24T20:33:06Z",
+        "lastReleaseId": "RE_kwDORWiFDM4bUd4j",
+        "lastPublishedAt": "2026-11-25T16:25:03Z",
         "releaseHistoryCursor": null
       },
       "Wansmer/symbol-usage.nvim": {},
@@ -2639,8 +2720,8 @@
         "releaseHistoryCursor": null
       },
       "Akifyss/obsidian-border": {
-        "lastReleaseId": "RE_kwDOINrldM4ZmAZI",
-        "lastPublishedAt": "2026-10-30T19:08:32Z",
+        "lastReleaseId": "RE_kwDOINrldM4bT57n",
+        "lastPublishedAt": "2026-11-25T14:14:35Z",
         "releaseHistoryCursor": null
       },
       "actions/upload-code-coverage": {
@@ -3005,8 +3086,8 @@
       },
       "abap34/theke": {},
       "nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect": {
-        "lastReleaseId": "RE_kwDOOfp6ts4bO-Ah",
-        "lastPublishedAt": "2026-11-24T14:51:48Z",
+        "lastReleaseId": "RE_kwDOOfp6ts4bT-66",
+        "lastPublishedAt": "2026-11-25T14:25:05Z",
         "releaseHistoryCursor": null
       },
       "ghostty-org/ghostty": {},
@@ -3077,8 +3158,8 @@
         "releaseHistoryCursor": null
       },
       "callumalpass/tasknotes": {
-        "lastReleaseId": "RE_kwDOOr4uZ84bQWwi",
-        "lastPublishedAt": "2026-11-24T20:12:04Z",
+        "lastReleaseId": "RE_kwDOOr4uZ84bVcHh",
+        "lastPublishedAt": "2026-11-25T20:25:01Z",
         "releaseHistoryCursor": null
       },
       "taskgenius/taskgenius-plugin": {},
@@ -3989,8 +4070,8 @@
       "egonelbre/gophers": {},
       "golang/proposal": {},
       "obsidian-tasks-group/obsidian-tasks": {
-        "lastReleaseId": "RE_kwDOFNWFc84Ywn8o",
-        "lastPublishedAt": "2026-10-16T21:40:25Z",
+        "lastReleaseId": "RE_kwDOFNWFc84bU1iT",
+        "lastPublishedAt": "2026-11-25T17:57:02Z",
         "releaseHistoryCursor": null
       },
       "utterance/utterances": {},
@@ -4082,8 +4163,8 @@
         "releaseHistoryCursor": null
       },
       "ultralytics/ultralytics": {
-        "lastReleaseId": "RE_kwDOH-jzvc4bLq5O",
-        "lastPublishedAt": "2026-11-23T21:55:35Z",
+        "lastReleaseId": "RE_kwDOH-jzvc4bWCWc",
+        "lastPublishedAt": "2026-11-25T23:28:37Z",
         "releaseHistoryCursor": null
       },
       "hatena/Hatena-Blog-Workflows-Boilerplate": {},
@@ -4265,8 +4346,8 @@
         "lastPublishedAt": "2025-03-12T16:38:48Z"
       },
       "pressly/goose": {
-        "lastReleaseId": "RE_kwDOAyHt9s4aaBFO",
-        "lastPublishedAt": "2026-11-12T14:02:56Z",
+        "lastReleaseId": "RE_kwDOAyHt9s4bVM-v",
+        "lastPublishedAt": "2026-11-25T19:16:54Z",
         "releaseHistoryCursor": null
       },
       "mantinedev/ui.mantine.dev": {},
@@ -4650,8 +4731,8 @@
         "lastPublishedAt": "2017-09-18T14:16:52Z"
       },
       "yonaskolb/XcodeGen": {
-        "lastReleaseId": "RE_kwDOBdMHVM4a5rzH",
-        "lastPublishedAt": "2026-11-19T12:41:18Z",
+        "lastReleaseId": "RE_kwDOBdMHVM4bV8ff",
+        "lastPublishedAt": "2026-11-25T22:53:59Z",
         "releaseHistoryCursor": null
       },
       "darquro/GithubViewer": {},
@@ -4975,8 +5056,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/copilot-sdk": {
-        "lastReleaseId": "RE_kwDOQ5Wxys4bOinC",
-        "lastPublishedAt": "2026-11-24T13:23:08Z",
+        "lastReleaseId": "RE_kwDOQ5Wxys4bUuBd",
+        "lastPublishedAt": "2026-11-25T17:20:45Z",
         "releaseHistoryCursor": null
       },
       "aidnetic/deadcode": {}
