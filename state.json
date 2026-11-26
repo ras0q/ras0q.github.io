@@ -2,333 +2,15 @@
   "schemaVersion": 1,
   "feed": {
     "sealedDates": [
-      "2026-11-18",
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
       "2026-11-22",
       "2026-11-23",
-      "2026-11-24"
+      "2026-11-24",
+      "2026-11-25"
     ],
     "days": {
-      "2026-11-18": [
-        {
-          "id": "RE_kwDONOlzK84a3LV1",
-          "owner": "ndc-stone",
-          "repo": "stone_engine",
-          "tag": "0.3.0",
-          "url": "https://github.com/ndc-stone/stone_engine/releases/tag/0.3.0",
-          "publishedAt": "2026-11-18T23:14:16Z",
-          "name": "0.3.0"
-        },
-        {
-          "id": "RE_kwDOMqJZbM4a3GED",
-          "owner": "obsidianmd",
-          "repo": "obsidian-clipper",
-          "tag": "1.8.0",
-          "url": "https://github.com/obsidianmd/obsidian-clipper/releases/tag/1.8.0",
-          "publishedAt": "2026-11-18T22:46:30Z",
-          "name": "1.8.0"
-        },
-        {
-          "id": "RE_kwDONOlzK84a2-an",
-          "owner": "ndc-stone",
-          "repo": "stone_engine",
-          "tag": "0.2.1",
-          "url": "https://github.com/ndc-stone/stone_engine/releases/tag/0.2.1",
-          "publishedAt": "2026-11-18T22:09:34Z",
-          "name": "0.2.1"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4a22x1",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.46.1",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.46.1",
-          "publishedAt": "2026-11-18T21:36:08Z",
-          "name": "Release 6.46.1"
-        },
-        {
-          "id": "RE_kwDOOAhtcs4a2Zra",
-          "owner": "kepano",
-          "repo": "defuddle",
-          "tag": "untagged-a48a23dbc4e902c144b3",
-          "url": "https://github.com/kepano/defuddle/releases/tag/untagged-a48a23dbc4e902c144b3",
-          "publishedAt": "2026-11-18T19:48:41Z",
-          "name": "0.19.7"
-        },
-        {
-          "id": "RE_kwDOFxE1Fs4a2Fg1",
-          "owner": "waydabber",
-          "repo": "m1ddc",
-          "tag": "v1.3.2",
-          "url": "https://github.com/waydabber/m1ddc/releases/tag/v1.3.2",
-          "publishedAt": "2026-11-18T18:23:44Z",
-          "name": "v1.3.2"
-        },
-        {
-          "id": "RE_kwDOI2v4zc4a1_ER",
-          "owner": "pionxzh",
-          "repo": "wakaru",
-          "tag": "v1.17.0",
-          "url": "https://github.com/pionxzh/wakaru/releases/tag/v1.17.0",
-          "publishedAt": "2026-11-18T17:59:29Z",
-          "name": "v1.17.0"
-        },
-        {
-          "id": "RE_kwDOIIPL1M4a1ltc",
-          "owner": "webpro-nl",
-          "repo": "knip",
-          "tag": "knip@6.46.0",
-          "url": "https://github.com/webpro-nl/knip/releases/tag/knip%406.46.0",
-          "publishedAt": "2026-11-18T16:29:14Z",
-          "name": "Release 6.46.0"
-        },
-        {
-          "id": "RE_kwDOIvux3s4a1IqS",
-          "owner": "jdx",
-          "repo": "mise",
-          "tag": "v2026.11.10",
-          "url": "https://github.com/jdx/mise/releases/tag/v2026.11.10",
-          "publishedAt": "2026-11-18T15:02:47Z",
-          "name": "v2026.11.10: Check lockfiles in CI with `mise lock --check`, plus an `enable_backends` allowlist"
-        },
-        {
-          "id": "RE_kwDODMjICc4a0rBC",
-          "owner": "Project-MONAI",
-          "repo": "MONAI",
-          "tag": "1.6.2",
-          "url": "https://github.com/Project-MONAI/MONAI/releases/tag/1.6.2",
-          "publishedAt": "2026-11-18T14:52:53Z",
-          "name": "1.6.2"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4a0WYt",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "schema-v1.33.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/schema-v1.33.0",
-          "publishedAt": "2026-11-18T12:07:29Z",
-          "name": "Schema v1.33.0"
-        },
-        {
-          "id": "RE_kwDOPAlvYM4a0WYF",
-          "owner": "agentclientprotocol",
-          "repo": "agent-client-protocol",
-          "tag": "v1.19.0",
-          "url": "https://github.com/agentclientprotocol/agent-client-protocol/releases/tag/v1.19.0",
-          "publishedAt": "2026-11-18T12:07:27Z",
-          "name": "Rust Crate v1.19.0"
-        },
-        {
-          "id": "RE_kwDOPn2YWs4a0JyX",
-          "owner": "docker",
-          "repo": "docker-agent",
-          "tag": "v1.162.0",
-          "url": "https://github.com/docker/docker-agent/releases/tag/v1.162.0",
-          "publishedAt": "2026-11-18T11:18:51Z",
-          "name": "v1.162.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4az55J",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.781.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.781.0",
-          "publishedAt": "2026-11-18T10:19:51Z",
-          "name": "v0.781.0"
-        },
-        {
-          "id": "RE_kwDONOlzK84azmJW",
-          "owner": "ndc-stone",
-          "repo": "stone_engine",
-          "tag": "0.2.0",
-          "url": "https://github.com/ndc-stone/stone_engine/releases/tag/0.2.0",
-          "publishedAt": "2026-11-18T09:01:44Z",
-          "name": "0.2.0"
-        },
-        {
-          "id": "RE_kwDODeVIac4aziYg",
-          "owner": "charmbracelet",
-          "repo": "bubbletea",
-          "tag": "v2.1.2",
-          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.1.2",
-          "publishedAt": "2026-11-18T08:46:04Z",
-          "name": "v2.1.2"
-        },
-        {
-          "id": "RE_kwDOGNEXps4azY95",
-          "owner": "vrtmrz",
-          "repo": "obsidian-livesync",
-          "tag": "1.0.51",
-          "url": "https://github.com/vrtmrz/obsidian-livesync/releases/tag/1.0.51",
-          "publishedAt": "2026-11-18T08:14:20Z",
-          "name": "1.0.51"
-        },
-        {
-          "id": "RE_kwDOPyZEpc4azIXg",
-          "owner": "microsoft",
-          "repo": "apm",
-          "tag": "v0.36.1",
-          "url": "https://github.com/microsoft/apm/releases/tag/v0.36.1",
-          "publishedAt": "2026-11-18T06:38:30Z",
-          "name": "v0.36.1"
-        },
-        {
-          "id": "RE_kwDOQ5Wxys4azEtn",
-          "owner": "microsoft",
-          "repo": "copilot-sdk",
-          "tag": "v2.0.1",
-          "url": "https://github.com/microsoft/copilot-sdk/releases/tag/v2.0.1",
-          "publishedAt": "2026-11-18T06:17:55Z",
-          "name": "v2.0.1"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ay5qG",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.780.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.780.0",
-          "publishedAt": "2026-11-18T05:12:07Z",
-          "name": "v0.780.0"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5zh",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/util@0.56.9",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/util%400.56.9",
-          "publishedAt": "2026-11-18T05:12:04Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5za",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "arktype@2.2.10",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/arktype%402.2.10",
-          "publishedAt": "2026-11-18T05:12:03Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5zI",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/schema@0.56.9",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/schema%400.56.9",
-          "publishedAt": "2026-11-18T05:12:01Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5y6",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "arkregex@0.0.15",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/arkregex%400.0.15",
-          "publishedAt": "2026-11-18T05:12:00Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5yr",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/json-schema@0.0.14",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/json-schema%400.0.14",
-          "publishedAt": "2026-11-18T05:11:59Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5yj",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/fs@0.56.9",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fs%400.56.9",
-          "publishedAt": "2026-11-18T05:11:58Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5yY",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/fast-check@0.0.21",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/fast-check%400.0.21",
-          "publishedAt": "2026-11-18T05:11:57Z"
-        },
-        {
-          "id": "RE_kwDOC4NVf84ay5yJ",
-          "owner": "arktypeio",
-          "repo": "arktype",
-          "tag": "@ark/attest@0.58.1",
-          "url": "https://github.com/arktypeio/arktype/releases/tag/%40ark/attest%400.58.1",
-          "publishedAt": "2026-11-18T05:11:56Z"
-        },
-        {
-          "id": "RE_kwDOBMN_y84ay4nT",
-          "owner": "chromedp",
-          "repo": "chromedp",
-          "tag": "v0.24.0",
-          "url": "https://github.com/chromedp/chromedp/releases/tag/v0.24.0",
-          "publishedAt": "2026-11-18T05:04:28Z",
-          "name": "v0.24.0"
-        },
-        {
-          "id": "RE_kwDOQvjuaM4ayw6n",
-          "owner": "ubugeeei-prod",
-          "repo": "vize",
-          "tag": "v0.779.0",
-          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.779.0",
-          "publishedAt": "2026-11-18T04:13:24Z",
-          "name": "v0.779.0"
-        },
-        {
-          "id": "RE_kwDOQk1Y9c4aytTE",
-          "owner": "tobi",
-          "repo": "qmd",
-          "tag": "v2.9.0",
-          "url": "https://github.com/tobi/qmd/releases/tag/v2.9.0",
-          "publishedAt": "2026-11-18T03:48:03Z",
-          "name": "v2.9.0"
-        },
-        {
-          "id": "RE_kwDOG9R6-M4aymT2",
-          "owner": "k1LoW",
-          "repo": "runn",
-          "tag": "v1.11.2",
-          "url": "https://github.com/k1LoW/runn/releases/tag/v1.11.2",
-          "publishedAt": "2026-11-18T03:18:57Z",
-          "name": "v1.11.2"
-        },
-        {
-          "id": "RE_kwDOOIl6Q84ayjXU",
-          "owner": "k1LoW",
-          "repo": "deck",
-          "tag": "v1.24.5",
-          "url": "https://github.com/k1LoW/deck/releases/tag/v1.24.5",
-          "publishedAt": "2026-11-18T02:50:58Z",
-          "name": "v1.24.5"
-        },
-        {
-          "id": "RE_kwDORQ3jDc4ayZQz",
-          "owner": "vercel-labs",
-          "repo": "portless",
-          "tag": "v0.18.1",
-          "url": "https://github.com/vercel-labs/portless/releases/tag/v0.18.1",
-          "publishedAt": "2026-11-18T01:43:02Z",
-          "name": "v0.18.1"
-        },
-        {
-          "id": "RE_kwDOQzKeuM4ayOan",
-          "owner": "tfcace",
-          "repo": "hash",
-          "tag": "v0.11.0",
-          "url": "https://github.com/tfcace/hash/releases/tag/v0.11.0",
-          "publishedAt": "2026-11-18T00:39:04Z",
-          "name": "v0.11.0"
-        },
-        {
-          "id": "RE_kwDOQo4rcs4ayOXw",
-          "owner": "tonisives",
-          "repo": "ovim",
-          "tag": "v0.2.0",
-          "url": "https://github.com/tonisives/ovim/releases/tag/v0.2.0",
-          "publishedAt": "2026-11-18T00:38:48Z",
-          "name": "Ovim 0.2.0"
-        }
-      ],
       "2026-11-19": [
         {
           "id": "RE_kwDOOAhtcs4a8jb8",
@@ -2626,6 +2308,53 @@
           "publishedAt": "2026-11-25T02:19:15Z",
           "name": "Fluent Bit 5.2.1"
         }
+      ],
+      "2026-11-26": [
+        {
+          "id": "RE_kwDOQvjuaM4bXDbi",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.801.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.801.0",
+          "publishedAt": "2026-11-26T06:15:47Z",
+          "name": "v0.801.0"
+        },
+        {
+          "id": "RE_kwDOAvnWV84bW4DJ",
+          "owner": "cweill",
+          "repo": "gotests",
+          "tag": "v1.10.0",
+          "url": "https://github.com/cweill/gotests/releases/tag/v1.10.0",
+          "publishedAt": "2026-11-26T05:07:51Z",
+          "name": "v1.10.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bWy-_",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.800.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.800.0",
+          "publishedAt": "2026-11-26T04:39:31Z",
+          "name": "v0.800.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bWaai",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.799.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.799.0",
+          "publishedAt": "2026-11-26T02:07:38Z",
+          "name": "v0.799.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bWVxk",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.798.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.798.0",
+          "publishedAt": "2026-11-26T01:35:09Z",
+          "name": "v0.798.0"
+        }
       ]
     }
   },
@@ -2861,8 +2590,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4bTH28",
-        "lastPublishedAt": "2026-11-25T11:08:25Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4bXDbi",
+        "lastPublishedAt": "2026-11-26T06:15:47Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -4897,8 +4626,9 @@
       },
       "golang/go": {},
       "cweill/gotests": {
-        "lastReleaseId": "RE_kwDOAvnWV84PX0n0",
-        "lastPublishedAt": "2025-10-28T17:10:42Z"
+        "lastReleaseId": "RE_kwDOAvnWV84bW4DJ",
+        "lastPublishedAt": "2026-11-26T05:07:51Z",
+        "releaseHistoryCursor": null
       },
       "air-verse/air": {
         "lastReleaseId": "RE_kwDOBlwsqc4Vq0b6",
