@@ -2311,6 +2311,123 @@
       ],
       "2026-11-26": [
         {
+          "id": "RE_kwDOPyZEpc4bZgv2",
+          "owner": "microsoft",
+          "repo": "apm",
+          "tag": "v0.39.1",
+          "url": "https://github.com/microsoft/apm/releases/tag/v0.39.1",
+          "publishedAt": "2026-11-26T16:41:14Z",
+          "name": "v0.39.1"
+        },
+        {
+          "id": "RE_kwDOOt6mSM4bZVDm",
+          "owner": "charmbracelet",
+          "repo": "crush",
+          "tag": "v0.103.0",
+          "url": "https://github.com/charmbracelet/crush/releases/tag/v0.103.0",
+          "publishedAt": "2026-11-26T15:56:38Z",
+          "name": "v0.103.0"
+        },
+        {
+          "id": "RE_kwDOFOI1Cc4bZR2h",
+          "owner": "vslinko",
+          "repo": "obsidian-outliner",
+          "tag": "4.12.3",
+          "url": "https://github.com/vslinko/obsidian-outliner/releases/tag/4.12.3",
+          "publishedAt": "2026-11-26T15:44:03Z",
+          "name": "4.12.3"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bYogC",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.804.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.804.0",
+          "publishedAt": "2026-11-26T13:21:42Z",
+          "name": "v0.804.0"
+        },
+        {
+          "id": "RE_kwDOJKcikM4bYHee",
+          "owner": "withastro",
+          "repo": "starlight",
+          "tag": "@astrojs/starlight@0.43.2",
+          "url": "https://github.com/withastro/starlight/releases/tag/%40astrojs/starlight%400.43.2",
+          "publishedAt": "2026-11-26T11:15:16Z",
+          "name": "@astrojs/starlight@0.43.2"
+        },
+        {
+          "id": "RE_kwDODeVIac4bYDY8",
+          "owner": "charmbracelet",
+          "repo": "bubbletea",
+          "tag": "v2.2.0",
+          "url": "https://github.com/charmbracelet/bubbletea/releases/tag/v2.2.0",
+          "publishedAt": "2026-11-26T10:58:57Z",
+          "name": "v2.2.0"
+        },
+        {
+          "id": "RE_kwDORSib_s4bYAMN",
+          "owner": "openclaw",
+          "repo": "acpx",
+          "tag": "v0.23.0",
+          "url": "https://github.com/openclaw/acpx/releases/tag/v0.23.0",
+          "publishedAt": "2026-11-26T10:47:25Z",
+          "name": "v0.23.0"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bYABT",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.803.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.803.0",
+          "publishedAt": "2026-11-26T10:47:25Z",
+          "name": "v0.803.0"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4bX9Pj",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.41",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.41",
+          "publishedAt": "2026-11-26T10:36:07Z",
+          "name": "v1.10.41"
+        },
+        {
+          "id": "RE_kwDOEd6VoM4bX05j",
+          "owner": "traPtitech",
+          "repo": "NeoShowcase",
+          "tag": "v1.10.40",
+          "url": "https://github.com/traPtitech/NeoShowcase/releases/tag/v1.10.40",
+          "publishedAt": "2026-11-26T10:03:29Z",
+          "name": "v1.10.40"
+        },
+        {
+          "id": "RE_kwDOPn2YWs4bXWJI",
+          "owner": "docker",
+          "repo": "docker-agent",
+          "tag": "v1.166.0",
+          "url": "https://github.com/docker/docker-agent/releases/tag/v1.166.0",
+          "publishedAt": "2026-11-26T07:57:42Z",
+          "name": "v1.166.0"
+        },
+        {
+          "id": "RE_kwDOCnR4Zc4bXTGd",
+          "owner": "JanDeDobbeleer",
+          "repo": "oh-my-posh",
+          "tag": "v33.4.1",
+          "url": "https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v33.4.1",
+          "publishedAt": "2026-11-26T07:42:30Z",
+          "name": "v33.4.1"
+        },
+        {
+          "id": "RE_kwDOQvjuaM4bXSDS",
+          "owner": "ubugeeei-prod",
+          "repo": "vize",
+          "tag": "v0.802.0",
+          "url": "https://github.com/ubugeeei-prod/vize/releases/tag/v0.802.0",
+          "publishedAt": "2026-11-26T07:37:36Z",
+          "name": "v0.802.0"
+        },
+        {
           "id": "RE_kwDOQvjuaM4bXDbi",
           "owner": "ubugeeei-prod",
           "repo": "vize",
@@ -2419,8 +2536,8 @@
         "releaseHistoryCursor": null
       },
       "openclaw/acpx": {
-        "lastReleaseId": "RE_kwDORSib_s4aESf1",
-        "lastPublishedAt": "2026-11-07T04:30:38Z",
+        "lastReleaseId": "RE_kwDORSib_s4bYAMN",
+        "lastPublishedAt": "2026-11-26T10:47:25Z",
         "releaseHistoryCursor": null
       },
       "mksglu/context-mode": {
@@ -2531,8 +2648,8 @@
         "releaseHistoryCursor": null
       },
       "microsoft/apm": {
-        "lastReleaseId": "RE_kwDOPyZEpc4bTkSh",
-        "lastPublishedAt": "2026-11-25T12:56:03Z",
+        "lastReleaseId": "RE_kwDOPyZEpc4bZgv2",
+        "lastPublishedAt": "2026-11-26T16:41:14Z",
         "releaseHistoryCursor": null
       },
       "leochiu-a/slidev-workspace": {
@@ -2590,8 +2707,8 @@
       },
       "UsUsStudios/manimvim.nvim": {},
       "ubugeeei-prod/vize": {
-        "lastReleaseId": "RE_kwDOQvjuaM4bXDbi",
-        "lastPublishedAt": "2026-11-26T06:15:47Z",
+        "lastReleaseId": "RE_kwDOQvjuaM4bYogC",
+        "lastPublishedAt": "2026-11-26T13:21:42Z",
         "releaseHistoryCursor": null
       },
       "suin/opx": {
@@ -2736,8 +2853,8 @@
       "nostr-protocol/nips": {},
       "t3tra-dev/MoZuku": {},
       "charmbracelet/crush": {
-        "lastReleaseId": "RE_kwDOOt6mSM4a7C6P",
-        "lastPublishedAt": "2026-11-19T17:30:03Z",
+        "lastReleaseId": "RE_kwDOOt6mSM4bZVDm",
+        "lastPublishedAt": "2026-11-26T15:56:38Z",
         "releaseHistoryCursor": null
       },
       "mrjones2014/smart-splits.nvim": {
@@ -2799,8 +2916,8 @@
       },
       "Monster0506/obsidian-neovim": {},
       "withastro/starlight": {
-        "lastReleaseId": "RE_kwDOJKcikM4agd0g",
-        "lastPublishedAt": "2026-11-13T20:43:02Z",
+        "lastReleaseId": "RE_kwDOJKcikM4bYHee",
+        "lastPublishedAt": "2026-11-26T11:15:16Z",
         "releaseHistoryCursor": null
       },
       "boltlessengineer/NativeVim": {},
@@ -2831,8 +2948,8 @@
         "releaseHistoryCursor": null
       },
       "docker/docker-agent": {
-        "lastReleaseId": "RE_kwDOPn2YWs4bOStx",
-        "lastPublishedAt": "2026-11-24T12:26:56Z",
+        "lastReleaseId": "RE_kwDOPn2YWs4bXWJI",
+        "lastPublishedAt": "2026-11-26T07:57:42Z",
         "releaseHistoryCursor": null
       },
       "apple/swift-homomorphic-encryption": {
@@ -3882,8 +3999,8 @@
         "lastPublishedAt": "2023-10-16T02:12:45Z"
       },
       "vslinko/obsidian-outliner": {
-        "lastReleaseId": "RE_kwDOFOI1Cc4bTzcz",
-        "lastPublishedAt": "2026-11-25T13:47:26Z",
+        "lastReleaseId": "RE_kwDOFOI1Cc4bZR2h",
+        "lastPublishedAt": "2026-11-26T15:44:03Z",
         "releaseHistoryCursor": null
       },
       "omnivore-app/omnivore": {
@@ -4130,8 +4247,8 @@
       },
       "SSlime-s/qtheme-v2": {},
       "traPtitech/NeoShowcase": {
-        "lastReleaseId": "RE_kwDOEd6VoM4a9Swe",
-        "lastPublishedAt": "2026-11-20T04:40:28Z",
+        "lastReleaseId": "RE_kwDOEd6VoM4bX9Pj",
+        "lastPublishedAt": "2026-11-26T10:36:07Z",
         "releaseHistoryCursor": null
       },
       "toshusai/one": {},
@@ -4435,8 +4552,8 @@
         "releaseHistoryCursor": null
       },
       "charmbracelet/bubbletea": {
-        "lastReleaseId": "RE_kwDODeVIac4bSwhF",
-        "lastPublishedAt": "2026-11-25T09:38:33Z",
+        "lastReleaseId": "RE_kwDODeVIac4bYDY8",
+        "lastPublishedAt": "2026-11-26T10:58:57Z",
         "releaseHistoryCursor": null
       },
       "viraptor/reverse-interview": {},
@@ -4507,8 +4624,8 @@
         "lastPublishedAt": "2026-04-01T15:16:33Z"
       },
       "JanDeDobbeleer/oh-my-posh": {
-        "lastReleaseId": "RE_kwDOCnR4Zc4bK2m2",
-        "lastPublishedAt": "2026-11-23T18:33:47Z",
+        "lastReleaseId": "RE_kwDOCnR4Zc4bXTGd",
+        "lastPublishedAt": "2026-11-26T07:42:30Z",
         "releaseHistoryCursor": null
       },
       "alyssaxuu/omni": {},
